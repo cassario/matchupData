@@ -1,24 +1,24 @@
 team,pos,num,player,positions_played,age,handedness,ht,wt,gp,sv%,gsax,full
 COL,G,40,Alexandar Georgiev,G,26,L,"6'1""",178,31.0,0.898,-5.799999999999997,Colorado Avalanche
 COL,G,39,Pavel Francouz,G,32,R,"6'0""",179,20.0,0.918,2.509999999999998,Colorado Avalanche
-CHI,G,40,Arvid Soderblom,G,23,L,"6'3""",180,3.0,0.863,-5.75,Chicago Blackhawks
 CHI,G,34,Petr Mrazek,G,30,L,"6'1""",190,20.0,0.888,-11.619999999999996,Chicago Blackhawks
+CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,1.0,0.786,-3.54,Chicago Blackhawks
 CBJ,G,40,Daniil Tarasov,G,23,L,"6'3""",154,4.0,0.937,2.619999999999999,Columbus Blue Jackets
 CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181,57.0,0.906,0.8600000000000136,Columbus Blue Jackets
 STL,G,1,Thomas Greiss,G,36,L,"6'2""",232,31.0,0.891,-13.5,St. Louis Blues
 STL,G,50,Jordan Binnington,G,29,L,"6'1""",174,37.0,0.901,-8.200000000000003,St. Louis Blues
-BOS,G,1,Jeremy Swayman,G,24,L,"6'2""",187,40.0,0.915,5.8700000000000045,Boston Bruins
 BOS,G,35,Linus Ullmark,G,29,L,"6'4""",215,40.0,0.914,3.4200000000000017,Boston Bruins
+BOS,G,1,Jeremy Swayman,G,24,L,"6'2""",187,40.0,0.915,5.8700000000000045,Boston Bruins
 MTL,G,34,Jake Allen,G,32,L,"6'2""",195,35.0,0.905,-2.1500000000000057,Montreal Canadiens
 MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,,,,Montreal Canadiens
 VAN,G,30,Spencer Martin,G,27,L,"6'3""",205,4.0,0.953,6.51,Vancouver Canucks
-VAN,G,60,Collin Delia,G,28,L,"6'2""",208,7.0,0.896,-4.359999999999999,Vancouver Canucks
+VAN,G,31,Arturs Silovs,G,21,L,"6'4""",203,,,,Vancouver Canucks
 WSH,G,79,Charlie Lindgren,G,29,R,"6'1""",182,5.0,0.958,4.52,Washington Capitals
-WSH,G,60,Zachary Fucale,G,27,L,"6'1""",178,,,,Washington Capitals
+WSH,G,35,Darcy Kuemper,G,32,L,"6'5""",215,56.0,0.922,20.94999999999999,Washington Capitals
 ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,2.0,0.906,-0.2699999999999996,Arizona Coyotes
 ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203,51.0,0.9,-19.72,Arizona Coyotes
-NJD,G,40,Akira Schmid,G,22,L,"6'4""",165,6.0,0.833,-9.28,New Jersey Devils
 NJD,G,41,Vitek Vanecek,G,26,L,"6'1""",180,41.0,0.91,-1.7900000000000065,New Jersey Devils
+NJD,G,40,Akira Schmid,G,22,L,"6'4""",165,6.0,0.833,-9.28,New Jersey Devils
 ANA,G,1,Lukas Dostal,G,22,L,"6'2""",191,4.0,0.907,-1.3800000000000008,Anaheim Ducks
 ANA,G,31,Olle Eriksson Ek,G,23,L,"6'3""",208,,,,Anaheim Ducks
 CGY,G,25,Jacob Markstrom,G,32,L,"6'6""",206,62.0,0.922,12.129999999999995,Calgary Flames

@@ -824,23 +824,23 @@ iXG: 2.45934365
 iFW: 72.0
 
 XG%: 0.44",Chicago Blackhawks
-CHI,2nd pair,Jarred Tinordi,25.0,16.775333333333332,2.0,0.0,3.0,0.50758896,29.0,0.3883381864778801,2.0,"Jarred Tinordi
+CHI,2nd pair,Jack Johnson,30.0,20.241111111111117,0.0,1.0,3.0,1.710112,51.0,0.3761527596663323,1.0,"Jack Johnson
 
-GP: 25.0
+GP: 30.0
 
-TOI per game: 16.78
+TOI per game: 20.24
 
-G: 2.0
+G: 0.0
 
-A: 3.0
+A: 4.0
 
-Primary PTS: 2.0
+Primary PTS: 1.0
 
-iXG: 0.50758896
+iXG: 1.710112
 
-iFW: 29.0
+iFW: 51.0
 
-XG%: 0.39",Connor Murphy,30.0,19.738333333333333,2.0,0.0,1.0,1.15215189,47.0,0.4328110231257143,2.0,"Connor Murphy
+XG%: 0.38",Connor Murphy,30.0,19.738333333333333,2.0,0.0,1.0,1.15215189,47.0,0.4328110231257143,2.0,"Connor Murphy
 
 GP: 30.0
 
@@ -857,23 +857,7 @@ iXG: 1.15215189
 iFW: 47.0
 
 XG%: 0.43",Chicago Blackhawks
-CHI,3rd pair,Jack Johnson,30.0,20.241111111111117,0.0,1.0,3.0,1.710112,51.0,0.3761527596663323,1.0,"Jack Johnson
-
-GP: 30.0
-
-TOI per game: 20.24
-
-G: 0.0
-
-A: 4.0
-
-Primary PTS: 1.0
-
-iXG: 1.710112
-
-iFW: 51.0
-
-XG%: 0.38",Caleb Jones,24.0,18.319444444444446,1.0,4.0,4.0,2.00855725,42.0,0.4775779882674789,5.0,"Caleb Jones
+CHI,3rd pair,Caleb Jones,24.0,18.319444444444446,1.0,4.0,4.0,2.00855725,42.0,0.4775779882674789,5.0,"Caleb Jones
 
 GP: 24.0
 
@@ -889,7 +873,23 @@ iXG: 2.00855725
 
 iFW: 42.0
 
-XG%: 0.48",Chicago Blackhawks
+XG%: 0.48",Ian Mitchell,5.0,16.0,0.0,1.0,0.0,0.08227178,4.0,0.2194195623917246,1.0,"Ian Mitchell
+
+GP: 5.0
+
+TOI per game: 16.0
+
+G: 0.0
+
+A: 1.0
+
+Primary PTS: 1.0
+
+iXG: 0.08227178
+
+iFW: 4.0
+
+XG%: 0.22",Chicago Blackhawks
 COL,1st pair,Devon Toews,27.0,24.78518518518519,2.0,3.0,10.0,1.80912463,62.0,0.5506763804105689,5.0,"Devon Toews
 
 GP: 27.0
@@ -1764,23 +1764,23 @@ iXG: 1.75013064
 
 iFW: 43.0
 
-XG%: 0.62",Kevin Bahl,6.0,11.533333333333331,1.0,1.0,0.0,0.31867782,12.0,0.6882514309820101,2.0,"Kevin Bahl
+XG%: 0.62",Damon Severson,30.0,17.913888888888888,2.0,2.0,2.0,1.39840801,50.0,0.6159415041711395,4.0,"Damon Severson
 
-GP: 6.0
+GP: 30.0
 
-TOI per game: 11.53
+TOI per game: 17.91
 
-G: 1.0
+G: 2.0
 
-A: 1.0
+A: 4.0
 
-Primary PTS: 2.0
+Primary PTS: 4.0
 
-iXG: 0.31867782
+iXG: 1.39840801
 
-iFW: 12.0
+iFW: 50.0
 
-XG%: 0.69",New Jersey Devils
+XG%: 0.62",New Jersey Devils
 NSH,1st pair,Roman Josi,29.0,25.620114942528737,6.0,8.0,9.0,7.94109071,163.0,0.4732129937918788,14.0,"Roman Josi
 
 GP: 29.0
@@ -1946,23 +1946,7 @@ iXG: 1.78065841
 iFW: 66.0
 
 XG%: 0.46",New York Islanders
-NYI,3rd pair,Sebastian Aho,28.0,15.139880952380953,3.0,3.0,2.0,1.89686652,49.0,0.4501767206130094,6.0,"Sebastian Aho
-
-GP: 28.0
-
-TOI per game: 15.14
-
-G: 3.0
-
-A: 5.0
-
-Primary PTS: 6.0
-
-iXG: 1.89686652
-
-iFW: 49.0
-
-XG%: 0.45",Noah Dobson,32.0,20.593229166666667,10.0,7.0,4.0,4.6600291,150.0,0.4419613750849794,17.0,"Noah Dobson
+NYI,3rd pair,,,,,,,,,,,,Noah Dobson,32.0,20.593229166666667,10.0,7.0,4.0,4.6600291,150.0,0.4419613750849794,17.0,"Noah Dobson
 
 GP: 32.0
 
@@ -2226,40 +2210,7 @@ iXG: 3.0966589300000003
 
 iFW: 62.0
 
-XG%: 0.45",Cam York,5.0,19.476666666666667,1.0,0.0,1.0,0.33912525,10.0,0.5650203317794092,1.0,"Cam York
-
-GP: 5.0
-
-TOI per game: 19.48
-
-G: 1.0
-
-A: 1.0
-
-Primary PTS: 1.0
-
-iXG: 0.33912525
-
-iFW: 10.0
-
-XG%: 0.57",Philadelphia Flyers
-PHI,3rd pair,Nick Seeler,32.0,13.980729166666666,2.0,3.0,0.0,1.2061789,40.0,0.4988329283205293,5.0,"Nick Seeler
-
-GP: 32.0
-
-TOI per game: 13.98
-
-G: 2.0
-
-A: 3.0
-
-Primary PTS: 5.0
-
-iXG: 1.2061789
-
-iFW: 40.0
-
-XG%: 0.5",Tony DeAngelo,27.0,24.322222222222223,4.0,1.0,9.0,3.34461855,79.0,0.3665318624812695,5.0,"Tony DeAngelo
+XG%: 0.45",Tony DeAngelo,27.0,24.322222222222223,4.0,1.0,9.0,3.34461855,79.0,0.3665318624812695,5.0,"Tony DeAngelo
 
 GP: 27.0
 
@@ -2276,6 +2227,39 @@ iXG: 3.34461855
 iFW: 79.0
 
 XG%: 0.37",Philadelphia Flyers
+PHI,3rd pair,Nick Seeler,32.0,13.980729166666666,2.0,3.0,0.0,1.2061789,40.0,0.4988329283205293,5.0,"Nick Seeler
+
+GP: 32.0
+
+TOI per game: 13.98
+
+G: 2.0
+
+A: 3.0
+
+Primary PTS: 5.0
+
+iXG: 1.2061789
+
+iFW: 40.0
+
+XG%: 0.5",Justin Braun,30.0,16.335555555555555,0.0,0.0,0.0,1.33608469,40.0,0.5080203766957723,0.0,"Justin Braun
+
+GP: 30.0
+
+TOI per game: 16.34
+
+G: 0.0
+
+A: 0.0
+
+Primary PTS: 0.0
+
+iXG: 1.33608469
+
+iFW: 40.0
+
+XG%: 0.51",Philadelphia Flyers
 PIT,1st pair,Marcus Pettersson,31.0,20.344623655913978,0.0,3.0,7.0,2.06739771,60.0,0.5979942992994328,3.0,"Marcus Pettersson
 
 GP: 31.0
@@ -2738,39 +2722,39 @@ iXG: 0.82651551
 iFW: 35.0
 
 XG%: 0.54",Tampa Bay Lightning
-TBL,3rd pair,Haydn Fleury,16.0,12.334375,0.0,0.0,1.0,0.53887493,23.0,0.4888115231924343,0.0,"Haydn Fleury
+TBL,3rd pair,Mikhail Sergachev,28.0,23.72202380952381,5.0,10.0,11.0,2.58313976,72.0,0.5467263637473926,15.0,"Mikhail Sergachev
 
-GP: 16.0
+GP: 28.0
 
-TOI per game: 12.33
+TOI per game: 23.72
+
+G: 5.0
+
+A: 21.0
+
+Primary PTS: 15.0
+
+iXG: 2.58313976
+
+iFW: 72.0
+
+XG%: 0.55",Zach Bogosian,9.0,13.977777777777778,0.0,0.0,0.0,0.2988403599999999,9.0,0.5028508593046199,0.0,"Zach Bogosian
+
+GP: 9.0
+
+TOI per game: 13.98
 
 G: 0.0
 
-A: 1.0
+A: 0.0
 
 Primary PTS: 0.0
 
-iXG: 0.53887493
+iXG: 0.2988403599999999
 
-iFW: 23.0
+iFW: 9.0
 
-XG%: 0.49",Cal Foote,16.0,14.744791666666666,1.0,1.0,1.0,0.65008476,19.0,0.4801058214913151,2.0,"Cal Foote
-
-GP: 16.0
-
-TOI per game: 14.74
-
-G: 1.0
-
-A: 2.0
-
-Primary PTS: 2.0
-
-iXG: 0.65008476
-
-iFW: 19.0
-
-XG%: 0.48",Tampa Bay Lightning
+XG%: 0.5",Tampa Bay Lightning
 TOR,1st pair,Mark Giordano,32.0,19.65625,1.0,4.0,3.0,1.91916915,55.0,0.5847956128832416,5.0,"Mark Giordano
 
 GP: 32.0
