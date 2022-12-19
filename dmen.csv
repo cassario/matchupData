@@ -395,23 +395,7 @@ iXG: 0.2941754
 iFW: 13.0
 
 XG%: 0.54",Buffalo Sabres
-BUF,2nd pair,Lawrence Pilut,16.0,12.751041666666667,0.0,0.0,1.0,0.30225375,16.0,0.4252231257462945,0.0,"Lawrence Pilut
-
-GP: 16.0
-
-TOI per game: 12.75
-
-G: 0.0
-
-A: 1.0
-
-Primary PTS: 0.0
-
-iXG: 0.30225375
-
-iFW: 16.0
-
-XG%: 0.43",Mattias Samuelsson,18.0,22.242592592592597,1.0,0.0,1.0,1.73284583,38.0,0.5204641661688262,1.0,"Mattias Samuelsson
+BUF,2nd pair,Mattias Samuelsson,18.0,22.242592592592597,1.0,0.0,1.0,1.73284583,38.0,0.5204641661688262,1.0,"Mattias Samuelsson
 
 GP: 18.0
 
@@ -427,24 +411,40 @@ iXG: 1.73284583
 
 iFW: 38.0
 
-XG%: 0.52",Buffalo Sabres
-BUF,3rd pair,Jeremy Davies,1.0,8.55,0.0,0.0,0.0,0.0364402,1.0,0.2429037539695565,0.0,"Jeremy Davies
+XG%: 0.52",Ilya Lyubushkin,17.0,15.39607843137255,0.0,1.0,0.0,0.23305734,11.0,0.4766096198625659,1.0,"Ilya Lyubushkin
 
-GP: 1.0
+GP: 17.0
 
-TOI per game: 8.55
+TOI per game: 15.4
 
 G: 0.0
 
-A: 0.0
+A: 1.0
+
+Primary PTS: 1.0
+
+iXG: 0.23305734
+
+iFW: 11.0
+
+XG%: 0.48",Buffalo Sabres
+BUF,3rd pair,Lawrence Pilut,16.0,12.751041666666667,0.0,0.0,1.0,0.30225375,16.0,0.4252231257462945,0.0,"Lawrence Pilut
+
+GP: 16.0
+
+TOI per game: 12.75
+
+G: 0.0
+
+A: 1.0
 
 Primary PTS: 0.0
 
-iXG: 0.0364402
+iXG: 0.30225375
 
-iFW: 1.0
+iFW: 16.0
 
-XG%: 0.24",Casey Fitzgerald,22.0,12.93939393939394,0.0,1.0,1.0,0.83059025,23.0,0.3994464565309992,1.0,"Casey Fitzgerald
+XG%: 0.43",Casey Fitzgerald,22.0,12.93939393939394,0.0,1.0,1.0,0.83059025,23.0,0.3994464565309992,1.0,"Casey Fitzgerald
 
 GP: 22.0
 
@@ -527,6 +527,39 @@ iXG: 2.15095366
 iFW: 79.0
 
 XG%: 0.57",Carolina Hurricanes
+CAR,3rd pair,Dylan Coghlan,6.0,14.138888888888888,0.0,0.0,0.0,0.488227,15.0,0.5886334671980017,0.0,"Dylan Coghlan
+
+GP: 6.0
+
+TOI per game: 14.14
+
+G: 0.0
+
+A: 0.0
+
+Primary PTS: 0.0
+
+iXG: 0.488227
+
+iFW: 15.0
+
+XG%: 0.59",Jalen Chatfield,31.0,12.956989247311828,0.0,1.0,0.0,1.554453,47.0,0.5427861887101313,1.0,"Jalen Chatfield
+
+GP: 31.0
+
+TOI per game: 12.96
+
+G: 0.0
+
+A: 1.0
+
+Primary PTS: 1.0
+
+iXG: 1.554453
+
+iFW: 47.0
+
+XG%: 0.54",Carolina Hurricanes
 CAR,3rd pair,Calvin de Haan,24.0,12.671527777777778,1.0,0.0,3.0,1.33405861,43.0,0.5567898848523393,1.0,"Calvin de Haan
 
 GP: 24.0
@@ -692,23 +725,7 @@ iXG: 3.90043802
 iFW: 99.0
 
 XG%: 0.5",Calgary Flames
-CGY,2nd pair,Nikita Zadorov,32.0,20.0296875,4.0,1.0,1.0,2.45633018,68.0,0.5324162973578318,5.0,"Nikita Zadorov
-
-GP: 32.0
-
-TOI per game: 20.03
-
-G: 4.0
-
-A: 2.0
-
-Primary PTS: 5.0
-
-iXG: 2.45633018
-
-iFW: 68.0
-
-XG%: 0.53",MacKenzie Weegar,31.0,21.153763440860214,0.0,4.0,3.0,1.98233076,81.0,0.5610879327830431,4.0,"MacKenzie Weegar
+CGY,2nd pair,MacKenzie Weegar,31.0,21.153763440860214,0.0,4.0,3.0,1.98233076,81.0,0.5610879327830431,4.0,"MacKenzie Weegar
 
 GP: 31.0
 
@@ -723,6 +740,22 @@ Primary PTS: 4.0
 iXG: 1.98233076
 
 iFW: 81.0
+
+XG%: 0.56",Chris Tanev,24.0,19.897222222222226,0.0,3.0,2.0,0.50635112,27.0,0.5553711646294888,3.0,"Chris Tanev
+
+GP: 24.0
+
+TOI per game: 19.9
+
+G: 0.0
+
+A: 5.0
+
+Primary PTS: 3.0
+
+iXG: 0.50635112
+
+iFW: 27.0
 
 XG%: 0.56",Calgary Flames
 CGY,3rd pair,Connor Mackey,9.0,9.966666666666669,2.0,0.0,1.0,0.4639501,14.0,0.3330455594352148,2.0,"Connor Mackey
@@ -742,39 +775,6 @@ iXG: 0.4639501
 iFW: 14.0
 
 XG%: 0.33",Michael Stone,22.0,13.371969696969698,3.0,3.0,1.0,1.1278245,59.0,0.5014531413516798,6.0,"Michael Stone
-
-GP: 22.0
-
-TOI per game: 13.37
-
-G: 3.0
-
-A: 4.0
-
-Primary PTS: 6.0
-
-iXG: 1.1278245
-
-iFW: 59.0
-
-XG%: 0.5",Calgary Flames
-CGY,3rd pair,Dennis Gilbert,8.0,10.264583333333333,0.0,0.0,1.0,0.16044765,11.0,0.5738995082402987,0.0,"Dennis Gilbert
-
-GP: 8.0
-
-TOI per game: 10.26
-
-G: 0.0
-
-A: 1.0
-
-Primary PTS: 0.0
-
-iXG: 0.16044765
-
-iFW: 11.0
-
-XG%: 0.57",Michael Stone,22.0,13.371969696969698,3.0,3.0,1.0,1.1278245,59.0,0.5014531413516798,6.0,"Michael Stone
 
 GP: 22.0
 
@@ -956,6 +956,39 @@ iXG: 1.81035826
 iFW: 55.0
 
 XG%: 0.47",Colorado Avalanche
+COL,3rd pair,Kurtis MacDermid,8.0,7.820833333333333,0.0,0.0,1.0,0.15318602,3.0,0.4971160270588759,0.0,"Kurtis MacDermid
+
+GP: 8.0
+
+TOI per game: 7.82
+
+G: 0.0
+
+A: 1.0
+
+Primary PTS: 0.0
+
+iXG: 0.15318602
+
+iFW: 3.0
+
+XG%: 0.5",Andreas Englund,12.0,12.206944444444446,0.0,0.0,1.0,0.21396953,12.0,0.5517415151255916,0.0,"Andreas Englund
+
+GP: 12.0
+
+TOI per game: 12.21
+
+G: 0.0
+
+A: 1.0
+
+Primary PTS: 0.0
+
+iXG: 0.21396953
+
+iFW: 12.0
+
+XG%: 0.55",Colorado Avalanche
 COL,3rd pair,Brad Hunt,5.0,10.886666666666668,0.0,0.0,1.0,0.18099109,8.0,0.4788362198022993,0.0,"Brad Hunt
 
 GP: 5.0
@@ -1632,23 +1665,23 @@ iXG: 1.57734088
 
 iFW: 43.0
 
-XG%: 0.51",Mike Matheson,10.0,24.23333333333333,1.0,3.0,1.0,1.10199503,34.0,0.4486343899222297,4.0,"Mike Matheson
+XG%: 0.51",Chris Wideman,18.0,14.74074074074074,0.0,2.0,2.0,0.54433261,29.0,0.4231437217283447,2.0,"Chris Wideman
 
-GP: 10.0
+GP: 18.0
 
-TOI per game: 24.23
+TOI per game: 14.74
 
-G: 1.0
+G: 0.0
 
 A: 4.0
 
-Primary PTS: 4.0
+Primary PTS: 2.0
 
-iXG: 1.10199503
+iXG: 0.54433261
 
-iFW: 34.0
+iFW: 29.0
 
-XG%: 0.45",Montreal Canadiens
+XG%: 0.42",Montreal Canadiens
 MTL,3rd pair,Arber Xhekaj,29.0,15.135632183908044,4.0,1.0,2.0,1.58062536,60.0,0.4318918782761496,5.0,"Arber Xhekaj
 
 GP: 29.0
@@ -1830,40 +1863,7 @@ iXG: 2.79201985
 
 iFW: 67.0
 
-XG%: 0.58",Dante Fabbro,28.0,16.70952380952381,1.0,2.0,2.0,1.05027342,51.0,0.5160684584946997,3.0,"Dante Fabbro
-
-GP: 28.0
-
-TOI per game: 16.71
-
-G: 1.0
-
-A: 4.0
-
-Primary PTS: 3.0
-
-iXG: 1.05027342
-
-iFW: 51.0
-
-XG%: 0.52",Nashville Predators
-NSH,3rd pair,Jeremy Lauzon,22.0,15.562878787878788,0.0,0.0,1.0,0.92034307,32.0,0.4738847303894077,0.0,"Jeremy Lauzon
-
-GP: 22.0
-
-TOI per game: 15.56
-
-G: 0.0
-
-A: 1.0
-
-Primary PTS: 0.0
-
-iXG: 0.92034307
-
-iFW: 32.0
-
-XG%: 0.47",Alexandre Carrier,23.0,17.857971014492755,1.0,0.0,0.0,1.35971964,35.0,0.5608870211452567,1.0,"Alexandre Carrier
+XG%: 0.58",Alexandre Carrier,23.0,17.857971014492755,1.0,0.0,0.0,1.35971964,35.0,0.5608870211452567,1.0,"Alexandre Carrier
 
 GP: 23.0
 
@@ -1880,6 +1880,39 @@ iXG: 1.35971964
 iFW: 35.0
 
 XG%: 0.56",Nashville Predators
+NSH,3rd pair,Jeremy Lauzon,22.0,15.562878787878788,0.0,0.0,1.0,0.92034307,32.0,0.4738847303894077,0.0,"Jeremy Lauzon
+
+GP: 22.0
+
+TOI per game: 15.56
+
+G: 0.0
+
+A: 1.0
+
+Primary PTS: 0.0
+
+iXG: 0.92034307
+
+iFW: 32.0
+
+XG%: 0.47",Dante Fabbro,28.0,16.70952380952381,1.0,2.0,2.0,1.05027342,51.0,0.5160684584946997,3.0,"Dante Fabbro
+
+GP: 28.0
+
+TOI per game: 16.71
+
+G: 1.0
+
+A: 4.0
+
+Primary PTS: 3.0
+
+iXG: 1.05027342
+
+iFW: 51.0
+
+XG%: 0.52",Nashville Predators
 NYI,1st pair,Alexander Romanov,32.0,20.206770833333334,0.0,6.0,2.0,1.07701753,51.0,0.4097024571944062,6.0,"Alexander Romanov
 
 GP: 32.0
@@ -1946,7 +1979,23 @@ iXG: 1.78065841
 iFW: 66.0
 
 XG%: 0.46",New York Islanders
-NYI,3rd pair,,,,,,,,,,,,Noah Dobson,32.0,20.593229166666667,10.0,7.0,4.0,4.6600291,150.0,0.4419613750849794,17.0,"Noah Dobson
+NYI,3rd pair,Sebastian Aho,28.0,15.139880952380953,3.0,3.0,2.0,1.89686652,49.0,0.4501767206130094,6.0,"Sebastian Aho
+
+GP: 28.0
+
+TOI per game: 15.14
+
+G: 3.0
+
+A: 5.0
+
+Primary PTS: 6.0
+
+iXG: 1.89686652
+
+iFW: 49.0
+
+XG%: 0.45",Noah Dobson,32.0,20.593229166666667,10.0,7.0,4.0,4.6600291,150.0,0.4419613750849794,17.0,"Noah Dobson
 
 GP: 32.0
 
@@ -2969,23 +3018,23 @@ iXG: 1.33452629
 
 iFW: 41.0
 
-XG%: 0.54",Nicolas Hague,32.0,17.038020833333334,1.0,4.0,1.0,2.40830983,62.0,0.5279874468383288,5.0,"Nicolas Hague
+XG%: 0.54",Alex Pietrangelo,24.0,23.41388888888889,3.0,6.0,13.0,2.58520497,70.0,0.5902341682328502,9.0,"Alex Pietrangelo
 
-GP: 32.0
+GP: 24.0
 
-TOI per game: 17.04
+TOI per game: 23.41
 
-G: 1.0
+G: 3.0
 
-A: 5.0
+A: 19.0
 
-Primary PTS: 5.0
+Primary PTS: 9.0
 
-iXG: 2.40830983
+iXG: 2.58520497
 
-iFW: 62.0
+iFW: 70.0
 
-XG%: 0.53",Vegas Golden Knights
+XG%: 0.59",Vegas Golden Knights
 VGK,2nd pair,Brayden McNabb,33.0,20.28989898989899,0.0,4.0,6.0,1.65346357,64.0,0.5765044083396985,4.0,"Brayden McNabb
 
 GP: 33.0
@@ -3035,23 +3084,23 @@ iXG: 0.63561245
 
 iFW: 15.0
 
-XG%: 0.55",Alex Pietrangelo,24.0,23.41388888888889,3.0,6.0,13.0,2.58520497,70.0,0.5902341682328502,9.0,"Alex Pietrangelo
+XG%: 0.55",Nicolas Hague,32.0,17.038020833333334,1.0,4.0,1.0,2.40830983,62.0,0.5279874468383288,5.0,"Nicolas Hague
 
-GP: 24.0
+GP: 32.0
 
-TOI per game: 23.41
+TOI per game: 17.04
 
-G: 3.0
+G: 1.0
 
-A: 19.0
+A: 5.0
 
-Primary PTS: 9.0
+Primary PTS: 5.0
 
-iXG: 2.58520497
+iXG: 2.40830983
 
-iFW: 70.0
+iFW: 62.0
 
-XG%: 0.59",Vegas Golden Knights
+XG%: 0.53",Vegas Golden Knights
 WPG,1st pair,Josh Morrissey,31.0,23.373655913978496,5.0,17.0,14.0,3.36494633,80.0,0.4508401003858533,22.0,"Josh Morrissey
 
 GP: 31.0
