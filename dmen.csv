@@ -65,39 +65,6 @@ iXG: 1.81582012
 iFW: 57.0
 
 XG%: 0.38",Anaheim Ducks
-ANA,3rd pair,Nathan Beaulieu,18.0,12.628703703703705,0.0,1.0,2.0,0.81610018,15.0,0.4508959728571529,1.0,"Nathan Beaulieu
-
-GP: 18.0
-
-TOI per game: 12.63
-
-G: 0.0
-
-A: 3.0
-
-Primary PTS: 1.0
-
-iXG: 0.81610018
-
-iFW: 15.0
-
-XG%: 0.45",Kevin Shattenkirk,28.0,17.96309523809524,0.0,5.0,3.0,1.61710503,74.0,0.4350640699022508,5.0,"Kevin Shattenkirk
-
-GP: 28.0
-
-TOI per game: 17.96
-
-G: 0.0
-
-A: 8.0
-
-Primary PTS: 5.0
-
-iXG: 1.61710503
-
-iFW: 74.0
-
-XG%: 0.44",Anaheim Ducks
 ANA,3rd pair,Urho Vaakanainen,9.0,16.67962962962963,0.0,0.0,0.0,0.17456992,11.0,0.2844460295656439,0.0,"Urho Vaakanainen
 
 GP: 9.0
@@ -115,6 +82,39 @@ iXG: 0.17456992
 iFW: 11.0
 
 XG%: 0.28",Kevin Shattenkirk,28.0,17.96309523809524,0.0,5.0,3.0,1.61710503,74.0,0.4350640699022508,5.0,"Kevin Shattenkirk
+
+GP: 28.0
+
+TOI per game: 17.96
+
+G: 0.0
+
+A: 8.0
+
+Primary PTS: 5.0
+
+iXG: 1.61710503
+
+iFW: 74.0
+
+XG%: 0.44",Anaheim Ducks
+ANA,3rd pair,Nathan Beaulieu,18.0,12.628703703703705,0.0,1.0,2.0,0.81610018,15.0,0.4508959728571529,1.0,"Nathan Beaulieu
+
+GP: 18.0
+
+TOI per game: 12.63
+
+G: 0.0
+
+A: 3.0
+
+Primary PTS: 1.0
+
+iXG: 0.81610018
+
+iFW: 15.0
+
+XG%: 0.45",Kevin Shattenkirk,28.0,17.96309523809524,0.0,5.0,3.0,1.61710503,74.0,0.4350640699022508,5.0,"Kevin Shattenkirk
 
 GP: 28.0
 
@@ -741,24 +741,8 @@ iXG: 1.98233076
 
 iFW: 81.0
 
-XG%: 0.56",Chris Tanev,24.0,19.897222222222226,0.0,3.0,2.0,0.50635112,27.0,0.5553711646294888,3.0,"Chris Tanev
-
-GP: 24.0
-
-TOI per game: 19.9
-
-G: 0.0
-
-A: 5.0
-
-Primary PTS: 3.0
-
-iXG: 0.50635112
-
-iFW: 27.0
-
-XG%: 0.56",Calgary Flames
-CGY,3rd pair,Connor Mackey,9.0,9.966666666666669,2.0,0.0,1.0,0.4639501,14.0,0.3330455594352148,2.0,"Connor Mackey
+XG%: 0.56",,,,,,,,,,,,Calgary Flames
+CGY,2nd pair,Connor Mackey,9.0,9.966666666666669,2.0,0.0,1.0,0.4639501,14.0,0.3330455594352148,2.0,"Connor Mackey
 
 GP: 9.0
 
@@ -774,7 +758,8 @@ iXG: 0.4639501
 
 iFW: 14.0
 
-XG%: 0.33",Michael Stone,22.0,13.371969696969698,3.0,3.0,1.0,1.1278245,59.0,0.5014531413516798,6.0,"Michael Stone
+XG%: 0.33",,,,,,,,,,,,Calgary Flames
+CGY,3rd pair,,,,,,,,,,,,Michael Stone,22.0,13.371969696969698,3.0,3.0,1.0,1.1278245,59.0,0.5014531413516798,6.0,"Michael Stone
 
 GP: 22.0
 
@@ -824,23 +809,23 @@ iXG: 2.45934365
 iFW: 72.0
 
 XG%: 0.44",Chicago Blackhawks
-CHI,2nd pair,Jack Johnson,30.0,20.241111111111117,0.0,1.0,3.0,1.710112,51.0,0.3761527596663323,1.0,"Jack Johnson
+CHI,2nd pair,Isaak Phillips,,,,,,,,,,"Isaak Phillips
 
-GP: 30.0
+GP: nan
 
-TOI per game: 20.24
+TOI per game: nan
 
-G: 0.0
+G: nan
 
-A: 4.0
+A: nan
 
-Primary PTS: 1.0
+Primary PTS: nan
 
-iXG: 1.710112
+iXG: nan
 
-iFW: 51.0
+iFW: nan
 
-XG%: 0.38",Connor Murphy,30.0,19.738333333333333,2.0,0.0,1.0,1.15215189,47.0,0.4328110231257143,2.0,"Connor Murphy
+XG%: nan",Connor Murphy,30.0,19.738333333333333,2.0,0.0,1.0,1.15215189,47.0,0.4328110231257143,2.0,"Connor Murphy
 
 GP: 30.0
 
@@ -857,23 +842,23 @@ iXG: 1.15215189
 iFW: 47.0
 
 XG%: 0.43",Chicago Blackhawks
-CHI,3rd pair,Caleb Jones,24.0,18.319444444444446,1.0,4.0,4.0,2.00855725,42.0,0.4775779882674789,5.0,"Caleb Jones
+CHI,3rd pair,Jack Johnson,30.0,20.241111111111117,0.0,1.0,3.0,1.710112,51.0,0.3761527596663323,1.0,"Jack Johnson
 
-GP: 24.0
+GP: 30.0
 
-TOI per game: 18.32
+TOI per game: 20.24
 
-G: 1.0
+G: 0.0
 
-A: 8.0
+A: 4.0
 
-Primary PTS: 5.0
+Primary PTS: 1.0
 
-iXG: 2.00855725
+iXG: 1.710112
 
-iFW: 42.0
+iFW: 51.0
 
-XG%: 0.48",Ian Mitchell,5.0,16.0,0.0,1.0,0.0,0.08227178,4.0,0.2194195623917246,1.0,"Ian Mitchell
+XG%: 0.38",Ian Mitchell,5.0,16.0,0.0,1.0,0.0,0.08227178,4.0,0.2194195623917246,1.0,"Ian Mitchell
 
 GP: 5.0
 
@@ -1797,23 +1782,23 @@ iXG: 8.02201959
 
 iFW: 168.0
 
-XG%: 0.48",Jordan Gross,10.0,18.813333333333333,3.0,0.0,0.0,1.88360524,31.0,0.5584082088392762,3.0,"Jordan Gross
+XG%: 0.48",Ryan McDonagh,23.0,20.26521739130435,0.0,2.0,4.0,1.13401102,34.0,0.4442358136156547,2.0,"Ryan McDonagh
 
-GP: 10.0
+GP: 23.0
 
-TOI per game: 18.81
+TOI per game: 20.27
 
-G: 3.0
+G: 0.0
 
-A: 0.0
+A: 6.0
 
-Primary PTS: 3.0
+Primary PTS: 2.0
 
-iXG: 1.88360524
+iXG: 1.13401102
 
-iFW: 31.0
+iFW: 34.0
 
-XG%: 0.56",Nashville Predators
+XG%: 0.44",Nashville Predators
 NSH,2nd pair,Mattias Ekholm,30.0,21.598333333333336,2.0,5.0,2.0,3.48498695,73.0,0.5714337917012366,7.0,"Mattias Ekholm
 
 GP: 30.0
@@ -1913,23 +1898,7 @@ iXG: 4.74532265
 iFW: 154.0
 
 XG%: 0.44",New York Islanders
-NYI,2nd pair,Sebastian Aho,29.0,15.355172413793104,3.0,3.0,2.0,1.89686652,49.0,0.4489651974973637,6.0,"Sebastian Aho
-
-GP: 29.0
-
-TOI per game: 15.36
-
-G: 3.0
-
-A: 5.0
-
-Primary PTS: 6.0
-
-iXG: 1.89686652
-
-iFW: 49.0
-
-XG%: 0.45",Scott Mayfield,33.0,20.37272727272727,4.0,1.0,3.0,2.21099916,75.0,0.4505147579895808,5.0,"Scott Mayfield
+NYI,2nd pair,,,,,,,,,,,,Scott Mayfield,33.0,20.37272727272727,4.0,1.0,3.0,2.21099916,75.0,0.4505147579895808,5.0,"Scott Mayfield
 
 GP: 33.0
 
@@ -2243,23 +2212,23 @@ iXG: 3.34461855
 iFW: 79.0
 
 XG%: 0.37",Philadelphia Flyers
-PHI,3rd pair,Nick Seeler,32.0,13.980729166666666,2.0,3.0,0.0,1.2061789,40.0,0.4988329283205293,5.0,"Nick Seeler
+PHI,3rd pair,Cam York,5.0,19.476666666666667,1.0,0.0,1.0,0.33912525,10.0,0.5650203317794092,1.0,"Cam York
 
-GP: 32.0
+GP: 5.0
 
-TOI per game: 13.98
+TOI per game: 19.48
 
-G: 2.0
+G: 1.0
 
-A: 3.0
+A: 1.0
 
-Primary PTS: 5.0
+Primary PTS: 1.0
 
-iXG: 1.2061789
+iXG: 0.33912525
 
-iFW: 40.0
+iFW: 10.0
 
-XG%: 0.5",Justin Braun,30.0,16.335555555555555,0.0,0.0,0.0,1.33608469,40.0,0.5080203766957723,0.0,"Justin Braun
+XG%: 0.57",Justin Braun,30.0,16.335555555555555,0.0,0.0,0.0,1.33608469,40.0,0.5080203766957723,0.0,"Justin Braun
 
 GP: 30.0
 
@@ -2474,23 +2443,23 @@ iXG: 0.82323338
 iFW: 38.0
 
 XG%: 0.53",Seattle Kraken
-SJS,1st pair,Jaycob Megna,31.0,18.45107526881721,0.0,5.0,3.0,1.81892438,44.0,0.4769839903840239,5.0,"Jaycob Megna
+SJS,1st pair,Scott Harrington,7.0,14.788095238095238,1.0,1.0,2.0,0.28246191,14.0,0.6255290033396066,2.0,"Scott Harrington
 
-GP: 31.0
+GP: 7.0
 
-TOI per game: 18.45
+TOI per game: 14.79
 
-G: 0.0
+G: 1.0
 
-A: 8.0
+A: 3.0
 
-Primary PTS: 5.0
+Primary PTS: 2.0
 
-iXG: 1.81892438
+iXG: 0.28246191
 
-iFW: 44.0
+iFW: 14.0
 
-XG%: 0.48",Erik Karlsson,33.0,25.17828282828283,12.0,17.0,12.0,5.9542011100000005,132.0,0.4826218848261525,29.0,"Erik Karlsson
+XG%: 0.63",Erik Karlsson,33.0,25.17828282828283,12.0,17.0,12.0,5.9542011100000005,132.0,0.4826218848261525,29.0,"Erik Karlsson
 
 GP: 33.0
 
@@ -2540,23 +2509,23 @@ iXG: 1.59141066
 iFW: 37.0
 
 XG%: 0.47",San Jose Sharks
-SJS,3rd pair,Scott Harrington,7.0,14.788095238095238,1.0,1.0,2.0,0.28246191,14.0,0.6255290033396066,2.0,"Scott Harrington
+SJS,3rd pair,Mario Ferraro,23.0,22.819565217391304,1.0,0.0,4.0,1.96525486,36.0,0.4444920608823702,1.0,"Mario Ferraro
 
-GP: 7.0
+GP: 23.0
 
-TOI per game: 14.79
+TOI per game: 22.82
 
 G: 1.0
 
-A: 3.0
+A: 4.0
 
-Primary PTS: 2.0
+Primary PTS: 1.0
 
-iXG: 0.28246191
+iXG: 1.96525486
 
-iFW: 14.0
+iFW: 36.0
 
-XG%: 0.63",Radim Simek,28.0,15.08154761904762,1.0,1.0,0.0,1.99986668,34.0,0.5072014066393268,2.0,"Radim Simek
+XG%: 0.44",Radim Simek,28.0,15.08154761904762,1.0,1.0,0.0,1.99986668,34.0,0.5072014066393268,2.0,"Radim Simek
 
 GP: 28.0
 
@@ -3134,23 +3103,7 @@ iXG: 2.30634737
 iFW: 82.0
 
 XG%: 0.46",Winnipeg Jets
-WPG,3rd pair,Kyle Capobianco,5.0,13.37,1.0,0.0,0.0,0.14204261,7.0,0.4868889347028015,1.0,"Kyle Capobianco
-
-GP: 5.0
-
-TOI per game: 13.37
-
-G: 1.0
-
-A: 0.0
-
-Primary PTS: 1.0
-
-iXG: 0.14204261
-
-iFW: 7.0
-
-XG%: 0.49",Dylan Samberg,23.0,15.18913043478261,1.0,2.0,2.0,0.64454564,28.0,0.532564332605429,3.0,"Dylan Samberg
+WPG,3rd pair,Dylan Samberg,23.0,15.18913043478261,1.0,2.0,2.0,0.64454564,28.0,0.532564332605429,3.0,"Dylan Samberg
 
 GP: 23.0
 
@@ -3166,7 +3119,23 @@ iXG: 0.64454564
 
 iFW: 28.0
 
-XG%: 0.53",Winnipeg Jets
+XG%: 0.53",Ville Heinola,2.0,12.55,0.0,0.0,0.0,0.0,0.0,0.535299395414501,0.0,"Ville Heinola
+
+GP: 2.0
+
+TOI per game: 12.55
+
+G: 0.0
+
+A: 0.0
+
+Primary PTS: 0.0
+
+iXG: 0.0
+
+iFW: 0.0
+
+XG%: 0.54",Winnipeg Jets
 WSH,1st pair,Erik Gustafsson,33.0,19.23686868686869,4.0,5.0,6.0,2.2539716800000003,81.0,0.5519201405584288,9.0,"Erik Gustafsson
 
 GP: 33.0
