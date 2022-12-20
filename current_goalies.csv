@@ -5,12 +5,12 @@ CHI,G,34,Petr Mrazek,G,30,L,"6'1""",190,20.0,0.888,-11.619999999999996,Chicago B
 CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,1.0,0.786,-3.54,Chicago Blackhawks
 CBJ,G,40,Daniil Tarasov,G,23,L,"6'3""",154,4.0,0.937,2.619999999999999,Columbus Blue Jackets
 CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181,57.0,0.906,0.8600000000000136,Columbus Blue Jackets
-STL,G,1,Thomas Greiss,G,36,L,"6'2""",232,31.0,0.891,-13.5,St. Louis Blues
 STL,G,50,Jordan Binnington,G,29,L,"6'1""",174,37.0,0.901,-8.200000000000003,St. Louis Blues
+STL,G,1,Thomas Greiss,G,36,L,"6'2""",232,31.0,0.891,-13.5,St. Louis Blues
 BOS,G,35,Linus Ullmark,G,29,L,"6'4""",215,40.0,0.914,3.4200000000000017,Boston Bruins
 BOS,G,1,Jeremy Swayman,G,24,L,"6'2""",187,40.0,0.915,5.8700000000000045,Boston Bruins
-MTL,G,34,Jake Allen,G,32,L,"6'2""",195,35.0,0.905,-2.1500000000000057,Montreal Canadiens
 MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,,,,Montreal Canadiens
+MTL,G,34,Jake Allen,G,32,L,"6'2""",195,35.0,0.905,-2.1500000000000057,Montreal Canadiens
 VAN,G,30,Spencer Martin,G,27,L,"6'3""",205,4.0,0.953,6.51,Vancouver Canucks
 VAN,G,31,Arturs Silovs,G,21,L,"6'4""",203,,,,Vancouver Canucks
 WSH,G,79,Charlie Lindgren,G,29,R,"6'1""",182,5.0,0.958,4.52,Washington Capitals
@@ -25,8 +25,8 @@ CGY,G,25,Jacob Markstrom,G,32,L,"6'6""",206,62.0,0.922,12.129999999999995,Calgar
 CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,,,,Calgary Flames
 PHI,G,79,Carter Hart,G,24,L,"6'2""",181,45.0,0.905,-6.560000000000002,Philadelphia Flyers
 PHI,G,32,Felix Sandstrom,G,25,L,"6'2""",192,4.0,0.914,4.629999999999999,Philadelphia Flyers
-VGK,G,36,Logan Thompson,G,25,R,"6'4""",190,17.0,0.918,1.9399999999999975,Vegas Golden Knights
 VGK,G,33,Adin Hill,G,26,L,"6'6""",202,25.0,0.906,-4.090000000000003,Vegas Golden Knights
+VGK,G,36,Logan Thompson,G,25,R,"6'4""",190,17.0,0.918,1.9399999999999975,Vegas Golden Knights
 CAR,G,52,Pyotr Kochetkov,G,23,L,"6'3""",205,3.0,0.902,-0.96,Carolina Hurricanes
 CAR,G,32,Antti Raanta,G,33,L,"6'0""",195,27.0,0.913,4.210000000000001,Carolina Hurricanes
 NYI,G,30,Ilya Sorokin,G,27,L,"6'2""",172,51.0,0.927,13.080000000000013,New York Islanders
@@ -43,8 +43,8 @@ TOR,G,35,Ilya Samsonov,G,25,L,"6'3""",208,43.0,0.896,-11.400000000000006,Toronto
 TOR,G,30,Matt Murray,G,28,L,"6'4""",178,20.0,0.906,3.1599999999999966,Toronto Maple Leafs
 EDM,G,36,Jack Campbell,G,30,L,"6'2""",197,49.0,0.914,-2.3400000000000034,Edmonton Oilers
 EDM,G,74,Stuart Skinner,G,24,L,"6'4""",207,13.0,0.913,0.8500000000000014,Edmonton Oilers
-FLA,G,72,Sergei Bobrovsky,G,34,L,"6'2""",187,54.0,0.913,23.389999999999983,Florida Panthers
 FLA,G,30,Spencer Knight,G,21,L,"6'3""",193,31.0,0.905,0.7199999999999989,Florida Panthers
+FLA,G,72,Sergei Bobrovsky,G,34,L,"6'2""",187,54.0,0.913,23.389999999999983,Florida Panthers
 PIT,G,35,Tristan Jarry,G,27,L,"6'2""",194,58.0,0.919,12.759999999999993,Pittsburgh Penguins
 PIT,G,1,Casey DeSmith,G,31,L,"6'0""",181,25.0,0.914,-1.93,Pittsburgh Penguins
 NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,67.0,0.918,20.69,Nashville Predators
@@ -57,8 +57,8 @@ BUF,G,1,Ukko-Pekka Luukkonen,G,23,L,"6'4""",190,9.0,0.917,-0.4499999999999993,Bu
 BUF,G,41,Craig Anderson,G,41,L,"6'2""",186,31.0,0.897,-8.689999999999998,Buffalo Sabres
 OTT,G,31,Anton Forsberg,G,30,L,"6'3""",192,45.0,0.916,6.1200000000000045,Ottawa Senators
 OTT,G,33,Cam Talbot,G,35,L,"6'4""",196,48.0,0.911,-5.099999999999994,Ottawa Senators
-SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,35.0,0.911,4.379999999999996,San Jose Sharks
 SJS,G,47,James Reimer,G,34,L,"6'2""",220,47.0,0.913,0.5999999999999943,San Jose Sharks
+SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,35.0,0.911,4.379999999999996,San Jose Sharks
 DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,47.0,0.915,1.7999999999999972,Dallas Stars
 DAL,G,41,Scott Wedgewood,G,30,L,"6'0""",194,36.0,0.91,1.9099999999999968,Dallas Stars
 MIN,G,32,Filip Gustavsson,G,24,L,"6'2""",185,17.0,0.893,-5.670000000000002,Minnesota Wild
