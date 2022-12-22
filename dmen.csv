@@ -1319,7 +1319,23 @@ iXG: 8.024998140000001
 iFW: 128.0
 
 XG%: 0.54",Florida Panthers
-FLA,3rd pair,Josh Mahura,33.0,14.278282828282828,3.0,3.0,1.0,1.95944556,44.0,0.5997106168349099,6.0,"Josh Mahura
+FLA,3rd pair,Matt Kiersted,18.0,9.819444444444445,1.0,2.0,1.0,0.82143341,21.0,0.6268729254870443,3.0,"Matt Kiersted
+
+GP: 18.0
+
+TOI per game: 9.82
+
+G: 1.0
+
+A: 3.0
+
+Primary PTS: 3.0
+
+iXG: 0.82143341
+
+iFW: 21.0
+
+XG%: 0.63",Josh Mahura,33.0,14.278282828282828,3.0,3.0,1.0,1.95944556,44.0,0.5997106168349099,6.0,"Josh Mahura
 
 GP: 33.0
 
@@ -1335,23 +1351,7 @@ iXG: 1.95944556
 
 iFW: 44.0
 
-XG%: 0.6",Radko Gudas,25.0,18.82333333333333,2.0,2.0,2.0,1.99128585,69.0,0.607158468198906,4.0,"Radko Gudas
-
-GP: 25.0
-
-TOI per game: 18.82
-
-G: 2.0
-
-A: 4.0
-
-Primary PTS: 4.0
-
-iXG: 1.99128585
-
-iFW: 69.0
-
-XG%: 0.61",Florida Panthers
+XG%: 0.6",Florida Panthers
 LAK,1st pair,Mikey Anderson,35.0,21.62857142857143,2.0,1.0,5.0,2.16700321,65.0,0.5227014085577311,3.0,"Mikey Anderson
 
 GP: 35.0
@@ -1698,40 +1698,7 @@ iXG: 2.29999421
 
 iFW: 65.0
 
-XG%: 0.52",John Marino,32.0,21.330729166666668,3.0,5.0,1.0,3.0949931,58.0,0.5287558073061516,8.0,"John Marino
-
-GP: 32.0
-
-TOI per game: 21.33
-
-G: 3.0
-
-A: 6.0
-
-Primary PTS: 8.0
-
-iXG: 3.0949931
-
-iFW: 58.0
-
-XG%: 0.53",New Jersey Devils
-NJD,3rd pair,Brendan Smith,31.0,14.073118279569892,0.0,1.0,1.0,1.94968814,46.0,0.6327879062405852,1.0,"Brendan Smith
-
-GP: 31.0
-
-TOI per game: 14.07
-
-G: 0.0
-
-A: 2.0
-
-Primary PTS: 1.0
-
-iXG: 1.94968814
-
-iFW: 46.0
-
-XG%: 0.63",Damon Severson,31.0,18.10537634408602,2.0,2.0,2.0,1.39840801,50.0,0.6228537104154482,4.0,"Damon Severson
+XG%: 0.52",Damon Severson,31.0,18.10537634408602,2.0,2.0,2.0,1.39840801,50.0,0.6228537104154482,4.0,"Damon Severson
 
 GP: 31.0
 
@@ -1748,6 +1715,39 @@ iXG: 1.39840801
 iFW: 50.0
 
 XG%: 0.62",New Jersey Devils
+NJD,3rd pair,Brendan Smith,31.0,14.073118279569892,0.0,1.0,1.0,1.94968814,46.0,0.6327879062405852,1.0,"Brendan Smith
+
+GP: 31.0
+
+TOI per game: 14.07
+
+G: 0.0
+
+A: 2.0
+
+Primary PTS: 1.0
+
+iXG: 1.94968814
+
+iFW: 46.0
+
+XG%: 0.63",Kevin Bahl,6.0,11.533333333333331,1.0,1.0,0.0,0.31867782,12.0,0.6882514309820101,2.0,"Kevin Bahl
+
+GP: 6.0
+
+TOI per game: 11.53
+
+G: 1.0
+
+A: 1.0
+
+Primary PTS: 2.0
+
+iXG: 0.31867782
+
+iFW: 12.0
+
+XG%: 0.69",New Jersey Devils
 NSH,1st pair,Roman Josi,30.0,25.545,6.0,8.0,9.0,8.02201959,168.0,0.4777932009672689,14.0,"Roman Josi
 
 GP: 30.0
@@ -1880,7 +1880,23 @@ iXG: 4.74532265
 iFW: 154.0
 
 XG%: 0.44",New York Islanders
-NYI,2nd pair,,,,,,,,,,,,Scott Mayfield,33.0,20.37272727272727,4.0,1.0,3.0,2.21099916,75.0,0.4505147579895808,5.0,"Scott Mayfield
+NYI,2nd pair,Sebastian Aho,29.0,15.355172413793104,3.0,3.0,2.0,1.89686652,49.0,0.4489651974973637,6.0,"Sebastian Aho
+
+GP: 29.0
+
+TOI per game: 15.36
+
+G: 3.0
+
+A: 5.0
+
+Primary PTS: 6.0
+
+iXG: 1.89686652
+
+iFW: 49.0
+
+XG%: 0.45",Scott Mayfield,33.0,20.37272727272727,4.0,1.0,3.0,2.21099916,75.0,0.4505147579895808,5.0,"Scott Mayfield
 
 GP: 33.0
 
@@ -2095,23 +2111,23 @@ iXG: 1.69494073
 iFW: 75.0
 
 XG%: 0.49",Ottawa Senators
-OTT,3rd pair,Erik Brannstrom,32.0,15.815104166666666,0.0,1.0,2.0,2.44617768,49.0,0.5845440608244363,1.0,"Erik Brannstrom
+OTT,3rd pair,Dillon Heatherington,,,,,,,,,,"Dillon Heatherington
 
-GP: 32.0
+GP: nan
 
-TOI per game: 15.82
+TOI per game: nan
 
-G: 0.0
+G: nan
 
-A: 3.0
+A: nan
 
-Primary PTS: 1.0
+Primary PTS: nan
 
-iXG: 2.44617768
+iXG: nan
 
-iFW: 49.0
+iFW: nan
 
-XG%: 0.58",Nick Holden,27.0,16.33703703703704,1.0,1.0,2.0,0.9139252,36.0,0.4914846439083294,2.0,"Nick Holden
+XG%: nan",Nick Holden,27.0,16.33703703703704,1.0,1.0,2.0,0.9139252,36.0,0.4914846439083294,2.0,"Nick Holden
 
 GP: 27.0
 
@@ -2705,23 +2721,23 @@ iXG: 2.61552849
 
 iFW: 75.0
 
-XG%: 0.54",Zach Bogosian,10.0,13.846666666666668,0.0,0.0,0.0,0.2988403599999999,9.0,0.4931414627073042,0.0,"Zach Bogosian
+XG%: 0.54",Cal Foote,16.0,14.744791666666666,1.0,1.0,1.0,0.65008476,19.0,0.4801058214913151,2.0,"Cal Foote
 
-GP: 10.0
+GP: 16.0
 
-TOI per game: 13.85
+TOI per game: 14.74
 
-G: 0.0
+G: 1.0
 
-A: 0.0
+A: 2.0
 
-Primary PTS: 0.0
+Primary PTS: 2.0
 
-iXG: 0.2988403599999999
+iXG: 0.65008476
 
-iFW: 9.0
+iFW: 19.0
 
-XG%: 0.49",Tampa Bay Lightning
+XG%: 0.48",Tampa Bay Lightning
 TOR,1st pair,Mark Giordano,33.0,19.73333333333333,1.0,4.0,4.0,1.92865937,56.0,0.594859005184047,5.0,"Mark Giordano
 
 GP: 33.0
@@ -2837,39 +2853,6 @@ iXG: 1.48630342
 
 iFW: 65.0
 
-XG%: 0.45",Tyler Myers,28.0,20.4375,0.0,4.0,2.0,2.3046387900000003,48.0,0.4308477789717699,4.0,"Tyler Myers
-
-GP: 28.0
-
-TOI per game: 20.44
-
-G: 0.0
-
-A: 6.0
-
-Primary PTS: 4.0
-
-iXG: 2.3046387900000003
-
-iFW: 48.0
-
-XG%: 0.43",Vancouver Canucks
-VAN,2nd pair,Oliver Ekman-Larsson,31.0,20.58709677419355,1.0,9.0,4.0,1.51222324,76.0,0.4521346089356789,10.0,"Oliver Ekman-Larsson
-
-GP: 31.0
-
-TOI per game: 20.59
-
-G: 1.0
-
-A: 13.0
-
-Primary PTS: 10.0
-
-iXG: 1.51222324
-
-iFW: 76.0
-
 XG%: 0.45",Luke Schenn,31.0,17.53440860215054,2.0,4.0,2.0,1.26640155,59.0,0.4552099767237292,6.0,"Luke Schenn
 
 GP: 31.0
@@ -2887,7 +2870,56 @@ iXG: 1.26640155
 iFW: 59.0
 
 XG%: 0.46",Vancouver Canucks
-VAN,3rd pair,Kyle Burroughs,16.0,17.908333333333335,2.0,0.0,0.0,0.34816878,18.0,0.4530655862558531,2.0,"Kyle Burroughs
+VAN,2nd pair,Oliver Ekman-Larsson,31.0,20.58709677419355,1.0,9.0,4.0,1.51222324,76.0,0.4521346089356789,10.0,"Oliver Ekman-Larsson
+
+GP: 31.0
+
+TOI per game: 20.59
+
+G: 1.0
+
+A: 13.0
+
+Primary PTS: 10.0
+
+iXG: 1.51222324
+
+iFW: 76.0
+
+XG%: 0.45",Tyler Myers,28.0,20.4375,0.0,4.0,2.0,2.3046387900000003,48.0,0.4308477789717699,4.0,"Tyler Myers
+
+GP: 28.0
+
+TOI per game: 20.44
+
+G: 0.0
+
+A: 6.0
+
+Primary PTS: 4.0
+
+iXG: 2.3046387900000003
+
+iFW: 48.0
+
+XG%: 0.43",Vancouver Canucks
+VAN,3rd pair,Riley Stillman,17.0,15.255882352941178,0.0,0.0,3.0,0.60437003,23.0,0.3825162866766662,0.0,"Riley Stillman
+
+GP: 17.0
+
+TOI per game: 15.26
+
+G: 0.0
+
+A: 3.0
+
+Primary PTS: 0.0
+
+iXG: 0.60437003
+
+iFW: 23.0
+
+XG%: 0.38",Kyle Burroughs,16.0,17.908333333333335,2.0,0.0,0.0,0.34816878,18.0,0.4530655862558531,2.0,"Kyle Burroughs
 
 GP: 16.0
 
@@ -2903,23 +2935,7 @@ iXG: 0.34816878
 
 iFW: 18.0
 
-XG%: 0.45",Ethan Bear,22.0,18.55,2.0,3.0,1.0,0.9513364,31.0,0.4594564307373456,5.0,"Ethan Bear
-
-GP: 22.0
-
-TOI per game: 18.55
-
-G: 2.0
-
-A: 4.0
-
-Primary PTS: 5.0
-
-iXG: 0.9513364
-
-iFW: 31.0
-
-XG%: 0.46",Vancouver Canucks
+XG%: 0.45",Vancouver Canucks
 VGK,1st pair,Alec Martinez,34.0,20.015686274509804,0.0,2.0,3.0,1.5623170000000002,46.0,0.5425364207803142,2.0,"Alec Martinez
 
 GP: 34.0
@@ -3052,23 +3068,23 @@ iXG: 1.1939032
 iFW: 53.0
 
 XG%: 0.5",Winnipeg Jets
-WPG,2nd pair,Brenden Dillon,32.0,20.136979166666663,0.0,4.0,5.0,1.55483241,56.0,0.5020013662119741,4.0,"Brenden Dillon
+WPG,2nd pair,Dylan Samberg,24.0,15.275694444444444,1.0,2.0,2.0,0.69453024,30.0,0.5174253591347256,3.0,"Dylan Samberg
 
-GP: 32.0
+GP: 24.0
 
-TOI per game: 20.14
+TOI per game: 15.28
 
-G: 0.0
+G: 1.0
 
-A: 9.0
+A: 4.0
 
-Primary PTS: 4.0
+Primary PTS: 3.0
 
-iXG: 1.55483241
+iXG: 0.69453024
 
-iFW: 56.0
+iFW: 30.0
 
-XG%: 0.5",Neal Pionk,32.0,21.711979166666666,5.0,3.0,6.0,2.31488538,83.0,0.4597039269328865,8.0,"Neal Pionk
+XG%: 0.52",Neal Pionk,32.0,21.711979166666666,5.0,3.0,6.0,2.31488538,83.0,0.4597039269328865,8.0,"Neal Pionk
 
 GP: 32.0
 
@@ -3085,23 +3101,23 @@ iXG: 2.31488538
 iFW: 83.0
 
 XG%: 0.46",Winnipeg Jets
-WPG,3rd pair,Dylan Samberg,24.0,15.275694444444444,1.0,2.0,2.0,0.69453024,30.0,0.5174253591347256,3.0,"Dylan Samberg
+WPG,3rd pair,Brenden Dillon,32.0,20.136979166666663,0.0,4.0,5.0,1.55483241,56.0,0.5020013662119741,4.0,"Brenden Dillon
 
-GP: 24.0
+GP: 32.0
 
-TOI per game: 15.28
+TOI per game: 20.14
 
-G: 1.0
+G: 0.0
 
-A: 4.0
+A: 9.0
 
-Primary PTS: 3.0
+Primary PTS: 4.0
 
-iXG: 0.69453024
+iXG: 1.55483241
 
-iFW: 30.0
+iFW: 56.0
 
-XG%: 0.52",Ville Heinola,3.0,13.583333333333334,0.0,0.0,0.0,0.0,0.0,0.5384296821566922,0.0,"Ville Heinola
+XG%: 0.5",Ville Heinola,3.0,13.583333333333334,0.0,0.0,0.0,0.0,0.0,0.5384296821566922,0.0,"Ville Heinola
 
 GP: 3.0
 
