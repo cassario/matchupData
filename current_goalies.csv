@@ -1,10 +1,10 @@
 team,pos,num,player,positions_played,age,handedness,ht,wt,gp,sv%,gsax,full
 COL,G,40,Alexandar Georgiev,G,26,L,"6'1""",178,31.0,0.898,-5.799999999999997,Colorado Avalanche
 COL,G,39,Pavel Francouz,G,32,R,"6'0""",179,20.0,0.918,2.509999999999998,Colorado Avalanche
-CHI,G,34,Petr Mrazek,G,30,L,"6'1""",190,20.0,0.888,-11.619999999999996,Chicago Blackhawks
 CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,1.0,0.786,-3.54,Chicago Blackhawks
+CHI,G,34,Petr Mrazek,G,30,L,"6'1""",190,20.0,0.888,-11.619999999999996,Chicago Blackhawks
 CBJ,G,40,Daniil Tarasov,G,23,L,"6'3""",154,4.0,0.937,2.619999999999999,Columbus Blue Jackets
-CBJ,G,73,Jet Greaves,G,21,L,"6'0""",180,,,,Columbus Blue Jackets
+CBJ,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,22.0,0.877,-13.150000000000006,Columbus Blue Jackets
 STL,G,50,Jordan Binnington,G,29,L,"6'1""",174,37.0,0.901,-8.200000000000003,St. Louis Blues
 STL,G,1,Thomas Greiss,G,36,L,"6'2""",232,31.0,0.891,-13.5,St. Louis Blues
 BOS,G,35,Linus Ullmark,G,29,L,"6'4""",215,40.0,0.914,3.4200000000000017,Boston Bruins
@@ -27,16 +27,16 @@ PHI,G,79,Carter Hart,G,24,L,"6'2""",181,45.0,0.905,-6.560000000000002,Philadelph
 PHI,G,33,Samuel Ersson,G,23,L,"6'2""",176,,,,Philadelphia Flyers
 VGK,G,36,Logan Thompson,G,25,R,"6'4""",190,17.0,0.918,1.9399999999999975,Vegas Golden Knights
 VGK,G,33,Adin Hill,G,26,L,"6'6""",202,25.0,0.906,-4.090000000000003,Vegas Golden Knights
-CAR,G,52,Pyotr Kochetkov,G,23,L,"6'3""",205,3.0,0.902,-0.96,Carolina Hurricanes
 CAR,G,32,Antti Raanta,G,33,L,"6'0""",195,27.0,0.913,4.210000000000001,Carolina Hurricanes
+CAR,G,52,Pyotr Kochetkov,G,23,L,"6'3""",205,3.0,0.902,-0.96,Carolina Hurricanes
 NYI,G,30,Ilya Sorokin,G,27,L,"6'2""",172,51.0,0.927,13.080000000000013,New York Islanders
 NYI,G,35,Cory Schneider,G,36,L,"6'3""",200,1.0,0.9,0.75,New York Islanders
 WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,65.0,0.91,15.610000000000014,Winnipeg Jets
 WPG,G,33,David Rittich,G,30,L,"6'3""",206,16.0,0.883,-7.200000000000003,Winnipeg Jets
 LAK,G,29,Pheonix Copley,G,30,L,"6'4""",200,2.0,0.878,-1.5099999999999998,Los Angeles Kings
 LAK,G,32,Jonathan Quick,G,36,L,"6'1""",216,45.0,0.909,17.340000000000003,Los Angeles Kings
-SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,54.0,0.89,-32.06999999999999,Seattle Kraken
 SEA,G,30,Martin Jones,G,32,L,"6'4""",190,34.0,0.9,-9.700000000000005,Seattle Kraken
+SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,54.0,0.89,-32.06999999999999,Seattle Kraken
 TBL,G,1,Brian Elliott,G,37,L,"6'2""",209,18.0,0.914,3.8500000000000014,Tampa Bay Lightning
 TBL,G,88,Andrei Vasilevskiy,G,28,L,"6'3""",216,62.0,0.917,28.41,Tampa Bay Lightning
 TOR,G,35,Ilya Samsonov,G,25,L,"6'3""",208,43.0,0.896,-11.400000000000006,Toronto Maple Leafs
