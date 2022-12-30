@@ -1,12 +1,5 @@
 game_id,matchup,home,date,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022020563,DET@BUF,BUF,12-29-2022,34,16,14,2,east,atlantic,none,5.5,DET,37,15,11,7,east,atlantic,none,4.0
-2022020564,MTL@FLA,FLA,12-29-2022,34,15,16,4,east,atlantic,none,5.5,MTL,33,15,17,3,east,atlantic,none,7.5
-2022020565,NYR@TBL,TBL,12-29-2022,43,21,11,1,east,atlantic,top3,3.0,NYR,43,19,12,5,east,metro,none,5.0
-2022020566,OTT@WSH,WSH,12-29-2022,44,20,13,4,east,metro,wc,3.5,OTT,33,15,16,3,east,atlantic,none,7.5
-2022020567,CBJ@NYI,NYI,12-29-2022,42,20,14,2,east,metro,none,6.0,CBJ,22,10,20,2,east,metro,none,8.0
-2022020568,CHI@STL,STL,12-29-2022,35,16,16,3,west,central,none,5.0,CHI,20,8,21,4,west,central,none,8.0
-2022020569,DAL@MIN,MIN,12-29-2022,42,20,12,2,west,central,top3,3.0,DAL,48,21,9,6,west,central,top3,1.0
-2022020570,VAN@WPG,WPG,12-29-2022,43,21,13,1,west,central,top3,2.0,VAN,35,16,15,3,west,pacific,none,6.0
-2022020571,LAK@COL,COL,12-29-2022,40,19,12,2,west,central,wc,4.0,LAK,46,20,12,6,west,pacific,top3,2.0
-2022020572,TOR@ARI,ARI,12-29-2022,29,12,16,5,west,central,none,7.0,TOR,50,22,7,6,east,atlantic,top3,2.0
-2022020573,PHI@SJS,SJS,12-29-2022,28,11,19,6,west,pacific,none,7.0,PHI,29,11,17,7,east,metro,none,7.0
+2022020574,NSH@ANA,ANA,12-30-2022,24,10,22,4,west,pacific,none,8.0,NSH,33,14,14,5,west,central,none,6.0
+2022020575,FLA@CAR,CAR,12-30-2022,52,23,6,6,east,metro,top3,1.0,FLA,36,16,16,4,east,atlantic,none,5.5
+2022020576,NJD@PIT,PIT,12-30-2022,44,19,10,6,east,metro,wc,5.0,NJD,46,22,11,2,east,metro,top3,2.0
+2022020577,EDM@SEA,SEA,12-30-2022,40,18,11,4,west,pacific,none,4.5,EDM,40,19,15,2,west,pacific,none,4.5
