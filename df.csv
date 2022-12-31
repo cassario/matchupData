@@ -1,5 +1,13 @@
 game_id,matchup,home,date,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022020574,NSH@ANA,ANA,12-30-2022,24,10,22,4,west,pacific,none,8.0,NSH,33,14,14,5,west,central,none,6.0
-2022020575,FLA@CAR,CAR,12-30-2022,52,23,6,6,east,metro,top3,1.0,FLA,36,16,16,4,east,atlantic,none,5.5
-2022020576,NJD@PIT,PIT,12-30-2022,44,19,10,6,east,metro,wc,5.0,NJD,46,22,11,2,east,metro,top3,2.0
-2022020577,EDM@SEA,SEA,12-30-2022,40,18,11,4,west,pacific,none,4.5,EDM,40,19,15,2,west,pacific,none,4.5
+2022020578,BUF@BOS,BOS,12-31-2022,59,28,4,3,east,atlantic,top3,1.0,BUF,36,17,14,2,east,atlantic,none,5.5
+2022020579,NSH@VGK,VGK,12-31-2022,50,24,12,2,west,pacific,top3,1.0,NSH,35,15,14,5,west,central,none,6.0
+2022020580,MTL@WSH,WSH,12-31-2022,45,20,13,5,east,metro,top3,3.0,MTL,33,15,18,3,east,atlantic,none,8.0
+2022020581,PHI@LAK,LAK,12-31-2022,48,21,12,6,west,pacific,top3,2.0,PHI,31,12,17,7,east,metro,none,7.0
+2022020582,ARI@TBL,TBL,12-31-2022,45,22,11,1,east,atlantic,top3,3.0,ARI,31,13,16,5,west,central,none,7.0
+2022020583,CHI@CBJ,CBJ,12-31-2022,22,10,21,2,east,metro,none,8.0,CHI,20,8,22,4,west,central,none,8.0
+2022020584,OTT@DET,DET,12-31-2022,37,15,12,7,east,atlantic,none,4.0,OTT,35,16,16,3,east,atlantic,none,7.0
+2022020585,TOR@COL,COL,12-31-2022,41,19,12,3,west,central,wc,4.0,TOR,50,22,8,6,east,atlantic,top3,2.0
+2022020586,SJS@DAL,DAL,12-31-2022,50,22,9,6,west,central,top3,1.0,SJS,29,11,19,7,west,pacific,none,7.0
+2022020587,VAN@CGY,CGY,12-31-2022,41,17,13,7,west,pacific,wc,4.0,VAN,35,16,16,3,west,pacific,none,6.0
+2022020588,WPG@EDM,EDM,12-31-2022,42,20,15,2,west,pacific,top3,3.0,WPG,45,22,13,1,west,central,top3,2.0
+2022020589,MIN@STL,STL,12-31-2022,37,17,16,3,west,central,none,5.0,MIN,42,20,13,2,west,central,top3,3.0
