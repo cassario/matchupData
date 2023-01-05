@@ -1,7 +1,8 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
+"Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,38.0,9.0,0.5870130201846745
 "Jan. 2, 2023",STL,Joel Hofer,G,22,Standard,1-way,2,775000,1550000,,,
-"Jan. 2, 2023",TBL,Nick Perbix,RD,25,Standard,1-way,2,1125000,2250000,30.0,5.0,0.5281180599586776
-"Jan. 1, 2023",DAL,Joe Pavelski,"RW, C",38,35+,1-way,1,3500000,5500000,39.0,24.0,0.5901930562562548
+"Jan. 2, 2023",TBL,Nick Perbix,RD,25,Standard,1-way,2,1125000,2250000,31.0,5.0,0.5340204841149105
+"Jan. 1, 2023",DAL,Joe Pavelski,"RW, C",38,35+,1-way,1,3500000,5500000,40.0,24.0,0.5906503805331723
 "Dec. 31, 2022",PHI,Ethan Samson,RD,18,Entry-Level,2-way,3,876667,2700000,,,
 "Dec. 30, 2022",WPG,Danny Zhilkin,C,18,Entry-Level,2-way,3,860000,2740000,,,
 "Dec. 30, 2022",ANA,Gage Alexander,G,19,Entry-Level,2-way,3,810000,2430000,,,
@@ -16,7 +17,7 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Dec. 10, 2022",VGK,Jakub Brabenec,C,18,Entry-Level,2-way,3,846667,2540000,,,
 "Dec. 1, 2022",CBJ,James Malatesta,LW,19,Entry-Level,2-way,3,870833,2637500,,,
 "Dec. 1, 2022",CBJ,Luca Del Bel Belluz,C,18,Entry-Level,2-way,3,923333,2850000,,,
-"Nov. 29, 2022",DAL,Roope Hintz,"C, LW",26,Standard,1-way,8,8450000,67600000,38.0,34.0,0.5917673997361158
+"Nov. 29, 2022",DAL,Roope Hintz,"C, LW",26,Standard,1-way,8,8450000,67600000,39.0,34.0,0.5926627226906034
 "Nov. 28, 2022",COL,Alex Galchenyuk,"LW, C, RW",28,Standard,2-way,1,750000,750000,4.0,0.0,0.194569972924436
 "Nov. 25, 2022",CBJ,Jordan Dumais,RW,18,Entry-Level,2-way,3,923333,2850000,,,
 "Nov. 23, 2022",CAR,Pyotr Kochetkov,G,24,Standard,1-way,4,2000000,8000000,,,
@@ -49,4 +50,3 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Oct. 9, 2022",TBL,Pierre-Cedric Labrie,LW,35,35+,2-way,1,770800,1270800,,,
 "Oct. 9, 2022",NYR,Jimmy Vesey,"RW, LW",29,Standard,1-way,1,750000,750000,38.0,9.0,0.5870130201846745
 "Oct. 9, 2022",TOR,Zach Aston-Reese,"LW, RW",27,Standard,1-way,1,840630,840630,36.0,3.0,0.4423492807950541
-"Oct. 7, 2022",CGY,MacKenzie Weegar,LD/RD,29,Standard,1-way,8,6250000,50000000,38.0,5.0,0.5502556016317052
