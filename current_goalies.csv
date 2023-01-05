@@ -17,8 +17,8 @@ WSH,G,35,Darcy Kuemper,G,32,L,"6'5""",215,56.0,0.922,20.94999999999999,Washingto
 WSH,G,79,Charlie Lindgren,G,29,R,"6'1""",182,5.0,0.958,4.52,Washington Capitals
 ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203,51.0,0.9,-19.72,Arizona Coyotes
 ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,2.0,0.906,-0.2699999999999996,Arizona Coyotes
-NJD,G,29,Mackenzie Blackwood,G,26,L,"6'4""",225,24.0,0.892,-11.170000000000002,New Jersey Devils
 NJD,G,41,Vitek Vanecek,G,26,L,"6'1""",180,41.0,0.91,-1.7900000000000065,New Jersey Devils
+NJD,G,29,Mackenzie Blackwood,G,26,L,"6'4""",225,24.0,0.892,-11.170000000000002,New Jersey Devils
 ANA,G,36,John Gibson,G,29,L,"6'2""",215,55.0,0.904,-14.78,Anaheim Ducks
 ANA,G,41,Anthony Stolarz,G,28,L,"6'6""",240,27.0,0.919,-0.2800000000000011,Anaheim Ducks
 CGY,G,25,Jacob Markstrom,G,32,L,"6'6""",206,62.0,0.922,12.129999999999995,Calgary Flames
@@ -51,15 +51,15 @@ NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,67.0,0.918,20.69,Nashville Predators
 NSH,G,32,Kevin Lankinen,G,27,L,"6'2""",185,31.0,0.89,-27.209999999999997,Nashville Predators
 NYR,G,31,Igor Shesterkin,G,27,L,"6'2""",192,53.0,0.935,34.099999999999994,New York Rangers
 NYR,G,41,Jaroslav Halak,G,37,L,"5'11""",185,17.0,0.902,-0.0399999999999991,New York Rangers
+DET,G,35,Ville Husso,G,27,L,"6'2""",205,39.0,0.921,14.950000000000005,Detroit Red Wings
 DET,G,45,Magnus Hellberg,G,31,L,"6'5""",190,,,,Detroit Red Wings
-DET,G,39,Alex Nedeljkovic,G,26,L,"6'0""",189,59.0,0.901,-6.930000000000007,Detroit Red Wings
 BUF,G,1,Ukko-Pekka Luukkonen,G,23,L,"6'4""",190,9.0,0.917,-0.4499999999999993,Buffalo Sabres
 BUF,G,41,Craig Anderson,G,41,L,"6'2""",186,31.0,0.897,-8.689999999999998,Buffalo Sabres
 OTT,G,31,Anton Forsberg,G,30,L,"6'3""",192,45.0,0.916,6.1200000000000045,Ottawa Senators
 OTT,G,33,Cam Talbot,G,35,L,"6'4""",196,48.0,0.911,-5.099999999999994,Ottawa Senators
 SJS,G,47,James Reimer,G,34,L,"6'2""",220,47.0,0.913,0.5999999999999943,San Jose Sharks
 SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,35.0,0.911,4.379999999999996,San Jose Sharks
-DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,47.0,0.915,1.7999999999999972,Dallas Stars
 DAL,G,41,Scott Wedgewood,G,30,L,"6'0""",194,36.0,0.91,1.9099999999999968,Dallas Stars
-MIN,G,29,Marc-Andre Fleury,G,38,L,"6'2""",185,55.0,0.907,-18.120000000000005,Minnesota Wild
+DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,47.0,0.915,1.7999999999999972,Dallas Stars
 MIN,G,32,Filip Gustavsson,G,24,L,"6'2""",185,17.0,0.893,-5.670000000000002,Minnesota Wild
+MIN,G,29,Marc-Andre Fleury,G,38,L,"6'2""",185,55.0,0.907,-18.120000000000005,Minnesota Wild
