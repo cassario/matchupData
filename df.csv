@@ -1,11 +1,7 @@
 game_id,matchup,home,date,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022020612,ARI@PHI,PHI,01-05-2023,35,14,17,7,east,metro,none,7.0,ARI,31,13,18,5,west,central,none,7.0
-2022020613,NYR@MTL,MTL,01-05-2023,33,15,20,3,east,atlantic,none,8.0,NYR,48,21,12,6,east,metro,wc,3.5
-2022020614,NSH@CAR,CAR,01-05-2023,56,25,7,6,east,metro,top3,1.0,NSH,38,16,14,6,west,central,none,6.0
-2022020615,SEA@TOR,TOR,01-05-2023,53,23,8,7,east,atlantic,top3,2.0,SEA,44,20,12,4,west,pacific,top3,3.0
-2022020616,STL@NJD,NJD,01-05-2023,51,24,11,3,east,metro,top3,2.0,STL,39,18,17,3,west,central,none,5.0
-2022020617,WSH@CBJ,CBJ,01-05-2023,24,11,23,2,east,metro,none,8.0,WSH,48,21,13,6,east,metro,wc,3.5
-2022020618,NYI@EDM,EDM,01-05-2023,42,20,17,2,west,pacific,wc,5.0,NYI,46,22,15,2,east,metro,none,5.0
-2022020619,COL@VAN,VAN,01-05-2023,35,16,18,3,west,pacific,none,6.0,COL,41,19,14,3,west,central,none,4.0
-2022020620,PIT@VGK,VGK,01-05-2023,54,26,12,2,west,pacific,top3,1.0,PIT,44,19,12,6,east,metro,none,6.0
-2022020621,BOS@LAK,LAK,01-05-2023,50,22,13,6,west,pacific,top3,2.0,BOS,62,29,4,4,east,atlantic,top3,1.0
+2022020622,NSH@WSH,WSH,01-06-2023,50,22,13,6,east,metro,wc,3.5,NSH,40,17,14,6,west,central,none,6.0
+2022020623,FLA@DET,DET,01-06-2023,39,16,13,7,east,atlantic,none,5.5,FLA,38,17,18,4,east,atlantic,none,7.0
+2022020624,TBL@WPG,WPG,01-06-2023,49,24,13,1,west,central,top3,2.0,TBL,49,24,12,1,east,atlantic,top3,3.0
+2022020625,ARI@CHI,CHI,01-06-2023,20,8,25,4,west,central,none,8.0,ARI,31,13,19,5,west,central,none,7.0
+2022020626,NYI@CGY,CGY,01-06-2023,43,18,14,7,west,pacific,wc,5.0,NYI,46,22,16,2,east,metro,none,5.0
+2022020627,SJS@ANA,ANA,01-06-2023,26,11,24,4,west,pacific,none,8.0,SJS,31,12,20,7,west,pacific,none,7.0
