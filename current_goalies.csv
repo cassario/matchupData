@@ -1,7 +1,7 @@
 team,pos,num,player,positions_played,age,handedness,ht,wt,w,l,starter,gp,sv%,gsax,full
 COL,G,40,Alexandar Georgiev,G,26,L,"6'1""",178,,,,28.0,0.915,6.239999999999995,Colorado Avalanche
 COL,G,35,Jonas Johansson,G,27,L,"6'4""",205,,,,1.0,1.0,0.69,Colorado Avalanche
-CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,,,,12.0,0.921,4.850000000000001,Chicago Blackhawks
+CHI,G,32,Alex Stalock,G,35,L,"6'0""",200, 5 ,5,starter,12.0,0.921,4.850000000000001,Chicago Blackhawks
 CHI,G,34,Petr Mrazek,G,30,L,"6'1""",190,,,,14.0,0.878,-12.15,Chicago Blackhawks
 CBJ,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,,,,16.0,0.911,5.880000000000003,Columbus Blue Jackets
 CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181, 4 ,9,starter,15.0,0.861,-20.25,Columbus Blue Jackets
@@ -11,19 +11,19 @@ BOS,G,35,Linus Ullmark,G,29,L,"6'4""",215,,,,25.0,0.939,21.55,Boston Bruins
 BOS,G,1,Jeremy Swayman,G,24,L,"6'2""",187, 8 ,3,starter,15.0,0.9,2.8599999999999994,Boston Bruins
 MTL,G,34,Jake Allen,G,32,L,"6'2""",195,,,,26.0,0.894,1.75,Montreal Canadiens
 MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,,,,,,,Montreal Canadiens
-VAN,G,60,Collin Delia,G,28,L,"6'2""",208,,,,4.0,0.925,5.08,Vancouver Canucks
-VAN,G,30,Spencer Martin,G,27,L,"6'3""",205, 11 ,7,starter,21.0,0.883,-11.0,Vancouver Canucks
+VAN,G,60,Collin Delia,G,28,L,"6'2""",208, 3 ,1,starter,4.0,0.925,5.08,Vancouver Canucks
+VAN,G,30,Spencer Martin,G,27,L,"6'3""",205,,,,21.0,0.883,-11.0,Vancouver Canucks
 WSH,G,35,Darcy Kuemper,G,32,L,"6'5""",215, 11 ,9,starter,25.0,0.916,4.349999999999994,Washington Capitals
 WSH,G,79,Charlie Lindgren,G,29,R,"6'1""",182,,,,19.0,0.912,4.640000000000001,Washington Capitals
 ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,,,,11.0,0.885,-4.329999999999998,Arizona Coyotes
-ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203,,,,28.0,0.903,11.769999999999996,Arizona Coyotes
+ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203, 11 ,12,starter,28.0,0.903,11.769999999999996,Arizona Coyotes
 NJD,G,41,Vitek Vanecek,G,26,L,"6'1""",180,,,,26.0,0.914,2.3999999999999986,New Jersey Devils
 NJD,G,29,Mackenzie Blackwood,G,26,L,"6'4""",225,,,,11.0,0.888,-0.5700000000000003,New Jersey Devils
 ANA,G,41,Anthony Stolarz,G,28,L,"6'6""",240,,,,14.0,0.888,-1.9200000000000017,Anaheim Ducks
 ANA,G,36,John Gibson,G,29,L,"6'2""",215,,,,26.0,0.901,-5.319999999999993,Anaheim Ducks
 CGY,G,25,Jacob Markstrom,G,32,L,"6'6""",206,,,,28.0,0.897,4.180000000000007,Calgary Flames
 CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,,,,,,,Calgary Flames
-PHI,G,79,Carter Hart,G,24,L,"6'2""",181,,,,28.0,0.911,12.299999999999995,Philadelphia Flyers
+PHI,G,79,Carter Hart,G,24,L,"6'2""",181, 11 ,11,starter,28.0,0.911,12.299999999999995,Philadelphia Flyers
 PHI,G,33,Samuel Ersson,G,23,L,"6'2""",176,,,,4.0,0.905,0.8800000000000008,Philadelphia Flyers
 VGK,G,36,Logan Thompson,G,25,R,"6'4""",190,,,,28.0,0.915,1.8799999999999957,Vegas Golden Knights
 VGK,G,33,Adin Hill,G,26,L,"6'6""",202,,,,14.0,0.904,-4.940000000000001,Vegas Golden Knights
@@ -43,8 +43,8 @@ TOR,G,35,Ilya Samsonov,G,25,L,"6'3""",208,,,,15.0,0.914,5.719999999999999,Toront
 TOR,G,30,Matt Murray,G,28,L,"6'4""",178, 9 ,4,starter,15.0,0.913,3.799999999999997,Toronto Maple Leafs
 EDM,G,74,Stuart Skinner,G,24,L,"6'4""",207,,,,24.0,0.914,2.75,Edmonton Oilers
 EDM,G,36,Jack Campbell,G,30,L,"6'2""",197,,,,18.0,0.878,-11.950000000000005,Edmonton Oilers
+FLA,G,30,Spencer Knight,G,21,L,"6'3""",193, 9 ,6,starter,18.0,0.908,-0.3100000000000023,Florida Panthers
 FLA,G,72,Sergei Bobrovsky,G,34,L,"6'2""",187,,,,24.0,0.895,-1.6099999999999994,Florida Panthers
-FLA,G,30,Spencer Knight,G,21,L,"6'3""",193,,,,18.0,0.908,-0.3100000000000023,Florida Panthers
 PIT,G,1,Casey DeSmith,G,31,L,"6'0""",181,,,,14.0,0.907,-2.1000000000000014,Pittsburgh Penguins
 PIT,G,40,Dustin Tokarski,G,33,L,"6'0""",205,,,,,,,Pittsburgh Penguins
 NSH,G,32,Kevin Lankinen,G,27,L,"6'2""",185,,,,10.0,0.918,3.289999999999999,Nashville Predators
