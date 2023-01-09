@@ -53,8 +53,8 @@ Pavel Mintyukov,ANA,,,,,,,,,,,LD,19,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950
 Mason McTavish,ANA,,,41.0,14.603252032520324,9.0,11.0,26.0,20.0,9.54568225,0.5274266701928718,"C, LW",19,3,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,894167,0,0,0,Anaheim Ducks,2,1,0,-1,-2,-3
 Lawson Crouse,ARI,,,38.0,17.816228070175438,14.0,6.0,22.0,20.0,11.49236023,0.4321473911361765,"LW, RW",25,5,,Trade,NHL,0.052000000000000005,UFA,4300000,4300000,4300000,4300000,4300000,0,Arizona Coyotes,4,3,2,1,0,-1
 Zack Kassian,ARI,,,22.0,9.68939393939394,1.0,0.0,1.0,1.0,1.18533975,0.3066433388557648,RW,31,2,,Trade,NHL,0.039,UFA,3200000,3200000,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
-David Tendeck,ARI,,,,,,,,,,,G,23,1,ELC,Draft,Minor,0.0,RFA,783333,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
-Ivan Prosvetov,ARI,,,,,,,,,,,G,23,1,,Draft,Emerg. Loan,0.009000000000000001,RFA,750000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
+Ivan Prosvetov,ARI,,,,,,,,,,,G,23,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
+Connor Ingram,ARI,,,,,,,,,,,G,25,1,,Waivers claim,NHL,0.009000000000000001,RFA,733333,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Karel Vejmelka,ARI,,,,,,,,,,,G,26,3,,Signed,NHL,0.033,UFA,2725000,2725000,2725000,0,0,0,Arizona Coyotes,2,1,0,-1,-2,-3
 J.J. Moser,ARI,,,39.0,21.123931623931625,5.0,5.0,18.0,10.0,1.87471075,0.354714905876746,LD,22,2,ELC,Draft,NHL,0.011000000000000001,RFA,886667,886667,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
 Troy Stecher,ARI,,,39.0,16.28717948717949,0.0,2.0,2.0,2.0,1.3314623,0.3020102358560821,RD,28,1,,Signed,NHL,0.015,UFA,1250000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
@@ -63,7 +63,7 @@ Juuso Valimaki,ARI,,,35.0,15.05904761904762,2.0,4.0,10.0,6.0,1.70501023,0.506370
 Patrik Nemeth,ARI,,,34.0,15.687745098039215,0.0,1.0,3.0,1.0,0.79341388,0.2940907174313473,LD,30,2,M-NTC,Trade,NHL,0.03,UFA,2500000,2500000,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
 Shayne Gostisbehere,ARI,,,39.0,22.373076923076923,9.0,11.0,26.0,20.0,7.602894819999999,0.5261587588894368,LD/RD,29,1,,Trade,NHL,0.055,UFA,4500000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Liam O'Brien,ARI,,,28.0,12.024404761904762,1.0,2.0,5.0,3.0,2.41481909,0.3702285056364337,LW,28,2,,Signed,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
-Connor Ingram,ARI,,,,,,,,,,,G,25,1,,Waivers claim,NHL,0.009000000000000001,RFA,733333,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
+Andrew Ladd,ARI,,,,,,,,,,,LW,37,1,M-NTC,Trade,IR,0.067,UFA,5500000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Matias Maccelli,ARI,,,30.0,15.102222222222222,3.0,10.0,22.0,13.0,2.34610452,0.4886788944934308,LW,22,1,ELC,Draft,NHL,0.01,RFA,853333,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Dylan Guenther,ARI,,,22.0,12.34848484848485,3.0,3.0,11.0,6.0,3.14690511,0.4158397997590218,RW,19,3,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,894167,0,0,0,Arizona Coyotes,2,1,0,-1,-2,-3
 Nick Bjugstad,ARI,,,39.0,16.578205128205127,10.0,5.0,17.0,15.0,7.97666567,0.3752116261557504,"C, RW",30,1,,Signed,NHL,0.011000000000000001,UFA,900000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
@@ -75,10 +75,11 @@ Clayton Keller,ARI,,,39.0,20.64017094017094,14.0,16.0,37.0,30.0,10.01037244,0.51
 Nick Schmaltz,ARI,,,23.0,18.639855072463767,7.0,4.0,19.0,11.0,5.72833075,0.5741560880448262,"RW, C",26,4,,Trade,NHL,0.071,UFA,5850000,5850000,5850000,5850000,0,0,Arizona Coyotes,3,2,1,0,-1,-2
 Jon Gillies,ARI,,,,,,,,,,,G,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Jack McBain,ARI,,,39.0,13.677777777777775,6.0,1.0,9.0,7.0,6.02839508,0.2996539384473261,C,23,1,ELC,Signed,NHL,0.011000000000000001,RFA,883750,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
-Andrew Ladd,ARI,,,,,,,,,,,LW,37,1,M-NTC,Trade,IR,0.067,UFA,5500000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
-Jakob Chychrun,ARI,,,23.0,22.710144927536238,5.0,5.0,18.0,10.0,6.76299541,0.567179768653594,LD/RD,24,3,,Draft,NHL,0.055999999999999994,UFA,4600000,4600000,4600000,0,0,0,Arizona Coyotes,2,1,0,-1,-2,-3
-Anson Thornton,ARI,,,,,,,,,,,G,19,3,ELC,Signed,Junior,0.0,RFA,807778,807778,807778,0,0,0,Arizona Coyotes,2,1,0,-1,-2,-3
 Bryan Little,ARI,,,,,,,,,,,"C, RW",35,2,M-NTC,Trade,IR,0.064,UFA,5291667,5291667,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
+Jakob Chychrun,ARI,,,23.0,22.710144927536238,5.0,5.0,18.0,10.0,6.76299541,0.567179768653594,LD/RD,24,3,,Draft,NHL,0.055999999999999994,UFA,4600000,4600000,4600000,0,0,0,Arizona Coyotes,2,1,0,-1,-2,-3
+Conor Geekie,ARI,,,,,,,,,,,C,18,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0,Arizona Coyotes,2,1,0,-1,-2,-3
+David Tendeck,ARI,,,,,,,,,,,G,23,1,ELC,Draft,Minor,0.0,RFA,783333,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
+Cam Dineen,ARI,,,,,,,,,,,LD,24,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Ronald Knot,ARI,,,,,,,,,,,D,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Vladislav Kolyachonok,ARI,,,,,,,,,,,LD/RD,21,2,ELC,Trade,Minor,0.0,RFA,789167,789167,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
 Victor Soderstrom,ARI,,,,,,,,,,,RD,21,2,ELC,Draft,Minor,0.0,RFA,863333,863333,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
@@ -87,17 +88,16 @@ Dysin Mayo,ARI,,,13.0,11.964102564102564,0.0,0.0,0.0,0.0,0.47439588,0.2838666899
 Maveric Lamoureux,ARI,,,,,,,,,,,RD,18,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0,Arizona Coyotes,2,1,0,-1,-2,-3
 Bokondji Imama,ARI,,,,,,,,,,,LW,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Laurent Dauphin,ARI,,,3.0,9.083333333333334,0.0,0.0,0.0,0.0,0.34152386,0.2659704509185908,C,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
-Michael Carcone,ARI,,,6.0,13.18888888888889,2.0,0.0,2.0,2.0,0.88378052,0.5081254864348563,"LW, C",26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
-Cam Dineen,ARI,,,,,,,,,,,LD,24,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
-Nathan Smith,ARI,,,,,,,,,,,C,24,1,ELC,Trade,Minor,0.0,RFA,883750,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
+Anson Thornton,ARI,,,,,,,,,,,G,19,3,ELC,Signed,Junior,0.0,RFA,807778,807778,807778,0,0,0,Arizona Coyotes,2,1,0,-1,-2,-3
+Curtis Douglas,ARI,,,,,,,,,,,C,22,2,ELC,Trade,Minor,0.0,RFA,837500,837500,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
+Jean-Sebastien Dea,ARI,,,,,,,,,,,C,28,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
 Jan Jenik,ARI,,,1.0,3.983333333333333,0.0,0.0,0.0,0.0,0.0,0.4929099888692566,C,22,1,ELC,Draft,Minor,0.0,RFA,795000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Ryan McGregor,ARI,,,,,,,,,,,C,23,1,ELC,Signed,Minor,0.0,RFA,803333,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Ben McCartney,ARI,,,,,,,,,,,LW,21,2,ELC,Draft,Minor,0.0,RFA,813333,813333,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
 Liam Kirk,ARI,,,,,,,,,,,C,23,2,ELC,Draft,Loan,0.0,RFA,813333,813333,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
 Milos Kelemen,ARI,,,,,,,,,,,RW,23,2,ELC,Signed,Minor,0.0,RFA,817500,817500,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
-Curtis Douglas,ARI,,,,,,,,,,,C,22,2,ELC,Trade,Minor,0.0,RFA,837500,837500,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
-Jean-Sebastien Dea,ARI,,,,,,,,,,,C,28,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0,Arizona Coyotes,1,0,-1,-2,-3,-4
-Conor Geekie,ARI,,,,,,,,,,,C,18,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0,Arizona Coyotes,2,1,0,-1,-2,-3
+Michael Carcone,ARI,,,6.0,13.18888888888889,2.0,0.0,2.0,2.0,0.88378052,0.5081254864348563,"LW, C",26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
+Nathan Smith,ARI,,,,,,,,,,,C,24,1,ELC,Trade,Minor,0.0,RFA,883750,0,0,0,0,0,Arizona Coyotes,0,-1,-2,-3,-4,-5
 Matt Grzelcyk,BOS,,,36.0,17.10601851851852,1.0,5.0,12.0,6.0,1.76341365,0.5361458412400689,LD,29,2,,Draft,NHL,0.045,UFA,3687500,3687500,0,0,0,0,Boston Bruins,1,0,-1,-2,-3,-4
 Derek Forbort,BOS,,,29.0,18.082183908045977,2.0,4.0,7.0,6.0,0.58420214,0.411839512753507,LD,30,2,M-NTC,Signed,NHL,0.036000000000000004,UFA,3000000,3000000,0,0,0,0,Boston Bruins,1,0,-1,-2,-3,-4
 Jakub Zboril,BOS,,,14.0,12.86904761904762,1.0,0.0,1.0,1.0,0.47671591,0.4722131821151251,LD/RD,25,2,,Draft,NHL,0.013999999999999999,UFA,1137500,1137500,0,0,0,0,Boston Bruins,1,0,-1,-2,-3,-4
@@ -678,33 +678,34 @@ Samuel Helenius,LAK,,,,,,,,,,,C,20,3,ELC,Draft,Minor,0.0,RFA,828333,828333,82833
 Martin Chromiak,LAK,,,,,,,,,,,RW,20,3,ELC,Draft,Minor,0.0,RFA,820000,820000,820000,0,0,0,Los Angeles Kings,2,1,0,-1,-2,-3
 Samuel Fagemo,LAK,,,3.0,8.655555555555557,1.0,1.0,2.0,2.0,0.2176866,0.3973813466588747,"LW, RW",22,1,ELC,Draft,Minor,0.0,RFA,795000,0,0,0,0,0,Los Angeles Kings,0,-1,-2,-3,-4,-5
 Francesco Pinelli,LAK,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,867500,867500,867500,0,0,0,Los Angeles Kings,2,1,0,-1,-2,-3
-Zane McIntyre,MIN,,,,,,,,,,,G,30,1,,Signed,Emerg. Loan,0.009000000000000001,UFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
-Samuel Walker,MIN,,,6.0,9.827777777777778,1.0,0.0,1.0,1.0,1.2096785799999998,0.6477427044964833,C,23,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
+Pavel Novak,MIN,,,,,,,,,,,RW,20,3,ELC,Draft,SOIR,,RFA,0,846667,846667,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
+Damien Giroux,MIN,,,,,,,,,,,C,22,1,ELC,Draft,Minor,0.0,RFA,818333,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
 Liam Ã–hgren,MIN,,,,,,,,,,,LW,18,3,ELC,Draft,Minor,0.0,RFA,950000,950000,950000,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
 Vladislav Firstov,MIN,,,,,,,,,,,LW,21,3,ELC,Draft,Loan,0.0,RFA,925000,925000,925000,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
 Adam Beckman,MIN,,,6.0,10.138888888888888,0.0,0.0,0.0,0.0,0.98738579,0.4321927053707314,LW,21,2,ELC,Draft,Minor,0.0,RFA,894167,894167,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
 Marco Rossi,MIN,,,16.0,12.439583333333331,0.0,1.0,1.0,1.0,1.4162707,0.4328695419719657,C,21,3,ELC,Draft,Minor,0.0,RFA,863333,863333,863333,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
 Michael Milne,MIN,,,,,,,,,,,LW,20,3,ELC,Draft,Minor,0.0,RFA,861667,861667,861667,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
 Sam Hentges,MIN,,,,,,,,,,,C,23,2,ELC,Draft,Minor,0.0,RFA,855000,855000,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
-Nick Swaney,MIN,,,,,,,,,,,RW,25,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
-Steven Fogarty,MIN,,,2.0,10.316666666666666,0.0,0.0,0.0,0.0,0.0928336,0.6350076000382031,"C, RW",29,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
+Samuel Walker,MIN,,,6.0,9.827777777777778,1.0,0.0,1.0,1.0,1.2096785799999998,0.6477427044964833,C,23,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
+Brandon Baddock,MIN,,,,,,,,,,,"LW, C",27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
 Nicolas Petan,MIN,,,,,,,,,,,"C, LW, RW",27,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
 Joseph Cramarossa,MIN,,,4.0,7.795833333333332,1.0,0.0,1.0,1.0,0.21581939,0.2360518462207548,C,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
 Mitchell Chaffee,MIN,,,,,,,,,,,RW,24,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
-Brandon Baddock,MIN,,,,,,,,,,,"LW, C",27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
+Nick Swaney,MIN,,,,,,,,,,,RW,25,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
 Carson Lambos,MIN,,,,,,,,,,,LD,19,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
 Ryan O'Rourke,MIN,,,,,,,,,,,LD,20,3,ELC,Draft,Minor,0.0,RFA,855833,855833,855833,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
 Simon Johansson,MIN,,,,,,,,,,,RD,23,2,ELC,Draft,Minor,0.0,RFA,855000,855000,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
 Daemon Hunt,MIN,,,,,,,,,,,LD,20,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
+Joe Hicketts,MIN,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
 Filip Gustavsson,MIN,,,,,,,,,,,G,24,1,,Trade,NHL,0.01,RFA,787500,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
-Damien Giroux,MIN,,,,,,,,,,,C,22,1,ELC,Draft,Minor,0.0,RFA,818333,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
+Steven Fogarty,MIN,,,2.0,10.316666666666666,0.0,0.0,0.0,0.0,0.0928336,0.6350076000382031,"C, RW",29,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
 Marc-Andre Fleury,MIN,,,,,,,,,,,G,38,2,35+NMC,Trade,NHL,0.042,UFA,3500000,3500000,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
 Frederick Gaudreau,MIN,,,39.0,15.87863247863248,9.0,4.0,18.0,13.0,8.2554681,0.4509916977509963,"C, LW",29,1,,Signed,NHL,0.015,UFA,1200000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
 Jon Merrill,MIN,,,35.0,15.946666666666667,1.0,4.0,8.0,5.0,1.49721642,0.4354123742626309,LD,30,3,,Signed,NHL,0.015,UFA,1200000,1200000,1200000,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
-Jesper Wallstedt,MIN,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,925000,925000,925000,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
-Joe Hicketts,MIN,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
+Hunter Jones,MIN,,,,,,,,,,,G,22,1,ELC,Draft,Minor,0.0,RFA,825833,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
 Dakota Mermis,MIN,,,,,,,,,,,LD/RD,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
 Andrej Sustr,MIN,,,,,,,,,,,RD,32,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
+Jesper Wallstedt,MIN,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,925000,925000,925000,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
 Kirill Kaprizov,MIN,,,39.0,20.81623931623932,23.0,19.0,48.0,42.0,19.44597152,0.6528720335472112,"LW, RW",25,4,,Draft,NHL,0.109,UFA,9000000,9000000,9000000,9000000,0,0,Minnesota Wild,3,2,1,0,-1,-2
 Mats Zuccarello,MIN,,,37.0,20.324324324324323,16.0,16.0,40.0,32.0,10.55371317,0.6396640380051615,"RW, LW",35,2,"M-NTC, NMC",Signed,NHL,0.073,UFA,6000000,6000000,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
 Joel Eriksson Ek,MIN,,,39.0,19.47435897435897,14.0,9.0,31.0,23.0,15.66442479,0.5646324370916717,C,25,7,,Draft,NHL,0.064,UFA,5250000,5250000,5250000,5250000,5250000,5250000,Minnesota Wild,6,5,4,3,2,1
@@ -723,8 +724,7 @@ Matt Dumba,MIN,,,39.0,21.114102564102566,4.0,5.0,11.0,9.0,2.77824759,0.424999116
 Jacob Middleton,MIN,,,,,,,,,,,LD,27,3,,Trade,NHL,0.03,UFA,2450000,2450000,2450000,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
 Alex Goligoski,MIN,,,17.0,16.897058823529413,1.0,1.0,3.0,2.0,1.07402595,0.4915043887382066,LD/RD,37,2,35+NMC,Signed,NHL,0.024,UFA,2000000,2000000,0,0,0,0,Minnesota Wild,1,0,-1,-2,-3,-4
 Calen Addison,MIN,,,38.0,16.63464912280702,3.0,10.0,21.0,13.0,1.46239412,0.6600421325193413,RD,22,1,ELC,Trade,NHL,0.01,RFA,795000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
-Pavel Novak,MIN,,,,,,,,,,,RW,20,3,ELC,Draft,SOIR,,RFA,0,846667,846667,0,0,0,Minnesota Wild,2,1,0,-1,-2,-3
-Hunter Jones,MIN,,,,,,,,,,,G,22,1,ELC,Draft,Minor,0.0,RFA,825833,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
+Zane McIntyre,MIN,,,,,,,,,,,G,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0,Minnesota Wild,0,-1,-2,-3,-4,-5
 Evgeni Dadonov,MTL,,,,,,,,,,,"LW, RW",33,1,M-NTC,Trade,NHL,0.061,UFA,5000000,0,0,0,0,0,Montreal Canadiens,0,-1,-2,-3,-4,-5
 Kaiden Guhle,MTL,,,36.0,20.77314814814815,2.0,7.0,14.0,9.0,1.70474288,0.3308611375293504,LD/RD,20,3,ELC,Draft,IR,0.01,RFA,863333,863333,863333,0,0,0,Montreal Canadiens,2,1,0,-1,-2,-3
 Michael Matheson,MTL,,,,,,,,,,,LD,28,4,M-NTC,Trade,IR,0.059000000000000004,UFA,4875000,4875000,4875000,4875000,0,0,Montreal Canadiens,3,2,1,0,-1,-2
