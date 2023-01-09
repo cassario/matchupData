@@ -1,641 +1,641 @@
-label,value,team,situation,n_games
-Goaltending,0.33,ANA,5on5,all
-Offense,0.06,ANA,5on5,all
-Defense,0.03,ANA,5on5,all
-Goaltending,0.34,ANA,5on5,last 20 games
-Offense,0.06,ANA,5on5,last 20 games
-Defense,0.03,ANA,5on5,last 20 games
-Goaltending,0.44,ANA,5on5,last 10 games
-Offense,0.03,ANA,5on5,last 10 games
-Defense,0.03,ANA,5on5,last 10 games
-Goaltending,0.31,ANA,5on5,last 5 games
-Offense,0.06,ANA,5on5,last 5 games
-Defense,0.06,ANA,5on5,last 5 games
-Goaltending,0.33,ARI,5on5,all
-Offense,0.11,ARI,5on5,all
-Defense,0.16,ARI,5on5,all
-Goaltending,0.38,ARI,5on5,last 20 games
-Offense,0.28,ARI,5on5,last 20 games
-Defense,0.25,ARI,5on5,last 20 games
-Goaltending,0.38,ARI,5on5,last 10 games
-Offense,0.36,ARI,5on5,last 10 games
-Defense,0.56,ARI,5on5,last 10 games
-Goaltending,0.17,ARI,5on5,last 5 games
-Offense,0.12,ARI,5on5,last 5 games
-Defense,0.12,ARI,5on5,last 5 games
-Goaltending,1.0,BOS,5on5,all
-Offense,0.97,BOS,5on5,all
-Defense,0.97,BOS,5on5,all
-Goaltending,0.97,BOS,5on5,last 20 games
-Offense,0.94,BOS,5on5,last 20 games
-Defense,0.94,BOS,5on5,last 20 games
-Goaltending,0.86,BOS,5on5,last 10 games
-Offense,0.97,BOS,5on5,last 10 games
-Defense,0.75,BOS,5on5,last 10 games
-Goaltending,0.75,BOS,5on5,last 5 games
-Offense,0.91,BOS,5on5,last 5 games
-Defense,0.95,BOS,5on5,last 5 games
-Goaltending,0.41,BUF,5on5,all
-Offense,0.86,BUF,5on5,all
-Defense,0.28,BUF,5on5,all
-Goaltending,0.62,BUF,5on5,last 20 games
-Offense,0.88,BUF,5on5,last 20 games
-Defense,0.33,BUF,5on5,last 20 games
-Goaltending,0.81,BUF,5on5,last 10 games
-Offense,0.75,BUF,5on5,last 10 games
-Defense,0.52,BUF,5on5,last 10 games
-Goaltending,0.48,BUF,5on5,last 5 games
-Offense,0.75,BUF,5on5,last 5 games
-Defense,0.22,BUF,5on5,last 5 games
-Goaltending,0.64,CAR,5on5,all
-Offense,0.72,CAR,5on5,all
-Defense,1.0,CAR,5on5,all
-Goaltending,0.88,CAR,5on5,last 20 games
-Offense,0.81,CAR,5on5,last 20 games
-Defense,1.0,CAR,5on5,last 20 games
-Goaltending,0.69,CAR,5on5,last 10 games
-Offense,0.83,CAR,5on5,last 10 games
-Defense,0.88,CAR,5on5,last 10 games
-Goaltending,0.12,CAR,5on5,last 5 games
-Offense,0.41,CAR,5on5,last 5 games
-Defense,0.72,CAR,5on5,last 5 games
-Goaltending,0.09,CBJ,5on5,all
-Offense,0.16,CBJ,5on5,all
-Defense,0.06,CBJ,5on5,all
-Goaltending,0.48,CBJ,5on5,last 20 games
-Offense,0.12,CBJ,5on5,last 20 games
-Defense,0.2,CBJ,5on5,last 20 games
-Goaltending,0.78,CBJ,5on5,last 10 games
-Offense,0.06,CBJ,5on5,last 10 games
-Defense,0.39,CBJ,5on5,last 10 games
-Goaltending,0.92,CBJ,5on5,last 5 games
-Offense,0.03,CBJ,5on5,last 5 games
-Defense,1.0,CBJ,5on5,last 5 games
-Goaltending,0.25,CGY,5on5,all
-Offense,0.59,CGY,5on5,all
-Defense,0.69,CGY,5on5,all
-Goaltending,0.41,CGY,5on5,last 20 games
-Offense,0.75,CGY,5on5,last 20 games
-Defense,0.8,CGY,5on5,last 20 games
-Goaltending,0.61,CGY,5on5,last 10 games
-Offense,0.91,CGY,5on5,last 10 games
-Defense,0.83,CGY,5on5,last 10 games
-Goaltending,0.55,CGY,5on5,last 5 games
-Offense,0.48,CGY,5on5,last 5 games
-Defense,0.52,CGY,5on5,last 5 games
-Goaltending,0.33,CHI,5on5,all
-Offense,0.03,CHI,5on5,all
-Defense,0.23,CHI,5on5,all
-Goaltending,0.27,CHI,5on5,last 20 games
-Offense,0.03,CHI,5on5,last 20 games
-Defense,0.2,CHI,5on5,last 20 games
-Goaltending,0.48,CHI,5on5,last 10 games
-Offense,0.12,CHI,5on5,last 10 games
-Defense,0.31,CHI,5on5,last 10 games
-Goaltending,0.97,CHI,5on5,last 5 games
-Offense,0.09,CHI,5on5,last 5 games
-Defense,0.56,CHI,5on5,last 5 games
-Goaltending,0.97,COL,5on5,all
-Offense,0.11,COL,5on5,all
-Defense,0.86,COL,5on5,all
-Goaltending,0.56,COL,5on5,last 20 games
-Offense,0.19,COL,5on5,last 20 games
-Defense,0.69,COL,5on5,last 20 games
-Goaltending,0.48,COL,5on5,last 10 games
-Offense,0.2,COL,5on5,last 10 games
-Defense,0.69,COL,5on5,last 10 games
-Goaltending,0.17,COL,5on5,last 5 games
-Offense,0.3,COL,5on5,last 5 games
-Defense,0.25,COL,5on5,last 5 games
-Goaltending,0.88,DAL,5on5,all
-Offense,0.75,DAL,5on5,all
-Defense,0.78,DAL,5on5,all
-Goaltending,0.91,DAL,5on5,last 20 games
-Offense,0.53,DAL,5on5,last 20 games
-Defense,0.91,DAL,5on5,last 20 games
-Goaltending,0.97,DAL,5on5,last 10 games
-Offense,0.5,DAL,5on5,last 10 games
-Defense,0.83,DAL,5on5,last 10 games
-Goaltending,1.0,DAL,5on5,last 5 games
-Offense,0.53,DAL,5on5,last 5 games
-Defense,0.91,DAL,5on5,last 5 games
-Goaltending,0.44,DET,5on5,all
-Offense,0.25,DET,5on5,all
-Defense,0.56,DET,5on5,all
-Goaltending,0.27,DET,5on5,last 20 games
-Offense,0.25,DET,5on5,last 20 games
-Defense,0.38,DET,5on5,last 20 games
-Goaltending,0.16,DET,5on5,last 10 games
-Offense,0.45,DET,5on5,last 10 games
-Defense,0.31,DET,5on5,last 10 games
-Goaltending,0.09,DET,5on5,last 5 games
-Offense,0.2,DET,5on5,last 5 games
-Defense,0.19,DET,5on5,last 5 games
-Goaltending,0.59,EDM,5on5,all
-Offense,0.5,EDM,5on5,all
-Defense,0.45,EDM,5on5,all
-Goaltending,0.73,EDM,5on5,last 20 games
-Offense,0.53,EDM,5on5,last 20 games
-Defense,0.64,EDM,5on5,last 20 games
-Goaltending,0.55,EDM,5on5,last 10 games
-Offense,0.25,EDM,5on5,last 10 games
-Defense,0.59,EDM,5on5,last 10 games
-Goaltending,0.69,EDM,5on5,last 5 games
-Offense,0.3,EDM,5on5,last 5 games
-Defense,0.52,EDM,5on5,last 5 games
-Goaltending,0.33,FLA,5on5,all
-Offense,0.97,FLA,5on5,all
-Defense,0.31,FLA,5on5,all
-Goaltending,0.48,FLA,5on5,last 20 games
-Offense,0.66,FLA,5on5,last 20 games
-Defense,0.28,FLA,5on5,last 20 games
-Goaltending,0.31,FLA,5on5,last 10 games
-Offense,0.41,FLA,5on5,last 10 games
-Defense,0.12,FLA,5on5,last 10 games
-Goaltending,0.59,FLA,5on5,last 5 games
-Offense,0.25,FLA,5on5,last 5 games
-Defense,0.3,FLA,5on5,last 5 games
-Goaltending,0.2,LAK,5on5,all
-Offense,0.45,LAK,5on5,all
-Defense,0.62,LAK,5on5,all
-Goaltending,0.48,LAK,5on5,last 20 games
-Offense,0.47,LAK,5on5,last 20 games
-Defense,0.84,LAK,5on5,last 20 games
-Goaltending,0.72,LAK,5on5,last 10 games
-Offense,0.3,LAK,5on5,last 10 games
-Defense,1.0,LAK,5on5,last 10 games
-Goaltending,0.27,LAK,5on5,last 5 games
-Offense,0.36,LAK,5on5,last 5 games
-Defense,0.75,LAK,5on5,last 5 games
-Goaltending,0.7,MIN,5on5,all
-Offense,0.36,MIN,5on5,all
-Defense,0.78,MIN,5on5,all
-Goaltending,0.69,MIN,5on5,last 20 games
-Offense,0.7,MIN,5on5,last 20 games
-Defense,0.8,MIN,5on5,last 20 games
-Goaltending,1.0,MIN,5on5,last 10 games
-Offense,0.78,MIN,5on5,last 10 games
-Defense,0.92,MIN,5on5,last 10 games
-Goaltending,0.88,MIN,5on5,last 5 games
-Offense,0.78,MIN,5on5,last 5 games
-Defense,0.81,MIN,5on5,last 5 games
-Goaltending,0.06,MTL,5on5,all
-Offense,0.2,MTL,5on5,all
-Defense,0.09,MTL,5on5,all
-Goaltending,0.12,MTL,5on5,last 20 games
-Offense,0.09,MTL,5on5,last 20 games
-Defense,0.06,MTL,5on5,last 20 games
-Goaltending,0.28,MTL,5on5,last 10 games
-Offense,0.09,MTL,5on5,last 10 games
-Defense,0.06,MTL,5on5,last 10 games
-Goaltending,0.05,MTL,5on5,last 5 games
-Offense,0.16,MTL,5on5,last 5 games
-Defense,0.03,MTL,5on5,last 5 games
-Goaltending,0.56,NJD,5on5,all
-Offense,0.97,NJD,5on5,all
-Defense,0.91,NJD,5on5,all
-Goaltending,0.48,NJD,5on5,last 20 games
-Offense,0.7,NJD,5on5,last 20 games
-Defense,0.45,NJD,5on5,last 20 games
-Goaltending,0.25,NJD,5on5,last 10 games
-Offense,0.55,NJD,5on5,last 10 games
-Defense,0.44,NJD,5on5,last 10 games
-Goaltending,0.48,NJD,5on5,last 5 games
-Offense,0.66,NJD,5on5,last 5 games
-Defense,0.47,NJD,5on5,last 5 games
-Goaltending,0.94,NSH,5on5,all
-Offense,0.55,NSH,5on5,all
-Defense,0.41,NSH,5on5,all
-Goaltending,1.0,NSH,5on5,last 20 games
-Offense,0.53,NSH,5on5,last 20 games
-Defense,0.72,NSH,5on5,last 20 games
-Goaltending,0.94,NSH,5on5,last 10 games
-Offense,0.88,NSH,5on5,last 10 games
-Defense,0.52,NSH,5on5,last 10 games
-Goaltending,0.84,NSH,5on5,last 5 games
-Offense,1.0,NSH,5on5,last 5 games
-Defense,0.3,NSH,5on5,last 5 games
-Goaltending,0.8,NYI,5on5,all
-Offense,0.64,NYI,5on5,all
-Defense,0.52,NYI,5on5,all
-Goaltending,0.59,NYI,5on5,last 20 games
-Offense,0.59,NYI,5on5,last 20 games
-Defense,0.64,NYI,5on5,last 20 games
-Goaltending,0.91,NYI,5on5,last 10 games
-Offense,0.72,NYI,5on5,last 10 games
-Defense,0.92,NYI,5on5,last 10 games
-Goaltending,0.42,NYI,5on5,last 5 games
-Offense,0.2,NYI,5on5,last 5 games
-Defense,0.64,NYI,5on5,last 5 games
-Goaltending,0.7,NYR,5on5,all
-Offense,0.36,NYR,5on5,all
-Defense,0.78,NYR,5on5,all
-Goaltending,0.8,NYR,5on5,last 20 games
-Offense,0.33,NYR,5on5,last 20 games
-Defense,0.75,NYR,5on5,last 20 games
-Goaltending,0.75,NYR,5on5,last 10 games
-Offense,0.62,NYR,5on5,last 10 games
-Defense,0.78,NYR,5on5,last 10 games
-Goaltending,0.81,NYR,5on5,last 5 games
-Offense,0.36,NYR,5on5,last 5 games
-Defense,0.64,NYR,5on5,last 5 games
-Goaltending,0.2,OTT,5on5,all
-Offense,0.41,OTT,5on5,all
-Defense,0.36,OTT,5on5,all
-Goaltending,0.19,OTT,5on5,last 20 games
-Offense,0.16,OTT,5on5,last 20 games
-Defense,0.53,OTT,5on5,last 20 games
-Goaltending,0.09,OTT,5on5,last 10 games
-Offense,0.16,OTT,5on5,last 10 games
-Defense,0.31,OTT,5on5,last 10 games
-Goaltending,0.05,OTT,5on5,last 5 games
-Offense,0.58,OTT,5on5,last 5 games
-Defense,0.34,OTT,5on5,last 5 games
-Goaltending,0.47,PHI,5on5,all
-Offense,0.2,PHI,5on5,all
-Defense,0.36,PHI,5on5,all
-Goaltending,0.31,PHI,5on5,last 20 games
-Offense,0.33,PHI,5on5,last 20 games
-Defense,0.33,PHI,5on5,last 20 games
-Goaltending,0.41,PHI,5on5,last 10 games
-Offense,0.66,PHI,5on5,last 10 games
-Defense,0.23,PHI,5on5,last 10 games
-Goaltending,0.64,PHI,5on5,last 5 games
-Offense,0.81,PHI,5on5,last 5 games
-Defense,0.81,PHI,5on5,last 5 games
-Goaltending,0.75,PIT,5on5,all
-Offense,0.81,PIT,5on5,all
-Defense,0.45,PIT,5on5,all
-Goaltending,0.84,PIT,5on5,last 20 games
-Offense,0.41,PIT,5on5,last 20 games
-Defense,0.53,PIT,5on5,last 20 games
-Goaltending,0.34,PIT,5on5,last 10 games
-Offense,0.2,PIT,5on5,last 10 games
-Defense,0.23,PIT,5on5,last 10 games
-Goaltending,0.55,PIT,5on5,last 5 games
-Offense,0.69,PIT,5on5,last 5 games
-Defense,0.39,PIT,5on5,last 5 games
-Goaltending,0.53,SEA,5on5,all
-Offense,0.91,SEA,5on5,all
-Defense,0.86,SEA,5on5,all
-Goaltending,0.19,SEA,5on5,last 20 games
-Offense,0.97,SEA,5on5,last 20 games
-Defense,0.53,SEA,5on5,last 20 games
-Goaltending,0.66,SEA,5on5,last 10 games
-Offense,1.0,SEA,5on5,last 10 games
-Defense,0.72,SEA,5on5,last 10 games
-Goaltending,0.64,SEA,5on5,last 5 games
-Offense,0.95,SEA,5on5,last 5 games
-Defense,0.81,SEA,5on5,last 5 games
-Goaltending,0.03,SJS,5on5,all
-Offense,0.69,SJS,5on5,all
-Defense,0.12,SJS,5on5,all
-Goaltending,0.03,SJS,5on5,last 20 games
-Offense,0.81,SJS,5on5,last 20 games
-Defense,0.12,SJS,5on5,last 20 games
-Goaltending,0.03,SJS,5on5,last 10 games
-Offense,0.59,SJS,5on5,last 10 games
-Defense,0.09,SJS,5on5,last 10 games
-Goaltending,0.27,SJS,5on5,last 5 games
-Offense,0.95,SJS,5on5,last 5 games
-Defense,0.39,SJS,5on5,last 5 games
-Goaltending,0.12,STL,5on5,all
-Offense,0.3,STL,5on5,all
-Defense,0.19,STL,5on5,all
-Goaltending,0.06,STL,5on5,last 20 games
-Offense,0.41,STL,5on5,last 20 games
-Defense,0.09,STL,5on5,last 20 games
-Goaltending,0.22,STL,5on5,last 10 games
-Offense,0.45,STL,5on5,last 10 games
-Defense,0.17,STL,5on5,last 10 games
-Goaltending,0.22,STL,5on5,last 5 games
-Offense,0.58,STL,5on5,last 5 games
-Defense,0.16,STL,5on5,last 5 games
-Goaltending,0.64,TBL,5on5,all
-Offense,0.86,TBL,5on5,all
-Defense,0.52,TBL,5on5,all
-Goaltending,0.66,TBL,5on5,last 20 games
-Offense,0.81,TBL,5on5,last 20 games
-Defense,0.41,TBL,5on5,last 20 games
-Goaltending,0.55,TBL,5on5,last 10 games
-Offense,0.69,TBL,5on5,last 10 games
-Defense,0.66,TBL,5on5,last 10 games
-Goaltending,0.92,TBL,5on5,last 5 games
-Offense,0.48,TBL,5on5,last 5 games
-Defense,0.95,TBL,5on5,last 5 games
-Goaltending,0.88,TOR,5on5,all
-Offense,0.78,TOR,5on5,all
-Defense,0.94,TOR,5on5,all
-Goaltending,0.73,TOR,5on5,last 20 games
-Offense,1.0,TOR,5on5,last 20 games
-Defense,0.88,TOR,5on5,last 20 games
-Goaltending,0.12,TOR,5on5,last 10 games
-Offense,0.94,TOR,5on5,last 10 games
-Defense,0.62,TOR,5on5,last 10 games
-Goaltending,0.42,TOR,5on5,last 5 games
-Offense,0.88,TOR,5on5,last 5 games
-Defense,0.59,TOR,5on5,last 5 games
-Goaltending,0.16,VAN,5on5,all
-Offense,0.3,VAN,5on5,all
-Defense,0.23,VAN,5on5,all
-Goaltending,0.09,VAN,5on5,last 20 games
-Offense,0.41,VAN,5on5,last 20 games
-Defense,0.16,VAN,5on5,last 20 games
-Goaltending,0.19,VAN,5on5,last 10 games
-Offense,0.55,VAN,5on5,last 10 games
-Defense,0.17,VAN,5on5,last 10 games
-Goaltending,0.34,VAN,5on5,last 5 games
-Offense,0.44,VAN,5on5,last 5 games
-Defense,0.09,VAN,5on5,last 5 games
-Goaltending,0.5,VGK,5on5,all
-Offense,0.55,VGK,5on5,all
-Defense,0.69,VGK,5on5,all
-Goaltending,0.19,VGK,5on5,last 20 games
-Offense,0.22,VGK,5on5,last 20 games
-Defense,0.45,VGK,5on5,last 20 games
-Goaltending,0.06,VGK,5on5,last 10 games
-Offense,0.36,VGK,5on5,last 10 games
-Defense,0.39,VGK,5on5,last 10 games
-Goaltending,0.38,VGK,5on5,last 5 games
-Offense,0.72,VGK,5on5,last 5 games
-Defense,0.44,VGK,5on5,last 5 games
-Goaltending,0.88,WPG,5on5,all
-Offense,0.45,WPG,5on5,all
-Defense,0.59,WPG,5on5,all
-Goaltending,0.8,WPG,5on5,last 20 games
-Offense,0.62,WPG,5on5,last 20 games
-Defense,0.59,WPG,5on5,last 20 games
-Goaltending,0.61,WPG,5on5,last 10 games
-Offense,0.3,WPG,5on5,last 10 games
-Defense,0.47,WPG,5on5,last 10 games
-Goaltending,0.72,WPG,5on5,last 5 games
-Offense,0.62,WPG,5on5,last 5 games
-Defense,0.69,WPG,5on5,last 5 games
-Goaltending,0.8,WSH,5on5,all
-Offense,0.64,WSH,5on5,all
-Defense,0.69,WSH,5on5,all
-Goaltending,0.94,WSH,5on5,last 20 games
-Offense,0.91,WSH,5on5,last 20 games
-Defense,0.97,WSH,5on5,last 20 games
-Goaltending,0.86,WSH,5on5,last 10 games
-Offense,0.83,WSH,5on5,last 10 games
-Defense,0.97,WSH,5on5,last 10 games
-Goaltending,0.78,WSH,5on5,last 5 games
-Offense,0.84,WSH,5on5,last 5 games
-Defense,0.88,WSH,5on5,last 5 games
-Penalty Kill,0.06,ANA,4on5,all
-Penalty Kill,0.38,ANA,4on5,last 20 games
-Penalty Kill,0.56,ANA,4on5,last 10 games
-Penalty Kill,0.53,ANA,4on5,last 5 games
-Powerplay,0.12,ANA,5on4,all
-Powerplay,0.38,ANA,5on4,last 20 games
-Powerplay,0.28,ANA,5on4,last 10 games
-Powerplay,0.47,ANA,5on4,last 5 games
-Penalty Kill,0.16,ARI,4on5,all
-Penalty Kill,0.06,ARI,4on5,last 20 games
-Penalty Kill,0.06,ARI,4on5,last 10 games
-Penalty Kill,0.38,ARI,4on5,last 5 games
-Powerplay,0.34,ARI,5on4,all
-Powerplay,0.09,ARI,5on4,last 20 games
-Powerplay,0.38,ARI,5on4,last 10 games
-Powerplay,0.66,ARI,5on4,last 5 games
-Penalty Kill,1.0,BOS,4on5,all
-Penalty Kill,0.78,BOS,4on5,last 20 games
-Penalty Kill,0.78,BOS,4on5,last 10 games
-Penalty Kill,0.88,BOS,4on5,last 5 games
-Powerplay,0.91,BOS,5on4,all
-Powerplay,0.84,BOS,5on4,last 20 games
-Powerplay,0.78,BOS,5on4,last 10 games
-Powerplay,1.0,BOS,5on4,last 5 games
-Penalty Kill,0.19,BUF,4on5,all
-Penalty Kill,0.2,BUF,4on5,last 20 games
-Penalty Kill,0.25,BUF,4on5,last 10 games
-Penalty Kill,0.09,BUF,4on5,last 5 games
-Powerplay,0.84,BUF,5on4,all
-Powerplay,0.91,BUF,5on4,last 20 games
-Powerplay,0.69,BUF,5on4,last 10 games
-Powerplay,0.56,BUF,5on4,last 5 games
-Penalty Kill,0.55,CAR,4on5,all
-Penalty Kill,0.66,CAR,4on5,last 20 games
-Penalty Kill,0.69,CAR,4on5,last 10 games
-Penalty Kill,0.5,CAR,4on5,last 5 games
-Powerplay,0.39,CAR,5on4,all
-Powerplay,0.75,CAR,5on4,last 20 games
-Powerplay,0.44,CAR,5on4,last 10 games
-Powerplay,0.88,CAR,5on4,last 5 games
-Penalty Kill,0.47,CBJ,4on5,all
-Penalty Kill,0.56,CBJ,4on5,last 20 games
-Penalty Kill,0.34,CBJ,4on5,last 10 games
-Penalty Kill,0.44,CBJ,4on5,last 5 games
-Powerplay,0.09,CBJ,5on4,all
-Powerplay,0.12,CBJ,5on4,last 20 games
-Powerplay,0.19,CBJ,5on4,last 10 games
-Powerplay,0.22,CBJ,5on4,last 5 games
-Penalty Kill,0.89,CGY,4on5,all
-Penalty Kill,0.97,CGY,4on5,last 20 games
-Penalty Kill,0.88,CGY,4on5,last 10 games
-Penalty Kill,1.0,CGY,4on5,last 5 games
-Powerplay,0.47,CGY,5on4,all
-Powerplay,0.47,CGY,5on4,last 20 games
-Powerplay,0.5,CGY,5on4,last 10 games
-Powerplay,0.69,CGY,5on4,last 5 games
-Penalty Kill,0.31,CHI,4on5,all
-Penalty Kill,0.12,CHI,4on5,last 20 games
-Penalty Kill,0.28,CHI,4on5,last 10 games
-Penalty Kill,0.22,CHI,4on5,last 5 games
-Powerplay,0.16,CHI,5on4,all
-Powerplay,0.19,CHI,5on4,last 20 games
-Powerplay,0.03,CHI,5on4,last 10 games
-Powerplay,0.03,CHI,5on4,last 5 games
-Penalty Kill,0.28,COL,4on5,all
-Penalty Kill,0.28,COL,4on5,last 20 games
-Penalty Kill,0.19,COL,4on5,last 10 games
-Penalty Kill,0.19,COL,4on5,last 5 games
-Powerplay,0.78,COL,5on4,all
-Powerplay,0.22,COL,5on4,last 20 games
-Powerplay,0.56,COL,5on4,last 10 games
-Powerplay,0.25,COL,5on4,last 5 games
-Penalty Kill,0.84,DAL,4on5,all
-Penalty Kill,0.75,DAL,4on5,last 20 games
-Penalty Kill,0.48,DAL,4on5,last 10 games
-Penalty Kill,0.81,DAL,4on5,last 5 games
-Powerplay,0.97,DAL,5on4,all
-Powerplay,0.81,DAL,5on4,last 20 games
-Powerplay,0.97,DAL,5on4,last 10 games
-Powerplay,0.94,DAL,5on4,last 5 games
-Penalty Kill,0.12,DET,4on5,all
-Penalty Kill,0.03,DET,4on5,last 20 games
-Penalty Kill,0.09,DET,4on5,last 10 games
-Penalty Kill,0.16,DET,4on5,last 5 games
-Powerplay,0.19,DET,5on4,all
-Powerplay,0.28,DET,5on4,last 20 games
-Powerplay,0.31,DET,5on4,last 10 games
-Powerplay,0.38,DET,5on4,last 5 games
-Penalty Kill,0.41,EDM,4on5,all
-Penalty Kill,0.44,EDM,4on5,last 20 games
-Penalty Kill,0.41,EDM,4on5,last 10 games
-Penalty Kill,0.75,EDM,4on5,last 5 games
-Powerplay,1.0,EDM,5on4,all
-Powerplay,1.0,EDM,5on4,last 20 games
-Powerplay,1.0,EDM,5on4,last 10 games
-Powerplay,0.97,EDM,5on4,last 5 games
-Penalty Kill,0.36,FLA,4on5,all
-Penalty Kill,0.16,FLA,4on5,last 20 games
-Penalty Kill,0.12,FLA,4on5,last 10 games
-Penalty Kill,0.06,FLA,4on5,last 5 games
-Powerplay,0.62,FLA,5on4,all
-Powerplay,0.67,FLA,5on4,last 20 games
-Powerplay,0.94,FLA,5on4,last 10 games
-Powerplay,0.62,FLA,5on4,last 5 games
-Penalty Kill,0.25,LAK,4on5,all
-Penalty Kill,0.34,LAK,4on5,last 20 games
-Penalty Kill,0.59,LAK,4on5,last 10 games
-Penalty Kill,0.69,LAK,4on5,last 5 games
-Powerplay,0.53,LAK,5on4,all
-Powerplay,0.56,LAK,5on4,last 20 games
-Powerplay,0.66,LAK,5on4,last 10 games
-Powerplay,0.53,LAK,5on4,last 5 games
-Penalty Kill,0.5,MIN,4on5,all
-Penalty Kill,0.31,MIN,4on5,last 20 games
-Penalty Kill,0.31,MIN,4on5,last 10 games
-Penalty Kill,0.03,MIN,4on5,last 5 games
-Powerplay,0.69,MIN,5on4,all
-Powerplay,0.72,MIN,5on4,last 20 games
-Powerplay,0.47,MIN,5on4,last 10 games
-Powerplay,0.47,MIN,5on4,last 5 games
-Penalty Kill,0.22,MTL,4on5,all
-Penalty Kill,0.2,MTL,4on5,last 20 games
-Penalty Kill,0.03,MTL,4on5,last 10 games
-Penalty Kill,0.12,MTL,4on5,last 5 games
-Powerplay,0.03,MTL,5on4,all
-Powerplay,0.03,MTL,5on4,last 20 games
-Powerplay,0.09,MTL,5on4,last 10 games
-Powerplay,0.28,MTL,5on4,last 5 games
-Penalty Kill,0.66,NJD,4on5,all
-Penalty Kill,0.53,NJD,4on5,last 20 games
-Penalty Kill,0.53,NJD,4on5,last 10 games
-Penalty Kill,0.62,NJD,4on5,last 5 games
-Powerplay,0.56,NJD,5on4,all
-Powerplay,0.41,NJD,5on4,last 20 games
-Powerplay,0.53,NJD,5on4,last 10 games
-Powerplay,0.73,NJD,5on4,last 5 games
-Penalty Kill,0.44,NSH,4on5,all
-Penalty Kill,0.41,NSH,4on5,last 20 games
-Penalty Kill,0.62,NSH,4on5,last 10 games
-Penalty Kill,0.72,NSH,4on5,last 5 games
-Powerplay,0.22,NSH,5on4,all
-Powerplay,0.31,NSH,5on4,last 20 games
-Powerplay,0.84,NSH,5on4,last 10 games
-Powerplay,0.81,NSH,5on4,last 5 games
-Penalty Kill,0.81,NYI,4on5,all
-Penalty Kill,0.47,NYI,4on5,last 20 games
-Penalty Kill,0.38,NYI,4on5,last 10 games
-Penalty Kill,0.47,NYI,4on5,last 5 games
-Powerplay,0.28,NYI,5on4,all
-Powerplay,0.16,NYI,5on4,last 20 games
-Powerplay,0.06,NYI,5on4,last 10 games
-Powerplay,0.16,NYI,5on4,last 5 games
-Penalty Kill,0.89,NYR,4on5,all
-Penalty Kill,0.81,NYR,4on5,last 20 games
-Penalty Kill,0.72,NYR,4on5,last 10 games
-Penalty Kill,0.41,NYR,4on5,last 5 games
-Powerplay,0.66,NYR,5on4,all
-Powerplay,0.59,NYR,5on4,last 20 games
-Powerplay,0.41,NYR,5on4,last 10 games
-Powerplay,0.73,NYR,5on4,last 5 games
-Penalty Kill,0.69,OTT,4on5,all
-Penalty Kill,0.94,OTT,4on5,last 20 games
-Penalty Kill,1.0,OTT,4on5,last 10 games
-Penalty Kill,0.97,OTT,4on5,last 5 games
-Powerplay,0.94,OTT,5on4,all
-Powerplay,0.97,OTT,5on4,last 20 games
-Powerplay,0.81,OTT,5on4,last 10 games
-Powerplay,0.41,OTT,5on4,last 5 games
-Penalty Kill,0.55,PHI,4on5,all
-Penalty Kill,0.84,PHI,4on5,last 20 games
-Penalty Kill,0.84,PHI,4on5,last 10 games
-Penalty Kill,0.66,PHI,4on5,last 5 games
-Powerplay,0.06,PHI,5on4,all
-Powerplay,0.06,PHI,5on4,last 20 games
-Powerplay,0.12,PHI,5on4,last 10 games
-Powerplay,0.31,PHI,5on4,last 5 games
-Penalty Kill,0.94,PIT,4on5,all
-Penalty Kill,1.0,PIT,4on5,last 20 games
-Penalty Kill,0.81,PIT,4on5,last 10 games
-Penalty Kill,0.25,PIT,4on5,last 5 games
-Powerplay,0.31,PIT,5on4,all
-Powerplay,0.44,PIT,5on4,last 20 games
-Powerplay,0.62,PIT,5on4,last 10 games
-Powerplay,0.19,PIT,5on4,last 5 games
-Penalty Kill,0.09,SEA,4on5,all
-Penalty Kill,0.09,SEA,4on5,last 20 games
-Penalty Kill,0.22,SEA,4on5,last 10 games
-Penalty Kill,0.28,SEA,4on5,last 5 games
-Powerplay,0.59,SEA,5on4,all
-Powerplay,0.67,SEA,5on4,last 20 games
-Powerplay,0.25,SEA,5on4,last 10 games
-Powerplay,0.78,SEA,5on4,last 5 games
-Penalty Kill,0.78,SJS,4on5,all
-Penalty Kill,0.5,SJS,4on5,last 20 games
-Penalty Kill,0.44,SJS,4on5,last 10 games
-Penalty Kill,0.34,SJS,4on5,last 5 games
-Powerplay,0.39,SJS,5on4,all
-Powerplay,0.34,SJS,5on4,last 20 games
-Powerplay,0.34,SJS,5on4,last 10 games
-Powerplay,0.06,SJS,5on4,last 5 games
-Penalty Kill,0.36,STL,4on5,all
-Penalty Kill,0.59,STL,4on5,last 20 games
-Penalty Kill,0.66,STL,4on5,last 10 games
-Penalty Kill,0.59,STL,4on5,last 5 games
-Powerplay,0.44,STL,5on4,all
-Powerplay,0.52,STL,5on4,last 20 games
-Powerplay,0.88,STL,5on4,last 10 games
-Powerplay,0.91,STL,5on4,last 5 games
-Penalty Kill,0.61,TBL,4on5,all
-Penalty Kill,0.91,TBL,4on5,last 20 games
-Penalty Kill,0.91,TBL,4on5,last 10 games
-Penalty Kill,0.84,TBL,4on5,last 5 games
-Powerplay,0.75,TBL,5on4,all
-Powerplay,0.94,TBL,5on4,last 20 games
-Powerplay,0.72,TBL,5on4,last 10 games
-Powerplay,0.47,TBL,5on4,last 5 games
-Penalty Kill,0.75,TOR,4on5,all
-Penalty Kill,0.69,TOR,4on5,last 20 games
-Penalty Kill,0.48,TOR,4on5,last 10 games
-Penalty Kill,0.56,TOR,4on5,last 5 games
-Powerplay,0.81,TOR,5on4,all
-Powerplay,0.52,TOR,5on4,last 20 games
-Powerplay,0.75,TOR,5on4,last 10 games
-Powerplay,0.59,TOR,5on4,last 5 games
-Penalty Kill,0.03,VAN,4on5,all
-Penalty Kill,0.25,VAN,4on5,last 20 games
-Penalty Kill,0.16,VAN,4on5,last 10 games
-Penalty Kill,0.31,VAN,4on5,last 5 games
-Powerplay,0.5,VAN,5on4,all
-Powerplay,0.25,VAN,5on4,last 20 games
-Powerplay,0.22,VAN,5on4,last 10 games
-Powerplay,0.12,VAN,5on4,last 5 games
-Penalty Kill,0.97,VGK,4on5,all
-Penalty Kill,0.88,VGK,4on5,last 20 games
-Penalty Kill,0.97,VGK,4on5,last 10 games
-Penalty Kill,0.91,VGK,4on5,last 5 games
-Powerplay,0.88,VGK,5on4,all
-Powerplay,0.88,VGK,5on4,last 20 games
-Powerplay,0.91,VGK,5on4,last 10 games
-Powerplay,0.09,VGK,5on4,last 5 games
-Penalty Kill,0.72,WPG,4on5,all
-Penalty Kill,0.72,WPG,4on5,last 20 games
-Penalty Kill,0.94,WPG,4on5,last 10 games
-Penalty Kill,0.94,WPG,4on5,last 5 games
-Powerplay,0.72,WPG,5on4,all
-Powerplay,0.78,WPG,5on4,last 20 games
-Powerplay,0.16,WPG,5on4,last 10 games
-Powerplay,0.34,WPG,5on4,last 5 games
-Penalty Kill,0.61,WSH,4on5,all
-Penalty Kill,0.62,WSH,4on5,last 20 games
-Penalty Kill,0.75,WSH,4on5,last 10 games
-Penalty Kill,0.78,WSH,4on5,last 5 games
-Powerplay,0.25,WSH,5on4,all
-Powerplay,0.62,WSH,5on4,last 20 games
-Powerplay,0.59,WSH,5on4,last 10 games
-Powerplay,0.84,WSH,5on4,last 5 games
+label,value,team,situation,n_games,rank
+Goaltending,0.33,ANA,5on5,all,16th
+Offense,0.06,ANA,5on5,all,21st
+Defense,0.03,ANA,5on5,all,23rd
+Goaltending,0.34,ANA,5on5,last 20 games,17th
+Offense,0.06,ANA,5on5,last 20 games,23rd
+Defense,0.03,ANA,5on5,last 20 games,25th
+Goaltending,0.44,ANA,5on5,last 10 games,15th
+Offense,0.03,ANA,5on5,last 10 games,26th
+Defense,0.03,ANA,5on5,last 10 games,24th
+Goaltending,0.31,ANA,5on5,last 5 games,18th
+Offense,0.06,ANA,5on5,last 5 games,25th
+Defense,0.06,ANA,5on5,last 5 games,24th
+Goaltending,0.33,ARI,5on5,all,16th
+Offense,0.11,ARI,5on5,all,20th
+Defense,0.16,ARI,5on5,all,19th
+Goaltending,0.38,ARI,5on5,last 20 games,16th
+Offense,0.28,ARI,5on5,last 20 games,16th
+Defense,0.25,ARI,5on5,last 20 games,19th
+Goaltending,0.38,ARI,5on5,last 10 games,17th
+Offense,0.36,ARI,5on5,last 10 games,18th
+Defense,0.56,ARI,5on5,last 10 games,13th
+Goaltending,0.17,ARI,5on5,last 5 games,21st
+Offense,0.12,ARI,5on5,last 5 games,23rd
+Defense,0.12,ARI,5on5,last 5 games,22nd
+Goaltending,1.0,BOS,5on5,all,1st
+Offense,0.97,BOS,5on5,all,1st
+Defense,0.97,BOS,5on5,all,2nd
+Goaltending,0.97,BOS,5on5,last 20 games,2nd
+Offense,0.94,BOS,5on5,last 20 games,3rd
+Defense,0.94,BOS,5on5,last 20 games,3rd
+Goaltending,0.86,BOS,5on5,last 10 games,5th
+Offense,0.97,BOS,5on5,last 10 games,2nd
+Defense,0.75,BOS,5on5,last 10 games,7th
+Goaltending,0.75,BOS,5on5,last 5 games,8th
+Offense,0.91,BOS,5on5,last 5 games,3rd
+Defense,0.95,BOS,5on5,last 5 games,2nd
+Goaltending,0.41,BUF,5on5,all,15th
+Offense,0.86,BUF,5on5,all,3rd
+Defense,0.28,BUF,5on5,all,16th
+Goaltending,0.62,BUF,5on5,last 20 games,11th
+Offense,0.88,BUF,5on5,last 20 games,5th
+Defense,0.33,BUF,5on5,last 20 games,17th
+Goaltending,0.81,BUF,5on5,last 10 games,6th
+Offense,0.75,BUF,5on5,last 10 games,8th
+Defense,0.52,BUF,5on5,last 10 games,14th
+Goaltending,0.48,BUF,5on5,last 5 games,14th
+Offense,0.75,BUF,5on5,last 5 games,8th
+Defense,0.22,BUF,5on5,last 5 games,19th
+Goaltending,0.64,CAR,5on5,all,8th
+Offense,0.72,CAR,5on5,all,7th
+Defense,1.0,CAR,5on5,all,1st
+Goaltending,0.88,CAR,5on5,last 20 games,5th
+Offense,0.81,CAR,5on5,last 20 games,6th
+Defense,1.0,CAR,5on5,last 20 games,1st
+Goaltending,0.69,CAR,5on5,last 10 games,10th
+Offense,0.83,CAR,5on5,last 10 games,6th
+Defense,0.88,CAR,5on5,last 10 games,4th
+Goaltending,0.12,CAR,5on5,last 5 games,22nd
+Offense,0.41,CAR,5on5,last 5 games,17th
+Defense,0.72,CAR,5on5,last 5 games,7th
+Goaltending,0.09,CBJ,5on5,all,21st
+Offense,0.16,CBJ,5on5,all,19th
+Defense,0.06,CBJ,5on5,all,22nd
+Goaltending,0.48,CBJ,5on5,last 20 games,14th
+Offense,0.12,CBJ,5on5,last 20 games,21st
+Defense,0.2,CBJ,5on5,last 20 games,20th
+Goaltending,0.78,CBJ,5on5,last 10 games,7th
+Offense,0.06,CBJ,5on5,last 10 games,25th
+Defense,0.39,CBJ,5on5,last 10 games,17th
+Goaltending,0.92,CBJ,5on5,last 5 games,3rd
+Offense,0.03,CBJ,5on5,last 5 games,26th
+Defense,1.0,CBJ,5on5,last 5 games,1st
+Goaltending,0.25,CGY,5on5,all,17th
+Offense,0.59,CGY,5on5,all,10th
+Defense,0.69,CGY,5on5,all,7th
+Goaltending,0.41,CGY,5on5,last 20 games,15th
+Offense,0.75,CGY,5on5,last 20 games,7th
+Defense,0.8,CGY,5on5,last 20 games,7th
+Goaltending,0.61,CGY,5on5,last 10 games,12th
+Offense,0.91,CGY,5on5,last 10 games,4th
+Defense,0.83,CGY,5on5,last 10 games,5th
+Goaltending,0.55,CGY,5on5,last 5 games,13th
+Offense,0.48,CGY,5on5,last 5 games,15th
+Defense,0.52,CGY,5on5,last 5 games,12th
+Goaltending,0.33,CHI,5on5,all,16th
+Offense,0.03,CHI,5on5,all,22nd
+Defense,0.23,CHI,5on5,all,17th
+Goaltending,0.27,CHI,5on5,last 20 games,19th
+Offense,0.03,CHI,5on5,last 20 games,24th
+Defense,0.2,CHI,5on5,last 20 games,20th
+Goaltending,0.48,CHI,5on5,last 10 games,14th
+Offense,0.12,CHI,5on5,last 10 games,23rd
+Defense,0.31,CHI,5on5,last 10 games,18th
+Goaltending,0.97,CHI,5on5,last 5 games,2nd
+Offense,0.09,CHI,5on5,last 5 games,24th
+Defense,0.56,CHI,5on5,last 5 games,11th
+Goaltending,0.97,COL,5on5,all,2nd
+Offense,0.11,COL,5on5,all,20th
+Defense,0.86,COL,5on5,all,5th
+Goaltending,0.56,COL,5on5,last 20 games,13th
+Offense,0.19,COL,5on5,last 20 games,19th
+Defense,0.69,COL,5on5,last 20 games,10th
+Goaltending,0.48,COL,5on5,last 10 games,14th
+Offense,0.2,COL,5on5,last 10 games,21st
+Defense,0.69,COL,5on5,last 10 games,9th
+Goaltending,0.17,COL,5on5,last 5 games,21st
+Offense,0.3,COL,5on5,last 5 games,19th
+Defense,0.25,COL,5on5,last 5 games,18th
+Goaltending,0.88,DAL,5on5,all,4th
+Offense,0.75,DAL,5on5,all,6th
+Defense,0.78,DAL,5on5,all,6th
+Goaltending,0.91,DAL,5on5,last 20 games,4th
+Offense,0.53,DAL,5on5,last 20 games,12th
+Defense,0.91,DAL,5on5,last 20 games,4th
+Goaltending,0.97,DAL,5on5,last 10 games,2nd
+Offense,0.5,DAL,5on5,last 10 games,15th
+Defense,0.83,DAL,5on5,last 10 games,5th
+Goaltending,1.0,DAL,5on5,last 5 games,1st
+Offense,0.53,DAL,5on5,last 5 games,14th
+Defense,0.91,DAL,5on5,last 5 games,3rd
+Goaltending,0.44,DET,5on5,all,14th
+Offense,0.25,DET,5on5,all,17th
+Defense,0.56,DET,5on5,all,10th
+Goaltending,0.27,DET,5on5,last 20 games,19th
+Offense,0.25,DET,5on5,last 20 games,17th
+Defense,0.38,DET,5on5,last 20 games,16th
+Goaltending,0.16,DET,5on5,last 10 games,24th
+Offense,0.45,DET,5on5,last 10 games,16th
+Defense,0.31,DET,5on5,last 10 games,18th
+Goaltending,0.09,DET,5on5,last 5 games,23rd
+Offense,0.2,DET,5on5,last 5 games,21st
+Defense,0.19,DET,5on5,last 5 games,20th
+Goaltending,0.59,EDM,5on5,all,9th
+Offense,0.5,EDM,5on5,all,12th
+Defense,0.45,EDM,5on5,all,12th
+Goaltending,0.73,EDM,5on5,last 20 games,8th
+Offense,0.53,EDM,5on5,last 20 games,12th
+Defense,0.64,EDM,5on5,last 20 games,11th
+Goaltending,0.55,EDM,5on5,last 10 games,13th
+Offense,0.25,EDM,5on5,last 10 games,20th
+Defense,0.59,EDM,5on5,last 10 games,12th
+Goaltending,0.69,EDM,5on5,last 5 games,10th
+Offense,0.3,EDM,5on5,last 5 games,19th
+Defense,0.52,EDM,5on5,last 5 games,12th
+Goaltending,0.33,FLA,5on5,all,16th
+Offense,0.97,FLA,5on5,all,1st
+Defense,0.31,FLA,5on5,all,15th
+Goaltending,0.48,FLA,5on5,last 20 games,14th
+Offense,0.66,FLA,5on5,last 20 games,9th
+Defense,0.28,FLA,5on5,last 20 games,18th
+Goaltending,0.31,FLA,5on5,last 10 games,19th
+Offense,0.41,FLA,5on5,last 10 games,17th
+Defense,0.12,FLA,5on5,last 10 games,21st
+Goaltending,0.59,FLA,5on5,last 5 games,12th
+Offense,0.25,FLA,5on5,last 5 games,20th
+Defense,0.3,FLA,5on5,last 5 games,17th
+Goaltending,0.2,LAK,5on5,all,18th
+Offense,0.45,LAK,5on5,all,13th
+Defense,0.62,LAK,5on5,all,8th
+Goaltending,0.48,LAK,5on5,last 20 games,14th
+Offense,0.47,LAK,5on5,last 20 games,13th
+Defense,0.84,LAK,5on5,last 20 games,6th
+Goaltending,0.72,LAK,5on5,last 10 games,9th
+Offense,0.3,LAK,5on5,last 10 games,19th
+Defense,1.0,LAK,5on5,last 10 games,1st
+Goaltending,0.27,LAK,5on5,last 5 games,19th
+Offense,0.36,LAK,5on5,last 5 games,18th
+Defense,0.75,LAK,5on5,last 5 games,6th
+Goaltending,0.7,MIN,5on5,all,7th
+Offense,0.36,MIN,5on5,all,15th
+Defense,0.78,MIN,5on5,all,6th
+Goaltending,0.69,MIN,5on5,last 20 games,9th
+Offense,0.7,MIN,5on5,last 20 games,8th
+Defense,0.8,MIN,5on5,last 20 games,7th
+Goaltending,1.0,MIN,5on5,last 10 games,1st
+Offense,0.78,MIN,5on5,last 10 games,7th
+Defense,0.92,MIN,5on5,last 10 games,3rd
+Goaltending,0.88,MIN,5on5,last 5 games,4th
+Offense,0.78,MIN,5on5,last 5 games,7th
+Defense,0.81,MIN,5on5,last 5 games,5th
+Goaltending,0.06,MTL,5on5,all,22nd
+Offense,0.2,MTL,5on5,all,18th
+Defense,0.09,MTL,5on5,all,21st
+Goaltending,0.12,MTL,5on5,last 20 games,21st
+Offense,0.09,MTL,5on5,last 20 games,22nd
+Defense,0.06,MTL,5on5,last 20 games,24th
+Goaltending,0.28,MTL,5on5,last 10 games,20th
+Offense,0.09,MTL,5on5,last 10 games,24th
+Defense,0.06,MTL,5on5,last 10 games,23rd
+Goaltending,0.05,MTL,5on5,last 5 games,24th
+Offense,0.16,MTL,5on5,last 5 games,22nd
+Defense,0.03,MTL,5on5,last 5 games,25th
+Goaltending,0.56,NJD,5on5,all,10th
+Offense,0.97,NJD,5on5,all,1st
+Defense,0.91,NJD,5on5,all,4th
+Goaltending,0.48,NJD,5on5,last 20 games,14th
+Offense,0.7,NJD,5on5,last 20 games,8th
+Defense,0.45,NJD,5on5,last 20 games,14th
+Goaltending,0.25,NJD,5on5,last 10 games,21st
+Offense,0.55,NJD,5on5,last 10 games,14th
+Defense,0.44,NJD,5on5,last 10 games,16th
+Goaltending,0.48,NJD,5on5,last 5 games,14th
+Offense,0.66,NJD,5on5,last 5 games,11th
+Defense,0.47,NJD,5on5,last 5 games,13th
+Goaltending,0.94,NSH,5on5,all,3rd
+Offense,0.55,NSH,5on5,all,11th
+Defense,0.41,NSH,5on5,all,13th
+Goaltending,1.0,NSH,5on5,last 20 games,1st
+Offense,0.53,NSH,5on5,last 20 games,12th
+Defense,0.72,NSH,5on5,last 20 games,9th
+Goaltending,0.94,NSH,5on5,last 10 games,3rd
+Offense,0.88,NSH,5on5,last 10 games,5th
+Defense,0.52,NSH,5on5,last 10 games,14th
+Goaltending,0.84,NSH,5on5,last 5 games,5th
+Offense,1.0,NSH,5on5,last 5 games,1st
+Defense,0.3,NSH,5on5,last 5 games,17th
+Goaltending,0.8,NYI,5on5,all,5th
+Offense,0.64,NYI,5on5,all,9th
+Defense,0.52,NYI,5on5,all,11th
+Goaltending,0.59,NYI,5on5,last 20 games,12th
+Offense,0.59,NYI,5on5,last 20 games,11th
+Defense,0.64,NYI,5on5,last 20 games,11th
+Goaltending,0.91,NYI,5on5,last 10 games,4th
+Offense,0.72,NYI,5on5,last 10 games,9th
+Defense,0.92,NYI,5on5,last 10 games,3rd
+Goaltending,0.42,NYI,5on5,last 5 games,15th
+Offense,0.2,NYI,5on5,last 5 games,21st
+Defense,0.64,NYI,5on5,last 5 games,9th
+Goaltending,0.7,NYR,5on5,all,7th
+Offense,0.36,NYR,5on5,all,15th
+Defense,0.78,NYR,5on5,all,6th
+Goaltending,0.8,NYR,5on5,last 20 games,7th
+Offense,0.33,NYR,5on5,last 20 games,15th
+Defense,0.75,NYR,5on5,last 20 games,8th
+Goaltending,0.75,NYR,5on5,last 10 games,8th
+Offense,0.62,NYR,5on5,last 10 games,12th
+Defense,0.78,NYR,5on5,last 10 games,6th
+Goaltending,0.81,NYR,5on5,last 5 games,6th
+Offense,0.36,NYR,5on5,last 5 games,18th
+Defense,0.64,NYR,5on5,last 5 games,9th
+Goaltending,0.2,OTT,5on5,all,18th
+Offense,0.41,OTT,5on5,all,14th
+Defense,0.36,OTT,5on5,all,14th
+Goaltending,0.19,OTT,5on5,last 20 games,20th
+Offense,0.16,OTT,5on5,last 20 games,20th
+Defense,0.53,OTT,5on5,last 20 games,13th
+Goaltending,0.09,OTT,5on5,last 10 games,26th
+Offense,0.16,OTT,5on5,last 10 games,22nd
+Defense,0.31,OTT,5on5,last 10 games,18th
+Goaltending,0.05,OTT,5on5,last 5 games,24th
+Offense,0.58,OTT,5on5,last 5 games,13th
+Defense,0.34,OTT,5on5,last 5 games,16th
+Goaltending,0.47,PHI,5on5,all,13th
+Offense,0.2,PHI,5on5,all,18th
+Defense,0.36,PHI,5on5,all,14th
+Goaltending,0.31,PHI,5on5,last 20 games,18th
+Offense,0.33,PHI,5on5,last 20 games,15th
+Defense,0.33,PHI,5on5,last 20 games,17th
+Goaltending,0.41,PHI,5on5,last 10 games,16th
+Offense,0.66,PHI,5on5,last 10 games,11th
+Defense,0.23,PHI,5on5,last 10 games,19th
+Goaltending,0.64,PHI,5on5,last 5 games,11th
+Offense,0.81,PHI,5on5,last 5 games,6th
+Defense,0.81,PHI,5on5,last 5 games,5th
+Goaltending,0.75,PIT,5on5,all,6th
+Offense,0.81,PIT,5on5,all,4th
+Defense,0.45,PIT,5on5,all,12th
+Goaltending,0.84,PIT,5on5,last 20 games,6th
+Offense,0.41,PIT,5on5,last 20 games,14th
+Defense,0.53,PIT,5on5,last 20 games,13th
+Goaltending,0.34,PIT,5on5,last 10 games,18th
+Offense,0.2,PIT,5on5,last 10 games,21st
+Defense,0.23,PIT,5on5,last 10 games,19th
+Goaltending,0.55,PIT,5on5,last 5 games,13th
+Offense,0.69,PIT,5on5,last 5 games,10th
+Defense,0.39,PIT,5on5,last 5 games,15th
+Goaltending,0.53,SEA,5on5,all,11th
+Offense,0.91,SEA,5on5,all,2nd
+Defense,0.86,SEA,5on5,all,5th
+Goaltending,0.19,SEA,5on5,last 20 games,20th
+Offense,0.97,SEA,5on5,last 20 games,2nd
+Defense,0.53,SEA,5on5,last 20 games,13th
+Goaltending,0.66,SEA,5on5,last 10 games,11th
+Offense,1.0,SEA,5on5,last 10 games,1st
+Defense,0.72,SEA,5on5,last 10 games,8th
+Goaltending,0.64,SEA,5on5,last 5 games,11th
+Offense,0.95,SEA,5on5,last 5 games,2nd
+Defense,0.81,SEA,5on5,last 5 games,5th
+Goaltending,0.03,SJS,5on5,all,23rd
+Offense,0.69,SJS,5on5,all,8th
+Defense,0.12,SJS,5on5,all,20th
+Goaltending,0.03,SJS,5on5,last 20 games,24th
+Offense,0.81,SJS,5on5,last 20 games,6th
+Defense,0.12,SJS,5on5,last 20 games,22nd
+Goaltending,0.03,SJS,5on5,last 10 games,28th
+Offense,0.59,SJS,5on5,last 10 games,13th
+Defense,0.09,SJS,5on5,last 10 games,22nd
+Goaltending,0.27,SJS,5on5,last 5 games,19th
+Offense,0.95,SJS,5on5,last 5 games,2nd
+Defense,0.39,SJS,5on5,last 5 games,15th
+Goaltending,0.12,STL,5on5,all,20th
+Offense,0.3,STL,5on5,all,16th
+Defense,0.19,STL,5on5,all,18th
+Goaltending,0.06,STL,5on5,last 20 games,23rd
+Offense,0.41,STL,5on5,last 20 games,14th
+Defense,0.09,STL,5on5,last 20 games,23rd
+Goaltending,0.22,STL,5on5,last 10 games,22nd
+Offense,0.45,STL,5on5,last 10 games,16th
+Defense,0.17,STL,5on5,last 10 games,20th
+Goaltending,0.22,STL,5on5,last 5 games,20th
+Offense,0.58,STL,5on5,last 5 games,13th
+Defense,0.16,STL,5on5,last 5 games,21st
+Goaltending,0.64,TBL,5on5,all,8th
+Offense,0.86,TBL,5on5,all,3rd
+Defense,0.52,TBL,5on5,all,11th
+Goaltending,0.66,TBL,5on5,last 20 games,10th
+Offense,0.81,TBL,5on5,last 20 games,6th
+Defense,0.41,TBL,5on5,last 20 games,15th
+Goaltending,0.55,TBL,5on5,last 10 games,13th
+Offense,0.69,TBL,5on5,last 10 games,10th
+Defense,0.66,TBL,5on5,last 10 games,10th
+Goaltending,0.92,TBL,5on5,last 5 games,3rd
+Offense,0.48,TBL,5on5,last 5 games,15th
+Defense,0.95,TBL,5on5,last 5 games,2nd
+Goaltending,0.88,TOR,5on5,all,4th
+Offense,0.78,TOR,5on5,all,5th
+Defense,0.94,TOR,5on5,all,3rd
+Goaltending,0.73,TOR,5on5,last 20 games,8th
+Offense,1.0,TOR,5on5,last 20 games,1st
+Defense,0.88,TOR,5on5,last 20 games,5th
+Goaltending,0.12,TOR,5on5,last 10 games,25th
+Offense,0.94,TOR,5on5,last 10 games,3rd
+Defense,0.62,TOR,5on5,last 10 games,11th
+Goaltending,0.42,TOR,5on5,last 5 games,15th
+Offense,0.88,TOR,5on5,last 5 games,4th
+Defense,0.59,TOR,5on5,last 5 games,10th
+Goaltending,0.16,VAN,5on5,all,19th
+Offense,0.3,VAN,5on5,all,16th
+Defense,0.23,VAN,5on5,all,17th
+Goaltending,0.09,VAN,5on5,last 20 games,22nd
+Offense,0.41,VAN,5on5,last 20 games,14th
+Defense,0.16,VAN,5on5,last 20 games,21st
+Goaltending,0.19,VAN,5on5,last 10 games,23rd
+Offense,0.55,VAN,5on5,last 10 games,14th
+Defense,0.17,VAN,5on5,last 10 games,20th
+Goaltending,0.34,VAN,5on5,last 5 games,17th
+Offense,0.44,VAN,5on5,last 5 games,16th
+Defense,0.09,VAN,5on5,last 5 games,23rd
+Goaltending,0.5,VGK,5on5,all,12th
+Offense,0.55,VGK,5on5,all,11th
+Defense,0.69,VGK,5on5,all,7th
+Goaltending,0.19,VGK,5on5,last 20 games,20th
+Offense,0.22,VGK,5on5,last 20 games,18th
+Defense,0.45,VGK,5on5,last 20 games,14th
+Goaltending,0.06,VGK,5on5,last 10 games,27th
+Offense,0.36,VGK,5on5,last 10 games,18th
+Defense,0.39,VGK,5on5,last 10 games,17th
+Goaltending,0.38,VGK,5on5,last 5 games,16th
+Offense,0.72,VGK,5on5,last 5 games,9th
+Defense,0.44,VGK,5on5,last 5 games,14th
+Goaltending,0.88,WPG,5on5,all,4th
+Offense,0.45,WPG,5on5,all,13th
+Defense,0.59,WPG,5on5,all,9th
+Goaltending,0.8,WPG,5on5,last 20 games,7th
+Offense,0.62,WPG,5on5,last 20 games,10th
+Defense,0.59,WPG,5on5,last 20 games,12th
+Goaltending,0.61,WPG,5on5,last 10 games,12th
+Offense,0.3,WPG,5on5,last 10 games,19th
+Defense,0.47,WPG,5on5,last 10 games,15th
+Goaltending,0.72,WPG,5on5,last 5 games,9th
+Offense,0.62,WPG,5on5,last 5 games,12th
+Defense,0.69,WPG,5on5,last 5 games,8th
+Goaltending,0.8,WSH,5on5,all,5th
+Offense,0.64,WSH,5on5,all,9th
+Defense,0.69,WSH,5on5,all,7th
+Goaltending,0.94,WSH,5on5,last 20 games,3rd
+Offense,0.91,WSH,5on5,last 20 games,4th
+Defense,0.97,WSH,5on5,last 20 games,2nd
+Goaltending,0.86,WSH,5on5,last 10 games,5th
+Offense,0.83,WSH,5on5,last 10 games,6th
+Defense,0.97,WSH,5on5,last 10 games,2nd
+Goaltending,0.78,WSH,5on5,last 5 games,7th
+Offense,0.84,WSH,5on5,last 5 games,5th
+Defense,0.88,WSH,5on5,last 5 games,4th
+Penalty Kill,0.06,ANA,4on5,all,27th
+Penalty Kill,0.38,ANA,4on5,last 20 games,21st
+Penalty Kill,0.56,ANA,4on5,last 10 games,15th
+Penalty Kill,0.53,ANA,4on5,last 5 games,16th
+Powerplay,0.12,ANA,5on4,all,28th
+Powerplay,0.38,ANA,5on4,last 20 games,19th
+Powerplay,0.28,ANA,5on4,last 10 games,24th
+Powerplay,0.47,ANA,5on4,last 5 games,16th
+Penalty Kill,0.16,ARI,4on5,all,24th
+Penalty Kill,0.06,ARI,4on5,last 20 games,30th
+Penalty Kill,0.06,ARI,4on5,last 10 games,30th
+Penalty Kill,0.38,ARI,4on5,last 5 games,21st
+Powerplay,0.34,ARI,5on4,all,21st
+Powerplay,0.09,ARI,5on4,last 20 games,28th
+Powerplay,0.38,ARI,5on4,last 10 games,21st
+Powerplay,0.66,ARI,5on4,last 5 games,11th
+Penalty Kill,1.0,BOS,4on5,all,1st
+Penalty Kill,0.78,BOS,4on5,last 20 games,8th
+Penalty Kill,0.78,BOS,4on5,last 10 games,8th
+Penalty Kill,0.88,BOS,4on5,last 5 games,5th
+Powerplay,0.91,BOS,5on4,all,4th
+Powerplay,0.84,BOS,5on4,last 20 games,6th
+Powerplay,0.78,BOS,5on4,last 10 games,8th
+Powerplay,1.0,BOS,5on4,last 5 games,1st
+Penalty Kill,0.19,BUF,4on5,all,23rd
+Penalty Kill,0.2,BUF,4on5,last 20 games,26th
+Penalty Kill,0.25,BUF,4on5,last 10 games,24th
+Penalty Kill,0.09,BUF,4on5,last 5 games,30th
+Powerplay,0.84,BUF,5on4,all,6th
+Powerplay,0.91,BUF,5on4,last 20 games,4th
+Powerplay,0.69,BUF,5on4,last 10 games,11th
+Powerplay,0.56,BUF,5on4,last 5 games,14th
+Penalty Kill,0.55,CAR,4on5,all,13th
+Penalty Kill,0.66,CAR,4on5,last 20 games,12th
+Penalty Kill,0.69,CAR,4on5,last 10 games,11th
+Penalty Kill,0.5,CAR,4on5,last 5 games,17th
+Powerplay,0.39,CAR,5on4,all,20th
+Powerplay,0.75,CAR,5on4,last 20 games,9th
+Powerplay,0.44,CAR,5on4,last 10 games,19th
+Powerplay,0.88,CAR,5on4,last 5 games,5th
+Penalty Kill,0.47,CBJ,4on5,all,15th
+Penalty Kill,0.56,CBJ,4on5,last 20 games,15th
+Penalty Kill,0.34,CBJ,4on5,last 10 games,21st
+Penalty Kill,0.44,CBJ,4on5,last 5 games,19th
+Powerplay,0.09,CBJ,5on4,all,29th
+Powerplay,0.12,CBJ,5on4,last 20 games,27th
+Powerplay,0.19,CBJ,5on4,last 10 games,27th
+Powerplay,0.22,CBJ,5on4,last 5 games,23rd
+Penalty Kill,0.89,CGY,4on5,all,4th
+Penalty Kill,0.97,CGY,4on5,last 20 games,2nd
+Penalty Kill,0.88,CGY,4on5,last 10 games,5th
+Penalty Kill,1.0,CGY,4on5,last 5 games,1st
+Powerplay,0.47,CGY,5on4,all,18th
+Powerplay,0.47,CGY,5on4,last 20 games,16th
+Powerplay,0.5,CGY,5on4,last 10 games,17th
+Powerplay,0.69,CGY,5on4,last 5 games,10th
+Penalty Kill,0.31,CHI,4on5,all,19th
+Penalty Kill,0.12,CHI,4on5,last 20 games,28th
+Penalty Kill,0.28,CHI,4on5,last 10 games,23rd
+Penalty Kill,0.22,CHI,4on5,last 5 games,26th
+Powerplay,0.16,CHI,5on4,all,27th
+Powerplay,0.19,CHI,5on4,last 20 games,25th
+Powerplay,0.03,CHI,5on4,last 10 games,32nd
+Powerplay,0.03,CHI,5on4,last 5 games,29th
+Penalty Kill,0.28,COL,4on5,all,20th
+Penalty Kill,0.28,COL,4on5,last 20 games,24th
+Penalty Kill,0.19,COL,4on5,last 10 games,26th
+Penalty Kill,0.19,COL,4on5,last 5 games,27th
+Powerplay,0.78,COL,5on4,all,8th
+Powerplay,0.22,COL,5on4,last 20 games,24th
+Powerplay,0.56,COL,5on4,last 10 games,15th
+Powerplay,0.25,COL,5on4,last 5 games,22nd
+Penalty Kill,0.84,DAL,4on5,all,5th
+Penalty Kill,0.75,DAL,4on5,last 20 games,9th
+Penalty Kill,0.48,DAL,4on5,last 10 games,17th
+Penalty Kill,0.81,DAL,4on5,last 5 games,7th
+Powerplay,0.97,DAL,5on4,all,2nd
+Powerplay,0.81,DAL,5on4,last 20 games,7th
+Powerplay,0.97,DAL,5on4,last 10 games,2nd
+Powerplay,0.94,DAL,5on4,last 5 games,3rd
+Penalty Kill,0.12,DET,4on5,all,25th
+Penalty Kill,0.03,DET,4on5,last 20 games,31st
+Penalty Kill,0.09,DET,4on5,last 10 games,29th
+Penalty Kill,0.16,DET,4on5,last 5 games,28th
+Powerplay,0.19,DET,5on4,all,26th
+Powerplay,0.28,DET,5on4,last 20 games,22nd
+Powerplay,0.31,DET,5on4,last 10 games,23rd
+Powerplay,0.38,DET,5on4,last 5 games,18th
+Penalty Kill,0.41,EDM,4on5,all,17th
+Penalty Kill,0.44,EDM,4on5,last 20 games,19th
+Penalty Kill,0.41,EDM,4on5,last 10 games,19th
+Penalty Kill,0.75,EDM,4on5,last 5 games,9th
+Powerplay,1.0,EDM,5on4,all,1st
+Powerplay,1.0,EDM,5on4,last 20 games,1st
+Powerplay,1.0,EDM,5on4,last 10 games,1st
+Powerplay,0.97,EDM,5on4,last 5 games,2nd
+Penalty Kill,0.36,FLA,4on5,all,18th
+Penalty Kill,0.16,FLA,4on5,last 20 games,27th
+Penalty Kill,0.12,FLA,4on5,last 10 games,28th
+Penalty Kill,0.06,FLA,4on5,last 5 games,31st
+Powerplay,0.62,FLA,5on4,all,13th
+Powerplay,0.67,FLA,5on4,last 20 games,11th
+Powerplay,0.94,FLA,5on4,last 10 games,3rd
+Powerplay,0.62,FLA,5on4,last 5 games,12th
+Penalty Kill,0.25,LAK,4on5,all,21st
+Penalty Kill,0.34,LAK,4on5,last 20 games,22nd
+Penalty Kill,0.59,LAK,4on5,last 10 games,14th
+Penalty Kill,0.69,LAK,4on5,last 5 games,11th
+Powerplay,0.53,LAK,5on4,all,16th
+Powerplay,0.56,LAK,5on4,last 20 games,14th
+Powerplay,0.66,LAK,5on4,last 10 games,12th
+Powerplay,0.53,LAK,5on4,last 5 games,15th
+Penalty Kill,0.5,MIN,4on5,all,14th
+Penalty Kill,0.31,MIN,4on5,last 20 games,23rd
+Penalty Kill,0.31,MIN,4on5,last 10 games,22nd
+Penalty Kill,0.03,MIN,4on5,last 5 games,32nd
+Powerplay,0.69,MIN,5on4,all,11th
+Powerplay,0.72,MIN,5on4,last 20 games,10th
+Powerplay,0.47,MIN,5on4,last 10 games,18th
+Powerplay,0.47,MIN,5on4,last 5 games,16th
+Penalty Kill,0.22,MTL,4on5,all,22nd
+Penalty Kill,0.2,MTL,4on5,last 20 games,26th
+Penalty Kill,0.03,MTL,4on5,last 10 games,31st
+Penalty Kill,0.12,MTL,4on5,last 5 games,29th
+Powerplay,0.03,MTL,5on4,all,31st
+Powerplay,0.03,MTL,5on4,last 20 games,30th
+Powerplay,0.09,MTL,5on4,last 10 games,30th
+Powerplay,0.28,MTL,5on4,last 5 games,21st
+Penalty Kill,0.66,NJD,4on5,all,11th
+Penalty Kill,0.53,NJD,4on5,last 20 games,16th
+Penalty Kill,0.53,NJD,4on5,last 10 games,16th
+Penalty Kill,0.62,NJD,4on5,last 5 games,13th
+Powerplay,0.56,NJD,5on4,all,15th
+Powerplay,0.41,NJD,5on4,last 20 games,18th
+Powerplay,0.53,NJD,5on4,last 10 games,16th
+Powerplay,0.73,NJD,5on4,last 5 games,9th
+Penalty Kill,0.44,NSH,4on5,all,16th
+Penalty Kill,0.41,NSH,4on5,last 20 games,20th
+Penalty Kill,0.62,NSH,4on5,last 10 games,13th
+Penalty Kill,0.72,NSH,4on5,last 5 games,10th
+Powerplay,0.22,NSH,5on4,all,25th
+Powerplay,0.31,NSH,5on4,last 20 games,21st
+Powerplay,0.84,NSH,5on4,last 10 games,6th
+Powerplay,0.81,NSH,5on4,last 5 games,7th
+Penalty Kill,0.81,NYI,4on5,all,6th
+Penalty Kill,0.47,NYI,4on5,last 20 games,18th
+Penalty Kill,0.38,NYI,4on5,last 10 games,20th
+Penalty Kill,0.47,NYI,4on5,last 5 games,18th
+Powerplay,0.28,NYI,5on4,all,23rd
+Powerplay,0.16,NYI,5on4,last 20 games,26th
+Powerplay,0.06,NYI,5on4,last 10 games,31st
+Powerplay,0.16,NYI,5on4,last 5 games,25th
+Penalty Kill,0.89,NYR,4on5,all,4th
+Penalty Kill,0.81,NYR,4on5,last 20 games,7th
+Penalty Kill,0.72,NYR,4on5,last 10 games,10th
+Penalty Kill,0.41,NYR,4on5,last 5 games,20th
+Powerplay,0.66,NYR,5on4,all,12th
+Powerplay,0.59,NYR,5on4,last 20 games,13th
+Powerplay,0.41,NYR,5on4,last 10 games,20th
+Powerplay,0.73,NYR,5on4,last 5 games,9th
+Penalty Kill,0.69,OTT,4on5,all,10th
+Penalty Kill,0.94,OTT,4on5,last 20 games,3rd
+Penalty Kill,1.0,OTT,4on5,last 10 games,1st
+Penalty Kill,0.97,OTT,4on5,last 5 games,2nd
+Powerplay,0.94,OTT,5on4,all,3rd
+Powerplay,0.97,OTT,5on4,last 20 games,2nd
+Powerplay,0.81,OTT,5on4,last 10 games,7th
+Powerplay,0.41,OTT,5on4,last 5 games,17th
+Penalty Kill,0.55,PHI,4on5,all,13th
+Penalty Kill,0.84,PHI,4on5,last 20 games,6th
+Penalty Kill,0.84,PHI,4on5,last 10 games,6th
+Penalty Kill,0.66,PHI,4on5,last 5 games,12th
+Powerplay,0.06,PHI,5on4,all,30th
+Powerplay,0.06,PHI,5on4,last 20 games,29th
+Powerplay,0.12,PHI,5on4,last 10 games,29th
+Powerplay,0.31,PHI,5on4,last 5 games,20th
+Penalty Kill,0.94,PIT,4on5,all,3rd
+Penalty Kill,1.0,PIT,4on5,last 20 games,1st
+Penalty Kill,0.81,PIT,4on5,last 10 games,7th
+Penalty Kill,0.25,PIT,4on5,last 5 games,25th
+Powerplay,0.31,PIT,5on4,all,22nd
+Powerplay,0.44,PIT,5on4,last 20 games,17th
+Powerplay,0.62,PIT,5on4,last 10 games,13th
+Powerplay,0.19,PIT,5on4,last 5 games,24th
+Penalty Kill,0.09,SEA,4on5,all,26th
+Penalty Kill,0.09,SEA,4on5,last 20 games,29th
+Penalty Kill,0.22,SEA,4on5,last 10 games,25th
+Penalty Kill,0.28,SEA,4on5,last 5 games,24th
+Powerplay,0.59,SEA,5on4,all,14th
+Powerplay,0.67,SEA,5on4,last 20 games,11th
+Powerplay,0.25,SEA,5on4,last 10 games,25th
+Powerplay,0.78,SEA,5on4,last 5 games,8th
+Penalty Kill,0.78,SJS,4on5,all,7th
+Penalty Kill,0.5,SJS,4on5,last 20 games,17th
+Penalty Kill,0.44,SJS,4on5,last 10 games,18th
+Penalty Kill,0.34,SJS,4on5,last 5 games,22nd
+Powerplay,0.39,SJS,5on4,all,20th
+Powerplay,0.34,SJS,5on4,last 20 games,20th
+Powerplay,0.34,SJS,5on4,last 10 games,22nd
+Powerplay,0.06,SJS,5on4,last 5 games,28th
+Penalty Kill,0.36,STL,4on5,all,18th
+Penalty Kill,0.59,STL,4on5,last 20 games,14th
+Penalty Kill,0.66,STL,4on5,last 10 games,12th
+Penalty Kill,0.59,STL,4on5,last 5 games,14th
+Powerplay,0.44,STL,5on4,all,19th
+Powerplay,0.52,STL,5on4,last 20 games,15th
+Powerplay,0.88,STL,5on4,last 10 games,5th
+Powerplay,0.91,STL,5on4,last 5 games,4th
+Penalty Kill,0.61,TBL,4on5,all,12th
+Penalty Kill,0.91,TBL,4on5,last 20 games,4th
+Penalty Kill,0.91,TBL,4on5,last 10 games,4th
+Penalty Kill,0.84,TBL,4on5,last 5 games,6th
+Powerplay,0.75,TBL,5on4,all,9th
+Powerplay,0.94,TBL,5on4,last 20 games,3rd
+Powerplay,0.72,TBL,5on4,last 10 games,10th
+Powerplay,0.47,TBL,5on4,last 5 games,16th
+Penalty Kill,0.75,TOR,4on5,all,8th
+Penalty Kill,0.69,TOR,4on5,last 20 games,11th
+Penalty Kill,0.48,TOR,4on5,last 10 games,17th
+Penalty Kill,0.56,TOR,4on5,last 5 games,15th
+Powerplay,0.81,TOR,5on4,all,7th
+Powerplay,0.52,TOR,5on4,last 20 games,15th
+Powerplay,0.75,TOR,5on4,last 10 games,9th
+Powerplay,0.59,TOR,5on4,last 5 games,13th
+Penalty Kill,0.03,VAN,4on5,all,28th
+Penalty Kill,0.25,VAN,4on5,last 20 games,25th
+Penalty Kill,0.16,VAN,4on5,last 10 games,27th
+Penalty Kill,0.31,VAN,4on5,last 5 games,23rd
+Powerplay,0.5,VAN,5on4,all,17th
+Powerplay,0.25,VAN,5on4,last 20 games,23rd
+Powerplay,0.22,VAN,5on4,last 10 games,26th
+Powerplay,0.12,VAN,5on4,last 5 games,26th
+Penalty Kill,0.97,VGK,4on5,all,2nd
+Penalty Kill,0.88,VGK,4on5,last 20 games,5th
+Penalty Kill,0.97,VGK,4on5,last 10 games,2nd
+Penalty Kill,0.91,VGK,4on5,last 5 games,4th
+Powerplay,0.88,VGK,5on4,all,5th
+Powerplay,0.88,VGK,5on4,last 20 games,5th
+Powerplay,0.91,VGK,5on4,last 10 games,4th
+Powerplay,0.09,VGK,5on4,last 5 games,27th
+Penalty Kill,0.72,WPG,4on5,all,9th
+Penalty Kill,0.72,WPG,4on5,last 20 games,10th
+Penalty Kill,0.94,WPG,4on5,last 10 games,3rd
+Penalty Kill,0.94,WPG,4on5,last 5 games,3rd
+Powerplay,0.72,WPG,5on4,all,10th
+Powerplay,0.78,WPG,5on4,last 20 games,8th
+Powerplay,0.16,WPG,5on4,last 10 games,28th
+Powerplay,0.34,WPG,5on4,last 5 games,19th
+Penalty Kill,0.61,WSH,4on5,all,12th
+Penalty Kill,0.62,WSH,4on5,last 20 games,13th
+Penalty Kill,0.75,WSH,4on5,last 10 games,9th
+Penalty Kill,0.78,WSH,4on5,last 5 games,8th
+Powerplay,0.25,WSH,5on4,all,24th
+Powerplay,0.62,WSH,5on4,last 20 games,12th
+Powerplay,0.59,WSH,5on4,last 10 games,14th
+Powerplay,0.84,WSH,5on4,last 5 games,6th
