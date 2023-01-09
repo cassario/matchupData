@@ -1,4 +1,244 @@
 label,value,team,situation,n_games,matchup,home_away
+Points,0.39,BUF,all,all,PHI@BUF,home
+Goals For,1.0,BUF,all,all,PHI@BUF,home
+Goal Differential,0.8,BUF,all,all,PHI@BUF,home
+Shooting %,1.0,BUF,all,all,PHI@BUF,home
+Save %,0.45,BUF,all,all,PHI@BUF,home
+Blocked shot attempt %,0.59,BUF,all,all,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,all,all,PHI@BUF,home
+Expected Goals For,0.64,BUF,all,all,PHI@BUF,home
+XG Differential,0.28,BUF,all,all,PHI@BUF,home
+Shot (FW) Volume,0.44,BUF,all,all,PHI@BUF,home
+Shot (FW) Differential,0.41,BUF,all,all,PHI@BUF,home
+Penalty Differential,0.91,BUF,all,all,PHI@BUF,home
+offense_p60_perc,0.97,BUF,all,all,PHI@BUF,home
+defense_p60_perc,0.19,BUF,all,all,PHI@BUF,home
+cum_dif_p60_perc,0.52,BUF,all,all,PHI@BUF,home
+Points,0.88,BUF,all,last 20 games,PHI@BUF,home
+Goals For,1.0,BUF,all,last 20 games,PHI@BUF,home
+Goal Differential,0.91,BUF,all,last 20 games,PHI@BUF,home
+Shooting %,1.0,BUF,all,last 20 games,PHI@BUF,home
+Save %,0.66,BUF,all,last 20 games,PHI@BUF,home
+Blocked shot attempt %,0.52,BUF,all,last 20 games,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,all,last 20 games,PHI@BUF,home
+Expected Goals For,0.66,BUF,all,last 20 games,PHI@BUF,home
+XG Differential,0.22,BUF,all,last 20 games,PHI@BUF,home
+Shot (FW) Volume,0.41,BUF,all,last 20 games,PHI@BUF,home
+Shot (FW) Differential,0.22,BUF,all,last 20 games,PHI@BUF,home
+Penalty Differential,0.52,BUF,all,last 20 games,PHI@BUF,home
+offense_p60_perc,1.0,BUF,all,last 20 games,PHI@BUF,home
+defense_p60_perc,0.27,BUF,all,last 20 games,PHI@BUF,home
+cum_dif_p60_perc,0.64,BUF,all,last 20 games,PHI@BUF,home
+Points,0.95,BUF,all,last 10 games,PHI@BUF,home
+Goals For,0.97,BUF,all,last 10 games,PHI@BUF,home
+Goal Differential,0.94,BUF,all,last 10 games,PHI@BUF,home
+Shooting %,0.94,BUF,all,last 10 games,PHI@BUF,home
+Save %,0.97,BUF,all,last 10 games,PHI@BUF,home
+Blocked shot attempt %,0.56,BUF,all,last 10 games,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,all,last 10 games,PHI@BUF,home
+Expected Goals For,0.31,BUF,all,last 10 games,PHI@BUF,home
+XG Differential,0.11,BUF,all,last 10 games,PHI@BUF,home
+Shot (FW) Volume,0.44,BUF,all,last 10 games,PHI@BUF,home
+Shot (FW) Differential,0.22,BUF,all,last 10 games,PHI@BUF,home
+Penalty Differential,0.77,BUF,all,last 10 games,PHI@BUF,home
+offense_p60_perc,0.81,BUF,all,last 10 games,PHI@BUF,home
+defense_p60_perc,0.41,BUF,all,last 10 games,PHI@BUF,home
+cum_dif_p60_perc,0.53,BUF,all,last 10 games,PHI@BUF,home
+Points,0.86,BUF,all,last 5 games,PHI@BUF,home
+Goals For,0.88,BUF,all,last 5 games,PHI@BUF,home
+Goal Differential,0.69,BUF,all,last 5 games,PHI@BUF,home
+Shooting %,0.83,BUF,all,last 5 games,PHI@BUF,home
+Save %,0.53,BUF,all,last 5 games,PHI@BUF,home
+Blocked shot attempt %,0.31,BUF,all,last 5 games,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,all,last 5 games,PHI@BUF,home
+Expected Goals For,0.36,BUF,all,last 5 games,PHI@BUF,home
+XG Differential,0.08,BUF,all,last 5 games,PHI@BUF,home
+Shot (FW) Volume,0.34,BUF,all,last 5 games,PHI@BUF,home
+Shot (FW) Differential,0.31,BUF,all,last 5 games,PHI@BUF,home
+Penalty Differential,0.92,BUF,all,last 5 games,PHI@BUF,home
+offense_p60_perc,0.75,BUF,all,last 5 games,PHI@BUF,home
+defense_p60_perc,0.17,BUF,all,last 5 games,PHI@BUF,home
+cum_dif_p60_perc,0.41,BUF,all,last 5 games,PHI@BUF,home
+Points,0.39,BUF,5on5,all,PHI@BUF,home
+Goals For,0.97,BUF,5on5,all,PHI@BUF,home
+Goal Differential,0.75,BUF,5on5,all,PHI@BUF,home
+Shooting %,0.97,BUF,5on5,all,PHI@BUF,home
+Save %,0.41,BUF,5on5,all,PHI@BUF,home
+Blocked shot attempt %,0.61,BUF,5on5,all,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,5on5,all,PHI@BUF,home
+Expected Goals For,0.55,BUF,5on5,all,PHI@BUF,home
+XG Differential,0.3,BUF,5on5,all,PHI@BUF,home
+Shot (FW) Volume,0.5,BUF,5on5,all,PHI@BUF,home
+Shot (FW) Differential,0.5,BUF,5on5,all,PHI@BUF,home
+Penalty Differential,0.94,BUF,5on5,all,PHI@BUF,home
+offense_p60_perc,0.86,BUF,5on5,all,PHI@BUF,home
+defense_p60_perc,0.28,BUF,5on5,all,PHI@BUF,home
+cum_dif_p60_perc,0.5,BUF,5on5,all,PHI@BUF,home
+Points,0.88,BUF,5on5,last 20 games,PHI@BUF,home
+Goals For,0.94,BUF,5on5,last 20 games,PHI@BUF,home
+Goal Differential,0.86,BUF,5on5,last 20 games,PHI@BUF,home
+Shooting %,0.94,BUF,5on5,last 20 games,PHI@BUF,home
+Save %,0.62,BUF,5on5,last 20 games,PHI@BUF,home
+Blocked shot attempt %,0.66,BUF,5on5,last 20 games,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,5on5,last 20 games,PHI@BUF,home
+Expected Goals For,0.52,BUF,5on5,last 20 games,PHI@BUF,home
+XG Differential,0.3,BUF,5on5,last 20 games,PHI@BUF,home
+Shot (FW) Volume,0.34,BUF,5on5,last 20 games,PHI@BUF,home
+Shot (FW) Differential,0.33,BUF,5on5,last 20 games,PHI@BUF,home
+Penalty Differential,0.84,BUF,5on5,last 20 games,PHI@BUF,home
+offense_p60_perc,0.88,BUF,5on5,last 20 games,PHI@BUF,home
+defense_p60_perc,0.33,BUF,5on5,last 20 games,PHI@BUF,home
+cum_dif_p60_perc,0.72,BUF,5on5,last 20 games,PHI@BUF,home
+Points,0.95,BUF,5on5,last 10 games,PHI@BUF,home
+Goals For,0.83,BUF,5on5,last 10 games,PHI@BUF,home
+Goal Differential,0.75,BUF,5on5,last 10 games,PHI@BUF,home
+Shooting %,0.84,BUF,5on5,last 10 games,PHI@BUF,home
+Save %,0.81,BUF,5on5,last 10 games,PHI@BUF,home
+Blocked shot attempt %,0.72,BUF,5on5,last 10 games,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,5on5,last 10 games,PHI@BUF,home
+Expected Goals For,0.48,BUF,5on5,last 10 games,PHI@BUF,home
+XG Differential,0.19,BUF,5on5,last 10 games,PHI@BUF,home
+Shot (FW) Volume,0.45,BUF,5on5,last 10 games,PHI@BUF,home
+Shot (FW) Differential,0.34,BUF,5on5,last 10 games,PHI@BUF,home
+Penalty Differential,0.88,BUF,5on5,last 10 games,PHI@BUF,home
+offense_p60_perc,0.75,BUF,5on5,last 10 games,PHI@BUF,home
+defense_p60_perc,0.52,BUF,5on5,last 10 games,PHI@BUF,home
+cum_dif_p60_perc,0.59,BUF,5on5,last 10 games,PHI@BUF,home
+Points,0.86,BUF,5on5,last 5 games,PHI@BUF,home
+Goals For,0.78,BUF,5on5,last 5 games,PHI@BUF,home
+Goal Differential,0.72,BUF,5on5,last 5 games,PHI@BUF,home
+Shooting %,0.78,BUF,5on5,last 5 games,PHI@BUF,home
+Save %,0.48,BUF,5on5,last 5 games,PHI@BUF,home
+Blocked shot attempt %,0.38,BUF,5on5,last 5 games,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,5on5,last 5 games,PHI@BUF,home
+Expected Goals For,0.42,BUF,5on5,last 5 games,PHI@BUF,home
+XG Differential,0.22,BUF,5on5,last 5 games,PHI@BUF,home
+Shot (FW) Volume,0.44,BUF,5on5,last 5 games,PHI@BUF,home
+Shot (FW) Differential,0.47,BUF,5on5,last 5 games,PHI@BUF,home
+Penalty Differential,0.97,BUF,5on5,last 5 games,PHI@BUF,home
+offense_p60_perc,0.75,BUF,5on5,last 5 games,PHI@BUF,home
+defense_p60_perc,0.22,BUF,5on5,last 5 games,PHI@BUF,home
+cum_dif_p60_perc,0.47,BUF,5on5,last 5 games,PHI@BUF,home
+Points,0.39,BUF,4on5,all,PHI@BUF,home
+Goals For,0.69,BUF,4on5,all,PHI@BUF,home
+Goal Differential,0.22,BUF,4on5,all,PHI@BUF,home
+Shooting %,0.5,BUF,4on5,all,PHI@BUF,home
+Save %,0.34,BUF,4on5,all,PHI@BUF,home
+Blocked shot attempt %,0.16,BUF,4on5,all,PHI@BUF,home
+Blocked shot attempt % against,0.05,BUF,4on5,all,PHI@BUF,home
+Expected Goals For,0.83,BUF,4on5,all,PHI@BUF,home
+XG Differential,0.06,BUF,4on5,all,PHI@BUF,home
+Shot (FW) Volume,0.88,BUF,4on5,all,PHI@BUF,home
+Shot (FW) Differential,0.12,BUF,4on5,all,PHI@BUF,home
+Penalty Differential,0.03,BUF,4on5,all,PHI@BUF,home
+offense_p60_perc,0.78,BUF,4on5,all,PHI@BUF,home
+defense_p60_perc,0.06,BUF,4on5,all,PHI@BUF,home
+cum_dif_p60_perc,0.19,BUF,4on5,all,PHI@BUF,home
+Points,0.88,BUF,4on5,last 20 games,PHI@BUF,home
+Goals For,0.34,BUF,4on5,last 20 games,PHI@BUF,home
+Goal Differential,0.31,BUF,4on5,last 20 games,PHI@BUF,home
+Shooting %,0.31,BUF,4on5,last 20 games,PHI@BUF,home
+Save %,0.59,BUF,4on5,last 20 games,PHI@BUF,home
+Blocked shot attempt %,0.06,BUF,4on5,last 20 games,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,4on5,last 20 games,PHI@BUF,home
+Expected Goals For,0.27,BUF,4on5,last 20 games,PHI@BUF,home
+XG Differential,0.06,BUF,4on5,last 20 games,PHI@BUF,home
+Shot (FW) Volume,0.39,BUF,4on5,last 20 games,PHI@BUF,home
+Shot (FW) Differential,0.03,BUF,4on5,last 20 games,PHI@BUF,home
+Penalty Differential,0.03,BUF,4on5,last 20 games,PHI@BUF,home
+offense_p60_perc,0.36,BUF,4on5,last 20 games,PHI@BUF,home
+defense_p60_perc,0.16,BUF,4on5,last 20 games,PHI@BUF,home
+cum_dif_p60_perc,0.2,BUF,4on5,last 20 games,PHI@BUF,home
+Points,0.95,BUF,4on5,last 10 games,PHI@BUF,home
+Goals For,0.22,BUF,4on5,last 10 games,PHI@BUF,home
+Goal Differential,0.34,BUF,4on5,last 10 games,PHI@BUF,home
+Shooting %,0.22,BUF,4on5,last 10 games,PHI@BUF,home
+Save %,0.75,BUF,4on5,last 10 games,PHI@BUF,home
+Blocked shot attempt %,0.03,BUF,4on5,last 10 games,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,4on5,last 10 games,PHI@BUF,home
+Expected Goals For,0.28,BUF,4on5,last 10 games,PHI@BUF,home
+XG Differential,0.03,BUF,4on5,last 10 games,PHI@BUF,home
+Shot (FW) Volume,0.34,BUF,4on5,last 10 games,PHI@BUF,home
+Shot (FW) Differential,0.06,BUF,4on5,last 10 games,PHI@BUF,home
+Penalty Differential,0.03,BUF,4on5,last 10 games,PHI@BUF,home
+offense_p60_perc,0.22,BUF,4on5,last 10 games,PHI@BUF,home
+defense_p60_perc,0.28,BUF,4on5,last 10 games,PHI@BUF,home
+cum_dif_p60_perc,0.25,BUF,4on5,last 10 games,PHI@BUF,home
+Points,0.86,BUF,4on5,last 5 games,PHI@BUF,home
+Goals For,0.27,BUF,4on5,last 5 games,PHI@BUF,home
+Goal Differential,0.09,BUF,4on5,last 5 games,PHI@BUF,home
+Shooting %,0.27,BUF,4on5,last 5 games,PHI@BUF,home
+Save %,0.27,BUF,4on5,last 5 games,PHI@BUF,home
+Blocked shot attempt %,0.17,BUF,4on5,last 5 games,PHI@BUF,home
+Blocked shot attempt % against,0.03,BUF,4on5,last 5 games,PHI@BUF,home
+Expected Goals For,0.36,BUF,4on5,last 5 games,PHI@BUF,home
+XG Differential,0.09,BUF,4on5,last 5 games,PHI@BUF,home
+Shot (FW) Volume,0.78,BUF,4on5,last 5 games,PHI@BUF,home
+Shot (FW) Differential,0.12,BUF,4on5,last 5 games,PHI@BUF,home
+Penalty Differential,0.03,BUF,4on5,last 5 games,PHI@BUF,home
+offense_p60_perc,0.23,BUF,4on5,last 5 games,PHI@BUF,home
+defense_p60_perc,0.09,BUF,4on5,last 5 games,PHI@BUF,home
+cum_dif_p60_perc,0.09,BUF,4on5,last 5 games,PHI@BUF,home
+Points,0.39,BUF,5on4,all,PHI@BUF,home
+Goals For,0.88,BUF,5on4,all,PHI@BUF,home
+Goal Differential,0.91,BUF,5on4,all,PHI@BUF,home
+Shooting %,0.97,BUF,5on4,all,PHI@BUF,home
+Save %,0.78,BUF,5on4,all,PHI@BUF,home
+Blocked shot attempt %,0.81,BUF,5on4,all,PHI@BUF,home
+Blocked shot attempt % against,0.14,BUF,5on4,all,PHI@BUF,home
+Expected Goals For,0.55,BUF,5on4,all,PHI@BUF,home
+XG Differential,0.47,BUF,5on4,all,PHI@BUF,home
+Shot (FW) Volume,0.23,BUF,5on4,all,PHI@BUF,home
+Shot (FW) Differential,0.31,BUF,5on4,all,PHI@BUF,home
+Penalty Differential,0.84,BUF,5on4,all,PHI@BUF,home
+offense_p60_perc,0.83,BUF,5on4,all,PHI@BUF,home
+defense_p60_perc,0.73,BUF,5on4,all,PHI@BUF,home
+cum_dif_p60_perc,0.84,BUF,5on4,all,PHI@BUF,home
+Points,0.88,BUF,5on4,last 20 games,PHI@BUF,home
+Goals For,0.91,BUF,5on4,last 20 games,PHI@BUF,home
+Goal Differential,0.94,BUF,5on4,last 20 games,PHI@BUF,home
+Shooting %,0.97,BUF,5on4,last 20 games,PHI@BUF,home
+Save %,0.58,BUF,5on4,last 20 games,PHI@BUF,home
+Blocked shot attempt %,0.75,BUF,5on4,last 20 games,PHI@BUF,home
+Blocked shot attempt % against,0.19,BUF,5on4,last 20 games,PHI@BUF,home
+Expected Goals For,0.7,BUF,5on4,last 20 games,PHI@BUF,home
+XG Differential,0.72,BUF,5on4,last 20 games,PHI@BUF,home
+Shot (FW) Volume,0.38,BUF,5on4,last 20 games,PHI@BUF,home
+Shot (FW) Differential,0.56,BUF,5on4,last 20 games,PHI@BUF,home
+Penalty Differential,0.81,BUF,5on4,last 20 games,PHI@BUF,home
+offense_p60_perc,0.91,BUF,5on4,last 20 games,PHI@BUF,home
+defense_p60_perc,0.7,BUF,5on4,last 20 games,PHI@BUF,home
+cum_dif_p60_perc,0.91,BUF,5on4,last 20 games,PHI@BUF,home
+Points,0.95,BUF,5on4,last 10 games,PHI@BUF,home
+Goals For,0.72,BUF,5on4,last 10 games,PHI@BUF,home
+Goal Differential,0.81,BUF,5on4,last 10 games,PHI@BUF,home
+Shooting %,0.89,BUF,5on4,last 10 games,PHI@BUF,home
+Save %,0.83,BUF,5on4,last 10 games,PHI@BUF,home
+Blocked shot attempt %,0.78,BUF,5on4,last 10 games,PHI@BUF,home
+Blocked shot attempt % against,0.44,BUF,5on4,last 10 games,PHI@BUF,home
+Expected Goals For,0.22,BUF,5on4,last 10 games,PHI@BUF,home
+XG Differential,0.25,BUF,5on4,last 10 games,PHI@BUF,home
+Shot (FW) Volume,0.34,BUF,5on4,last 10 games,PHI@BUF,home
+Shot (FW) Differential,0.44,BUF,5on4,last 10 games,PHI@BUF,home
+Penalty Differential,1.0,BUF,5on4,last 10 games,PHI@BUF,home
+offense_p60_perc,0.64,BUF,5on4,last 10 games,PHI@BUF,home
+defense_p60_perc,0.75,BUF,5on4,last 10 games,PHI@BUF,home
+cum_dif_p60_perc,0.69,BUF,5on4,last 10 games,PHI@BUF,home
+Points,0.86,BUF,5on4,last 5 games,PHI@BUF,home
+Goals For,0.72,BUF,5on4,last 5 games,PHI@BUF,home
+Goal Differential,0.75,BUF,5on4,last 5 games,PHI@BUF,home
+Shooting %,0.88,BUF,5on4,last 5 games,PHI@BUF,home
+Save %,0.72,BUF,5on4,last 5 games,PHI@BUF,home
+Blocked shot attempt %,0.53,BUF,5on4,last 5 games,PHI@BUF,home
+Blocked shot attempt % against,0.58,BUF,5on4,last 5 games,PHI@BUF,home
+Expected Goals For,0.42,BUF,5on4,last 5 games,PHI@BUF,home
+XG Differential,0.31,BUF,5on4,last 5 games,PHI@BUF,home
+Shot (FW) Volume,0.06,BUF,5on4,last 5 games,PHI@BUF,home
+Shot (FW) Differential,0.16,BUF,5on4,last 5 games,PHI@BUF,home
+Penalty Differential,0.94,BUF,5on4,last 5 games,PHI@BUF,home
+offense_p60_perc,0.53,BUF,5on4,last 5 games,PHI@BUF,home
+defense_p60_perc,0.47,BUF,5on4,last 5 games,PHI@BUF,home
+cum_dif_p60_perc,0.56,BUF,5on4,last 5 games,PHI@BUF,home
 Points,0.5,EDM,all,all,EDM@LAK,away
 Goals For,0.89,EDM,all,all,EDM@LAK,away
 Goal Differential,0.53,EDM,all,all,EDM@LAK,away
@@ -1199,6 +1439,246 @@ Penalty Differential,0.69,OTT,5on4,last 5 games,NSH@OTT,home
 offense_p60_perc,0.5,OTT,5on4,last 5 games,NSH@OTT,home
 defense_p60_perc,0.42,OTT,5on4,last 5 games,NSH@OTT,home
 cum_dif_p60_perc,0.41,OTT,5on4,last 5 games,NSH@OTT,home
+Points,0.23,PHI,all,all,PHI@BUF,away
+Goals For,0.17,PHI,all,all,PHI@BUF,away
+Goal Differential,0.22,PHI,all,all,PHI@BUF,away
+Shooting %,0.33,PHI,all,all,PHI@BUF,away
+Save %,0.45,PHI,all,all,PHI@BUF,away
+Blocked shot attempt %,0.48,PHI,all,all,PHI@BUF,away
+Blocked shot attempt % against,0.94,PHI,all,all,PHI@BUF,away
+Expected Goals For,0.16,PHI,all,all,PHI@BUF,away
+XG Differential,0.16,PHI,all,all,PHI@BUF,away
+Shot (FW) Volume,0.19,PHI,all,all,PHI@BUF,away
+Shot (FW) Differential,0.22,PHI,all,all,PHI@BUF,away
+Penalty Differential,0.25,PHI,all,all,PHI@BUF,away
+offense_p60_perc,0.17,PHI,all,all,PHI@BUF,away
+defense_p60_perc,0.34,PHI,all,all,PHI@BUF,away
+cum_dif_p60_perc,0.19,PHI,all,all,PHI@BUF,away
+Points,0.28,PHI,all,last 20 games,PHI@BUF,away
+Goals For,0.41,PHI,all,last 20 games,PHI@BUF,away
+Goal Differential,0.34,PHI,all,last 20 games,PHI@BUF,away
+Shooting %,0.53,PHI,all,last 20 games,PHI@BUF,away
+Save %,0.31,PHI,all,last 20 games,PHI@BUF,away
+Blocked shot attempt %,0.62,PHI,all,last 20 games,PHI@BUF,away
+Blocked shot attempt % against,0.94,PHI,all,last 20 games,PHI@BUF,away
+Expected Goals For,0.14,PHI,all,last 20 games,PHI@BUF,away
+XG Differential,0.27,PHI,all,last 20 games,PHI@BUF,away
+Shot (FW) Volume,0.31,PHI,all,last 20 games,PHI@BUF,away
+Shot (FW) Differential,0.55,PHI,all,last 20 games,PHI@BUF,away
+Penalty Differential,0.19,PHI,all,last 20 games,PHI@BUF,away
+offense_p60_perc,0.22,PHI,all,last 20 games,PHI@BUF,away
+defense_p60_perc,0.41,PHI,all,last 20 games,PHI@BUF,away
+cum_dif_p60_perc,0.28,PHI,all,last 20 games,PHI@BUF,away
+Points,0.58,PHI,all,last 10 games,PHI@BUF,away
+Goals For,0.83,PHI,all,last 10 games,PHI@BUF,away
+Goal Differential,0.56,PHI,all,last 10 games,PHI@BUF,away
+Shooting %,0.91,PHI,all,last 10 games,PHI@BUF,away
+Save %,0.44,PHI,all,last 10 games,PHI@BUF,away
+Blocked shot attempt %,0.2,PHI,all,last 10 games,PHI@BUF,away
+Blocked shot attempt % against,0.3,PHI,all,last 10 games,PHI@BUF,away
+Expected Goals For,0.2,PHI,all,last 10 games,PHI@BUF,away
+XG Differential,0.2,PHI,all,last 10 games,PHI@BUF,away
+Shot (FW) Volume,0.31,PHI,all,last 10 games,PHI@BUF,away
+Shot (FW) Differential,0.28,PHI,all,last 10 games,PHI@BUF,away
+Penalty Differential,0.41,PHI,all,last 10 games,PHI@BUF,away
+offense_p60_perc,0.62,PHI,all,last 10 games,PHI@BUF,away
+defense_p60_perc,0.34,PHI,all,last 10 games,PHI@BUF,away
+cum_dif_p60_perc,0.44,PHI,all,last 10 games,PHI@BUF,away
+Points,0.86,PHI,all,last 5 games,PHI@BUF,away
+Goals For,0.78,PHI,all,last 5 games,PHI@BUF,away
+Goal Differential,0.78,PHI,all,last 5 games,PHI@BUF,away
+Shooting %,0.78,PHI,all,last 5 games,PHI@BUF,away
+Save %,0.59,PHI,all,last 5 games,PHI@BUF,away
+Blocked shot attempt %,0.58,PHI,all,last 5 games,PHI@BUF,away
+Blocked shot attempt % against,0.53,PHI,all,last 5 games,PHI@BUF,away
+Expected Goals For,0.25,PHI,all,last 5 games,PHI@BUF,away
+XG Differential,0.53,PHI,all,last 5 games,PHI@BUF,away
+Shot (FW) Volume,0.47,PHI,all,last 5 games,PHI@BUF,away
+Shot (FW) Differential,0.59,PHI,all,last 5 games,PHI@BUF,away
+Penalty Differential,0.22,PHI,all,last 5 games,PHI@BUF,away
+offense_p60_perc,0.64,PHI,all,last 5 games,PHI@BUF,away
+defense_p60_perc,0.8,PHI,all,last 5 games,PHI@BUF,away
+cum_dif_p60_perc,0.72,PHI,all,last 5 games,PHI@BUF,away
+Points,0.23,PHI,5on5,all,PHI@BUF,away
+Goals For,0.22,PHI,5on5,all,PHI@BUF,away
+Goal Differential,0.3,PHI,5on5,all,PHI@BUF,away
+Shooting %,0.27,PHI,5on5,all,PHI@BUF,away
+Save %,0.47,PHI,5on5,all,PHI@BUF,away
+Blocked shot attempt %,0.83,PHI,5on5,all,PHI@BUF,away
+Blocked shot attempt % against,0.94,PHI,5on5,all,PHI@BUF,away
+Expected Goals For,0.2,PHI,5on5,all,PHI@BUF,away
+XG Differential,0.16,PHI,5on5,all,PHI@BUF,away
+Shot (FW) Volume,0.28,PHI,5on5,all,PHI@BUF,away
+Shot (FW) Differential,0.28,PHI,5on5,all,PHI@BUF,away
+Penalty Differential,0.61,PHI,5on5,all,PHI@BUF,away
+offense_p60_perc,0.2,PHI,5on5,all,PHI@BUF,away
+defense_p60_perc,0.36,PHI,5on5,all,PHI@BUF,away
+cum_dif_p60_perc,0.22,PHI,5on5,all,PHI@BUF,away
+Points,0.28,PHI,5on5,last 20 games,PHI@BUF,away
+Goals For,0.38,PHI,5on5,last 20 games,PHI@BUF,away
+Goal Differential,0.39,PHI,5on5,last 20 games,PHI@BUF,away
+Shooting %,0.41,PHI,5on5,last 20 games,PHI@BUF,away
+Save %,0.31,PHI,5on5,last 20 games,PHI@BUF,away
+Blocked shot attempt %,0.91,PHI,5on5,last 20 games,PHI@BUF,away
+Blocked shot attempt % against,0.81,PHI,5on5,last 20 games,PHI@BUF,away
+Expected Goals For,0.25,PHI,5on5,last 20 games,PHI@BUF,away
+XG Differential,0.3,PHI,5on5,last 20 games,PHI@BUF,away
+Shot (FW) Volume,0.61,PHI,5on5,last 20 games,PHI@BUF,away
+Shot (FW) Differential,0.66,PHI,5on5,last 20 games,PHI@BUF,away
+Penalty Differential,0.25,PHI,5on5,last 20 games,PHI@BUF,away
+offense_p60_perc,0.33,PHI,5on5,last 20 games,PHI@BUF,away
+defense_p60_perc,0.33,PHI,5on5,last 20 games,PHI@BUF,away
+cum_dif_p60_perc,0.3,PHI,5on5,last 20 games,PHI@BUF,away
+Points,0.58,PHI,5on5,last 10 games,PHI@BUF,away
+Goals For,0.78,PHI,5on5,last 10 games,PHI@BUF,away
+Goal Differential,0.59,PHI,5on5,last 10 games,PHI@BUF,away
+Shooting %,0.84,PHI,5on5,last 10 games,PHI@BUF,away
+Save %,0.41,PHI,5on5,last 10 games,PHI@BUF,away
+Blocked shot attempt %,0.5,PHI,5on5,last 10 games,PHI@BUF,away
+Blocked shot attempt % against,0.31,PHI,5on5,last 10 games,PHI@BUF,away
+Expected Goals For,0.39,PHI,5on5,last 10 games,PHI@BUF,away
+XG Differential,0.23,PHI,5on5,last 10 games,PHI@BUF,away
+Shot (FW) Volume,0.41,PHI,5on5,last 10 games,PHI@BUF,away
+Shot (FW) Differential,0.41,PHI,5on5,last 10 games,PHI@BUF,away
+Penalty Differential,0.47,PHI,5on5,last 10 games,PHI@BUF,away
+offense_p60_perc,0.66,PHI,5on5,last 10 games,PHI@BUF,away
+defense_p60_perc,0.23,PHI,5on5,last 10 games,PHI@BUF,away
+cum_dif_p60_perc,0.56,PHI,5on5,last 10 games,PHI@BUF,away
+Points,0.86,PHI,5on5,last 5 games,PHI@BUF,away
+Goals For,0.83,PHI,5on5,last 5 games,PHI@BUF,away
+Goal Differential,0.84,PHI,5on5,last 5 games,PHI@BUF,away
+Shooting %,0.81,PHI,5on5,last 5 games,PHI@BUF,away
+Save %,0.64,PHI,5on5,last 5 games,PHI@BUF,away
+Blocked shot attempt %,0.69,PHI,5on5,last 5 games,PHI@BUF,away
+Blocked shot attempt % against,0.53,PHI,5on5,last 5 games,PHI@BUF,away
+Expected Goals For,0.67,PHI,5on5,last 5 games,PHI@BUF,away
+XG Differential,0.84,PHI,5on5,last 5 games,PHI@BUF,away
+Shot (FW) Volume,0.59,PHI,5on5,last 5 games,PHI@BUF,away
+Shot (FW) Differential,0.78,PHI,5on5,last 5 games,PHI@BUF,away
+Penalty Differential,0.39,PHI,5on5,last 5 games,PHI@BUF,away
+offense_p60_perc,0.81,PHI,5on5,last 5 games,PHI@BUF,away
+defense_p60_perc,0.81,PHI,5on5,last 5 games,PHI@BUF,away
+cum_dif_p60_perc,0.84,PHI,5on5,last 5 games,PHI@BUF,away
+Points,0.23,PHI,4on5,all,PHI@BUF,away
+Goals For,0.97,PHI,4on5,all,PHI@BUF,away
+Goal Differential,0.56,PHI,4on5,all,PHI@BUF,away
+Shooting %,0.88,PHI,4on5,all,PHI@BUF,away
+Save %,0.44,PHI,4on5,all,PHI@BUF,away
+Blocked shot attempt %,0.53,PHI,4on5,all,PHI@BUF,away
+Blocked shot attempt % against,0.78,PHI,4on5,all,PHI@BUF,away
+Expected Goals For,0.83,PHI,4on5,all,PHI@BUF,away
+XG Differential,0.5,PHI,4on5,all,PHI@BUF,away
+Shot (FW) Volume,0.91,PHI,4on5,all,PHI@BUF,away
+Shot (FW) Differential,0.38,PHI,4on5,all,PHI@BUF,away
+Penalty Differential,0.72,PHI,4on5,all,PHI@BUF,away
+offense_p60_perc,0.97,PHI,4on5,all,PHI@BUF,away
+defense_p60_perc,0.47,PHI,4on5,all,PHI@BUF,away
+cum_dif_p60_perc,0.55,PHI,4on5,all,PHI@BUF,away
+Points,0.28,PHI,4on5,last 20 games,PHI@BUF,away
+Goals For,1.0,PHI,4on5,last 20 games,PHI@BUF,away
+Goal Differential,0.94,PHI,4on5,last 20 games,PHI@BUF,away
+Shooting %,1.0,PHI,4on5,last 20 games,PHI@BUF,away
+Save %,0.44,PHI,4on5,last 20 games,PHI@BUF,away
+Blocked shot attempt %,0.5,PHI,4on5,last 20 games,PHI@BUF,away
+Blocked shot attempt % against,0.94,PHI,4on5,last 20 games,PHI@BUF,away
+Expected Goals For,0.66,PHI,4on5,last 20 games,PHI@BUF,away
+XG Differential,0.69,PHI,4on5,last 20 games,PHI@BUF,away
+Shot (FW) Volume,0.84,PHI,4on5,last 20 games,PHI@BUF,away
+Shot (FW) Differential,0.78,PHI,4on5,last 20 games,PHI@BUF,away
+Penalty Differential,0.56,PHI,4on5,last 20 games,PHI@BUF,away
+offense_p60_perc,0.97,PHI,4on5,last 20 games,PHI@BUF,away
+defense_p60_perc,0.69,PHI,4on5,last 20 games,PHI@BUF,away
+cum_dif_p60_perc,0.84,PHI,4on5,last 20 games,PHI@BUF,away
+Points,0.58,PHI,4on5,last 10 games,PHI@BUF,away
+Goals For,1.0,PHI,4on5,last 10 games,PHI@BUF,away
+Goal Differential,0.94,PHI,4on5,last 10 games,PHI@BUF,away
+Shooting %,1.0,PHI,4on5,last 10 games,PHI@BUF,away
+Save %,0.44,PHI,4on5,last 10 games,PHI@BUF,away
+Blocked shot attempt %,0.41,PHI,4on5,last 10 games,PHI@BUF,away
+Blocked shot attempt % against,0.47,PHI,4on5,last 10 games,PHI@BUF,away
+Expected Goals For,0.83,PHI,4on5,last 10 games,PHI@BUF,away
+XG Differential,0.72,PHI,4on5,last 10 games,PHI@BUF,away
+Shot (FW) Volume,0.84,PHI,4on5,last 10 games,PHI@BUF,away
+Shot (FW) Differential,0.53,PHI,4on5,last 10 games,PHI@BUF,away
+Penalty Differential,0.23,PHI,4on5,last 10 games,PHI@BUF,away
+offense_p60_perc,1.0,PHI,4on5,last 10 games,PHI@BUF,away
+defense_p60_perc,0.47,PHI,4on5,last 10 games,PHI@BUF,away
+cum_dif_p60_perc,0.84,PHI,4on5,last 10 games,PHI@BUF,away
+Points,0.86,PHI,4on5,last 5 games,PHI@BUF,away
+Goals For,0.67,PHI,4on5,last 5 games,PHI@BUF,away
+Goal Differential,0.77,PHI,4on5,last 5 games,PHI@BUF,away
+Shooting %,0.7,PHI,4on5,last 5 games,PHI@BUF,away
+Save %,0.69,PHI,4on5,last 5 games,PHI@BUF,away
+Blocked shot attempt %,0.25,PHI,4on5,last 5 games,PHI@BUF,away
+Blocked shot attempt % against,0.62,PHI,4on5,last 5 games,PHI@BUF,away
+Expected Goals For,0.36,PHI,4on5,last 5 games,PHI@BUF,away
+XG Differential,0.48,PHI,4on5,last 5 games,PHI@BUF,away
+Shot (FW) Volume,0.56,PHI,4on5,last 5 games,PHI@BUF,away
+Shot (FW) Differential,0.53,PHI,4on5,last 5 games,PHI@BUF,away
+Penalty Differential,0.25,PHI,4on5,last 5 games,PHI@BUF,away
+offense_p60_perc,0.59,PHI,4on5,last 5 games,PHI@BUF,away
+defense_p60_perc,0.69,PHI,4on5,last 5 games,PHI@BUF,away
+cum_dif_p60_perc,0.66,PHI,4on5,last 5 games,PHI@BUF,away
+Points,0.23,PHI,5on4,all,PHI@BUF,away
+Goals For,0.12,PHI,5on4,all,PHI@BUF,away
+Goal Differential,0.17,PHI,5on4,all,PHI@BUF,away
+Shooting %,0.53,PHI,5on4,all,PHI@BUF,away
+Save %,0.44,PHI,5on4,all,PHI@BUF,away
+Blocked shot attempt %,0.03,PHI,5on4,all,PHI@BUF,away
+Blocked shot attempt % against,0.58,PHI,5on4,all,PHI@BUF,away
+Expected Goals For,0.06,PHI,5on4,all,PHI@BUF,away
+XG Differential,0.06,PHI,5on4,all,PHI@BUF,away
+Shot (FW) Volume,0.09,PHI,5on4,all,PHI@BUF,away
+Shot (FW) Differential,0.06,PHI,5on4,all,PHI@BUF,away
+Penalty Differential,0.05,PHI,5on4,all,PHI@BUF,away
+offense_p60_perc,0.06,PHI,5on4,all,PHI@BUF,away
+defense_p60_perc,0.16,PHI,5on4,all,PHI@BUF,away
+cum_dif_p60_perc,0.06,PHI,5on4,all,PHI@BUF,away
+Points,0.28,PHI,5on4,last 20 games,PHI@BUF,away
+Goals For,0.22,PHI,5on4,last 20 games,PHI@BUF,away
+Goal Differential,0.22,PHI,5on4,last 20 games,PHI@BUF,away
+Shooting %,0.67,PHI,5on4,last 20 games,PHI@BUF,away
+Save %,0.25,PHI,5on4,last 20 games,PHI@BUF,away
+Blocked shot attempt %,0.06,PHI,5on4,last 20 games,PHI@BUF,away
+Blocked shot attempt % against,0.44,PHI,5on4,last 20 games,PHI@BUF,away
+Expected Goals For,0.06,PHI,5on4,last 20 games,PHI@BUF,away
+XG Differential,0.03,PHI,5on4,last 20 games,PHI@BUF,away
+Shot (FW) Volume,0.08,PHI,5on4,last 20 games,PHI@BUF,away
+Shot (FW) Differential,0.06,PHI,5on4,last 20 games,PHI@BUF,away
+Penalty Differential,0.09,PHI,5on4,last 20 games,PHI@BUF,away
+offense_p60_perc,0.12,PHI,5on4,last 20 games,PHI@BUF,away
+defense_p60_perc,0.09,PHI,5on4,last 20 games,PHI@BUF,away
+cum_dif_p60_perc,0.06,PHI,5on4,last 20 games,PHI@BUF,away
+Points,0.58,PHI,5on4,last 10 games,PHI@BUF,away
+Goals For,0.34,PHI,5on4,last 10 games,PHI@BUF,away
+Goal Differential,0.22,PHI,5on4,last 10 games,PHI@BUF,away
+Shooting %,0.47,PHI,5on4,last 10 games,PHI@BUF,away
+Save %,0.5,PHI,5on4,last 10 games,PHI@BUF,away
+Blocked shot attempt %,0.03,PHI,5on4,last 10 games,PHI@BUF,away
+Blocked shot attempt % against,0.11,PHI,5on4,last 10 games,PHI@BUF,away
+Expected Goals For,0.16,PHI,5on4,last 10 games,PHI@BUF,away
+XG Differential,0.06,PHI,5on4,last 10 games,PHI@BUF,away
+Shot (FW) Volume,0.12,PHI,5on4,last 10 games,PHI@BUF,away
+Shot (FW) Differential,0.03,PHI,5on4,last 10 games,PHI@BUF,away
+Penalty Differential,0.59,PHI,5on4,last 10 games,PHI@BUF,away
+offense_p60_perc,0.22,PHI,5on4,last 10 games,PHI@BUF,away
+defense_p60_perc,0.09,PHI,5on4,last 10 games,PHI@BUF,away
+cum_dif_p60_perc,0.12,PHI,5on4,last 10 games,PHI@BUF,away
+Points,0.86,PHI,5on4,last 5 games,PHI@BUF,away
+Goals For,0.5,PHI,5on4,last 5 games,PHI@BUF,away
+Goal Differential,0.45,PHI,5on4,last 5 games,PHI@BUF,away
+Shooting %,0.44,PHI,5on4,last 5 games,PHI@BUF,away
+Save %,0.39,PHI,5on4,last 5 games,PHI@BUF,away
+Blocked shot attempt %,0.66,PHI,5on4,last 5 games,PHI@BUF,away
+Blocked shot attempt % against,0.2,PHI,5on4,last 5 games,PHI@BUF,away
+Expected Goals For,0.06,PHI,5on4,last 5 games,PHI@BUF,away
+XG Differential,0.2,PHI,5on4,last 5 games,PHI@BUF,away
+Shot (FW) Volume,0.5,PHI,5on4,last 5 games,PHI@BUF,away
+Shot (FW) Differential,0.31,PHI,5on4,last 5 games,PHI@BUF,away
+Penalty Differential,0.58,PHI,5on4,last 5 games,PHI@BUF,away
+offense_p60_perc,0.28,PHI,5on4,last 5 games,PHI@BUF,away
+defense_p60_perc,0.31,PHI,5on4,last 5 games,PHI@BUF,away
+cum_dif_p60_perc,0.31,PHI,5on4,last 5 games,PHI@BUF,away
 Points,0.66,SEA,all,all,SEA@MTL,away
 Goals For,0.94,SEA,all,all,SEA@MTL,away
 Goal Differential,0.72,SEA,all,all,SEA@MTL,away
