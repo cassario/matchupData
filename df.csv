@@ -1,5 +1,11 @@
 game_id,matchup,home,date,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022020645,NSH@OTT,OTT,01-09-2023,39,18,18,3,east,atlantic,none,6.5,NSH,42,18,14,6,west,central,none,6.0
-2022020646,SEA@MTL,MTL,01-09-2023,35,16,21,3,east,atlantic,none,8.0,SEA,48,22,12,4,west,pacific,top3,3.0
-2022020647,EDM@LAK,LAK,01-09-2023,52,23,14,6,west,pacific,top3,2.0,EDM,45,21,17,3,west,pacific,wc,5.0
-2022020990,PHI@BUF,BUF,03-04-2023,42,20,15,2,east,atlantic,none,4.0,PHI,37,15,18,7,east,metro,none,7.0
+2022020648,CBJ@TBL,TBL,01-10-2023,49,24,13,1,east,atlantic,top3,3.0,CBJ,26,12,25,2,east,metro,none,8.0
+2022020649,MIN@NYR,NYR,01-10-2023,51,22,12,7,east,metro,wc,4.0,MIN,47,22,14,3,west,central,top3,3.0
+2022020650,NJD@CAR,CAR,01-10-2023,57,25,8,7,east,metro,top3,1.0,NJD,53,25,12,3,east,metro,top3,2.0
+2022020651,SEA@BUF,BUF,01-10-2023,42,20,15,2,east,atlantic,none,4.0,SEA,50,23,12,4,west,pacific,top3,3.0
+2022020652,VAN@PIT,PIT,01-10-2023,46,20,13,6,east,metro,none,5.5,VAN,37,17,19,3,west,pacific,none,6.0
+2022020653,DAL@NYI,NYI,01-10-2023,46,22,17,2,east,metro,none,5.5,DAL,54,24,11,6,west,central,top3,1.0
+2022020654,WPG@DET,DET,01-10-2023,39,16,15,7,east,atlantic,none,6.5,WPG,53,26,13,1,west,central,top3,2.0
+2022020655,CGY@STL,STL,01-10-2023,43,20,18,3,west,central,none,5.5,CGY,46,19,14,8,west,pacific,wc,4.0
+2022020656,FLA@COL,COL,01-10-2023,43,20,15,3,west,central,none,5.5,FLA,40,18,19,4,east,atlantic,none,5.0
+2022020657,SJS@ARI,ARI,01-10-2023,31,13,21,5,west,central,none,7.0,SJS,32,12,21,8,west,pacific,none,7.0
