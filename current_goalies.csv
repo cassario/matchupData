@@ -1,10 +1,10 @@
 team,pos,num,player,positions_played,age,handedness,ht,wt,w,l,starter,gp,sv%,gsax,full
 COL,G,40,Alexandar Georgiev,G,26,L,"6'1""",178,,,,30.0,0.914,7.019999999999996,Colorado Avalanche
 COL,G,39,Pavel Francouz,G,32,R,"6'0""",179,,,,9.0,0.913,-0.5899999999999999,Colorado Avalanche
-CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,,,,13.0,0.923,6.259999999999998,Chicago Blackhawks
 CHI,G,34,Petr Mrazek,G,30,L,"6'1""",190,,,,14.0,0.878,-12.15,Chicago Blackhawks
+CHI,G,30,Jaxson Stauber,G,23,L,"6'3""",175,,,,,,,Chicago Blackhawks
 CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181,,,,17.0,0.865,-21.61,Columbus Blue Jackets
-CBJ,G,73,Jet Greaves,G,21,L,"6'0""",180,,,,,,,Columbus Blue Jackets
+CBJ,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,,,,17.0,0.913,6.979999999999997,Columbus Blue Jackets
 STL,G,50,Jordan Binnington,G,29,L,"6'1""",174,,,,32.0,0.892,-5.760000000000005,St. Louis Blues
 STL,G,1,Thomas Greiss,G,36,L,"6'2""",232,,,,12.0,0.911,0.9799999999999968,St. Louis Blues
 BOS,G,1,Jeremy Swayman,G,24,L,"6'2""",187,,,,16.0,0.905,4.810000000000002,Boston Bruins
@@ -24,7 +24,7 @@ ANA,G,41,Anthony Stolarz,G,28,L,"6'6""",240,,,,14.0,0.888,-1.9200000000000017,An
 CGY,G,25,Jacob Markstrom,G,32,L,"6'6""",206,,,,30.0,0.893,0.8900000000000006,Calgary Flames
 CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,,,,,,,Calgary Flames
 PHI,G,33,Samuel Ersson,G,23,L,"6'2""",176,,,,5.0,0.924,3.869999999999999,Philadelphia Flyers
-PHI,G,79,Carter Hart,G,24,L,"6'2""",181,,,,29.0,0.908,9.590000000000003,Philadelphia Flyers
+PHI,G,79,Carter Hart,G,24,L,"6'2""",181,"Carter Hart #79$3,979,000Age: 246'2"" (188 cm",,starter,29.0,0.908,9.590000000000003,Philadelphia Flyers
 VGK,G,36,Logan Thompson,G,25,R,"6'4""",190,,,,29.0,0.914,0.2399999999999948,Vegas Golden Knights
 VGK,G,33,Adin Hill,G,26,L,"6'6""",202,,,,15.0,0.902,-5.809999999999999,Vegas Golden Knights
 CAR,G,52,Pyotr Kochetkov,G,23,L,"6'3""",205,,,,18.0,0.914,5.890000000000001,Carolina Hurricanes
@@ -58,7 +58,7 @@ BUF,G,41,Craig Anderson,G,41,L,"6'2""",186,,,,15.0,0.921,5.409999999999997,Buffa
 OTT,G,33,Cam Talbot,G,35,L,"6'4""",196,,,,24.0,0.906,-0.8800000000000026,Ottawa Senators
 OTT,G,31,Anton Forsberg,G,30,L,"6'3""",192,,,,20.0,0.909,8.920000000000002,Ottawa Senators
 SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,,,,17.0,0.873,-17.32,San Jose Sharks
-SJS,G,47,James Reimer,G,34,L,"6'2""",220,,,,22.0,0.894,-7.230000000000004,San Jose Sharks
+SJS,G,47,James Reimer,G,34,L,"6'2""",220,"James Reimer #47$2,250,000Age: 346'2"" (188 cm",,starter,22.0,0.894,-7.230000000000004,San Jose Sharks
 DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,,,,31.0,0.923,15.430000000000009,Dallas Stars
 DAL,G,41,Scott Wedgewood,G,30,L,"6'0""",194,,,,14.0,0.911,3.5700000000000003,Dallas Stars
 MIN,G,29,Marc-Andre Fleury,G,38,L,"6'2""",185,,,,26.0,0.902,1.3900000000000006,Minnesota Wild
