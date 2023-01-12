@@ -1,8 +1,8 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Jan. 6, 2023",EDM,Justin Bailey,RW,26,Standard,2-way,1,750000,750000,,,
 "Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,41.0,11.0,0.5820410716498827
-"Jan. 2, 2023",STL,Joel Hofer,G,22,Standard,1-way,2,775000,1550000,,,
 "Jan. 2, 2023",TBL,Nick Perbix,RD,25,Standard,1-way,2,1125000,2250000,33.0,5.0,0.5188338663632732
+"Jan. 2, 2023",STL,Joel Hofer,G,22,Standard,1-way,2,775000,1550000,,,
 "Jan. 1, 2023",DAL,Joe Pavelski,"RW, C",38,35+,1-way,1,3500000,5500000,42.0,26.0,0.5852642297038166
 "Dec. 31, 2022",PHI,Ethan Samson,RD,18,Entry-Level,2-way,3,876667,2700000,,,
 "Dec. 30, 2022",WPG,Danny Zhilkin,C,18,Entry-Level,2-way,3,860000,2740000,,,
@@ -36,10 +36,10 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,42.0,1.0,0.5562980420918937
 "Oct. 20, 2022",CGY,Daniel Vladar,G,25,Standard,1-way,2,2200000,4400000,,,
 "Oct. 19, 2022",MIN,Michael Milne,LW,19,Entry-Level,2-way,3,861667,2850000,,,
-"Oct. 15, 2022",WSH,Sonny Milano,"LW, RW",26,Standard,1-way,1,750000,750000,30.0,13.0,0.5284081238836018
+"Oct. 15, 2022",WSH,Sonny Milano,"LW, RW",26,Standard,1-way,1,750000,750000,31.0,13.0,0.5248884337780189
 "Oct. 14, 2022",MTL,William Trudeau,LD,19,Entry-Level,2-way,3,856667,2710000,,,
 "Oct. 13, 2022",TOR,Fraser Minten,C,17,Entry-Level,2-way,3,875000,2625000,,,
-"Oct. 13, 2022",PHI,Travis Sanheim,LD,27,Standard,1-way,8,6250000,50000000,40.0,11.0,0.4503264111273822
+"Oct. 13, 2022",PHI,Travis Sanheim,LD,27,Standard,1-way,8,6250000,50000000,41.0,11.0,0.4481611071817418
 "Oct. 12, 2022",WPG,Brad Lambert,"C, RW",18,Entry-Level,2-way,3,950000,3600000,,,
 "Oct. 12, 2022",BOS,Anton Stralman,RD,35,35+,1-way,1,1000000,1000000,8.0,0.0,0.523701338723846
 "Oct. 12, 2022",BUF,Mattias Samuelsson,LD,23,Standard,1-way,7,4285714,30000000,25.0,2.0,0.497634103970053
