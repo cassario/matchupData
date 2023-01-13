@@ -4,7 +4,7 @@ COL,G,40,Alexandar Georgiev,G,26,L,"6'1""",178,,,,30.0,0.914,7.019999999999996,C
 CHI,G,34,Petr Mrazek,G,30,L,"6'1""",190,,,,14.0,0.878,-12.15,Chicago Blackhawks
 CHI,G,30,Jaxson Stauber,G,23,L,"6'3""",175,,,,,,,Chicago Blackhawks
 CBJ,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,,,,17.0,0.913,6.979999999999997,Columbus Blue Jackets
-CBJ,G,73,Jet Greaves,G,21,L,"6'0""",180,,,,,,,Columbus Blue Jackets
+CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181,,,,17.0,0.865,-21.61,Columbus Blue Jackets
 STL,G,1,Thomas Greiss,G,36,L,"6'2""",232,,,,12.0,0.911,0.9799999999999968,St. Louis Blues
 STL,G,50,Jordan Binnington,G,29,L,"6'1""",174,,,,32.0,0.892,-5.760000000000005,St. Louis Blues
 BOS,G,35,Linus Ullmark,G,29,L,"6'4""",215,,,,26.0,0.938,22.239999999999995,Boston Bruins
@@ -28,7 +28,7 @@ PHI,G,33,Samuel Ersson,G,23,L,"6'2""",176,,,,5.0,0.924,3.869999999999999,Philade
 VGK,G,33,Adin Hill,G,26,L,"6'6""",202,,,,15.0,0.902,-5.809999999999999,Vegas Golden Knights
 VGK,G,36,Logan Thompson,G,25,R,"6'4""",190,,,,29.0,0.914,0.2399999999999948,Vegas Golden Knights
 CAR,G,31,Frederik Andersen,G,33,L,"6'4""",238,,,,8.0,0.891,-3.5599999999999987,Carolina Hurricanes
-CAR,G,32,Antti Raanta,G,33,L,"6'0""",195,,,,16.0,0.893,-3.9399999999999977,Carolina Hurricanes
+CAR,G,52,Pyotr Kochetkov,G,23,L,"6'3""",205,,,,18.0,0.914,5.890000000000001,Carolina Hurricanes
 NYI,G,30,Ilya Sorokin,G,27,L,"6'2""",172,,,,31.0,0.925,20.83,New York Islanders
 NYI,G,40,Semyon Varlamov,G,34,L,"6'2""",205,,,,13.0,0.913,2.8500000000000014,New York Islanders
 WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,,,31.0,0.924,15.14,Winnipeg Jets
@@ -45,8 +45,8 @@ EDM,G,36,Jack Campbell,G,31,L,"6'2""",197,,,,20.0,0.879,-12.799999999999995,Edmo
 EDM,G,30,Calvin Pickard,G,30,L,"6'1""",210,,,,,,,Edmonton Oilers
 FLA,G,72,Sergei Bobrovsky,G,34,L,"6'2""",187,,,,25.0,0.894,-3.049999999999997,Florida Panthers
 FLA,G,34,Alex Lyon,G,30,L,"6'1""",201,,,,,,,Florida Panthers
-PIT,G,1,Casey DeSmith,G,31,L,"6'0""",181,,,,16.0,0.904,-2.6300000000000026,Pittsburgh Penguins
 PIT,G,40,Dustin Tokarski,G,33,L,"6'0""",205,,,,1.0,0.947,1.65,Pittsburgh Penguins
+PIT,G,1,Casey DeSmith,G,31,L,"6'0""",181,,,,16.0,0.904,-2.6300000000000026,Pittsburgh Penguins
 NSH,G,30,Yaroslav Askarov,G,20,R,"6'3""",176,,,,,,,Nashville Predators
 NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,,,31.0,0.922,20.22,Nashville Predators
 NYR,G,31,Igor Shesterkin,G,27,L,"6'2""",192,,,,31.0,0.916,12.170000000000002,New York Rangers
