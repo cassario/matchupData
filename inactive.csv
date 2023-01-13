@@ -713,11 +713,11 @@ iXG: 10.66026923
 iFW: 152.0
 
 XG%: 0.534503273761303"
-BUF,Jacob Bryson,scratch,D,78.0,L,30.0,16.247777777777777,4.0,1.0,3.0,4.0,0.51198228,24.0,0.4830797468021762,25,NHL,2,RFA,1850000,Buffalo Sabres,"Jacob Bryson
+BUF,Jacob Bryson,scratch,D,78.0,L,31.0,16.11075268817204,4.0,1.0,3.0,4.0,0.51198228,24.0,0.4830797468021762,25,NHL,2,RFA,1850000,Buffalo Sabres,"Jacob Bryson
 
-GP: 30.0
+GP: 31.0
 
-TOI per game: 16.247777777777777
+TOI per game: 16.11075268817204
 
 G: 1.0
 
@@ -764,7 +764,7 @@ iXG: 2.36687039
 iFW: 40.0
 
 XG%: 0.3443981083436471"
-CBJ,Eric Robinson,injured reserve,F,50.0,L,34.0,13.780392156862744,6.0,3.0,3.0,4.0,5.93904963,60.0,0.4276764859089061,27,NHL,2,UFA,1600000,Columbus Blue Jackets,"Eric Robinson
+CBJ,Eric Robinson,injured reserve,F,50.0,L,34.0,13.780392156862744,6.0,3.0,3.0,4.0,5.93904963,60.0,0.4276764859089061,27,IR,2,UFA,1600000,Columbus Blue Jackets,"Eric Robinson
 
 GP: 34.0
 
@@ -781,23 +781,6 @@ iXG: 5.93904963
 iFW: 60.0
 
 XG%: 0.4276764859089061"
-CAR,Ondrej Kase,injured reserve,F,73.0,R,1.0,11.033333333333331,0.0,0.0,0.0,0.0,0.06036976,2.0,0.7893120672697367,27,LTIR,1,UFA,1500000,Carolina Hurricanes,"Ondrej Kase
-
-GP: 1.0
-
-TOI per game: 11.033333333333331
-
-G: 0.0
-
-A: 0.0
-
-Primary PTS: 0.0
-
-iXG: 0.06036976
-
-iFW: 2.0
-
-XG%: 0.7893120672697367"
 VGK,Brett Howden,injured reserve,F,21.0,L,21.0,13.099206349206348,2.0,1.0,1.0,1.0,2.99054748,37.0,0.4732663475813996,24,LTIR,1,RFA,1500000,Vegas Golden Knights,"Brett Howden
 
 GP: 21.0
@@ -815,6 +798,23 @@ iXG: 2.99054748
 iFW: 37.0
 
 XG%: 0.4732663475813996"
+CAR,Ondrej Kase,injured reserve,F,73.0,R,1.0,11.033333333333331,0.0,0.0,0.0,0.0,0.06036976,2.0,0.7893120672697367,27,LTIR,1,UFA,1500000,Carolina Hurricanes,"Ondrej Kase
+
+GP: 1.0
+
+TOI per game: 11.033333333333331
+
+G: 0.0
+
+A: 0.0
+
+Primary PTS: 0.0
+
+iXG: 0.06036976
+
+iFW: 2.0
+
+XG%: 0.7893120672697367"
 ANA,Derek Grant,injured reserve,F,38.0,L,15.0,13.794444444444444,3.0,2.0,1.0,0.0,2.18974074,27.0,0.3192892641010183,32,IR,1,UFA,1500000,Anaheim Ducks,"Derek Grant
 
 GP: 15.0
@@ -1002,23 +1002,6 @@ iXG: 1.64379393
 iFW: 17.0
 
 XG%: 0.4827742296559227"
-STL,Robert Bortuzzo,injured reserve,D,41.0,R,30.0,12.014444444444443,1.0,1.0,0.0,0.0,0.84651199,28.0,0.4587360119284374,33,IR,2,UFA,950000,St. Louis Blues,"Robert Bortuzzo
-
-GP: 30.0
-
-TOI per game: 12.014444444444443
-
-G: 1.0
-
-A: 0.0
-
-Primary PTS: 1.0
-
-iXG: 0.84651199
-
-iFW: 28.0
-
-XG%: 0.4587360119284374"
 SJS,Noah Gregor,scratch,F,73.0,L,19.0,11.97280701754386,2.0,2.0,0.0,0.0,3.50678741,51.0,0.4892155498917905,24,NHL,1,RFA,950000,San Jose Sharks,"Noah Gregor
 
 GP: 19.0
@@ -1036,6 +1019,23 @@ iXG: 3.50678741
 iFW: 51.0
 
 XG%: 0.4892155498917905"
+STL,Robert Bortuzzo,injured reserve,D,41.0,R,30.0,12.014444444444443,1.0,1.0,0.0,0.0,0.84651199,28.0,0.4587360119284374,33,IR,2,UFA,950000,St. Louis Blues,"Robert Bortuzzo
+
+GP: 30.0
+
+TOI per game: 12.014444444444443
+
+G: 1.0
+
+A: 0.0
+
+Primary PTS: 1.0
+
+iXG: 0.84651199
+
+iFW: 28.0
+
+XG%: 0.4587360119284374"
 VGK,Pavel Dorofeyev,injured reserve,F,16.0,L,3.0,11.71111111111111,0.0,0.0,0.0,0.0,0.43996341,6.0,0.7852982876322808,22,IR,1,RFA,925000,Vegas Golden Knights,"Pavel Dorofeyev
 
 GP: 3.0
@@ -1087,6 +1087,23 @@ iXG: 0.27335963
 iFW: 11.0
 
 XG%: 0.2740219484625261"
+CBJ,Yegor Chinakhov,injured reserve,F,59.0,L,30.0,13.252222222222224,8.0,4.0,4.0,5.0,3.65808303,71.0,0.4126838450389566,21,IR,1,10.2(c),925000,Columbus Blue Jackets,"Yegor Chinakhov
+
+GP: 30.0
+
+TOI per game: 13.252222222222224
+
+G: 4.0
+
+A: 9.0
+
+Primary PTS: 8.0
+
+iXG: 3.65808303
+
+iFW: 71.0
+
+XG%: 0.4126838450389566"
 WPG,Morgan Barron,scratch,F,36.0,L,31.0,14.113978494623655,7.0,5.0,2.0,4.0,6.35494213,68.0,0.5260643723942174,24,NHL,1,RFA,925000,Winnipeg Jets,"Morgan Barron
 
 GP: 31.0
@@ -1121,23 +1138,6 @@ iXG: 0.3409924
 iFW: 12.0
 
 XG%: 0.4227432625102579"
-CBJ,Yegor Chinakhov,injured reserve,F,59.0,L,30.0,13.252222222222224,8.0,4.0,4.0,5.0,3.65808303,71.0,0.4126838450389566,21,IR,1,10.2(c),925000,Columbus Blue Jackets,"Yegor Chinakhov
-
-GP: 30.0
-
-TOI per game: 13.252222222222224
-
-G: 4.0
-
-A: 9.0
-
-Primary PTS: 8.0
-
-iXG: 3.65808303
-
-iFW: 71.0
-
-XG%: 0.4126838450389566"
 CGY,Connor Mackey,scratch,D,3.0,L,9.0,9.966666666666669,2.0,2.0,0.0,1.0,0.4639501,14.0,0.3330455594352148,26,NHL,1,RFA,912500,Calgary Flames,"Connor Mackey
 
 GP: 9.0
@@ -1223,40 +1223,6 @@ iXG: 0.50758896
 iFW: 29.0
 
 XG%: 0.3883381864778801"
-NJD,Alexander Holtz,scratch,F,10.0,R,18.0,10.293518518518518,4.0,3.0,1.0,0.0,1.8515741,32.0,0.4196195242333705,20,NHL,3,RFA,894167,New Jersey Devils,"Alexander Holtz
-
-GP: 18.0
-
-TOI per game: 10.293518518518518
-
-G: 3.0
-
-A: 1.0
-
-Primary PTS: 4.0
-
-iXG: 1.8515741
-
-iFW: 32.0
-
-XG%: 0.4196195242333705"
-NYI,Oliver Wahlstrom,injured reserve,F,26.0,R,35.0,12.165714285714284,9.0,7.0,2.0,7.0,5.85349337,97.0,0.4367648459976105,22,IR,1,RFA,894167,New York Islanders,"Oliver Wahlstrom
-
-GP: 35.0
-
-TOI per game: 12.165714285714284
-
-G: 7.0
-
-A: 9.0
-
-Primary PTS: 9.0
-
-iXG: 5.85349337
-
-iFW: 97.0
-
-XG%: 0.4367648459976105"
 COL,Bowen Byram,injured reserve,D,4.0,L,10.0,20.79,3.0,2.0,1.0,2.0,1.55935896,15.0,0.3952591866252121,21,IR,1,RFA,894167,Colorado Avalanche,"Bowen Byram
 
 GP: 10.0
@@ -1274,6 +1240,23 @@ iXG: 1.55935896
 iFW: 15.0
 
 XG%: 0.3952591866252121"
+NYI,Oliver Wahlstrom,injured reserve,F,26.0,R,35.0,12.165714285714284,9.0,7.0,2.0,7.0,5.85349337,97.0,0.4367648459976105,22,IR,1,RFA,894167,New York Islanders,"Oliver Wahlstrom
+
+GP: 35.0
+
+TOI per game: 12.165714285714284
+
+G: 7.0
+
+A: 9.0
+
+Primary PTS: 9.0
+
+iXG: 5.85349337
+
+iFW: 97.0
+
+XG%: 0.4367648459976105"
 LAK,Arthur Kaliyev,injured reserve,F,34.0,L,34.0,12.312745098039215,14.0,9.0,5.0,5.0,9.10701268,109.0,0.5219860428582541,21,IR,2,RFA,894167,Los Angeles Kings,"Arthur Kaliyev
 
 GP: 34.0
@@ -1291,6 +1274,23 @@ iXG: 9.10701268
 iFW: 109.0
 
 XG%: 0.5219860428582541"
+NJD,Alexander Holtz,scratch,F,10.0,R,18.0,10.293518518518518,4.0,3.0,1.0,0.0,1.8515741,32.0,0.4196195242333705,20,NHL,3,RFA,894167,New Jersey Devils,"Alexander Holtz
+
+GP: 18.0
+
+TOI per game: 10.293518518518518
+
+G: 3.0
+
+A: 1.0
+
+Primary PTS: 4.0
+
+iXG: 1.8515741
+
+iFW: 32.0
+
+XG%: 0.4196195242333705"
 MTL,Kaiden Guhle,injured reserve,D,21.0,L,36.0,20.77314814814815,9.0,2.0,7.0,5.0,1.70474288,47.0,0.4161345460207737,20,IR,3,RFA,863333,Montreal Canadiens,"Kaiden Guhle
 
 GP: 36.0
@@ -1512,7 +1512,7 @@ iXG: 0.47176225
 iFW: 17.0
 
 XG%: 0.5696900652884023"
-WPG,David Gustafsson,injured reserve,F,19.0,L,38.0,10.12719298245614,4.0,0.0,4.0,1.0,3.18921507,46.0,0.4982259091871067,22,NHL,2,RFA,775000,Winnipeg Jets,"David Gustafsson
+WPG,David Gustafsson,injured reserve,F,19.0,L,38.0,10.12719298245614,4.0,0.0,4.0,1.0,3.18921507,46.0,0.4982259091871067,22,IR,2,RFA,775000,Winnipeg Jets,"David Gustafsson
 
 GP: 38.0
 
@@ -1920,7 +1920,7 @@ iXG: 0.71735011
 iFW: 9.0
 
 XG%: 0.3613360487389525"
-CBJ,Carson Meyer,injured reserve,F,72.0,R,13.0,9.569230769230767,0.0,0.0,0.0,0.0,1.69459019,24.0,0.4590903883717662,25,NHL,1,RFA,750000,Columbus Blue Jackets,"Carson Meyer
+CBJ,Carson Meyer,injured reserve,F,72.0,R,13.0,9.569230769230767,0.0,0.0,0.0,0.0,1.69459019,24.0,0.4590903883717662,25,IR,1,RFA,750000,Columbus Blue Jackets,"Carson Meyer
 
 GP: 13.0
 
@@ -1954,23 +1954,23 @@ iXG: 0.3432454
 iFW: 10.0
 
 XG%: 0.5909363138515712"
-CBJ,Gavin Bayreuther,scratch,D,15.0,L,18.0,15.564814814814811,3.0,2.0,1.0,1.0,0.8168947499999999,28.0,0.4909637084953975,28,NHL,1,UFA,750000,Columbus Blue Jackets,"Gavin Bayreuther
+CBJ,Trey Fix-Wolansky,scratch,F,64.0,R,4.0,9.9375,0.0,0.0,0.0,0.0,0.65325553,7.0,0.533365193838979,23,Emerg. Loan,1,RFA,750000,Columbus Blue Jackets,"Trey Fix-Wolansky
 
-GP: 18.0
+GP: 4.0
 
-TOI per game: 15.564814814814811
+TOI per game: 9.9375
 
-G: 2.0
+G: 0.0
 
-A: 2.0
+A: 0.0
 
-Primary PTS: 3.0
+Primary PTS: 0.0
 
-iXG: 0.8168947499999999
+iXG: 0.65325553
 
-iFW: 28.0
+iFW: 7.0
 
-XG%: 0.4909637084953975"
+XG%: 0.533365193838979"
 COL,Andreas Englund,scratch,D,88.0,L,20.0,11.580833333333334,1.0,0.0,1.0,1.0,0.30592946,19.0,0.5477023759926151,26,NHL,1,UFA,750000,Colorado Avalanche,"Andreas Englund
 
 GP: 20.0
@@ -2005,7 +2005,7 @@ iXG: 4.93810508
 iFW: 80.0
 
 XG%: 0.5728905860279471"
-CGY,Radim Zohorna,scratch,F,67.0,L,8.0,8.41875,0.0,0.0,0.0,0.0,0.3408706,4.0,0.423420783445726,26,Minor,1,UFA,750000,Calgary Flames,"Radim Zohorna
+CGY,Radim Zohorna,scratch,F,67.0,L,8.0,8.41875,0.0,0.0,0.0,0.0,0.3408706,4.0,0.423420783445726,26,NHL,1,UFA,750000,Calgary Flames,"Radim Zohorna
 
 GP: 8.0
 
@@ -2532,23 +2532,6 @@ iXG: nan
 iFW: nan
 
 XG%: nan"
-VAN,Micheal Ferland,injured reserve,F,79.0,L,,,,,,,,,,30,LTIR,1,UFA,3500000,Vancouver Canucks,"Micheal Ferland
-
-GP: nan
-
-TOI per game: nan
-
-G: nan
-
-A: nan
-
-Primary PTS: nan
-
-iXG: nan
-
-iFW: nan
-
-XG%: nan"
 SEA,Chris Driedger,injured reserve,G,60.0,L,,,,,,,,,,28,IR,2,UFA,3500000,Seattle Kraken,"Chris Driedger
 
 GP: nan
@@ -2567,6 +2550,23 @@ iFW: nan
 
 XG%: nan"
 PIT,Tristan Jarry,injured reserve,G,35.0,L,,,,,,,,,,27,IR,1,UFA,3500000,Pittsburgh Penguins,"Tristan Jarry
+
+GP: nan
+
+TOI per game: nan
+
+G: nan
+
+A: nan
+
+Primary PTS: nan
+
+iXG: nan
+
+iFW: nan
+
+XG%: nan"
+VAN,Micheal Ferland,injured reserve,F,79.0,L,,,,,,,,,,30,LTIR,1,UFA,3500000,Vancouver Canucks,"Micheal Ferland
 
 GP: nan
 
@@ -2889,7 +2889,7 @@ iXG: nan
 iFW: nan
 
 XG%: nan"
-CAR,Pyotr Kochetkov,scratch,G,52.0,L,,,,,,,,,,23,Emerg. Loan,5,UFA,842500,Carolina Hurricanes,"Pyotr Kochetkov
+CAR,Pyotr Kochetkov,scratch,G,52.0,L,,,,,,,,,,23,NHL,5,UFA,842500,Carolina Hurricanes,"Pyotr Kochetkov
 
 GP: nan
 
