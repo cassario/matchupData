@@ -1,9 +1,9 @@
 team,pos,num,player,positions_played,age,handedness,ht,wt,w,l,starter,gp,sv%,gsax,info,full
-COL,G,39,Pavel Francouz,G,32,R,"6'0""",179,0,0,0,11.0,0.919,1.6700000000000017,"**39 Pavel Francouz**
+COL,G,39,Pavel Francouz,G,32,R,"6'0""",179,5,6,starter,11.0,0.919,1.6700000000000017,"**39 Pavel Francouz**
 
 
 
-GP:11 | W:0 | L:0
+GP:11 | W:5 | L:6
 
 Sv%: 0.919 | GSAX:1.67",Colorado Avalanche
 COL,G,40,Alexandar Georgiev,G,26,L,"6'1""",178,0,0,0,30.0,0.914,7.019999999999996,"**40 Alexandar Georgiev**
@@ -41,11 +41,11 @@ CBJ,G,40,Daniil Tarasov,G,23,L,"6'3""",154,0,0,0,12.0,0.907,-0.6199999999999974,
 GP:12 | W:0 | L:0
 
 Sv%: 0.907 | GSAX:-0.62",Columbus Blue Jackets
-STL,G,50,Jordan Binnington,G,29,L,"6'1""",174,0,0,0,33.0,0.891,-6.790000000000006,"**50 Jordan Binnington**
+STL,G,50,Jordan Binnington,G,29,L,"6'1""",174,16,14,starter,33.0,0.891,-6.790000000000006,"**50 Jordan Binnington**
 
 
 
-GP:33 | W:0 | L:0
+GP:33 | W:16 | L:14
 
 Sv%: 0.891 | GSAX:-6.79",St. Louis Blues
 STL,G,1,Thomas Greiss,G,36,L,"6'2""",232,0,0,0,13.0,0.912,0.6199999999999974,"**1 Thomas Greiss**
@@ -153,6 +153,13 @@ ANA,G,41,Anthony Stolarz,G,28,L,"6'6""",240,0,0,0,15.0,0.893,-0.6799999999999997
 GP:15 | W:0 | L:0
 
 Sv%: 0.893 | GSAX:-0.68",Anaheim Ducks
+CGY,G,25,Jacob Markstrom,G,32,L,"6'6""",206,13,10,starter,30.0,0.893,0.8900000000000006,"**25 Jacob Markstrom**
+
+
+
+GP:30 | W:13 | L:10
+
+Sv%: 0.893 | GSAX:0.89",Calgary Flames
 CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,0,0,0,0.0,0.0,0.0,"**80 Daniel Vladar**
 
 
@@ -160,13 +167,6 @@ CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,0,0,0,0.0,0.0,0.0,"**80 Daniel Vladar*
 GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0",Calgary Flames
-CGY,G,25,Jacob Markstrom,G,32,L,"6'6""",206,0,0,0,30.0,0.893,0.8900000000000006,"**25 Jacob Markstrom**
-
-
-
-GP:30 | W:0 | L:0
-
-Sv%: 0.893 | GSAX:0.89",Calgary Flames
 PHI,G,79,Carter Hart,G,24,L,"6'2""",181,13,12,starter,31.0,0.91,12.170000000000002,"**79 Carter Hart**
 
 
@@ -335,11 +335,11 @@ PIT,G,40,Dustin Tokarski,G,33,L,"6'0""",205,0,0,0,2.0,0.915,0.8399999999999999,"
 GP:2 | W:0 | L:0
 
 Sv%: 0.915 | GSAX:0.84",Pittsburgh Penguins
-NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,0,0,0,32.0,0.919,19.19,"**74 Juuse Saros**
+NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,15,12,starter,32.0,0.919,19.19,"**74 Juuse Saros**
 
 
 
-GP:32 | W:0 | L:0
+GP:32 | W:15 | L:12
 
 Sv%: 0.919 | GSAX:19.19",Nashville Predators
 NSH,G,32,Kevin Lankinen,G,27,L,"6'2""",185,0,0,0,10.0,0.918,3.289999999999999,"**32 Kevin Lankinen**
@@ -363,11 +363,11 @@ NYR,G,41,Jaroslav Halak,G,37,L,"5'11""",185,4,6,starter,11.0,0.896,-0.7399999999
 GP:11 | W:4 | L:6
 
 Sv%: 0.896 | GSAX:-0.74",New York Rangers
-DET,G,35,Ville Husso,G,27,L,"6'2""",205,0,0,0,29.0,0.902,-2.4200000000000017,"**35 Ville Husso**
+DET,G,35,Ville Husso,G,27,L,"6'2""",205,14,9,starter,29.0,0.902,-2.4200000000000017,"**35 Ville Husso**
 
 
 
-GP:29 | W:0 | L:0
+GP:29 | W:14 | L:9
 
 Sv%: 0.902 | GSAX:-2.42",Detroit Red Wings
 DET,G,45,Magnus Hellberg,G,31,L,"6'5""",190,0,0,0,6.0,0.904,1.1499999999999986,"**45 Magnus Hellberg**
@@ -412,11 +412,11 @@ SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,0,0,0,18.0,0.87,-19.83,"**36 Kaapo Ka
 GP:18 | W:0 | L:0
 
 Sv%: 0.87 | GSAX:-19.83",San Jose Sharks
-SJS,G,47,James Reimer,G,34,L,"6'2""",220,0,0,0,23.0,0.894,-7.650000000000006,"**47 James Reimer**
+SJS,G,47,James Reimer,G,34,L,"6'2""",220,7,13,starter,23.0,0.894,-7.650000000000006,"**47 James Reimer**
 
 
 
-GP:23 | W:0 | L:0
+GP:23 | W:7 | L:13
 
 Sv%: 0.894 | GSAX:-7.65",San Jose Sharks
 DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,0,0,0,32.0,0.924,15.329999999999998,"**29 Jake Oettinger**
