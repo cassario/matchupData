@@ -125,6 +125,15 @@ GP:7 | W:0 | L:0
 Sv%: 0.895 | GSAX:2.72
 
 ****",Vancouver Canucks
+WSH,G,79,Charlie Lindgren,G,29,R,"6'1""",182,Confirmed Starter,11,5,starter,19.0,0.912,4.640000000000001,"**79 Charlie Lindgren**
+
+
+
+GP:19 | W:11 | L:5
+
+Sv%: 0.912 | GSAX:4.64
+
+**Confirmed Starter**",Washington Capitals
 WSH,G,35,Darcy Kuemper,G,32,L,"6'5""",215,,0,0,0,29.0,0.917,6.609999999999999,"**35 Darcy Kuemper**
 
 
@@ -134,15 +143,6 @@ GP:29 | W:0 | L:0
 Sv%: 0.917 | GSAX:6.61
 
 ****",Washington Capitals
-WSH,G,79,Charlie Lindgren,G,29,R,"6'1""",182,Projected Starter,11,5,starter,19.0,0.912,4.640000000000001,"**79 Charlie Lindgren**
-
-
-
-GP:19 | W:11 | L:5
-
-Sv%: 0.912 | GSAX:4.64
-
-**Projected Starter**",Washington Capitals
 ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,Confirmed Starter,2,9,starter,12.0,0.888,-3.539999999999999,"**39 Connor Ingram**
 
 
@@ -215,6 +215,15 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****",Calgary Flames
+PHI,G,33,Samuel Ersson,G,23,L,"6'2""",176,Confirmed Starter,4,0,starter,6.0,0.917,3.460000000000001,"**33 Samuel Ersson**
+
+
+
+GP:6 | W:4 | L:0
+
+Sv%: 0.917 | GSAX:3.46
+
+**Confirmed Starter**",Philadelphia Flyers
 PHI,G,79,Carter Hart,G,24,L,"6'2""",181,,0,0,0,32.0,0.907,9.920000000000002,"**79 Carter Hart**
 
 
@@ -224,15 +233,6 @@ GP:32 | W:0 | L:0
 Sv%: 0.907 | GSAX:9.92
 
 ****",Philadelphia Flyers
-PHI,G,33,Samuel Ersson,G,23,L,"6'2""",176,Projected Starter,4,0,starter,6.0,0.917,3.460000000000001,"**33 Samuel Ersson**
-
-
-
-GP:6 | W:4 | L:0
-
-Sv%: 0.917 | GSAX:3.46
-
-**Projected Starter**",Philadelphia Flyers
 VGK,G,36,Logan Thompson,G,25,R,"6'4""",190,,0,0,0,31.0,0.913,-0.8700000000000045,"**36 Logan Thompson**
 
 
@@ -395,16 +395,16 @@ GP:26 | W:0 | L:0
 Sv%: 0.914 | GSAX:3.15
 
 ****",Edmonton Oilers
-FLA,G,72,Sergei Bobrovsky,G,34,L,"6'2""",187,,0,0,0,28.0,0.899,-0.9399999999999976,"**72 Sergei Bobrovsky**
+FLA,G,72,Sergei Bobrovsky,G,34,L,"6'2""",187,Confirmed Starter,12,13,starter,28.0,0.899,-0.9399999999999976,"**72 Sergei Bobrovsky**
 
 
 
-GP:28 | W:0 | L:0
+GP:28 | W:12 | L:13
 
 Sv%: 0.899 | GSAX:-0.94
 
-****",Florida Panthers
-FLA,G,34,Alex Lyon,G,30,L,"6'1""",201,Projected Starter,0,0,starter,0.0,0.0,0.0,"**34 Alex Lyon**
+**Confirmed Starter**",Florida Panthers
+FLA,G,34,Alex Lyon,G,30,L,"6'1""",201,,0,0,0,0.0,0.0,0.0,"**34 Alex Lyon**
 
 
 
@@ -412,7 +412,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-**Projected Starter**",Florida Panthers
+****",Florida Panthers
 PIT,G,1,Casey DeSmith,G,31,L,"6'0""",181,,0,0,0,18.0,0.906,0.3500000000000014,"**1 Casey DeSmith**
 
 
@@ -431,15 +431,6 @@ GP:2 | W:0 | L:0
 Sv%: 0.915 | GSAX:0.84
 
 ****",Pittsburgh Penguins
-NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,0,0,0,33.0,0.921,23.08,"**74 Juuse Saros**
-
-
-
-GP:33 | W:0 | L:0
-
-Sv%: 0.921 | GSAX:23.08
-
-****",Nashville Predators
 NSH,G,32,Kevin Lankinen,G,27,L,"6'2""",185,Confirmed Starter,4,4,starter,10.0,0.918,3.289999999999999,"**32 Kevin Lankinen**
 
 
@@ -449,6 +440,15 @@ GP:10 | W:4 | L:4
 Sv%: 0.918 | GSAX:3.29
 
 **Confirmed Starter**",Nashville Predators
+NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,0,0,0,33.0,0.921,23.08,"**74 Juuse Saros**
+
+
+
+GP:33 | W:0 | L:0
+
+Sv%: 0.921 | GSAX:23.08
+
+****",Nashville Predators
 NYR,G,41,Jaroslav Halak,G,37,L,"5'11""",185,,0,0,0,12.0,0.901,1.7000000000000028,"**41 Jaroslav Halak**
 
 
@@ -521,15 +521,6 @@ GP:22 | W:0 | L:0
 Sv%: 0.902 | GSAX:4.72
 
 ****",Ottawa Senators
-SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,,0,0,0,18.0,0.87,-19.83,"**36 Kaapo Kahkonen**
-
-
-
-GP:18 | W:0 | L:0
-
-Sv%: 0.87 | GSAX:-19.83
-
-****",San Jose Sharks
 SJS,G,47,James Reimer,G,34,L,"6'2""",220,,0,0,0,24.0,0.895,-8.269999999999996,"**47 James Reimer**
 
 
@@ -537,6 +528,15 @@ SJS,G,47,James Reimer,G,34,L,"6'2""",220,,0,0,0,24.0,0.895,-8.269999999999996,"*
 GP:24 | W:0 | L:0
 
 Sv%: 0.895 | GSAX:-8.27
+
+****",San Jose Sharks
+SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,,0,0,0,18.0,0.87,-19.83,"**36 Kaapo Kahkonen**
+
+
+
+GP:18 | W:0 | L:0
+
+Sv%: 0.87 | GSAX:-19.83
 
 ****",San Jose Sharks
 DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,,0,0,0,33.0,0.926,17.569999999999993,"**29 Jake Oettinger**
