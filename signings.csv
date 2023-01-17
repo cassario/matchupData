@@ -1,11 +1,11 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Jan. 16, 2023",MIN,Matthew Boldy,"RW, LW",22,Standard,1-way,7,7000000,49000000,42.0,21.0,0.5661029055342018
-"Jan. 14, 2023",BOS,Pavel Zacha,"LW, RW, C",26,Standard,1-way,4,4750000,19000000,42.0,14.0,0.5121635598470676
+"Jan. 14, 2023",BOS,Pavel Zacha,"LW, RW, C",26,Standard,1-way,4,4750000,19000000,43.0,17.0,0.5168431782569639
 "Jan. 6, 2023",EDM,Justin Bailey,RW,26,Standard,2-way,1,750000,750000,,,
-"Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,43.0,11.0,0.5759582950263259
+"Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,44.0,11.0,0.5875426017998518
 "Jan. 2, 2023",TBL,Nick Perbix,RD,25,Standard,1-way,2,1125000,2250000,35.0,8.0,0.5243876013943218
 "Jan. 2, 2023",STL,Joel Hofer,G,22,Standard,1-way,2,775000,1550000,,,
-"Jan. 1, 2023",DAL,Joe Pavelski,RW,38,35+,1-way,1,3500000,5500000,44.0,28.0,0.5896019114805315
+"Jan. 1, 2023",DAL,Joe Pavelski,RW,38,35+,1-way,1,3500000,5500000,45.0,29.0,0.5975992984317751
 "Dec. 31, 2022",PHI,Ethan Samson,RD,18,Entry-Level,2-way,3,876667,2700000,,,
 "Dec. 30, 2022",WPG,Danny Zhilkin,C,18,Entry-Level,2-way,3,860000,2740000,,,
 "Dec. 30, 2022",ANA,Gage Alexander,G,19,Entry-Level,2-way,3,810000,2430000,,,
@@ -30,23 +30,23 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Nov. 2, 2022",CHI,Dylan Wells,G,24,Standard,2-way,1,750000,750000,,,
 "Oct. 31, 2022",DAL,Matt Murray,G,24,Entry-Level,2-way,1,750000,750000,,,
 "Oct. 30, 2022",CGY,Lucas Ciona,LW,19,Entry-Level,2-way,3,849167,2547500,,,
-"Oct. 27, 2022",OTT,Mark Kastelic,C,24,Standard,1-way,2,835000,1670000,39.0,5.0,0.4413573310983511
-"Oct. 27, 2022",NYR,Ben Harpur,LD,27,Standard,2-way,1,750000,750000,14.0,0.0,0.2911734089143774
+"Oct. 27, 2022",OTT,Mark Kastelic,C,24,Standard,1-way,2,835000,1670000,40.0,5.0,0.443546469531603
+"Oct. 27, 2022",NYR,Ben Harpur,LD,27,Standard,2-way,1,750000,750000,15.0,0.0,0.3553311124531623
 "Oct. 27, 2022",SEA,Christopher Gibson,G,29,Standard,2-way,1,750000,750000,,,
-"Oct. 25, 2022",STL,Tyler Pitlick,RW,30,Standard,1-way,1,750000,750000,29.0,4.0,0.4525865076318563
-"Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,37.0,11.0,0.5176931366716001
-"Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,44.0,1.0,0.5532235171724942
+"Oct. 25, 2022",STL,Tyler Pitlick,RW,30,Standard,1-way,1,750000,750000,30.0,4.0,0.4534791732338388
+"Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,38.0,11.0,0.5170506538351275
+"Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,45.0,1.0,0.5527877109835926
 "Oct. 20, 2022",CGY,Daniel Vladar,G,25,Standard,1-way,2,2200000,4400000,,,
 "Oct. 19, 2022",MIN,Michael Milne,LW,19,Entry-Level,2-way,3,861667,2850000,,,
-"Oct. 15, 2022",WSH,Sonny Milano,"LW, RW",26,Standard,1-way,1,750000,750000,32.0,13.0,0.5254144743012561
+"Oct. 15, 2022",WSH,Sonny Milano,"LW, RW",26,Standard,1-way,1,750000,750000,33.0,13.0,0.5351326845608344
 "Oct. 14, 2022",MTL,William Trudeau,LD,19,Entry-Level,2-way,3,856667,2710000,,,
 "Oct. 13, 2022",TOR,Fraser Minten,C,17,Entry-Level,2-way,3,875000,2625000,,,
-"Oct. 13, 2022",PHI,Travis Sanheim,LD,27,Standard,1-way,8,6250000,50000000,42.0,11.0,0.4426044841164113
+"Oct. 13, 2022",PHI,Travis Sanheim,LD,27,Standard,1-way,8,6250000,50000000,43.0,11.0,0.4480700297267613
 "Oct. 12, 2022",WPG,Brad Lambert,"C, RW",18,Entry-Level,2-way,3,950000,3600000,,,
 "Oct. 12, 2022",BOS,Anton Stralman,RD,35,35+,1-way,1,1000000,1000000,8.0,0.0,0.523701338723846
-"Oct. 12, 2022",BUF,Mattias Samuelsson,LD,23,Standard,1-way,7,4285714,30000000,27.0,2.0,0.5074092945848252
+"Oct. 12, 2022",BUF,Mattias Samuelsson,LD,23,Standard,1-way,7,4285714,30000000,28.0,2.0,0.5073052852084226
 "Oct. 11, 2022",NYR,Talyn Boyko,G,19,Entry-Level,2-way,3,850833,2552500,,,
-"Oct. 11, 2022",CAR,Derek Stepan,"C, RW",32,Standard,1-way,1,750000,750000,39.0,5.0,0.6448929376920662
-"Oct. 11, 2022",CGY,Michael Stone,RD,32,Standard,2-way,1,750000,750000,34.0,7.0,0.517350312766467
-"Oct. 10, 2022",VGK,Nicolas Hague,LD,23,Standard,1-way,3,2294150,6882450,43.0,8.0,0.5274544186749645
-"Oct. 10, 2022",OTT,Derick Brassard,"C, LW",34,Standard,1-way,1,750000,750000,33.0,11.0,0.464000711944445
+"Oct. 11, 2022",CAR,Derek Stepan,"C, RW",32,Standard,1-way,1,750000,750000,39.0,5.0,0.640681072195909
+"Oct. 11, 2022",CGY,Michael Stone,RD,32,Standard,2-way,1,750000,750000,35.0,7.0,0.520195410443362
+"Oct. 10, 2022",VGK,Nicolas Hague,LD,23,Standard,1-way,3,2294150,6882450,44.0,8.0,0.516152961793279
+"Oct. 10, 2022",OTT,Derick Brassard,"C, LW",34,Standard,1-way,1,750000,750000,34.0,11.0,0.4647687167768879
