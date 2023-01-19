@@ -125,11 +125,11 @@ GP:8 | W:0 | L:0
 Sv%: 0.902 | GSAX:3.68
 
 ****",Vancouver Canucks
-WSH,G,35,Darcy Kuemper,G,32,L,"6'5""",215,,0,0,0,29.0,0.917,6.609999999999999,"**35 Darcy Kuemper**
+WSH,G,35,Darcy Kuemper,G,32,L,"6'5""",215,,13,11,starter,29.0,0.917,6.609999999999999,"**35 Darcy Kuemper**
 
 
 
-GP:29 | W:0 | L:0
+GP:29 | W:13 | L:11
 
 Sv%: 0.917 | GSAX:6.61
 
@@ -161,15 +161,6 @@ GP:13 | W:0 | L:0
 Sv%: 0.892 | GSAX:-2.31
 
 ****",Arizona Coyotes
-NJD,G,41,Vitek Vanecek,G,27,L,"6'1""",180,,0,0,0,29.0,0.914,5.819999999999993,"**41 Vitek Vanecek**
-
-
-
-GP:29 | W:0 | L:0
-
-Sv%: 0.914 | GSAX:5.82
-
-****",New Jersey Devils
 NJD,G,29,Mackenzie Blackwood,G,26,L,"6'4""",225,,0,0,0,12.0,0.895,1.4699999999999989,"**29 Mackenzie Blackwood**
 
 
@@ -177,6 +168,15 @@ NJD,G,29,Mackenzie Blackwood,G,26,L,"6'4""",225,,0,0,0,12.0,0.895,1.469999999999
 GP:12 | W:0 | L:0
 
 Sv%: 0.895 | GSAX:1.47
+
+****",New Jersey Devils
+NJD,G,41,Vitek Vanecek,G,27,L,"6'1""",180,,0,0,0,29.0,0.914,5.819999999999993,"**41 Vitek Vanecek**
+
+
+
+GP:29 | W:0 | L:0
+
+Sv%: 0.914 | GSAX:5.82
 
 ****",New Jersey Devils
 ANA,G,41,Anthony Stolarz,G,28,L,"6'6""",240,,0,0,0,16.0,0.893,0.0200000000000031,"**41 Anthony Stolarz**
@@ -188,11 +188,11 @@ GP:16 | W:0 | L:0
 Sv%: 0.893 | GSAX:0.02
 
 ****",Anaheim Ducks
-ANA,G,36,John Gibson,G,29,L,"6'2""",215,,0,0,0,30.0,0.895,-10.480000000000004,"**36 John Gibson**
+ANA,G,36,John Gibson,G,29,L,"6'2""",215,,7,19,starter,30.0,0.895,-10.480000000000004,"**36 John Gibson**
 
 
 
-GP:30 | W:0 | L:0
+GP:30 | W:7 | L:19
 
 Sv%: 0.895 | GSAX:-10.48
 
@@ -233,15 +233,6 @@ GP:32 | W:13 | L:13
 Sv%: 0.907 | GSAX:9.92
 
 **Confirmed Starter**",Philadelphia Flyers
-VGK,G,36,Logan Thompson,G,25,R,"6'4""",190,,0,0,0,31.0,0.913,-0.8700000000000045,"**36 Logan Thompson**
-
-
-
-GP:31 | W:0 | L:0
-
-Sv%: 0.913 | GSAX:-0.87
-
-****",Vegas Golden Knights
 VGK,G,33,Adin Hill,G,26,L,"6'6""",202,,0,0,0,16.0,0.907,-3.729999999999997,"**33 Adin Hill**
 
 
@@ -249,6 +240,15 @@ VGK,G,33,Adin Hill,G,26,L,"6'6""",202,,0,0,0,16.0,0.907,-3.729999999999997,"**33
 GP:16 | W:0 | L:0
 
 Sv%: 0.907 | GSAX:-3.73
+
+****",Vegas Golden Knights
+VGK,G,36,Logan Thompson,G,25,R,"6'4""",190,,0,0,0,31.0,0.913,-0.8700000000000045,"**36 Logan Thompson**
+
+
+
+GP:31 | W:0 | L:0
+
+Sv%: 0.913 | GSAX:-0.87
 
 ****",Vegas Golden Knights
 CAR,G,31,Frederik Andersen,G,33,L,"6'4""",238,,0,0,0,10.0,0.903,-0.7600000000000016,"**31 Frederik Andersen**
@@ -305,15 +305,15 @@ GP:11 | W:0 | L:0
 Sv%: 0.908 | GSAX:-0.55
 
 ****",Winnipeg Jets
-LAK,G,29,Pheonix Copley,G,31,L,"6'4""",200,,0,0,0,14.0,0.904,1.1400000000000006,"**29 Pheonix Copley**
+LAK,G,29,Pheonix Copley,G,31,L,"6'4""",200,Confirmed Starter,12,2,starter,14.0,0.904,1.1400000000000006,"**29 Pheonix Copley**
 
 
 
-GP:14 | W:0 | L:0
+GP:14 | W:12 | L:2
 
 Sv%: 0.904 | GSAX:1.14
 
-****",Los Angeles Kings
+**Confirmed Starter**",Los Angeles Kings
 LAK,G,32,Jonathan Quick,G,36,L,"6'1""",216,,0,0,0,24.0,0.883,-11.849999999999994,"**32 Jonathan Quick**
 
 
@@ -323,15 +323,15 @@ GP:24 | W:0 | L:0
 Sv%: 0.883 | GSAX:-11.85
 
 ****",Los Angeles Kings
-SEA,G,30,Martin Jones,G,33,L,"6'4""",190,,0,0,0,32.0,0.893,0.3900000000000005,"**30 Martin Jones**
+SEA,G,30,Martin Jones,G,33,L,"6'4""",190,Confirmed Starter,21,6,starter,32.0,0.893,0.3900000000000005,"**30 Martin Jones**
 
 
 
-GP:32 | W:0 | L:0
+GP:32 | W:21 | L:6
 
 Sv%: 0.893 | GSAX:0.39
 
-****",Seattle Kraken
+**Confirmed Starter**",Seattle Kraken
 SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,,0,0,0,15.0,0.888,0.6400000000000006,"**31 Philipp Grubauer**
 
 
@@ -431,6 +431,15 @@ GP:2 | W:0 | L:0
 Sv%: 0.915 | GSAX:0.84
 
 ****",Pittsburgh Penguins
+NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,16,12,starter,33.0,0.921,23.08,"**74 Juuse Saros**
+
+
+
+GP:33 | W:16 | L:12
+
+Sv%: 0.921 | GSAX:23.08
+
+****",Nashville Predators
 NSH,G,32,Kevin Lankinen,G,27,L,"6'2""",185,,0,0,0,11.0,0.924,6.280000000000001,"**32 Kevin Lankinen**
 
 
@@ -440,20 +449,11 @@ GP:11 | W:0 | L:0
 Sv%: 0.924 | GSAX:6.28
 
 ****",Nashville Predators
-NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,0,0,0,33.0,0.921,23.08,"**74 Juuse Saros**
+NYR,G,31,Igor Shesterkin,G,27,L,"6'2""",192,,20,7,starter,33.0,0.918,14.700000000000005,"**31 Igor Shesterkin**
 
 
 
-GP:33 | W:0 | L:0
-
-Sv%: 0.921 | GSAX:23.08
-
-****",Nashville Predators
-NYR,G,31,Igor Shesterkin,G,27,L,"6'2""",192,,0,0,0,33.0,0.918,14.700000000000005,"**31 Igor Shesterkin**
-
-
-
-GP:33 | W:0 | L:0
+GP:33 | W:20 | L:7
 
 Sv%: 0.918 | GSAX:14.7
 
