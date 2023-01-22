@@ -1,15 +1,6 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022020732,ANA@BUF,BUF,01-21-2023,12:30 PM,47,22,19,3,east,atlantic,none,5.0,ANA,31,13,28,5,west,pacific,none,8.0
-2022020733,TBL@CGY,CGY,01-21-2023,3:00 PM,51,21,16,9,west,pacific,none,5.0,TBL,59,29,14,1,east,atlantic,top3,3.0
-2022020734,MIN@FLA,FLA,01-21-2023,6:00 PM,49,22,20,5,east,atlantic,none,4.0,MIN,54,25,15,4,west,central,top3,3.0
-2022020735,PHI@DET,DET,01-21-2023,7:00 PM,46,19,17,8,east,atlantic,none,6.0,PHI,45,19,20,7,east,metro,none,7.0
-2022020736,SJS@CBJ,CBJ,01-21-2023,7:00 PM,28,13,30,2,east,metro,none,8.0,SJS,37,14,23,9,west,pacific,none,7.0
-2022020737,TOR@MTL,MTL,01-21-2023,7:00 PM,41,19,24,3,east,atlantic,none,8.0,TOR,63,28,11,7,east,atlantic,top3,2.0
-2022020738,WPG@OTT,OTT,01-21-2023,7:00 PM,43,20,22,3,east,atlantic,none,7.0,WPG,59,29,16,1,west,central,top3,2.0
-2022020739,CAR@NYI,NYI,01-21-2023,7:30 PM,51,23,19,5,east,metro,none,6.0,CAR,64,28,9,8,east,metro,top3,1.0
-2022020740,ARI@DAL,DAL,01-21-2023,8:00 PM,61,27,13,7,west,central,top3,1.0,ARI,33,14,26,5,west,central,none,7.0
-2022020741,CHI@STL,STL,01-21-2023,8:00 PM,49,23,20,3,west,central,none,5.0,CHI,30,13,26,4,west,central,none,8.0
-2022020742,LAK@NSH,NSH,01-21-2023,8:00 PM,48,21,18,6,west,central,none,6.0,LAK,56,25,16,6,west,pacific,top3,3.0
-2022020743,COL@SEA,SEA,01-21-2023,10:00 PM,58,27,14,4,west,pacific,top3,1.5,COL,51,24,17,3,west,central,none,4.0
-2022020744,EDM@VAN,VAN,01-21-2023,10:00 PM,39,18,24,3,west,pacific,none,6.0,EDM,55,26,18,3,west,pacific,wc,4.0
-2022020745,WSH@VGK,VGK,01-21-2023,10:00 PM,58,28,16,2,west,pacific,top3,1.5,WSH,56,25,17,6,east,metro,wc,4.0
+2022020746,PIT@NJD,NJD,01-22-2023,2:00 PM,62,29,12,4,east,metro,top3,2.0,PIT,53,23,15,7,east,metro,wc,5.0
+2022020747,LAK@CHI,CHI,01-22-2023,7:00 PM,32,14,26,4,west,central,none,8.0,LAK,56,25,17,6,west,pacific,wc,4.0
+2022020748,SJS@BOS,BOS,01-22-2023,7:00 PM,76,36,5,4,east,atlantic,top3,1.0,SJS,37,14,24,9,west,pacific,none,7.0
+2022020749,WPG@PHI,PHI,01-22-2023,7:00 PM,47,20,20,7,east,metro,none,7.0,WPG,61,30,16,1,west,central,top3,2.0
+2022020750,VGK@ARI,ARI,01-22-2023,8:00 PM,33,14,27,5,west,central,none,7.0,VGK,60,29,16,2,west,pacific,top3,1.0
