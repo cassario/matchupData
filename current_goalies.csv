@@ -35,15 +35,15 @@ GP:1 | W:0 | L:0
 Sv%: 0.906 | GSAX:-0.6
 
 ****",Chicago Blackhawks
-CBJ,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,,0,0,0,20.0,0.908,4.469999999999999,"**70 Joonas Korpisalo**
+CBJ,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,Confirmed Starter,7,8,starter,20.0,0.908,4.469999999999999,"**70 Joonas Korpisalo**
 
 
 
-GP:20 | W:0 | L:0
+GP:20 | W:7 | L:8
 
 Sv%: 0.908 | GSAX:4.47
 
-****",Columbus Blue Jackets
+**Confirmed Starter**",Columbus Blue Jackets
 CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181,,0,0,0,20.0,0.868,-24.270000000000003,"**90 Elvis Merzlikins**
 
 
@@ -98,13 +98,13 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****",Montreal Canadiens
-MTL,G,30,Cayden Primeau,G,23,L,"6'3""",200,,0,0,0,1.0,0.857,-0.2099999999999999,"**30 Cayden Primeau**
+MTL,G,34,Jake Allen,G,32,L,"6'2""",195,,0,0,0,27.0,0.892,0.4300000000000068,"**34 Jake Allen**
 
 
 
-GP:1 | W:0 | L:0
+GP:27 | W:0 | L:0
 
-Sv%: 0.857 | GSAX:-0.21
+Sv%: 0.892 | GSAX:0.43
 
 ****",Montreal Canadiens
 VAN,G,30,Spencer Martin,G,27,L,"6'3""",205,Projected Starter,11,12,starter,26.0,0.877,-16.319999999999993,"**30 Spencer Martin**
@@ -197,15 +197,6 @@ GP:32 | W:0 | L:0
 Sv%: 0.895 | GSAX:-11.99
 
 ****",Anaheim Ducks
-CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,,0,0,0,0.0,0.0,0.0,"**80 Daniel Vladar**
-
-
-
-GP:0 | W:0 | L:0
-
-Sv%: 0.0 | GSAX:0.0
-
-****",Calgary Flames
 CGY,G,25,Jacob Markstrom,G,32,L,"6'6""",206,,0,0,0,32.0,0.895,1.9699999999999989,"**25 Jacob Markstrom**
 
 
@@ -213,6 +204,15 @@ CGY,G,25,Jacob Markstrom,G,32,L,"6'6""",206,,0,0,0,32.0,0.895,1.9699999999999989
 GP:32 | W:0 | L:0
 
 Sv%: 0.895 | GSAX:1.97
+
+****",Calgary Flames
+CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,,0,0,0,0.0,0.0,0.0,"**80 Daniel Vladar**
+
+
+
+GP:0 | W:0 | L:0
+
+Sv%: 0.0 | GSAX:0.0
 
 ****",Calgary Flames
 PHI,G,32,Felix Sandstrom,G,26,L,"6'2""",192,,0,0,0,10.0,0.886,-4.699999999999999,"**32 Felix Sandstrom**
@@ -269,15 +269,6 @@ GP:16 | W:0 | L:0
 Sv%: 0.893 | GSAX:-3.94
 
 ****",Carolina Hurricanes
-NYI,G,30,Ilya Sorokin,G,27,L,"6'2""",172,,0,0,0,37.0,0.922,24.28,"**30 Ilya Sorokin**
-
-
-
-GP:37 | W:0 | L:0
-
-Sv%: 0.922 | GSAX:24.28
-
-****",New York Islanders
 NYI,G,40,Semyon Varlamov,G,34,L,"6'2""",205,,0,0,0,14.0,0.908,0.8599999999999994,"**40 Semyon Varlamov**
 
 
@@ -285,6 +276,15 @@ NYI,G,40,Semyon Varlamov,G,34,L,"6'2""",205,,0,0,0,14.0,0.908,0.8599999999999994
 GP:14 | W:0 | L:0
 
 Sv%: 0.908 | GSAX:0.86
+
+****",New York Islanders
+NYI,G,30,Ilya Sorokin,G,27,L,"6'2""",172,,0,0,0,37.0,0.922,24.28,"**30 Ilya Sorokin**
+
+
+
+GP:37 | W:0 | L:0
+
+Sv%: 0.922 | GSAX:24.28
 
 ****",New York Islanders
 WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,0,0,0,37.0,0.925,21.959999999999997,"**37 Connor Hellebuyck**
@@ -323,6 +323,15 @@ GP:26 | W:0 | L:0
 Sv%: 0.884 | GSAX:-11.37
 
 ****",Los Angeles Kings
+SEA,G,30,Martin Jones,G,33,L,"6'4""",190,Confirmed Starter,22,6,starter,33.0,0.894,2.019999999999996,"**30 Martin Jones**
+
+
+
+GP:33 | W:22 | L:6
+
+Sv%: 0.894 | GSAX:2.02
+
+**Confirmed Starter**",Seattle Kraken
 SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,,0,0,0,16.0,0.893,1.6099999999999994,"**31 Philipp Grubauer**
 
 
@@ -330,15 +339,6 @@ SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,,0,0,0,16.0,0.893,1.609999999999999
 GP:16 | W:0 | L:0
 
 Sv%: 0.893 | GSAX:1.61
-
-****",Seattle Kraken
-SEA,G,30,Martin Jones,G,33,L,"6'4""",190,,0,0,0,33.0,0.894,2.019999999999996,"**30 Martin Jones**
-
-
-
-GP:33 | W:0 | L:0
-
-Sv%: 0.894 | GSAX:2.02
 
 ****",Seattle Kraken
 TBL,G,88,Andrei Vasilevskiy,G,28,L,"6'3""",216,,0,0,0,34.0,0.917,15.900000000000006,"**88 Andrei Vasilevskiy**
@@ -368,24 +368,24 @@ GP:19 | W:0 | L:0
 Sv%: 0.911 | GSAX:4.82
 
 ****",Toronto Maple Leafs
-TOR,G,35,Ilya Samsonov,G,25,L,"6'3""",208,,0,0,0,21.0,0.92,13.759999999999998,"**35 Ilya Samsonov**
+TOR,G,35,Ilya Samsonov,G,25,L,"6'3""",208,,15,4,starter,21.0,0.92,13.759999999999998,"**35 Ilya Samsonov**
 
 
 
-GP:21 | W:0 | L:0
+GP:21 | W:15 | L:4
 
 Sv%: 0.92 | GSAX:13.76
 
 ****",Toronto Maple Leafs
-EDM,G,74,Stuart Skinner,G,24,L,"6'4""",207,,0,0,0,27.0,0.915,3.4599999999999937,"**74 Stuart Skinner**
+EDM,G,74,Stuart Skinner,G,24,L,"6'4""",207,Confirmed Starter,13,10,starter,27.0,0.915,3.4599999999999937,"**74 Stuart Skinner**
 
 
 
-GP:27 | W:0 | L:0
+GP:27 | W:13 | L:10
 
 Sv%: 0.915 | GSAX:3.46
 
-****",Edmonton Oilers
+**Confirmed Starter**",Edmonton Oilers
 EDM,G,36,Jack Campbell,G,31,L,"6'2""",197,,0,0,0,24.0,0.887,-10.759999999999998,"**36 Jack Campbell**
 
 
@@ -422,6 +422,15 @@ GP:20 | W:0 | L:0
 Sv%: 0.9 | GSAX:-1.26
 
 ****",Pittsburgh Penguins
+PIT,G,40,Dustin Tokarski,G,33,L,"6'0""",205,,0,0,0,2.0,0.915,0.8399999999999999,"**40 Dustin Tokarski**
+
+
+
+GP:2 | W:0 | L:0
+
+Sv%: 0.915 | GSAX:0.84
+
+****",Pittsburgh Penguins
 NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,0,0,0,36.0,0.92,23.620000000000005,"**74 Juuse Saros**
 
 
@@ -440,11 +449,11 @@ GP:11 | W:0 | L:0
 Sv%: 0.924 | GSAX:6.28
 
 ****",Nashville Predators
-NYR,G,31,Igor Shesterkin,G,27,L,"6'2""",192,,0,0,0,35.0,0.918,15.319999999999991,"**31 Igor Shesterkin**
+NYR,G,31,Igor Shesterkin,G,27,L,"6'2""",192,,21,8,starter,35.0,0.918,15.319999999999991,"**31 Igor Shesterkin**
 
 
 
-GP:35 | W:0 | L:0
+GP:35 | W:21 | L:8
 
 Sv%: 0.918 | GSAX:15.32
 
@@ -494,11 +503,11 @@ GP:12 | W:0 | L:0
 Sv%: 0.883 | GSAX:-4.23
 
 ****",Buffalo Sabres
-OTT,G,33,Cam Talbot,G,35,L,"6'4""",196,,0,0,0,27.0,0.903,-0.4399999999999977,"**33 Cam Talbot**
+OTT,G,33,Cam Talbot,G,35,L,"6'4""",196,,11,13,starter,27.0,0.903,-0.4399999999999977,"**33 Cam Talbot**
 
 
 
-GP:27 | W:0 | L:0
+GP:27 | W:11 | L:13
 
 Sv%: 0.903 | GSAX:-0.44
 
@@ -530,15 +539,15 @@ GP:19 | W:0 | L:0
 Sv%: 0.869 | GSAX:-21.46
 
 ****",San Jose Sharks
-DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,,0,0,0,36.0,0.925,18.200000000000003,"**29 Jake Oettinger**
+DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,Confirmed Starter,21,7,starter,36.0,0.925,18.200000000000003,"**29 Jake Oettinger**
 
 
 
-GP:36 | W:0 | L:0
+GP:36 | W:21 | L:7
 
 Sv%: 0.925 | GSAX:18.2
 
-****",Dallas Stars
+**Confirmed Starter**",Dallas Stars
 DAL,G,41,Scott Wedgewood,G,30,L,"6'0""",194,,0,0,0,16.0,0.911,4.310000000000002,"**41 Scott Wedgewood**
 
 
