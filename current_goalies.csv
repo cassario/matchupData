@@ -251,6 +251,15 @@ GP:17 | W:0 | L:0
 Sv%: 0.905 | GSAX:-4.47
 
 ****",Vegas Golden Knights
+CAR,G,32,Antti Raanta,G,33,L,"6'0""",195,,0,0,0,17.0,0.897,-2.990000000000002,"**32 Antti Raanta**
+
+
+
+GP:17 | W:0 | L:0
+
+Sv%: 0.897 | GSAX:-2.99
+
+****",Carolina Hurricanes
 CAR,G,31,Frederik Andersen,G,33,L,"6'4""",238,,0,0,0,13.0,0.905,-0.379999999999999,"**31 Frederik Andersen**
 
 
@@ -260,15 +269,15 @@ GP:13 | W:0 | L:0
 Sv%: 0.905 | GSAX:-0.38
 
 ****",Carolina Hurricanes
-CAR,G,32,Antti Raanta,G,33,L,"6'0""",195,,11,2,starter,17.0,0.897,-2.990000000000002,"**32 Antti Raanta**
+NYI,G,30,Ilya Sorokin,G,27,L,"6'2""",172,,0,0,0,37.0,0.922,24.28,"**30 Ilya Sorokin**
 
 
 
-GP:17 | W:11 | L:2
+GP:37 | W:0 | L:0
 
-Sv%: 0.897 | GSAX:-2.99
+Sv%: 0.922 | GSAX:24.28
 
-****",Carolina Hurricanes
+****",New York Islanders
 NYI,G,40,Semyon Varlamov,G,34,L,"6'2""",205,,0,0,0,15.0,0.912,3.210000000000001,"**40 Semyon Varlamov**
 
 
@@ -276,15 +285,6 @@ NYI,G,40,Semyon Varlamov,G,34,L,"6'2""",205,,0,0,0,15.0,0.912,3.210000000000001,
 GP:15 | W:0 | L:0
 
 Sv%: 0.912 | GSAX:3.21
-
-****",New York Islanders
-NYI,G,30,Ilya Sorokin,G,27,L,"6'2""",172,,15,16,starter,37.0,0.922,24.28,"**30 Ilya Sorokin**
-
-
-
-GP:37 | W:15 | L:16
-
-Sv%: 0.922 | GSAX:24.28
 
 ****",New York Islanders
 WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,0,0,0,38.0,0.924,22.480000000000004,"**37 Connor Hellebuyck**
@@ -359,15 +359,6 @@ GP:12 | W:0 | L:0
 Sv%: 0.903 | GSAX:1.68
 
 ****",Tampa Bay Lightning
-TOR,G,35,Ilya Samsonov,G,25,L,"6'3""",208,,0,0,0,22.0,0.921,13.78,"**35 Ilya Samsonov**
-
-
-
-GP:22 | W:0 | L:0
-
-Sv%: 0.921 | GSAX:13.78
-
-****",Toronto Maple Leafs
 TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,19.0,0.911,4.82,"**30 Matt Murray**
 
 
@@ -375,6 +366,15 @@ TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,19.0,0.911,4.82,"**30 Matt Murray
 GP:19 | W:0 | L:0
 
 Sv%: 0.911 | GSAX:4.82
+
+****",Toronto Maple Leafs
+TOR,G,35,Ilya Samsonov,G,25,L,"6'3""",208,,0,0,0,22.0,0.921,13.78,"**35 Ilya Samsonov**
+
+
+
+GP:22 | W:0 | L:0
+
+Sv%: 0.921 | GSAX:13.78
 
 ****",Toronto Maple Leafs
 EDM,G,74,Stuart Skinner,G,24,L,"6'4""",207,,0,0,0,28.0,0.914,2.739999999999995,"**74 Stuart Skinner**
@@ -521,15 +521,15 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****",Ottawa Senators
-SJS,G,47,James Reimer,G,34,L,"6'2""",220,,0,0,0,27.0,0.895,-8.879999999999995,"**47 James Reimer**
+SJS,G,47,James Reimer,G,34,L,"6'2""",220,Confirmed Starter,8,14,starter,27.0,0.895,-8.879999999999995,"**47 James Reimer**
 
 
 
-GP:27 | W:0 | L:0
+GP:27 | W:8 | L:14
 
 Sv%: 0.895 | GSAX:-8.88
 
-****",San Jose Sharks
+**Confirmed Starter**",San Jose Sharks
 SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,,0,0,0,19.0,0.869,-21.46,"**36 Kaapo Kahkonen**
 
 
