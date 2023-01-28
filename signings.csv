@@ -1,14 +1,14 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
-"Jan. 26, 2023",NYR,Ben Harpur,LD,28,Standard,1-way,2,787500,1575000,18.0,1.0,0.3637944122729485
-"Jan. 26, 2023",VAN,Andrei Kuzmenko,"LW, RW",27,Standard,1-way,2,5500000,11000000,47.0,30.0,0.4934306009417933
+"Jan. 26, 2023",NYR,Ben Harpur,LD,28,Standard,1-way,2,787500,1575000,19.0,1.0,0.3551426135491927
+"Jan. 26, 2023",VAN,Andrei Kuzmenko,"LW, RW",27,Standard,1-way,2,5500000,11000000,48.0,30.0,0.4949804519678223
 "Jan. 24, 2023",ARI,Juuso Valimaki,LD,24,Standard,1-way,1,1000000,1000000,45.0,6.0,0.4828697149697125
 "Jan. 16, 2023",MIN,Matthew Boldy,"RW, LW",22,Standard,1-way,7,7000000,49000000,47.0,26.0,0.5745153243777129
 "Jan. 14, 2023",BOS,Pavel Zacha,"LW, RW, C",26,Standard,1-way,4,4750000,19000000,48.0,19.0,0.5086048056973341
 "Jan. 6, 2023",EDM,Justin Bailey,RW,26,Standard,2-way,1,750000,750000,,,
-"Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,47.0,12.0,0.5856889165897574
+"Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,48.0,13.0,0.581416353639217
 "Jan. 2, 2023",TBL,Nick Perbix,RD,25,Standard,1-way,2,1125000,2250000,37.0,8.0,0.5177124567675429
 "Jan. 2, 2023",STL,Joel Hofer,G,22,Standard,1-way,2,775000,1550000,,,
-"Jan. 1, 2023",DAL,Joe Pavelski,RW,38,35+,1-way,1,3500000,5500000,50.0,31.0,0.594034205564642
+"Jan. 1, 2023",DAL,Joe Pavelski,RW,38,35+,1-way,1,3500000,5500000,51.0,31.0,0.5927143919403773
 "Dec. 31, 2022",PHI,Ethan Samson,RD,18,Entry-Level,2-way,3,876667,2700000,,,
 "Dec. 30, 2022",WPG,Danny Zhilkin,C,18,Entry-Level,2-way,3,860000,2740000,,,
 "Dec. 30, 2022",ANA,Gage Alexander,G,19,Entry-Level,2-way,3,810000,2430000,,,
@@ -23,7 +23,7 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Dec. 10, 2022",VGK,Jakub Brabenec,C,18,Entry-Level,2-way,3,846667,2540000,,,
 "Dec. 1, 2022",CBJ,James Malatesta,LW,19,Entry-Level,2-way,3,870833,2637500,,,
 "Dec. 1, 2022",CBJ,Luca Del Bel Belluz,C,18,Entry-Level,2-way,3,923333,2850000,,,
-"Nov. 29, 2022",DAL,Roope Hintz,"C, LW",26,Standard,1-way,8,8450000,67600000,42.0,35.0,0.5792048803690898
+"Nov. 29, 2022",DAL,Roope Hintz,"C, LW",26,Standard,1-way,8,8450000,67600000,43.0,36.0,0.5782673993757608
 "Nov. 28, 2022",COL,Alex Galchenyuk,"LW, C, RW",28,Standard,2-way,1,750000,750000,4.0,0.0,0.194569972924436
 "Nov. 25, 2022",CBJ,Jordan Dumais,RW,18,Entry-Level,2-way,3,923333,2850000,,,
 "Nov. 23, 2022",CAR,Pyotr Kochetkov,G,24,Standard,1-way,4,2000000,8000000,,,
@@ -34,11 +34,11 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Oct. 31, 2022",DAL,Matt Murray,G,24,Entry-Level,2-way,1,750000,750000,,,
 "Oct. 30, 2022",CGY,Lucas Ciona,LW,19,Entry-Level,2-way,3,849167,2547500,,,
 "Oct. 27, 2022",OTT,Mark Kastelic,C,24,Standard,1-way,2,835000,1670000,43.0,5.0,0.4676324498547933
-"Oct. 27, 2022",NYR,Ben Harpur,LD,27,Standard,2-way,1,750000,750000,18.0,1.0,0.3637944122729485
+"Oct. 27, 2022",NYR,Ben Harpur,LD,27,Standard,2-way,1,750000,750000,19.0,1.0,0.3551426135491927
 "Oct. 27, 2022",SEA,Christopher Gibson,G,29,Standard,2-way,1,750000,750000,,,
 "Oct. 25, 2022",STL,Tyler Pitlick,RW,30,Standard,1-way,1,750000,750000,34.0,6.0,0.4494519217225088
-"Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,40.0,11.0,0.5132077241745009
-"Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,50.0,1.0,0.5478047031744598
+"Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,41.0,11.0,0.520547958402442
+"Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,51.0,1.0,0.5477555391807172
 "Oct. 20, 2022",CGY,Daniel Vladar,G,25,Standard,1-way,2,2200000,4400000,,,
 "Oct. 19, 2022",MIN,Michael Milne,LW,19,Entry-Level,2-way,3,861667,2850000,,,
 "Oct. 15, 2022",WSH,Sonny Milano,"LW, RW",26,Standard,1-way,1,750000,750000,38.0,14.0,0.5216635255820244
@@ -49,4 +49,4 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Oct. 12, 2022",BOS,Anton Stralman,RD,35,35+,1-way,1,1000000,1000000,8.0,0.0,0.523701338723846
 "Oct. 12, 2022",BUF,Mattias Samuelsson,LD,23,Standard,1-way,7,4285714,30000000,34.0,2.0,0.5103951690408136
 "Oct. 11, 2022",NYR,Talyn Boyko,G,19,Entry-Level,2-way,3,850833,2552500,,,
-"Oct. 11, 2022",CAR,Derek Stepan,"C, RW",32,Standard,1-way,1,750000,750000,41.0,5.0,0.6467490127542617
+"Oct. 11, 2022",CAR,Derek Stepan,"C, RW",32,Standard,1-way,1,750000,750000,42.0,5.0,0.645399456958478
