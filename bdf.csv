@@ -1,961 +1,481 @@
 label,value,team,situation,n_games,matchup,home_away
-Points,1.0,BOS,all,all,BOS@CAR,away
-Goals For,0.97,BOS,all,all,BOS@CAR,away
-Goal Differential,1.0,BOS,all,all,BOS@CAR,away
-Shooting %,0.88,BOS,all,all,BOS@CAR,away
-Save %,1.0,BOS,all,all,BOS@CAR,away
-Blocked shot attempt %,0.94,BOS,all,all,BOS@CAR,away
-Blocked shot attempt % against,0.69,BOS,all,all,BOS@CAR,away
-Expected Goals For,0.81,BOS,all,all,BOS@CAR,away
-XG Differential,0.97,BOS,all,all,BOS@CAR,away
-Shot (FW) Volume,0.78,BOS,all,all,BOS@CAR,away
-Shot (FW) Differential,0.84,BOS,all,all,BOS@CAR,away
-Penalty Differential,0.33,BOS,all,all,BOS@CAR,away
-offense_p60_perc,0.94,BOS,all,all,BOS@CAR,away
-defense_p60_perc,1.0,BOS,all,all,BOS@CAR,away
-cum_dif_p60_perc,1.0,BOS,all,all,BOS@CAR,away
-Points,1.0,BOS,all,last 20 games,BOS@CAR,away
-Goals For,0.89,BOS,all,last 20 games,BOS@CAR,away
-Goal Differential,1.0,BOS,all,last 20 games,BOS@CAR,away
-Shooting %,0.94,BOS,all,last 20 games,BOS@CAR,away
-Save %,1.0,BOS,all,last 20 games,BOS@CAR,away
-Blocked shot attempt %,0.5,BOS,all,last 20 games,BOS@CAR,away
-Blocked shot attempt % against,0.97,BOS,all,last 20 games,BOS@CAR,away
-Expected Goals For,0.7,BOS,all,last 20 games,BOS@CAR,away
-XG Differential,0.75,BOS,all,last 20 games,BOS@CAR,away
-Shot (FW) Volume,0.38,BOS,all,last 20 games,BOS@CAR,away
-Shot (FW) Differential,0.53,BOS,all,last 20 games,BOS@CAR,away
-Penalty Differential,0.36,BOS,all,last 20 games,BOS@CAR,away
-offense_p60_perc,0.84,BOS,all,last 20 games,BOS@CAR,away
-defense_p60_perc,1.0,BOS,all,last 20 games,BOS@CAR,away
-cum_dif_p60_perc,0.97,BOS,all,last 20 games,BOS@CAR,away
-Points,0.91,BOS,all,last 10 games,BOS@CAR,away
-Goals For,0.84,BOS,all,last 10 games,BOS@CAR,away
-Goal Differential,1.0,BOS,all,last 10 games,BOS@CAR,away
-Shooting %,0.88,BOS,all,last 10 games,BOS@CAR,away
-Save %,1.0,BOS,all,last 10 games,BOS@CAR,away
-Blocked shot attempt %,0.69,BOS,all,last 10 games,BOS@CAR,away
-Blocked shot attempt % against,1.0,BOS,all,last 10 games,BOS@CAR,away
-Expected Goals For,0.42,BOS,all,last 10 games,BOS@CAR,away
-XG Differential,0.73,BOS,all,last 10 games,BOS@CAR,away
-Shot (FW) Volume,0.41,BOS,all,last 10 games,BOS@CAR,away
-Shot (FW) Differential,0.67,BOS,all,last 10 games,BOS@CAR,away
-Penalty Differential,0.3,BOS,all,last 10 games,BOS@CAR,away
-offense_p60_perc,0.72,BOS,all,last 10 games,BOS@CAR,away
-defense_p60_perc,1.0,BOS,all,last 10 games,BOS@CAR,away
-cum_dif_p60_perc,0.97,BOS,all,last 10 games,BOS@CAR,away
-Points,0.75,BOS,all,last 5 games,BOS@CAR,away
-Goals For,0.69,BOS,all,last 5 games,BOS@CAR,away
-Goal Differential,0.92,BOS,all,last 5 games,BOS@CAR,away
-Shooting %,0.72,BOS,all,last 5 games,BOS@CAR,away
-Save %,0.91,BOS,all,last 5 games,BOS@CAR,away
-Blocked shot attempt %,0.7,BOS,all,last 5 games,BOS@CAR,away
-Blocked shot attempt % against,0.66,BOS,all,last 5 games,BOS@CAR,away
-Expected Goals For,0.42,BOS,all,last 5 games,BOS@CAR,away
-XG Differential,0.83,BOS,all,last 5 games,BOS@CAR,away
-Shot (FW) Volume,0.41,BOS,all,last 5 games,BOS@CAR,away
-Shot (FW) Differential,0.44,BOS,all,last 5 games,BOS@CAR,away
-Penalty Differential,0.81,BOS,all,last 5 games,BOS@CAR,away
-offense_p60_perc,0.59,BOS,all,last 5 games,BOS@CAR,away
-defense_p60_perc,0.97,BOS,all,last 5 games,BOS@CAR,away
-cum_dif_p60_perc,0.94,BOS,all,last 5 games,BOS@CAR,away
-Points,1.0,BOS,5on5,all,BOS@CAR,away
-Goals For,0.97,BOS,5on5,all,BOS@CAR,away
-Goal Differential,1.0,BOS,5on5,all,BOS@CAR,away
-Shooting %,0.97,BOS,5on5,all,BOS@CAR,away
-Save %,1.0,BOS,5on5,all,BOS@CAR,away
-Blocked shot attempt %,0.92,BOS,5on5,all,BOS@CAR,away
-Blocked shot attempt % against,0.88,BOS,5on5,all,BOS@CAR,away
-Expected Goals For,0.77,BOS,5on5,all,BOS@CAR,away
-XG Differential,0.94,BOS,5on5,all,BOS@CAR,away
-Shot (FW) Volume,0.73,BOS,5on5,all,BOS@CAR,away
-Shot (FW) Differential,0.72,BOS,5on5,all,BOS@CAR,away
-Penalty Differential,0.45,BOS,5on5,all,BOS@CAR,away
-offense_p60_perc,0.91,BOS,5on5,all,BOS@CAR,away
-defense_p60_perc,1.0,BOS,5on5,all,BOS@CAR,away
-cum_dif_p60_perc,1.0,BOS,5on5,all,BOS@CAR,away
-Points,1.0,BOS,5on5,last 20 games,BOS@CAR,away
-Goals For,0.95,BOS,5on5,last 20 games,BOS@CAR,away
-Goal Differential,1.0,BOS,5on5,last 20 games,BOS@CAR,away
-Shooting %,0.94,BOS,5on5,last 20 games,BOS@CAR,away
-Save %,0.95,BOS,5on5,last 20 games,BOS@CAR,away
-Blocked shot attempt %,0.58,BOS,5on5,last 20 games,BOS@CAR,away
-Blocked shot attempt % against,0.97,BOS,5on5,last 20 games,BOS@CAR,away
-Expected Goals For,0.83,BOS,5on5,last 20 games,BOS@CAR,away
-XG Differential,0.83,BOS,5on5,last 20 games,BOS@CAR,away
-Shot (FW) Volume,0.47,BOS,5on5,last 20 games,BOS@CAR,away
-Shot (FW) Differential,0.56,BOS,5on5,last 20 games,BOS@CAR,away
-Penalty Differential,0.38,BOS,5on5,last 20 games,BOS@CAR,away
-offense_p60_perc,0.92,BOS,5on5,last 20 games,BOS@CAR,away
-defense_p60_perc,0.95,BOS,5on5,last 20 games,BOS@CAR,away
-cum_dif_p60_perc,1.0,BOS,5on5,last 20 games,BOS@CAR,away
-Points,0.91,BOS,5on5,last 10 games,BOS@CAR,away
-Goals For,0.92,BOS,5on5,last 10 games,BOS@CAR,away
-Goal Differential,0.98,BOS,5on5,last 10 games,BOS@CAR,away
-Shooting %,0.94,BOS,5on5,last 10 games,BOS@CAR,away
-Save %,0.95,BOS,5on5,last 10 games,BOS@CAR,away
-Blocked shot attempt %,0.78,BOS,5on5,last 10 games,BOS@CAR,away
-Blocked shot attempt % against,0.97,BOS,5on5,last 10 games,BOS@CAR,away
-Expected Goals For,0.41,BOS,5on5,last 10 games,BOS@CAR,away
-XG Differential,0.69,BOS,5on5,last 10 games,BOS@CAR,away
-Shot (FW) Volume,0.53,BOS,5on5,last 10 games,BOS@CAR,away
-Shot (FW) Differential,0.56,BOS,5on5,last 10 games,BOS@CAR,away
-Penalty Differential,0.28,BOS,5on5,last 10 games,BOS@CAR,away
-offense_p60_perc,0.73,BOS,5on5,last 10 games,BOS@CAR,away
-defense_p60_perc,0.97,BOS,5on5,last 10 games,BOS@CAR,away
-cum_dif_p60_perc,0.97,BOS,5on5,last 10 games,BOS@CAR,away
-Points,0.75,BOS,5on5,last 5 games,BOS@CAR,away
-Goals For,0.62,BOS,5on5,last 5 games,BOS@CAR,away
-Goal Differential,0.84,BOS,5on5,last 5 games,BOS@CAR,away
-Shooting %,0.7,BOS,5on5,last 5 games,BOS@CAR,away
-Save %,0.92,BOS,5on5,last 5 games,BOS@CAR,away
-Blocked shot attempt %,0.66,BOS,5on5,last 5 games,BOS@CAR,away
-Blocked shot attempt % against,0.7,BOS,5on5,last 5 games,BOS@CAR,away
-Expected Goals For,0.38,BOS,5on5,last 5 games,BOS@CAR,away
-XG Differential,0.84,BOS,5on5,last 5 games,BOS@CAR,away
-Shot (FW) Volume,0.34,BOS,5on5,last 5 games,BOS@CAR,away
-Shot (FW) Differential,0.34,BOS,5on5,last 5 games,BOS@CAR,away
-Penalty Differential,0.55,BOS,5on5,last 5 games,BOS@CAR,away
-offense_p60_perc,0.56,BOS,5on5,last 5 games,BOS@CAR,away
-defense_p60_perc,0.97,BOS,5on5,last 5 games,BOS@CAR,away
-cum_dif_p60_perc,0.97,BOS,5on5,last 5 games,BOS@CAR,away
-Points,1.0,BOS,4on5,all,BOS@CAR,away
-Goals For,0.3,BOS,4on5,all,BOS@CAR,away
-Goal Differential,0.97,BOS,4on5,all,BOS@CAR,away
-Shooting %,0.19,BOS,4on5,all,BOS@CAR,away
-Save %,0.72,BOS,4on5,all,BOS@CAR,away
-Blocked shot attempt %,0.19,BOS,4on5,all,BOS@CAR,away
-Blocked shot attempt % against,0.48,BOS,4on5,all,BOS@CAR,away
-Expected Goals For,0.55,BOS,4on5,all,BOS@CAR,away
-XG Differential,1.0,BOS,4on5,all,BOS@CAR,away
-Shot (FW) Volume,0.66,BOS,4on5,all,BOS@CAR,away
-Shot (FW) Differential,0.97,BOS,4on5,all,BOS@CAR,away
-Penalty Differential,0.28,BOS,4on5,all,BOS@CAR,away
-offense_p60_perc,0.36,BOS,4on5,all,BOS@CAR,away
-defense_p60_perc,1.0,BOS,4on5,all,BOS@CAR,away
-cum_dif_p60_perc,1.0,BOS,4on5,all,BOS@CAR,away
-Points,1.0,BOS,4on5,last 20 games,BOS@CAR,away
-Goals For,0.12,BOS,4on5,last 20 games,BOS@CAR,away
-Goal Differential,0.67,BOS,4on5,last 20 games,BOS@CAR,away
-Shooting %,0.12,BOS,4on5,last 20 games,BOS@CAR,away
-Save %,0.81,BOS,4on5,last 20 games,BOS@CAR,away
-Blocked shot attempt %,0.06,BOS,4on5,last 20 games,BOS@CAR,away
-Blocked shot attempt % against,0.77,BOS,4on5,last 20 games,BOS@CAR,away
-Expected Goals For,0.2,BOS,4on5,last 20 games,BOS@CAR,away
-XG Differential,0.88,BOS,4on5,last 20 games,BOS@CAR,away
-Shot (FW) Volume,0.41,BOS,4on5,last 20 games,BOS@CAR,away
-Shot (FW) Differential,0.88,BOS,4on5,last 20 games,BOS@CAR,away
-Penalty Differential,0.84,BOS,4on5,last 20 games,BOS@CAR,away
-offense_p60_perc,0.16,BOS,4on5,last 20 games,BOS@CAR,away
-defense_p60_perc,0.94,BOS,4on5,last 20 games,BOS@CAR,away
-cum_dif_p60_perc,0.75,BOS,4on5,last 20 games,BOS@CAR,away
-Points,0.91,BOS,4on5,last 10 games,BOS@CAR,away
-Goals For,0.27,BOS,4on5,last 10 games,BOS@CAR,away
-Goal Differential,0.73,BOS,4on5,last 10 games,BOS@CAR,away
-Shooting %,0.27,BOS,4on5,last 10 games,BOS@CAR,away
-Save %,0.7,BOS,4on5,last 10 games,BOS@CAR,away
-Blocked shot attempt %,0.06,BOS,4on5,last 10 games,BOS@CAR,away
-Blocked shot attempt % against,1.0,BOS,4on5,last 10 games,BOS@CAR,away
-Expected Goals For,0.42,BOS,4on5,last 10 games,BOS@CAR,away
-XG Differential,0.78,BOS,4on5,last 10 games,BOS@CAR,away
-Shot (FW) Volume,0.62,BOS,4on5,last 10 games,BOS@CAR,away
-Shot (FW) Differential,0.94,BOS,4on5,last 10 games,BOS@CAR,away
-Penalty Differential,0.75,BOS,4on5,last 10 games,BOS@CAR,away
-offense_p60_perc,0.33,BOS,4on5,last 10 games,BOS@CAR,away
-defense_p60_perc,0.92,BOS,4on5,last 10 games,BOS@CAR,away
-cum_dif_p60_perc,0.84,BOS,4on5,last 10 games,BOS@CAR,away
-Points,0.75,BOS,4on5,last 5 games,BOS@CAR,away
-Goals For,0.33,BOS,4on5,last 5 games,BOS@CAR,away
-Goal Differential,0.28,BOS,4on5,last 5 games,BOS@CAR,away
-Shooting %,0.31,BOS,4on5,last 5 games,BOS@CAR,away
-Save %,0.14,BOS,4on5,last 5 games,BOS@CAR,away
-Blocked shot attempt %,0.17,BOS,4on5,last 5 games,BOS@CAR,away
-Blocked shot attempt % against,0.88,BOS,4on5,last 5 games,BOS@CAR,away
-Expected Goals For,0.48,BOS,4on5,last 5 games,BOS@CAR,away
-XG Differential,0.69,BOS,4on5,last 5 games,BOS@CAR,away
-Shot (FW) Volume,0.44,BOS,4on5,last 5 games,BOS@CAR,away
-Shot (FW) Differential,0.97,BOS,4on5,last 5 games,BOS@CAR,away
-Penalty Differential,0.97,BOS,4on5,last 5 games,BOS@CAR,away
-offense_p60_perc,0.34,BOS,4on5,last 5 games,BOS@CAR,away
-defense_p60_perc,0.5,BOS,4on5,last 5 games,BOS@CAR,away
-cum_dif_p60_perc,0.44,BOS,4on5,last 5 games,BOS@CAR,away
-Points,1.0,BOS,5on4,all,BOS@CAR,away
-Goals For,0.88,BOS,5on4,all,BOS@CAR,away
-Goal Differential,0.91,BOS,5on4,all,BOS@CAR,away
-Shooting %,0.83,BOS,5on4,all,BOS@CAR,away
-Save %,0.66,BOS,5on4,all,BOS@CAR,away
-Blocked shot attempt %,0.61,BOS,5on4,all,BOS@CAR,away
-Blocked shot attempt % against,0.84,BOS,5on4,all,BOS@CAR,away
-Expected Goals For,0.77,BOS,5on4,all,BOS@CAR,away
-XG Differential,0.84,BOS,5on4,all,BOS@CAR,away
-Shot (FW) Volume,0.62,BOS,5on4,all,BOS@CAR,away
-Shot (FW) Differential,0.66,BOS,5on4,all,BOS@CAR,away
-Penalty Differential,0.19,BOS,5on4,all,BOS@CAR,away
-offense_p60_perc,0.84,BOS,5on4,all,BOS@CAR,away
-defense_p60_perc,0.81,BOS,5on4,all,BOS@CAR,away
-cum_dif_p60_perc,0.91,BOS,5on4,all,BOS@CAR,away
-Points,1.0,BOS,5on4,last 20 games,BOS@CAR,away
-Goals For,0.89,BOS,5on4,last 20 games,BOS@CAR,away
-Goal Differential,0.94,BOS,5on4,last 20 games,BOS@CAR,away
-Shooting %,0.88,BOS,5on4,last 20 games,BOS@CAR,away
-Save %,0.95,BOS,5on4,last 20 games,BOS@CAR,away
-Blocked shot attempt %,0.55,BOS,5on4,last 20 games,BOS@CAR,away
-Blocked shot attempt % against,0.95,BOS,5on4,last 20 games,BOS@CAR,away
-Expected Goals For,0.56,BOS,5on4,last 20 games,BOS@CAR,away
-XG Differential,0.62,BOS,5on4,last 20 games,BOS@CAR,away
-Shot (FW) Volume,0.53,BOS,5on4,last 20 games,BOS@CAR,away
-Shot (FW) Differential,0.52,BOS,5on4,last 20 games,BOS@CAR,away
-Penalty Differential,0.09,BOS,5on4,last 20 games,BOS@CAR,away
-offense_p60_perc,0.73,BOS,5on4,last 20 games,BOS@CAR,away
-defense_p60_perc,0.97,BOS,5on4,last 20 games,BOS@CAR,away
-cum_dif_p60_perc,0.84,BOS,5on4,last 20 games,BOS@CAR,away
-Points,0.91,BOS,5on4,last 10 games,BOS@CAR,away
-Goals For,0.69,BOS,5on4,last 10 games,BOS@CAR,away
-Goal Differential,0.8,BOS,5on4,last 10 games,BOS@CAR,away
-Shooting %,0.78,BOS,5on4,last 10 games,BOS@CAR,away
-Save %,0.84,BOS,5on4,last 10 games,BOS@CAR,away
-Blocked shot attempt %,0.56,BOS,5on4,last 10 games,BOS@CAR,away
-Blocked shot attempt % against,0.64,BOS,5on4,last 10 games,BOS@CAR,away
-Expected Goals For,0.62,BOS,5on4,last 10 games,BOS@CAR,away
-XG Differential,0.69,BOS,5on4,last 10 games,BOS@CAR,away
-Shot (FW) Volume,0.28,BOS,5on4,last 10 games,BOS@CAR,away
-Shot (FW) Differential,0.25,BOS,5on4,last 10 games,BOS@CAR,away
-Penalty Differential,0.12,BOS,5on4,last 10 games,BOS@CAR,away
-offense_p60_perc,0.69,BOS,5on4,last 10 games,BOS@CAR,away
-defense_p60_perc,0.75,BOS,5on4,last 10 games,BOS@CAR,away
-cum_dif_p60_perc,0.75,BOS,5on4,last 10 games,BOS@CAR,away
-Points,0.75,BOS,5on4,last 5 games,BOS@CAR,away
-Goals For,0.41,BOS,5on4,last 5 games,BOS@CAR,away
-Goal Differential,0.56,BOS,5on4,last 5 games,BOS@CAR,away
-Shooting %,0.36,BOS,5on4,last 5 games,BOS@CAR,away
-Save %,0.71,BOS,5on4,last 5 games,BOS@CAR,away
-Blocked shot attempt %,0.75,BOS,5on4,last 5 games,BOS@CAR,away
-Blocked shot attempt % against,0.67,BOS,5on4,last 5 games,BOS@CAR,away
-Expected Goals For,0.61,BOS,5on4,last 5 games,BOS@CAR,away
-XG Differential,0.78,BOS,5on4,last 5 games,BOS@CAR,away
-Shot (FW) Volume,0.56,BOS,5on4,last 5 games,BOS@CAR,away
-Shot (FW) Differential,0.5,BOS,5on4,last 5 games,BOS@CAR,away
-Penalty Differential,0.66,BOS,5on4,last 5 games,BOS@CAR,away
-offense_p60_perc,0.53,BOS,5on4,last 5 games,BOS@CAR,away
-defense_p60_perc,0.77,BOS,5on4,last 5 games,BOS@CAR,away
-cum_dif_p60_perc,0.69,BOS,5on4,last 5 games,BOS@CAR,away
-Points,0.97,CAR,all,all,BOS@CAR,home
-Goals For,0.64,CAR,all,all,BOS@CAR,home
-Goal Differential,0.84,CAR,all,all,BOS@CAR,home
-Shooting %,0.23,CAR,all,all,BOS@CAR,home
-Save %,0.53,CAR,all,all,BOS@CAR,home
-Blocked shot attempt %,0.73,CAR,all,all,BOS@CAR,home
-Blocked shot attempt % against,0.17,CAR,all,all,BOS@CAR,home
-Expected Goals For,0.81,CAR,all,all,BOS@CAR,home
-XG Differential,1.0,CAR,all,all,BOS@CAR,home
-Shot (FW) Volume,1.0,CAR,all,all,BOS@CAR,home
-Shot (FW) Differential,1.0,CAR,all,all,BOS@CAR,home
-Penalty Differential,0.52,CAR,all,all,BOS@CAR,home
-offense_p60_perc,0.75,CAR,all,all,BOS@CAR,home
-defense_p60_perc,0.97,CAR,all,all,BOS@CAR,home
-cum_dif_p60_perc,0.97,CAR,all,all,BOS@CAR,home
-Points,0.97,CAR,all,last 20 games,BOS@CAR,home
-Goals For,0.94,CAR,all,last 20 games,BOS@CAR,home
-Goal Differential,0.95,CAR,all,last 20 games,BOS@CAR,home
-Shooting %,0.78,CAR,all,last 20 games,BOS@CAR,home
-Save %,0.44,CAR,all,last 20 games,BOS@CAR,home
-Blocked shot attempt %,0.56,CAR,all,last 20 games,BOS@CAR,home
-Blocked shot attempt % against,0.22,CAR,all,last 20 games,BOS@CAR,home
-Expected Goals For,0.97,CAR,all,last 20 games,BOS@CAR,home
-XG Differential,1.0,CAR,all,last 20 games,BOS@CAR,home
-Shot (FW) Volume,0.97,CAR,all,last 20 games,BOS@CAR,home
-Shot (FW) Differential,0.97,CAR,all,last 20 games,BOS@CAR,home
-Penalty Differential,0.55,CAR,all,last 20 games,BOS@CAR,home
-offense_p60_perc,0.97,CAR,all,last 20 games,BOS@CAR,home
-defense_p60_perc,0.88,CAR,all,last 20 games,BOS@CAR,home
-cum_dif_p60_perc,1.0,CAR,all,last 20 games,BOS@CAR,home
-Points,0.83,CAR,all,last 10 games,BOS@CAR,home
-Goals For,0.84,CAR,all,last 10 games,BOS@CAR,home
-Goal Differential,0.84,CAR,all,last 10 games,BOS@CAR,home
-Shooting %,0.72,CAR,all,last 10 games,BOS@CAR,home
-Save %,0.28,CAR,all,last 10 games,BOS@CAR,home
-Blocked shot attempt %,0.55,CAR,all,last 10 games,BOS@CAR,home
-Blocked shot attempt % against,0.31,CAR,all,last 10 games,BOS@CAR,home
-Expected Goals For,0.92,CAR,all,last 10 games,BOS@CAR,home
-XG Differential,0.97,CAR,all,last 10 games,BOS@CAR,home
-Shot (FW) Volume,1.0,CAR,all,last 10 games,BOS@CAR,home
-Shot (FW) Differential,1.0,CAR,all,last 10 games,BOS@CAR,home
-Penalty Differential,0.73,CAR,all,last 10 games,BOS@CAR,home
-offense_p60_perc,0.91,CAR,all,last 10 games,BOS@CAR,home
-defense_p60_perc,0.78,CAR,all,last 10 games,BOS@CAR,home
-cum_dif_p60_perc,0.94,CAR,all,last 10 games,BOS@CAR,home
-Points,0.98,CAR,all,last 5 games,BOS@CAR,home
-Goals For,0.97,CAR,all,last 5 games,BOS@CAR,home
-Goal Differential,0.97,CAR,all,last 5 games,BOS@CAR,home
-Shooting %,0.97,CAR,all,last 5 games,BOS@CAR,home
-Save %,0.48,CAR,all,last 5 games,BOS@CAR,home
-Blocked shot attempt %,0.12,CAR,all,last 5 games,BOS@CAR,home
-Blocked shot attempt % against,0.55,CAR,all,last 5 games,BOS@CAR,home
-Expected Goals For,0.62,CAR,all,last 5 games,BOS@CAR,home
-XG Differential,0.78,CAR,all,last 5 games,BOS@CAR,home
-Shot (FW) Volume,0.72,CAR,all,last 5 games,BOS@CAR,home
-Shot (FW) Differential,0.94,CAR,all,last 5 games,BOS@CAR,home
-Penalty Differential,0.91,CAR,all,last 5 games,BOS@CAR,home
-offense_p60_perc,0.84,CAR,all,last 5 games,BOS@CAR,home
-defense_p60_perc,0.78,CAR,all,last 5 games,BOS@CAR,home
-cum_dif_p60_perc,0.97,CAR,all,last 5 games,BOS@CAR,home
-Points,0.97,CAR,5on5,all,BOS@CAR,home
-Goals For,0.55,CAR,5on5,all,BOS@CAR,home
-Goal Differential,0.81,CAR,5on5,all,BOS@CAR,home
-Shooting %,0.17,CAR,5on5,all,BOS@CAR,home
-Save %,0.52,CAR,5on5,all,BOS@CAR,home
-Blocked shot attempt %,0.48,CAR,5on5,all,BOS@CAR,home
-Blocked shot attempt % against,0.33,CAR,5on5,all,BOS@CAR,home
-Expected Goals For,0.84,CAR,5on5,all,BOS@CAR,home
-XG Differential,1.0,CAR,5on5,all,BOS@CAR,home
-Shot (FW) Volume,1.0,CAR,5on5,all,BOS@CAR,home
-Shot (FW) Differential,1.0,CAR,5on5,all,BOS@CAR,home
-Penalty Differential,0.38,CAR,5on5,all,BOS@CAR,home
-offense_p60_perc,0.69,CAR,5on5,all,BOS@CAR,home
-defense_p60_perc,0.97,CAR,5on5,all,BOS@CAR,home
-cum_dif_p60_perc,0.94,CAR,5on5,all,BOS@CAR,home
-Points,0.97,CAR,5on5,last 20 games,BOS@CAR,home
-Goals For,0.72,CAR,5on5,last 20 games,BOS@CAR,home
-Goal Differential,0.73,CAR,5on5,last 20 games,BOS@CAR,home
-Shooting %,0.42,CAR,5on5,last 20 games,BOS@CAR,home
-Save %,0.38,CAR,5on5,last 20 games,BOS@CAR,home
-Blocked shot attempt %,0.53,CAR,5on5,last 20 games,BOS@CAR,home
-Blocked shot attempt % against,0.39,CAR,5on5,last 20 games,BOS@CAR,home
-Expected Goals For,0.91,CAR,5on5,last 20 games,BOS@CAR,home
-XG Differential,1.0,CAR,5on5,last 20 games,BOS@CAR,home
-Shot (FW) Volume,0.97,CAR,5on5,last 20 games,BOS@CAR,home
-Shot (FW) Differential,0.97,CAR,5on5,last 20 games,BOS@CAR,home
-Penalty Differential,0.44,CAR,5on5,last 20 games,BOS@CAR,home
-offense_p60_perc,0.78,CAR,5on5,last 20 games,BOS@CAR,home
-defense_p60_perc,0.84,CAR,5on5,last 20 games,BOS@CAR,home
-cum_dif_p60_perc,0.94,CAR,5on5,last 20 games,BOS@CAR,home
-Points,0.83,CAR,5on5,last 10 games,BOS@CAR,home
-Goals For,0.56,CAR,5on5,last 10 games,BOS@CAR,home
-Goal Differential,0.52,CAR,5on5,last 10 games,BOS@CAR,home
-Shooting %,0.38,CAR,5on5,last 10 games,BOS@CAR,home
-Save %,0.08,CAR,5on5,last 10 games,BOS@CAR,home
-Blocked shot attempt %,0.36,CAR,5on5,last 10 games,BOS@CAR,home
-Blocked shot attempt % against,0.72,CAR,5on5,last 10 games,BOS@CAR,home
-Expected Goals For,0.89,CAR,5on5,last 10 games,BOS@CAR,home
-XG Differential,0.97,CAR,5on5,last 10 games,BOS@CAR,home
-Shot (FW) Volume,0.97,CAR,5on5,last 10 games,BOS@CAR,home
-Shot (FW) Differential,1.0,CAR,5on5,last 10 games,BOS@CAR,home
-Penalty Differential,0.81,CAR,5on5,last 10 games,BOS@CAR,home
-offense_p60_perc,0.67,CAR,5on5,last 10 games,BOS@CAR,home
-defense_p60_perc,0.64,CAR,5on5,last 10 games,BOS@CAR,home
-cum_dif_p60_perc,0.72,CAR,5on5,last 10 games,BOS@CAR,home
-Points,0.98,CAR,5on5,last 5 games,BOS@CAR,home
-Goals For,0.73,CAR,5on5,last 5 games,BOS@CAR,home
-Goal Differential,0.62,CAR,5on5,last 5 games,BOS@CAR,home
-Shooting %,0.91,CAR,5on5,last 5 games,BOS@CAR,home
-Save %,0.25,CAR,5on5,last 5 games,BOS@CAR,home
-Blocked shot attempt %,0.12,CAR,5on5,last 5 games,BOS@CAR,home
-Blocked shot attempt % against,0.81,CAR,5on5,last 5 games,BOS@CAR,home
-Expected Goals For,0.47,CAR,5on5,last 5 games,BOS@CAR,home
-XG Differential,0.66,CAR,5on5,last 5 games,BOS@CAR,home
-Shot (FW) Volume,0.56,CAR,5on5,last 5 games,BOS@CAR,home
-Shot (FW) Differential,0.94,CAR,5on5,last 5 games,BOS@CAR,home
-Penalty Differential,0.81,CAR,5on5,last 5 games,BOS@CAR,home
-offense_p60_perc,0.73,CAR,5on5,last 5 games,BOS@CAR,home
-defense_p60_perc,0.62,CAR,5on5,last 5 games,BOS@CAR,home
-cum_dif_p60_perc,0.64,CAR,5on5,last 5 games,BOS@CAR,home
-Points,0.97,CAR,4on5,all,BOS@CAR,home
-Goals For,0.89,CAR,4on5,all,BOS@CAR,home
-Goal Differential,0.78,CAR,4on5,all,BOS@CAR,home
-Shooting %,0.88,CAR,4on5,all,BOS@CAR,home
-Save %,0.47,CAR,4on5,all,BOS@CAR,home
-Blocked shot attempt %,0.77,CAR,4on5,all,BOS@CAR,home
-Blocked shot attempt % against,0.09,CAR,4on5,all,BOS@CAR,home
-Expected Goals For,0.64,CAR,4on5,all,BOS@CAR,home
-XG Differential,0.91,CAR,4on5,all,BOS@CAR,home
-Shot (FW) Volume,0.81,CAR,4on5,all,BOS@CAR,home
-Shot (FW) Differential,0.94,CAR,4on5,all,BOS@CAR,home
-Penalty Differential,0.09,CAR,4on5,all,BOS@CAR,home
-offense_p60_perc,0.88,CAR,4on5,all,BOS@CAR,home
-defense_p60_perc,0.81,CAR,4on5,all,BOS@CAR,home
-cum_dif_p60_perc,0.88,CAR,4on5,all,BOS@CAR,home
-Points,0.97,CAR,4on5,last 20 games,BOS@CAR,home
-Goals For,0.97,CAR,4on5,last 20 games,BOS@CAR,home
-Goal Differential,0.94,CAR,4on5,last 20 games,BOS@CAR,home
-Shooting %,0.97,CAR,4on5,last 20 games,BOS@CAR,home
-Save %,0.39,CAR,4on5,last 20 games,BOS@CAR,home
-Blocked shot attempt %,0.61,CAR,4on5,last 20 games,BOS@CAR,home
-Blocked shot attempt % against,0.25,CAR,4on5,last 20 games,BOS@CAR,home
-Expected Goals For,0.84,CAR,4on5,last 20 games,BOS@CAR,home
-XG Differential,0.97,CAR,4on5,last 20 games,BOS@CAR,home
-Shot (FW) Volume,0.84,CAR,4on5,last 20 games,BOS@CAR,home
-Shot (FW) Differential,0.94,CAR,4on5,last 20 games,BOS@CAR,home
-Penalty Differential,0.22,CAR,4on5,last 20 games,BOS@CAR,home
-offense_p60_perc,0.97,CAR,4on5,last 20 games,BOS@CAR,home
-defense_p60_perc,0.75,CAR,4on5,last 20 games,BOS@CAR,home
-cum_dif_p60_perc,0.97,CAR,4on5,last 20 games,BOS@CAR,home
-Points,0.83,CAR,4on5,last 10 games,BOS@CAR,home
-Goals For,1.0,CAR,4on5,last 10 games,BOS@CAR,home
-Goal Differential,0.98,CAR,4on5,last 10 games,BOS@CAR,home
-Shooting %,0.94,CAR,4on5,last 10 games,BOS@CAR,home
-Save %,0.5,CAR,4on5,last 10 games,BOS@CAR,home
-Blocked shot attempt %,0.69,CAR,4on5,last 10 games,BOS@CAR,home
-Blocked shot attempt % against,0.12,CAR,4on5,last 10 games,BOS@CAR,home
-Expected Goals For,0.97,CAR,4on5,last 10 games,BOS@CAR,home
-XG Differential,1.0,CAR,4on5,last 10 games,BOS@CAR,home
-Shot (FW) Volume,1.0,CAR,4on5,last 10 games,BOS@CAR,home
-Shot (FW) Differential,1.0,CAR,4on5,last 10 games,BOS@CAR,home
-Penalty Differential,0.09,CAR,4on5,last 10 games,BOS@CAR,home
-offense_p60_perc,0.97,CAR,4on5,last 10 games,BOS@CAR,home
-defense_p60_perc,0.73,CAR,4on5,last 10 games,BOS@CAR,home
-cum_dif_p60_perc,1.0,CAR,4on5,last 10 games,BOS@CAR,home
-Points,0.98,CAR,4on5,last 5 games,BOS@CAR,home
-Goals For,0.94,CAR,4on5,last 5 games,BOS@CAR,home
-Goal Differential,0.97,CAR,4on5,last 5 games,BOS@CAR,home
-Shooting %,0.9,CAR,4on5,last 5 games,BOS@CAR,home
-Save %,0.78,CAR,4on5,last 5 games,BOS@CAR,home
-Blocked shot attempt %,0.42,CAR,4on5,last 5 games,BOS@CAR,home
-Blocked shot attempt % against,0.06,CAR,4on5,last 5 games,BOS@CAR,home
-Expected Goals For,0.48,CAR,4on5,last 5 games,BOS@CAR,home
-XG Differential,0.8,CAR,4on5,last 5 games,BOS@CAR,home
-Shot (FW) Volume,0.88,CAR,4on5,last 5 games,BOS@CAR,home
-Shot (FW) Differential,0.94,CAR,4on5,last 5 games,BOS@CAR,home
-Penalty Differential,0.08,CAR,4on5,last 5 games,BOS@CAR,home
-offense_p60_perc,0.91,CAR,4on5,last 5 games,BOS@CAR,home
-defense_p60_perc,0.84,CAR,4on5,last 5 games,BOS@CAR,home
-cum_dif_p60_perc,0.94,CAR,4on5,last 5 games,BOS@CAR,home
-Points,0.97,CAR,5on4,all,BOS@CAR,home
-Goals For,0.27,CAR,5on4,all,BOS@CAR,home
-Goal Differential,0.34,CAR,5on4,all,BOS@CAR,home
-Shooting %,0.16,CAR,5on4,all,BOS@CAR,home
-Save %,0.47,CAR,5on4,all,BOS@CAR,home
-Blocked shot attempt %,0.91,CAR,5on4,all,BOS@CAR,home
-Blocked shot attempt % against,0.25,CAR,5on4,all,BOS@CAR,home
-Expected Goals For,0.62,CAR,5on4,all,BOS@CAR,home
-XG Differential,0.59,CAR,5on4,all,BOS@CAR,home
-Shot (FW) Volume,0.88,CAR,5on4,all,BOS@CAR,home
-Shot (FW) Differential,0.88,CAR,5on4,all,BOS@CAR,home
-Penalty Differential,0.91,CAR,5on4,all,BOS@CAR,home
-offense_p60_perc,0.41,CAR,5on4,all,BOS@CAR,home
-defense_p60_perc,0.5,CAR,5on4,all,BOS@CAR,home
-cum_dif_p60_perc,0.44,CAR,5on4,all,BOS@CAR,home
-Points,0.97,CAR,5on4,last 20 games,BOS@CAR,home
-Goals For,0.36,CAR,5on4,last 20 games,BOS@CAR,home
-Goal Differential,0.28,CAR,5on4,last 20 games,BOS@CAR,home
-Shooting %,0.3,CAR,5on4,last 20 games,BOS@CAR,home
-Save %,0.23,CAR,5on4,last 20 games,BOS@CAR,home
-Blocked shot attempt %,0.36,CAR,5on4,last 20 games,BOS@CAR,home
-Blocked shot attempt % against,0.62,CAR,5on4,last 20 games,BOS@CAR,home
-Expected Goals For,0.69,CAR,5on4,last 20 games,BOS@CAR,home
-XG Differential,0.78,CAR,5on4,last 20 games,BOS@CAR,home
-Shot (FW) Volume,0.5,CAR,5on4,last 20 games,BOS@CAR,home
-Shot (FW) Differential,0.47,CAR,5on4,last 20 games,BOS@CAR,home
-Penalty Differential,0.66,CAR,5on4,last 20 games,BOS@CAR,home
-offense_p60_perc,0.5,CAR,5on4,last 20 games,BOS@CAR,home
-defense_p60_perc,0.42,CAR,5on4,last 20 games,BOS@CAR,home
-cum_dif_p60_perc,0.53,CAR,5on4,last 20 games,BOS@CAR,home
-Points,0.83,CAR,5on4,last 10 games,BOS@CAR,home
-Goals For,0.44,CAR,5on4,last 10 games,BOS@CAR,home
-Goal Differential,0.62,CAR,5on4,last 10 games,BOS@CAR,home
-Shooting %,0.36,CAR,5on4,last 10 games,BOS@CAR,home
-Save %,0.84,CAR,5on4,last 10 games,BOS@CAR,home
-Blocked shot attempt %,0.69,CAR,5on4,last 10 games,BOS@CAR,home
-Blocked shot attempt % against,0.09,CAR,5on4,last 10 games,BOS@CAR,home
-Expected Goals For,0.62,CAR,5on4,last 10 games,BOS@CAR,home
-XG Differential,0.75,CAR,5on4,last 10 games,BOS@CAR,home
-Shot (FW) Volume,0.62,CAR,5on4,last 10 games,BOS@CAR,home
-Shot (FW) Differential,0.62,CAR,5on4,last 10 games,BOS@CAR,home
-Penalty Differential,0.69,CAR,5on4,last 10 games,BOS@CAR,home
-offense_p60_perc,0.53,CAR,5on4,last 10 games,BOS@CAR,home
-defense_p60_perc,0.97,CAR,5on4,last 10 games,BOS@CAR,home
-cum_dif_p60_perc,0.69,CAR,5on4,last 10 games,BOS@CAR,home
-Points,0.98,CAR,5on4,last 5 games,BOS@CAR,home
-Goals For,0.69,CAR,5on4,last 5 games,BOS@CAR,home
-Goal Differential,0.78,CAR,5on4,last 5 games,BOS@CAR,home
-Shooting %,0.83,CAR,5on4,last 5 games,BOS@CAR,home
-Save %,0.71,CAR,5on4,last 5 games,BOS@CAR,home
-Blocked shot attempt %,0.53,CAR,5on4,last 5 games,BOS@CAR,home
-Blocked shot attempt % against,0.28,CAR,5on4,last 5 games,BOS@CAR,home
-Expected Goals For,0.45,CAR,5on4,last 5 games,BOS@CAR,home
-XG Differential,0.66,CAR,5on4,last 5 games,BOS@CAR,home
-Shot (FW) Volume,0.31,CAR,5on4,last 5 games,BOS@CAR,home
-Shot (FW) Differential,0.25,CAR,5on4,last 5 games,BOS@CAR,home
-Penalty Differential,0.92,CAR,5on4,last 5 games,BOS@CAR,home
-offense_p60_perc,0.56,CAR,5on4,last 5 games,BOS@CAR,home
-defense_p60_perc,0.91,CAR,5on4,last 5 games,BOS@CAR,home
-cum_dif_p60_perc,0.72,CAR,5on4,last 5 games,BOS@CAR,home
-Points,0.92,TOR,all,all,WSH@TOR,home
-Goals For,0.78,TOR,all,all,WSH@TOR,home
-Goal Differential,0.88,TOR,all,all,WSH@TOR,home
-Shooting %,0.77,TOR,all,all,WSH@TOR,home
-Save %,0.66,TOR,all,all,WSH@TOR,home
-Blocked shot attempt %,0.97,TOR,all,all,WSH@TOR,home
-Blocked shot attempt % against,0.66,TOR,all,all,WSH@TOR,home
-Expected Goals For,0.81,TOR,all,all,WSH@TOR,home
-XG Differential,0.89,TOR,all,all,WSH@TOR,home
-Shot (FW) Volume,0.55,TOR,all,all,WSH@TOR,home
-Shot (FW) Differential,0.78,TOR,all,all,WSH@TOR,home
-Penalty Differential,0.66,TOR,all,all,WSH@TOR,home
-offense_p60_perc,0.8,TOR,all,all,WSH@TOR,home
-defense_p60_perc,0.78,TOR,all,all,WSH@TOR,home
-cum_dif_p60_perc,0.89,TOR,all,all,WSH@TOR,home
-Points,0.55,TOR,all,last 20 games,WSH@TOR,home
-Goals For,0.77,TOR,all,last 20 games,WSH@TOR,home
-Goal Differential,0.52,TOR,all,last 20 games,WSH@TOR,home
-Shooting %,0.69,TOR,all,last 20 games,WSH@TOR,home
-Save %,0.16,TOR,all,last 20 games,WSH@TOR,home
-Blocked shot attempt %,0.97,TOR,all,last 20 games,WSH@TOR,home
-Blocked shot attempt % against,0.69,TOR,all,last 20 games,WSH@TOR,home
-Expected Goals For,0.92,TOR,all,last 20 games,WSH@TOR,home
-XG Differential,0.91,TOR,all,last 20 games,WSH@TOR,home
-Shot (FW) Volume,0.73,TOR,all,last 20 games,WSH@TOR,home
-Shot (FW) Differential,0.94,TOR,all,last 20 games,WSH@TOR,home
-Penalty Differential,0.55,TOR,all,last 20 games,WSH@TOR,home
-offense_p60_perc,0.88,TOR,all,last 20 games,WSH@TOR,home
-defense_p60_perc,0.53,TOR,all,last 20 games,WSH@TOR,home
-cum_dif_p60_perc,0.72,TOR,all,last 20 games,WSH@TOR,home
-Points,0.73,TOR,all,last 10 games,WSH@TOR,home
-Goals For,0.69,TOR,all,last 10 games,WSH@TOR,home
-Goal Differential,0.72,TOR,all,last 10 games,WSH@TOR,home
-Shooting %,0.62,TOR,all,last 10 games,WSH@TOR,home
-Save %,0.53,TOR,all,last 10 games,WSH@TOR,home
-Blocked shot attempt %,0.62,TOR,all,last 10 games,WSH@TOR,home
-Blocked shot attempt % against,0.56,TOR,all,last 10 games,WSH@TOR,home
-Expected Goals For,0.83,TOR,all,last 10 games,WSH@TOR,home
-XG Differential,0.89,TOR,all,last 10 games,WSH@TOR,home
-Shot (FW) Volume,0.75,TOR,all,last 10 games,WSH@TOR,home
-Shot (FW) Differential,0.72,TOR,all,last 10 games,WSH@TOR,home
-Penalty Differential,0.44,TOR,all,last 10 games,WSH@TOR,home
-offense_p60_perc,0.83,TOR,all,last 10 games,WSH@TOR,home
-defense_p60_perc,0.53,TOR,all,last 10 games,WSH@TOR,home
-cum_dif_p60_perc,0.81,TOR,all,last 10 games,WSH@TOR,home
-Points,0.75,TOR,all,last 5 games,WSH@TOR,home
-Goals For,0.69,TOR,all,last 5 games,WSH@TOR,home
-Goal Differential,0.66,TOR,all,last 5 games,WSH@TOR,home
-Shooting %,0.48,TOR,all,last 5 games,WSH@TOR,home
-Save %,0.56,TOR,all,last 5 games,WSH@TOR,home
-Blocked shot attempt %,0.81,TOR,all,last 5 games,WSH@TOR,home
-Blocked shot attempt % against,0.36,TOR,all,last 5 games,WSH@TOR,home
-Expected Goals For,1.0,TOR,all,last 5 games,WSH@TOR,home
-XG Differential,0.89,TOR,all,last 5 games,WSH@TOR,home
-Shot (FW) Volume,0.84,TOR,all,last 5 games,WSH@TOR,home
-Shot (FW) Differential,0.52,TOR,all,last 5 games,WSH@TOR,home
-Penalty Differential,0.22,TOR,all,last 5 games,WSH@TOR,home
-offense_p60_perc,0.88,TOR,all,last 5 games,WSH@TOR,home
-defense_p60_perc,0.53,TOR,all,last 5 games,WSH@TOR,home
-cum_dif_p60_perc,0.84,TOR,all,last 5 games,WSH@TOR,home
-Points,0.92,TOR,5on5,all,WSH@TOR,home
-Goals For,0.7,TOR,5on5,all,WSH@TOR,home
-Goal Differential,0.88,TOR,5on5,all,WSH@TOR,home
-Shooting %,0.77,TOR,5on5,all,WSH@TOR,home
-Save %,0.81,TOR,5on5,all,WSH@TOR,home
-Blocked shot attempt %,0.86,TOR,5on5,all,WSH@TOR,home
-Blocked shot attempt % against,0.75,TOR,5on5,all,WSH@TOR,home
-Expected Goals For,0.77,TOR,5on5,all,WSH@TOR,home
-XG Differential,0.91,TOR,5on5,all,WSH@TOR,home
-Shot (FW) Volume,0.58,TOR,5on5,all,WSH@TOR,home
-Shot (FW) Differential,0.77,TOR,5on5,all,WSH@TOR,home
-Penalty Differential,0.62,TOR,5on5,all,WSH@TOR,home
-offense_p60_perc,0.83,TOR,5on5,all,WSH@TOR,home
-defense_p60_perc,0.84,TOR,5on5,all,WSH@TOR,home
-cum_dif_p60_perc,0.88,TOR,5on5,all,WSH@TOR,home
-Points,0.55,TOR,5on5,last 20 games,WSH@TOR,home
-Goals For,0.56,TOR,5on5,last 20 games,WSH@TOR,home
-Goal Differential,0.5,TOR,5on5,last 20 games,WSH@TOR,home
-Shooting %,0.59,TOR,5on5,last 20 games,WSH@TOR,home
-Save %,0.19,TOR,5on5,last 20 games,WSH@TOR,home
-Blocked shot attempt %,0.91,TOR,5on5,last 20 games,WSH@TOR,home
-Blocked shot attempt % against,0.73,TOR,5on5,last 20 games,WSH@TOR,home
-Expected Goals For,0.95,TOR,5on5,last 20 games,WSH@TOR,home
-XG Differential,0.95,TOR,5on5,last 20 games,WSH@TOR,home
-Shot (FW) Volume,0.8,TOR,5on5,last 20 games,WSH@TOR,home
-Shot (FW) Differential,0.94,TOR,5on5,last 20 games,WSH@TOR,home
-Penalty Differential,0.88,TOR,5on5,last 20 games,WSH@TOR,home
-offense_p60_perc,0.81,TOR,5on5,last 20 games,WSH@TOR,home
-defense_p60_perc,0.58,TOR,5on5,last 20 games,WSH@TOR,home
-cum_dif_p60_perc,0.66,TOR,5on5,last 20 games,WSH@TOR,home
-Points,0.73,TOR,5on5,last 10 games,WSH@TOR,home
-Goals For,0.56,TOR,5on5,last 10 games,WSH@TOR,home
-Goal Differential,0.62,TOR,5on5,last 10 games,WSH@TOR,home
-Shooting %,0.56,TOR,5on5,last 10 games,WSH@TOR,home
-Save %,0.52,TOR,5on5,last 10 games,WSH@TOR,home
-Blocked shot attempt %,0.62,TOR,5on5,last 10 games,WSH@TOR,home
-Blocked shot attempt % against,0.5,TOR,5on5,last 10 games,WSH@TOR,home
-Expected Goals For,0.97,TOR,5on5,last 10 games,WSH@TOR,home
-XG Differential,0.8,TOR,5on5,last 10 games,WSH@TOR,home
-Shot (FW) Volume,0.72,TOR,5on5,last 10 games,WSH@TOR,home
-Shot (FW) Differential,0.78,TOR,5on5,last 10 games,WSH@TOR,home
-Penalty Differential,0.45,TOR,5on5,last 10 games,WSH@TOR,home
-offense_p60_perc,0.73,TOR,5on5,last 10 games,WSH@TOR,home
-defense_p60_perc,0.48,TOR,5on5,last 10 games,WSH@TOR,home
-cum_dif_p60_perc,0.67,TOR,5on5,last 10 games,WSH@TOR,home
-Points,0.75,TOR,5on5,last 5 games,WSH@TOR,home
-Goals For,0.59,TOR,5on5,last 5 games,WSH@TOR,home
-Goal Differential,0.62,TOR,5on5,last 5 games,WSH@TOR,home
-Shooting %,0.61,TOR,5on5,last 5 games,WSH@TOR,home
-Save %,0.53,TOR,5on5,last 5 games,WSH@TOR,home
-Blocked shot attempt %,0.8,TOR,5on5,last 5 games,WSH@TOR,home
-Blocked shot attempt % against,0.39,TOR,5on5,last 5 games,WSH@TOR,home
-Expected Goals For,0.94,TOR,5on5,last 5 games,WSH@TOR,home
-XG Differential,0.91,TOR,5on5,last 5 games,WSH@TOR,home
-Shot (FW) Volume,0.72,TOR,5on5,last 5 games,WSH@TOR,home
-Shot (FW) Differential,0.72,TOR,5on5,last 5 games,WSH@TOR,home
-Penalty Differential,0.28,TOR,5on5,last 5 games,WSH@TOR,home
-offense_p60_perc,0.81,TOR,5on5,last 5 games,WSH@TOR,home
-defense_p60_perc,0.47,TOR,5on5,last 5 games,WSH@TOR,home
-cum_dif_p60_perc,0.84,TOR,5on5,last 5 games,WSH@TOR,home
-Points,0.92,TOR,4on5,all,WSH@TOR,home
-Goals For,0.83,TOR,4on5,all,WSH@TOR,home
-Goal Differential,0.66,TOR,4on5,all,WSH@TOR,home
-Shooting %,0.56,TOR,4on5,all,WSH@TOR,home
-Save %,0.53,TOR,4on5,all,WSH@TOR,home
-Blocked shot attempt %,0.81,TOR,4on5,all,WSH@TOR,home
-Blocked shot attempt % against,0.44,TOR,4on5,all,WSH@TOR,home
-Expected Goals For,0.94,TOR,4on5,all,WSH@TOR,home
-XG Differential,0.97,TOR,4on5,all,WSH@TOR,home
-Shot (FW) Volume,0.78,TOR,4on5,all,WSH@TOR,home
-Shot (FW) Differential,0.88,TOR,4on5,all,WSH@TOR,home
-Penalty Differential,0.38,TOR,4on5,all,WSH@TOR,home
-offense_p60_perc,0.84,TOR,4on5,all,WSH@TOR,home
-defense_p60_perc,0.78,TOR,4on5,all,WSH@TOR,home
-cum_dif_p60_perc,0.84,TOR,4on5,all,WSH@TOR,home
-Points,0.55,TOR,4on5,last 20 games,WSH@TOR,home
-Goals For,0.84,TOR,4on5,last 20 games,WSH@TOR,home
-Goal Differential,0.5,TOR,4on5,last 20 games,WSH@TOR,home
-Shooting %,0.69,TOR,4on5,last 20 games,WSH@TOR,home
-Save %,0.22,TOR,4on5,last 20 games,WSH@TOR,home
-Blocked shot attempt %,0.94,TOR,4on5,last 20 games,WSH@TOR,home
-Blocked shot attempt % against,0.55,TOR,4on5,last 20 games,WSH@TOR,home
-Expected Goals For,0.62,TOR,4on5,last 20 games,WSH@TOR,home
-XG Differential,0.84,TOR,4on5,last 20 games,WSH@TOR,home
-Shot (FW) Volume,0.75,TOR,4on5,last 20 games,WSH@TOR,home
-Shot (FW) Differential,0.91,TOR,4on5,last 20 games,WSH@TOR,home
-Penalty Differential,0.31,TOR,4on5,last 20 games,WSH@TOR,home
-offense_p60_perc,0.78,TOR,4on5,last 20 games,WSH@TOR,home
-defense_p60_perc,0.56,TOR,4on5,last 20 games,WSH@TOR,home
-cum_dif_p60_perc,0.58,TOR,4on5,last 20 games,WSH@TOR,home
-Points,0.73,TOR,4on5,last 10 games,WSH@TOR,home
-Goals For,0.81,TOR,4on5,last 10 games,WSH@TOR,home
-Goal Differential,0.91,TOR,4on5,last 10 games,WSH@TOR,home
-Shooting %,0.75,TOR,4on5,last 10 games,WSH@TOR,home
-Save %,0.78,TOR,4on5,last 10 games,WSH@TOR,home
-Blocked shot attempt %,0.86,TOR,4on5,last 10 games,WSH@TOR,home
-Blocked shot attempt % against,0.38,TOR,4on5,last 10 games,WSH@TOR,home
-Expected Goals For,0.34,TOR,4on5,last 10 games,WSH@TOR,home
-XG Differential,0.91,TOR,4on5,last 10 games,WSH@TOR,home
-Shot (FW) Volume,0.81,TOR,4on5,last 10 games,WSH@TOR,home
-Shot (FW) Differential,0.88,TOR,4on5,last 10 games,WSH@TOR,home
-Penalty Differential,0.41,TOR,4on5,last 10 games,WSH@TOR,home
-offense_p60_perc,0.75,TOR,4on5,last 10 games,WSH@TOR,home
-defense_p60_perc,1.0,TOR,4on5,last 10 games,WSH@TOR,home
-cum_dif_p60_perc,0.91,TOR,4on5,last 10 games,WSH@TOR,home
-Points,0.75,TOR,4on5,last 5 games,WSH@TOR,home
-Goals For,0.73,TOR,4on5,last 5 games,WSH@TOR,home
-Goal Differential,0.84,TOR,4on5,last 5 games,WSH@TOR,home
-Shooting %,0.71,TOR,4on5,last 5 games,WSH@TOR,home
-Save %,0.84,TOR,4on5,last 5 games,WSH@TOR,home
-Blocked shot attempt %,0.75,TOR,4on5,last 5 games,WSH@TOR,home
-Blocked shot attempt % against,0.34,TOR,4on5,last 5 games,WSH@TOR,home
-Expected Goals For,0.36,TOR,4on5,last 5 games,WSH@TOR,home
-XG Differential,0.84,TOR,4on5,last 5 games,WSH@TOR,home
-Shot (FW) Volume,0.81,TOR,4on5,last 5 games,WSH@TOR,home
-Shot (FW) Differential,0.56,TOR,4on5,last 5 games,WSH@TOR,home
-Penalty Differential,0.2,TOR,4on5,last 5 games,WSH@TOR,home
-offense_p60_perc,0.62,TOR,4on5,last 5 games,WSH@TOR,home
-defense_p60_perc,0.91,TOR,4on5,last 5 games,WSH@TOR,home
-cum_dif_p60_perc,0.84,TOR,4on5,last 5 games,WSH@TOR,home
-Points,0.92,TOR,5on4,all,WSH@TOR,home
-Goals For,0.78,TOR,5on4,all,WSH@TOR,home
-Goal Differential,0.81,TOR,5on4,all,WSH@TOR,home
-Shooting %,0.67,TOR,5on4,all,WSH@TOR,home
-Save %,0.78,TOR,5on4,all,WSH@TOR,home
-Blocked shot attempt %,0.84,TOR,5on4,all,WSH@TOR,home
-Blocked shot attempt % against,0.62,TOR,5on4,all,WSH@TOR,home
-Expected Goals For,0.83,TOR,5on4,all,WSH@TOR,home
-XG Differential,0.78,TOR,5on4,all,WSH@TOR,home
-Shot (FW) Volume,0.66,TOR,5on4,all,WSH@TOR,home
-Shot (FW) Differential,0.56,TOR,5on4,all,WSH@TOR,home
-Penalty Differential,0.41,TOR,5on4,all,WSH@TOR,home
-offense_p60_perc,0.81,TOR,5on4,all,WSH@TOR,home
-defense_p60_perc,0.62,TOR,5on4,all,WSH@TOR,home
-cum_dif_p60_perc,0.84,TOR,5on4,all,WSH@TOR,home
-Points,0.55,TOR,5on4,last 20 games,WSH@TOR,home
-Goals For,0.72,TOR,5on4,last 20 games,WSH@TOR,home
-Goal Differential,0.7,TOR,5on4,last 20 games,WSH@TOR,home
-Shooting %,0.75,TOR,5on4,last 20 games,WSH@TOR,home
-Save %,0.64,TOR,5on4,last 20 games,WSH@TOR,home
-Blocked shot attempt %,0.47,TOR,5on4,last 20 games,WSH@TOR,home
-Blocked shot attempt % against,0.66,TOR,5on4,last 20 games,WSH@TOR,home
-Expected Goals For,0.75,TOR,5on4,last 20 games,WSH@TOR,home
-XG Differential,0.72,TOR,5on4,last 20 games,WSH@TOR,home
-Shot (FW) Volume,0.59,TOR,5on4,last 20 games,WSH@TOR,home
-Shot (FW) Differential,0.41,TOR,5on4,last 20 games,WSH@TOR,home
-Penalty Differential,0.16,TOR,5on4,last 20 games,WSH@TOR,home
-offense_p60_perc,0.78,TOR,5on4,last 20 games,WSH@TOR,home
-defense_p60_perc,0.38,TOR,5on4,last 20 games,WSH@TOR,home
-cum_dif_p60_perc,0.72,TOR,5on4,last 20 games,WSH@TOR,home
-Points,0.73,TOR,5on4,last 10 games,WSH@TOR,home
-Goals For,0.78,TOR,5on4,last 10 games,WSH@TOR,home
-Goal Differential,0.8,TOR,5on4,last 10 games,WSH@TOR,home
-Shooting %,0.66,TOR,5on4,last 10 games,WSH@TOR,home
-Save %,0.66,TOR,5on4,last 10 games,WSH@TOR,home
-Blocked shot attempt %,0.39,TOR,5on4,last 10 games,WSH@TOR,home
-Blocked shot attempt % against,0.88,TOR,5on4,last 10 games,WSH@TOR,home
-Expected Goals For,0.78,TOR,5on4,last 10 games,WSH@TOR,home
-XG Differential,0.78,TOR,5on4,last 10 games,WSH@TOR,home
-Shot (FW) Volume,0.47,TOR,5on4,last 10 games,WSH@TOR,home
-Shot (FW) Differential,0.31,TOR,5on4,last 10 games,WSH@TOR,home
-Penalty Differential,0.34,TOR,5on4,last 10 games,WSH@TOR,home
-offense_p60_perc,0.78,TOR,5on4,last 10 games,WSH@TOR,home
-defense_p60_perc,0.31,TOR,5on4,last 10 games,WSH@TOR,home
-cum_dif_p60_perc,0.78,TOR,5on4,last 10 games,WSH@TOR,home
-Points,0.75,TOR,5on4,last 5 games,WSH@TOR,home
-Goals For,0.64,TOR,5on4,last 5 games,WSH@TOR,home
-Goal Differential,0.75,TOR,5on4,last 5 games,WSH@TOR,home
-Shooting %,0.3,TOR,5on4,last 5 games,WSH@TOR,home
-Save %,0.71,TOR,5on4,last 5 games,WSH@TOR,home
-Blocked shot attempt %,0.25,TOR,5on4,last 5 games,WSH@TOR,home
-Blocked shot attempt % against,0.91,TOR,5on4,last 5 games,WSH@TOR,home
-Expected Goals For,0.94,TOR,5on4,last 5 games,WSH@TOR,home
-XG Differential,0.94,TOR,5on4,last 5 games,WSH@TOR,home
-Shot (FW) Volume,0.97,TOR,5on4,last 5 games,WSH@TOR,home
-Shot (FW) Differential,0.84,TOR,5on4,last 5 games,WSH@TOR,home
-Penalty Differential,0.5,TOR,5on4,last 5 games,WSH@TOR,home
-offense_p60_perc,0.88,TOR,5on4,last 5 games,WSH@TOR,home
-defense_p60_perc,0.72,TOR,5on4,last 5 games,WSH@TOR,home
-cum_dif_p60_perc,0.91,TOR,5on4,last 5 games,WSH@TOR,home
-Points,0.61,WSH,all,all,WSH@TOR,away
-Goals For,0.56,WSH,all,all,WSH@TOR,away
-Goal Differential,0.64,WSH,all,all,WSH@TOR,away
-Shooting %,0.5,WSH,all,all,WSH@TOR,away
-Save %,0.75,WSH,all,all,WSH@TOR,away
-Blocked shot attempt %,0.19,WSH,all,all,WSH@TOR,away
-Blocked shot attempt % against,0.83,WSH,all,all,WSH@TOR,away
-Expected Goals For,0.42,WSH,all,all,WSH@TOR,away
-XG Differential,0.67,WSH,all,all,WSH@TOR,away
-Shot (FW) Volume,0.75,WSH,all,all,WSH@TOR,away
-Shot (FW) Differential,0.72,WSH,all,all,WSH@TOR,away
-Penalty Differential,0.94,WSH,all,all,WSH@TOR,away
-offense_p60_perc,0.5,WSH,all,all,WSH@TOR,away
-defense_p60_perc,0.78,WSH,all,all,WSH@TOR,away
-cum_dif_p60_perc,0.69,WSH,all,all,WSH@TOR,away
-Points,0.55,WSH,all,last 20 games,WSH@TOR,away
-Goals For,0.62,WSH,all,last 20 games,WSH@TOR,away
-Goal Differential,0.81,WSH,all,last 20 games,WSH@TOR,away
-Shooting %,0.47,WSH,all,last 20 games,WSH@TOR,away
-Save %,0.78,WSH,all,last 20 games,WSH@TOR,away
-Blocked shot attempt %,0.41,WSH,all,last 20 games,WSH@TOR,away
-Blocked shot attempt % against,0.8,WSH,all,last 20 games,WSH@TOR,away
-Expected Goals For,0.52,WSH,all,last 20 games,WSH@TOR,away
-XG Differential,0.88,WSH,all,last 20 games,WSH@TOR,away
-Shot (FW) Volume,0.73,WSH,all,last 20 games,WSH@TOR,away
-Shot (FW) Differential,0.84,WSH,all,last 20 games,WSH@TOR,away
-Penalty Differential,0.55,WSH,all,last 20 games,WSH@TOR,away
-offense_p60_perc,0.61,WSH,all,last 20 games,WSH@TOR,away
-defense_p60_perc,0.92,WSH,all,last 20 games,WSH@TOR,away
-cum_dif_p60_perc,0.88,WSH,all,last 20 games,WSH@TOR,away
-Points,0.19,WSH,all,last 10 games,WSH@TOR,away
-Goals For,0.16,WSH,all,last 10 games,WSH@TOR,away
-Goal Differential,0.31,WSH,all,last 10 games,WSH@TOR,away
-Shooting %,0.09,WSH,all,last 10 games,WSH@TOR,away
-Save %,0.41,WSH,all,last 10 games,WSH@TOR,away
-Blocked shot attempt %,0.12,WSH,all,last 10 games,WSH@TOR,away
-Blocked shot attempt % against,0.78,WSH,all,last 10 games,WSH@TOR,away
-Expected Goals For,0.34,WSH,all,last 10 games,WSH@TOR,away
-XG Differential,0.89,WSH,all,last 10 games,WSH@TOR,away
-Shot (FW) Volume,0.7,WSH,all,last 10 games,WSH@TOR,away
-Shot (FW) Differential,0.88,WSH,all,last 10 games,WSH@TOR,away
-Penalty Differential,0.78,WSH,all,last 10 games,WSH@TOR,away
-offense_p60_perc,0.22,WSH,all,last 10 games,WSH@TOR,away
-defense_p60_perc,0.88,WSH,all,last 10 games,WSH@TOR,away
-cum_dif_p60_perc,0.39,WSH,all,last 10 games,WSH@TOR,away
-Points,0.2,WSH,all,last 5 games,WSH@TOR,away
-Goals For,0.17,WSH,all,last 5 games,WSH@TOR,away
-Goal Differential,0.28,WSH,all,last 5 games,WSH@TOR,away
-Shooting %,0.09,WSH,all,last 5 games,WSH@TOR,away
-Save %,0.28,WSH,all,last 5 games,WSH@TOR,away
-Blocked shot attempt %,0.39,WSH,all,last 5 games,WSH@TOR,away
-Blocked shot attempt % against,0.73,WSH,all,last 5 games,WSH@TOR,away
-Expected Goals For,0.62,WSH,all,last 5 games,WSH@TOR,away
-XG Differential,0.97,WSH,all,last 5 games,WSH@TOR,away
-Shot (FW) Volume,0.78,WSH,all,last 5 games,WSH@TOR,away
-Shot (FW) Differential,0.97,WSH,all,last 5 games,WSH@TOR,away
-Penalty Differential,0.97,WSH,all,last 5 games,WSH@TOR,away
-offense_p60_perc,0.31,WSH,all,last 5 games,WSH@TOR,away
-defense_p60_perc,0.94,WSH,all,last 5 games,WSH@TOR,away
-cum_dif_p60_perc,0.66,WSH,all,last 5 games,WSH@TOR,away
-Points,0.61,WSH,5on5,all,WSH@TOR,away
-Goals For,0.55,WSH,5on5,all,WSH@TOR,away
-Goal Differential,0.61,WSH,5on5,all,WSH@TOR,away
-Shooting %,0.48,WSH,5on5,all,WSH@TOR,away
-Save %,0.59,WSH,5on5,all,WSH@TOR,away
-Blocked shot attempt %,0.16,WSH,5on5,all,WSH@TOR,away
-Blocked shot attempt % against,0.75,WSH,5on5,all,WSH@TOR,away
-Expected Goals For,0.53,WSH,5on5,all,WSH@TOR,away
-XG Differential,0.7,WSH,5on5,all,WSH@TOR,away
-Shot (FW) Volume,0.66,WSH,5on5,all,WSH@TOR,away
-Shot (FW) Differential,0.64,WSH,5on5,all,WSH@TOR,away
-Penalty Differential,0.91,WSH,5on5,all,WSH@TOR,away
-offense_p60_perc,0.56,WSH,5on5,all,WSH@TOR,away
-defense_p60_perc,0.72,WSH,5on5,all,WSH@TOR,away
-cum_dif_p60_perc,0.69,WSH,5on5,all,WSH@TOR,away
-Points,0.55,WSH,5on5,last 20 games,WSH@TOR,away
-Goals For,0.72,WSH,5on5,last 20 games,WSH@TOR,away
-Goal Differential,0.73,WSH,5on5,last 20 games,WSH@TOR,away
-Shooting %,0.53,WSH,5on5,last 20 games,WSH@TOR,away
-Save %,0.66,WSH,5on5,last 20 games,WSH@TOR,away
-Blocked shot attempt %,0.44,WSH,5on5,last 20 games,WSH@TOR,away
-Blocked shot attempt % against,0.83,WSH,5on5,last 20 games,WSH@TOR,away
-Expected Goals For,0.44,WSH,5on5,last 20 games,WSH@TOR,away
-XG Differential,0.88,WSH,5on5,last 20 games,WSH@TOR,away
-Shot (FW) Volume,0.84,WSH,5on5,last 20 games,WSH@TOR,away
-Shot (FW) Differential,0.91,WSH,5on5,last 20 games,WSH@TOR,away
-Penalty Differential,0.69,WSH,5on5,last 20 games,WSH@TOR,away
-offense_p60_perc,0.61,WSH,5on5,last 20 games,WSH@TOR,away
-defense_p60_perc,0.88,WSH,5on5,last 20 games,WSH@TOR,away
-cum_dif_p60_perc,0.78,WSH,5on5,last 20 games,WSH@TOR,away
-Points,0.19,WSH,5on5,last 10 games,WSH@TOR,away
-Goals For,0.19,WSH,5on5,last 10 games,WSH@TOR,away
-Goal Differential,0.25,WSH,5on5,last 10 games,WSH@TOR,away
-Shooting %,0.17,WSH,5on5,last 10 games,WSH@TOR,away
-Save %,0.28,WSH,5on5,last 10 games,WSH@TOR,away
-Blocked shot attempt %,0.12,WSH,5on5,last 10 games,WSH@TOR,away
-Blocked shot attempt % against,0.8,WSH,5on5,last 10 games,WSH@TOR,away
-Expected Goals For,0.22,WSH,5on5,last 10 games,WSH@TOR,away
-XG Differential,0.62,WSH,5on5,last 10 games,WSH@TOR,away
-Shot (FW) Volume,0.62,WSH,5on5,last 10 games,WSH@TOR,away
-Shot (FW) Differential,0.84,WSH,5on5,last 10 games,WSH@TOR,away
-Penalty Differential,0.72,WSH,5on5,last 10 games,WSH@TOR,away
-offense_p60_perc,0.2,WSH,5on5,last 10 games,WSH@TOR,away
-defense_p60_perc,0.73,WSH,5on5,last 10 games,WSH@TOR,away
-cum_dif_p60_perc,0.3,WSH,5on5,last 10 games,WSH@TOR,away
-Points,0.2,WSH,5on5,last 5 games,WSH@TOR,away
-Goals For,0.19,WSH,5on5,last 5 games,WSH@TOR,away
-Goal Differential,0.12,WSH,5on5,last 5 games,WSH@TOR,away
-Shooting %,0.16,WSH,5on5,last 5 games,WSH@TOR,away
-Save %,0.12,WSH,5on5,last 5 games,WSH@TOR,away
-Blocked shot attempt %,0.27,WSH,5on5,last 5 games,WSH@TOR,away
-Blocked shot attempt % against,0.66,WSH,5on5,last 5 games,WSH@TOR,away
-Expected Goals For,0.42,WSH,5on5,last 5 games,WSH@TOR,away
-XG Differential,0.88,WSH,5on5,last 5 games,WSH@TOR,away
-Shot (FW) Volume,0.66,WSH,5on5,last 5 games,WSH@TOR,away
-Shot (FW) Differential,0.81,WSH,5on5,last 5 games,WSH@TOR,away
-Penalty Differential,0.88,WSH,5on5,last 5 games,WSH@TOR,away
-offense_p60_perc,0.23,WSH,5on5,last 5 games,WSH@TOR,away
-defense_p60_perc,0.56,WSH,5on5,last 5 games,WSH@TOR,away
-cum_dif_p60_perc,0.28,WSH,5on5,last 5 games,WSH@TOR,away
-Points,0.61,WSH,4on5,all,WSH@TOR,away
-Goals For,0.38,WSH,4on5,all,WSH@TOR,away
-Goal Differential,0.56,WSH,4on5,all,WSH@TOR,away
-Shooting %,0.28,WSH,4on5,all,WSH@TOR,away
-Save %,0.77,WSH,4on5,all,WSH@TOR,away
-Blocked shot attempt %,0.16,WSH,4on5,all,WSH@TOR,away
-Blocked shot attempt % against,0.72,WSH,4on5,all,WSH@TOR,away
-Expected Goals For,0.64,WSH,4on5,all,WSH@TOR,away
-XG Differential,0.47,WSH,4on5,all,WSH@TOR,away
-Shot (FW) Volume,0.72,WSH,4on5,all,WSH@TOR,away
-Shot (FW) Differential,0.53,WSH,4on5,all,WSH@TOR,away
-Penalty Differential,0.45,WSH,4on5,all,WSH@TOR,away
-offense_p60_perc,0.5,WSH,4on5,all,WSH@TOR,away
-defense_p60_perc,0.59,WSH,4on5,all,WSH@TOR,away
-cum_dif_p60_perc,0.53,WSH,4on5,all,WSH@TOR,away
-Points,0.55,WSH,4on5,last 20 games,WSH@TOR,away
-Goals For,0.47,WSH,4on5,last 20 games,WSH@TOR,away
-Goal Differential,0.62,WSH,4on5,last 20 games,WSH@TOR,away
-Shooting %,0.31,WSH,4on5,last 20 games,WSH@TOR,away
-Save %,0.69,WSH,4on5,last 20 games,WSH@TOR,away
-Blocked shot attempt %,0.16,WSH,4on5,last 20 games,WSH@TOR,away
-Blocked shot attempt % against,0.66,WSH,4on5,last 20 games,WSH@TOR,away
-Expected Goals For,0.88,WSH,4on5,last 20 games,WSH@TOR,away
-XG Differential,0.75,WSH,4on5,last 20 games,WSH@TOR,away
-Shot (FW) Volume,0.91,WSH,4on5,last 20 games,WSH@TOR,away
-Shot (FW) Differential,0.84,WSH,4on5,last 20 games,WSH@TOR,away
-Penalty Differential,0.44,WSH,4on5,last 20 games,WSH@TOR,away
-offense_p60_perc,0.72,WSH,4on5,last 20 games,WSH@TOR,away
-defense_p60_perc,0.66,WSH,4on5,last 20 games,WSH@TOR,away
-cum_dif_p60_perc,0.66,WSH,4on5,last 20 games,WSH@TOR,away
-Points,0.19,WSH,4on5,last 10 games,WSH@TOR,away
-Goals For,0.27,WSH,4on5,last 10 games,WSH@TOR,away
-Goal Differential,0.38,WSH,4on5,last 10 games,WSH@TOR,away
-Shooting %,0.27,WSH,4on5,last 10 games,WSH@TOR,away
-Save %,0.06,WSH,4on5,last 10 games,WSH@TOR,away
-Blocked shot attempt %,0.47,WSH,4on5,last 10 games,WSH@TOR,away
-Blocked shot attempt % against,0.25,WSH,4on5,last 10 games,WSH@TOR,away
-Expected Goals For,0.92,WSH,4on5,last 10 games,WSH@TOR,away
-XG Differential,0.94,WSH,4on5,last 10 games,WSH@TOR,away
-Shot (FW) Volume,0.97,WSH,4on5,last 10 games,WSH@TOR,away
-Shot (FW) Differential,0.97,WSH,4on5,last 10 games,WSH@TOR,away
-Penalty Differential,0.66,WSH,4on5,last 10 games,WSH@TOR,away
-offense_p60_perc,0.69,WSH,4on5,last 10 games,WSH@TOR,away
-defense_p60_perc,0.67,WSH,4on5,last 10 games,WSH@TOR,away
-cum_dif_p60_perc,0.8,WSH,4on5,last 10 games,WSH@TOR,away
-Points,0.2,WSH,4on5,last 5 games,WSH@TOR,away
-Goals For,0.33,WSH,4on5,last 5 games,WSH@TOR,away
-Goal Differential,0.84,WSH,4on5,last 5 games,WSH@TOR,away
-Shooting %,0.31,WSH,4on5,last 5 games,WSH@TOR,away
-Save %,0.94,WSH,4on5,last 5 games,WSH@TOR,away
-Blocked shot attempt %,0.75,WSH,4on5,last 5 games,WSH@TOR,away
-Blocked shot attempt % against,0.95,WSH,4on5,last 5 games,WSH@TOR,away
-Expected Goals For,0.97,WSH,4on5,last 5 games,WSH@TOR,away
-XG Differential,1.0,WSH,4on5,last 5 games,WSH@TOR,away
-Shot (FW) Volume,0.94,WSH,4on5,last 5 games,WSH@TOR,away
-Shot (FW) Differential,1.0,WSH,4on5,last 5 games,WSH@TOR,away
-Penalty Differential,0.91,WSH,4on5,last 5 games,WSH@TOR,away
-offense_p60_perc,0.84,WSH,4on5,last 5 games,WSH@TOR,away
-defense_p60_perc,1.0,WSH,4on5,last 5 games,WSH@TOR,away
-cum_dif_p60_perc,1.0,WSH,4on5,last 5 games,WSH@TOR,away
-Points,0.61,WSH,5on4,all,WSH@TOR,away
-Goals For,0.38,WSH,5on4,all,WSH@TOR,away
-Goal Differential,0.41,WSH,5on4,all,WSH@TOR,away
-Shooting %,0.47,WSH,5on4,all,WSH@TOR,away
-Save %,0.5,WSH,5on4,all,WSH@TOR,away
-Blocked shot attempt %,0.53,WSH,5on4,all,WSH@TOR,away
-Blocked shot attempt % against,0.09,WSH,5on4,all,WSH@TOR,away
-Expected Goals For,0.09,WSH,5on4,all,WSH@TOR,away
-XG Differential,0.16,WSH,5on4,all,WSH@TOR,away
-Shot (FW) Volume,0.41,WSH,5on4,all,WSH@TOR,away
-Shot (FW) Differential,0.38,WSH,5on4,all,WSH@TOR,away
-Penalty Differential,0.5,WSH,5on4,all,WSH@TOR,away
-offense_p60_perc,0.23,WSH,5on4,all,WSH@TOR,away
-defense_p60_perc,0.62,WSH,5on4,all,WSH@TOR,away
-cum_dif_p60_perc,0.28,WSH,5on4,all,WSH@TOR,away
-Points,0.55,WSH,5on4,last 20 games,WSH@TOR,away
-Goals For,0.08,WSH,5on4,last 20 games,WSH@TOR,away
-Goal Differential,0.19,WSH,5on4,last 20 games,WSH@TOR,away
-Shooting %,0.47,WSH,5on4,last 20 games,WSH@TOR,away
-Save %,0.78,WSH,5on4,last 20 games,WSH@TOR,away
-Blocked shot attempt %,0.59,WSH,5on4,last 20 games,WSH@TOR,away
-Blocked shot attempt % against,0.38,WSH,5on4,last 20 games,WSH@TOR,away
-Expected Goals For,0.16,WSH,5on4,last 20 games,WSH@TOR,away
-XG Differential,0.28,WSH,5on4,last 20 games,WSH@TOR,away
-Shot (FW) Volume,0.16,WSH,5on4,last 20 games,WSH@TOR,away
-Shot (FW) Differential,0.19,WSH,5on4,last 20 games,WSH@TOR,away
-Penalty Differential,0.28,WSH,5on4,last 20 games,WSH@TOR,away
-offense_p60_perc,0.09,WSH,5on4,last 20 games,WSH@TOR,away
-defense_p60_perc,0.8,WSH,5on4,last 20 games,WSH@TOR,away
-cum_dif_p60_perc,0.19,WSH,5on4,last 20 games,WSH@TOR,away
-Points,0.19,WSH,5on4,last 10 games,WSH@TOR,away
-Goals For,0.06,WSH,5on4,last 10 games,WSH@TOR,away
-Goal Differential,0.06,WSH,5on4,last 10 games,WSH@TOR,away
-Shooting %,0.09,WSH,5on4,last 10 games,WSH@TOR,away
-Save %,0.34,WSH,5on4,last 10 games,WSH@TOR,away
-Blocked shot attempt %,0.39,WSH,5on4,last 10 games,WSH@TOR,away
-Blocked shot attempt % against,0.53,WSH,5on4,last 10 games,WSH@TOR,away
-Expected Goals For,0.17,WSH,5on4,last 10 games,WSH@TOR,away
-XG Differential,0.22,WSH,5on4,last 10 games,WSH@TOR,away
-Shot (FW) Volume,0.12,WSH,5on4,last 10 games,WSH@TOR,away
-Shot (FW) Differential,0.22,WSH,5on4,last 10 games,WSH@TOR,away
-Penalty Differential,0.53,WSH,5on4,last 10 games,WSH@TOR,away
-offense_p60_perc,0.06,WSH,5on4,last 10 games,WSH@TOR,away
-defense_p60_perc,0.59,WSH,5on4,last 10 games,WSH@TOR,away
-cum_dif_p60_perc,0.12,WSH,5on4,last 10 games,WSH@TOR,away
-Points,0.2,WSH,5on4,last 5 games,WSH@TOR,away
-Goals For,0.44,WSH,5on4,last 5 games,WSH@TOR,away
-Goal Differential,0.59,WSH,5on4,last 5 games,WSH@TOR,away
-Shooting %,0.41,WSH,5on4,last 5 games,WSH@TOR,away
-Save %,0.71,WSH,5on4,last 5 games,WSH@TOR,away
-Blocked shot attempt %,0.8,WSH,5on4,last 5 games,WSH@TOR,away
-Blocked shot attempt % against,0.28,WSH,5on4,last 5 games,WSH@TOR,away
-Expected Goals For,0.28,WSH,5on4,last 5 games,WSH@TOR,away
-XG Differential,0.53,WSH,5on4,last 5 games,WSH@TOR,away
-Shot (FW) Volume,0.38,WSH,5on4,last 5 games,WSH@TOR,away
-Shot (FW) Differential,0.59,WSH,5on4,last 5 games,WSH@TOR,away
-Penalty Differential,0.62,WSH,5on4,last 5 games,WSH@TOR,away
-offense_p60_perc,0.31,WSH,5on4,last 5 games,WSH@TOR,away
-defense_p60_perc,0.98,WSH,5on4,last 5 games,WSH@TOR,away
-cum_dif_p60_perc,0.56,WSH,5on4,last 5 games,WSH@TOR,away
+Points,0.27,STL,all,all,STL@WPG,away
+Goals For,0.38,STL,all,all,STL@WPG,away
+Goal Differential,0.23,STL,all,all,STL@WPG,away
+Shooting %,0.72,STL,all,all,STL@WPG,away
+Save %,0.12,STL,all,all,STL@WPG,away
+Blocked shot attempt %,1.0,STL,all,all,STL@WPG,away
+Blocked shot attempt % against,0.25,STL,all,all,STL@WPG,away
+Expected Goals For,0.16,STL,all,all,STL@WPG,away
+XG Differential,0.2,STL,all,all,STL@WPG,away
+Shot (FW) Volume,0.12,STL,all,all,STL@WPG,away
+Shot (FW) Differential,0.19,STL,all,all,STL@WPG,away
+Penalty Differential,0.88,STL,all,all,STL@WPG,away
+offense_p60_perc,0.22,STL,all,all,STL@WPG,away
+defense_p60_perc,0.23,STL,all,all,STL@WPG,away
+cum_dif_p60_perc,0.19,STL,all,all,STL@WPG,away
+Points,0.38,STL,all,last 20 games,STL@WPG,away
+Goals For,0.56,STL,all,last 20 games,STL@WPG,away
+Goal Differential,0.44,STL,all,last 20 games,STL@WPG,away
+Shooting %,0.97,STL,all,last 20 games,STL@WPG,away
+Save %,0.22,STL,all,last 20 games,STL@WPG,away
+Blocked shot attempt %,0.64,STL,all,last 20 games,STL@WPG,away
+Blocked shot attempt % against,0.12,STL,all,last 20 games,STL@WPG,away
+Expected Goals For,0.11,STL,all,last 20 games,STL@WPG,away
+XG Differential,0.17,STL,all,last 20 games,STL@WPG,away
+Shot (FW) Volume,0.11,STL,all,last 20 games,STL@WPG,away
+Shot (FW) Differential,0.19,STL,all,last 20 games,STL@WPG,away
+Penalty Differential,0.91,STL,all,last 20 games,STL@WPG,away
+offense_p60_perc,0.27,STL,all,last 20 games,STL@WPG,away
+defense_p60_perc,0.31,STL,all,last 20 games,STL@WPG,away
+cum_dif_p60_perc,0.25,STL,all,last 20 games,STL@WPG,away
+Points,0.19,STL,all,last 10 games,STL@WPG,away
+Goals For,0.23,STL,all,last 10 games,STL@WPG,away
+Goal Differential,0.3,STL,all,last 10 games,STL@WPG,away
+Shooting %,0.48,STL,all,last 10 games,STL@WPG,away
+Save %,0.22,STL,all,last 10 games,STL@WPG,away
+Blocked shot attempt %,0.84,STL,all,last 10 games,STL@WPG,away
+Blocked shot attempt % against,0.28,STL,all,last 10 games,STL@WPG,away
+Expected Goals For,0.05,STL,all,last 10 games,STL@WPG,away
+XG Differential,0.19,STL,all,last 10 games,STL@WPG,away
+Shot (FW) Volume,0.09,STL,all,last 10 games,STL@WPG,away
+Shot (FW) Differential,0.25,STL,all,last 10 games,STL@WPG,away
+Penalty Differential,0.97,STL,all,last 10 games,STL@WPG,away
+offense_p60_perc,0.12,STL,all,last 10 games,STL@WPG,away
+defense_p60_perc,0.34,STL,all,last 10 games,STL@WPG,away
+cum_dif_p60_perc,0.2,STL,all,last 10 games,STL@WPG,away
+Points,0.03,STL,all,last 5 games,STL@WPG,away
+Goals For,0.3,STL,all,last 5 games,STL@WPG,away
+Goal Differential,0.06,STL,all,last 5 games,STL@WPG,away
+Shooting %,0.28,STL,all,last 5 games,STL@WPG,away
+Save %,0.03,STL,all,last 5 games,STL@WPG,away
+Blocked shot attempt %,0.75,STL,all,last 5 games,STL@WPG,away
+Blocked shot attempt % against,0.22,STL,all,last 5 games,STL@WPG,away
+Expected Goals For,0.16,STL,all,last 5 games,STL@WPG,away
+XG Differential,0.19,STL,all,last 5 games,STL@WPG,away
+Shot (FW) Volume,0.28,STL,all,last 5 games,STL@WPG,away
+Shot (FW) Differential,0.81,STL,all,last 5 games,STL@WPG,away
+Penalty Differential,0.83,STL,all,last 5 games,STL@WPG,away
+offense_p60_perc,0.22,STL,all,last 5 games,STL@WPG,away
+defense_p60_perc,0.16,STL,all,last 5 games,STL@WPG,away
+cum_dif_p60_perc,0.06,STL,all,last 5 games,STL@WPG,away
+Points,0.27,STL,5on5,all,STL@WPG,away
+Goals For,0.39,STL,5on5,all,STL@WPG,away
+Goal Differential,0.19,STL,5on5,all,STL@WPG,away
+Shooting %,0.67,STL,5on5,all,STL@WPG,away
+Save %,0.06,STL,5on5,all,STL@WPG,away
+Blocked shot attempt %,1.0,STL,5on5,all,STL@WPG,away
+Blocked shot attempt % against,0.31,STL,5on5,all,STL@WPG,away
+Expected Goals For,0.2,STL,5on5,all,STL@WPG,away
+XG Differential,0.16,STL,5on5,all,STL@WPG,away
+Shot (FW) Volume,0.16,STL,5on5,all,STL@WPG,away
+Shot (FW) Differential,0.19,STL,5on5,all,STL@WPG,away
+Penalty Differential,0.81,STL,5on5,all,STL@WPG,away
+offense_p60_perc,0.2,STL,5on5,all,STL@WPG,away
+defense_p60_perc,0.17,STL,5on5,all,STL@WPG,away
+cum_dif_p60_perc,0.19,STL,5on5,all,STL@WPG,away
+Points,0.38,STL,5on5,last 20 games,STL@WPG,away
+Goals For,0.52,STL,5on5,last 20 games,STL@WPG,away
+Goal Differential,0.25,STL,5on5,last 20 games,STL@WPG,away
+Shooting %,0.91,STL,5on5,last 20 games,STL@WPG,away
+Save %,0.12,STL,5on5,last 20 games,STL@WPG,away
+Blocked shot attempt %,0.75,STL,5on5,last 20 games,STL@WPG,away
+Blocked shot attempt % against,0.16,STL,5on5,last 20 games,STL@WPG,away
+Expected Goals For,0.03,STL,5on5,last 20 games,STL@WPG,away
+XG Differential,0.14,STL,5on5,last 20 games,STL@WPG,away
+Shot (FW) Volume,0.06,STL,5on5,last 20 games,STL@WPG,away
+Shot (FW) Differential,0.19,STL,5on5,last 20 games,STL@WPG,away
+Penalty Differential,0.81,STL,5on5,last 20 games,STL@WPG,away
+offense_p60_perc,0.22,STL,5on5,last 20 games,STL@WPG,away
+defense_p60_perc,0.17,STL,5on5,last 20 games,STL@WPG,away
+cum_dif_p60_perc,0.16,STL,5on5,last 20 games,STL@WPG,away
+Points,0.19,STL,5on5,last 10 games,STL@WPG,away
+Goals For,0.31,STL,5on5,last 10 games,STL@WPG,away
+Goal Differential,0.14,STL,5on5,last 10 games,STL@WPG,away
+Shooting %,0.41,STL,5on5,last 10 games,STL@WPG,away
+Save %,0.11,STL,5on5,last 10 games,STL@WPG,away
+Blocked shot attempt %,0.7,STL,5on5,last 10 games,STL@WPG,away
+Blocked shot attempt % against,0.23,STL,5on5,last 10 games,STL@WPG,away
+Expected Goals For,0.03,STL,5on5,last 10 games,STL@WPG,away
+XG Differential,0.12,STL,5on5,last 10 games,STL@WPG,away
+Shot (FW) Volume,0.09,STL,5on5,last 10 games,STL@WPG,away
+Shot (FW) Differential,0.22,STL,5on5,last 10 games,STL@WPG,away
+Penalty Differential,0.69,STL,5on5,last 10 games,STL@WPG,away
+offense_p60_perc,0.03,STL,5on5,last 10 games,STL@WPG,away
+defense_p60_perc,0.2,STL,5on5,last 10 games,STL@WPG,away
+cum_dif_p60_perc,0.09,STL,5on5,last 10 games,STL@WPG,away
+Points,0.03,STL,5on5,last 5 games,STL@WPG,away
+Goals For,0.36,STL,5on5,last 5 games,STL@WPG,away
+Goal Differential,0.06,STL,5on5,last 5 games,STL@WPG,away
+Shooting %,0.34,STL,5on5,last 5 games,STL@WPG,away
+Save %,0.03,STL,5on5,last 5 games,STL@WPG,away
+Blocked shot attempt %,0.62,STL,5on5,last 5 games,STL@WPG,away
+Blocked shot attempt % against,0.06,STL,5on5,last 5 games,STL@WPG,away
+Expected Goals For,0.08,STL,5on5,last 5 games,STL@WPG,away
+XG Differential,0.16,STL,5on5,last 5 games,STL@WPG,away
+Shot (FW) Volume,0.44,STL,5on5,last 5 games,STL@WPG,away
+Shot (FW) Differential,0.84,STL,5on5,last 5 games,STL@WPG,away
+Penalty Differential,0.41,STL,5on5,last 5 games,STL@WPG,away
+offense_p60_perc,0.19,STL,5on5,last 5 games,STL@WPG,away
+defense_p60_perc,0.12,STL,5on5,last 5 games,STL@WPG,away
+cum_dif_p60_perc,0.06,STL,5on5,last 5 games,STL@WPG,away
+Points,0.27,STL,4on5,all,STL@WPG,away
+Goals For,0.73,STL,4on5,all,STL@WPG,away
+Goal Differential,0.28,STL,4on5,all,STL@WPG,away
+Shooting %,0.62,STL,4on5,all,STL@WPG,away
+Save %,0.23,STL,4on5,all,STL@WPG,away
+Blocked shot attempt %,1.0,STL,4on5,all,STL@WPG,away
+Blocked shot attempt % against,0.06,STL,4on5,all,STL@WPG,away
+Expected Goals For,0.83,STL,4on5,all,STL@WPG,away
+XG Differential,0.41,STL,4on5,all,STL@WPG,away
+Shot (FW) Volume,0.69,STL,4on5,all,STL@WPG,away
+Shot (FW) Differential,0.19,STL,4on5,all,STL@WPG,away
+Penalty Differential,0.77,STL,4on5,all,STL@WPG,away
+offense_p60_perc,0.77,STL,4on5,all,STL@WPG,away
+defense_p60_perc,0.27,STL,4on5,all,STL@WPG,away
+cum_dif_p60_perc,0.33,STL,4on5,all,STL@WPG,away
+Points,0.38,STL,4on5,last 20 games,STL@WPG,away
+Goals For,0.44,STL,4on5,last 20 games,STL@WPG,away
+Goal Differential,0.84,STL,4on5,last 20 games,STL@WPG,away
+Shooting %,0.38,STL,4on5,last 20 games,STL@WPG,away
+Save %,0.94,STL,4on5,last 20 games,STL@WPG,away
+Blocked shot attempt %,0.78,STL,4on5,last 20 games,STL@WPG,away
+Blocked shot attempt % against,0.28,STL,4on5,last 20 games,STL@WPG,away
+Expected Goals For,0.36,STL,4on5,last 20 games,STL@WPG,away
+XG Differential,0.5,STL,4on5,last 20 games,STL@WPG,away
+Shot (FW) Volume,0.69,STL,4on5,last 20 games,STL@WPG,away
+Shot (FW) Differential,0.5,STL,4on5,last 20 games,STL@WPG,away
+Penalty Differential,0.69,STL,4on5,last 20 games,STL@WPG,away
+offense_p60_perc,0.38,STL,4on5,last 20 games,STL@WPG,away
+defense_p60_perc,0.81,STL,4on5,last 20 games,STL@WPG,away
+cum_dif_p60_perc,0.66,STL,4on5,last 20 games,STL@WPG,away
+Points,0.19,STL,4on5,last 10 games,STL@WPG,away
+Goals For,0.27,STL,4on5,last 10 games,STL@WPG,away
+Goal Differential,0.78,STL,4on5,last 10 games,STL@WPG,away
+Shooting %,0.27,STL,4on5,last 10 games,STL@WPG,away
+Save %,0.97,STL,4on5,last 10 games,STL@WPG,away
+Blocked shot attempt %,0.86,STL,4on5,last 10 games,STL@WPG,away
+Blocked shot attempt % against,0.45,STL,4on5,last 10 games,STL@WPG,away
+Expected Goals For,0.19,STL,4on5,last 10 games,STL@WPG,away
+XG Differential,0.59,STL,4on5,last 10 games,STL@WPG,away
+Shot (FW) Volume,0.31,STL,4on5,last 10 games,STL@WPG,away
+Shot (FW) Differential,0.44,STL,4on5,last 10 games,STL@WPG,away
+Penalty Differential,1.0,STL,4on5,last 10 games,STL@WPG,away
+offense_p60_perc,0.19,STL,4on5,last 10 games,STL@WPG,away
+defense_p60_perc,0.88,STL,4on5,last 10 games,STL@WPG,away
+cum_dif_p60_perc,0.78,STL,4on5,last 10 games,STL@WPG,away
+Points,0.03,STL,4on5,last 5 games,STL@WPG,away
+Goals For,0.34,STL,4on5,last 5 games,STL@WPG,away
+Goal Differential,0.69,STL,4on5,last 5 games,STL@WPG,away
+Shooting %,0.33,STL,4on5,last 5 games,STL@WPG,away
+Save %,0.78,STL,4on5,last 5 games,STL@WPG,away
+Blocked shot attempt %,0.75,STL,4on5,last 5 games,STL@WPG,away
+Blocked shot attempt % against,0.78,STL,4on5,last 5 games,STL@WPG,away
+Expected Goals For,0.2,STL,4on5,last 5 games,STL@WPG,away
+XG Differential,0.62,STL,4on5,last 5 games,STL@WPG,away
+Shot (FW) Volume,0.09,STL,4on5,last 5 games,STL@WPG,away
+Shot (FW) Differential,0.78,STL,4on5,last 5 games,STL@WPG,away
+Penalty Differential,1.0,STL,4on5,last 5 games,STL@WPG,away
+offense_p60_perc,0.2,STL,4on5,last 5 games,STL@WPG,away
+defense_p60_perc,0.84,STL,4on5,last 5 games,STL@WPG,away
+cum_dif_p60_perc,0.78,STL,4on5,last 5 games,STL@WPG,away
+Points,0.27,STL,5on4,all,STL@WPG,away
+Goals For,0.62,STL,5on4,all,STL@WPG,away
+Goal Differential,0.48,STL,5on4,all,STL@WPG,away
+Shooting %,0.91,STL,5on4,all,STL@WPG,away
+Save %,0.19,STL,5on4,all,STL@WPG,away
+Blocked shot attempt %,0.5,STL,5on4,all,STL@WPG,away
+Blocked shot attempt % against,0.19,STL,5on4,all,STL@WPG,away
+Expected Goals For,0.25,STL,5on4,all,STL@WPG,away
+XG Differential,0.12,STL,5on4,all,STL@WPG,away
+Shot (FW) Volume,0.19,STL,5on4,all,STL@WPG,away
+Shot (FW) Differential,0.12,STL,5on4,all,STL@WPG,away
+Penalty Differential,0.61,STL,5on4,all,STL@WPG,away
+offense_p60_perc,0.5,STL,5on4,all,STL@WPG,away
+defense_p60_perc,0.12,STL,5on4,all,STL@WPG,away
+cum_dif_p60_perc,0.38,STL,5on4,all,STL@WPG,away
+Points,0.38,STL,5on4,last 20 games,STL@WPG,away
+Goals For,0.84,STL,5on4,last 20 games,STL@WPG,away
+Goal Differential,0.72,STL,5on4,last 20 games,STL@WPG,away
+Shooting %,0.94,STL,5on4,last 20 games,STL@WPG,away
+Save %,0.28,STL,5on4,last 20 games,STL@WPG,away
+Blocked shot attempt %,0.3,STL,5on4,last 20 games,STL@WPG,away
+Blocked shot attempt % against,0.16,STL,5on4,last 20 games,STL@WPG,away
+Expected Goals For,0.8,STL,5on4,last 20 games,STL@WPG,away
+XG Differential,0.67,STL,5on4,last 20 games,STL@WPG,away
+Shot (FW) Volume,0.25,STL,5on4,last 20 games,STL@WPG,away
+Shot (FW) Differential,0.25,STL,5on4,last 20 games,STL@WPG,away
+Penalty Differential,0.38,STL,5on4,last 20 games,STL@WPG,away
+offense_p60_perc,0.81,STL,5on4,last 20 games,STL@WPG,away
+defense_p60_perc,0.12,STL,5on4,last 20 games,STL@WPG,away
+cum_dif_p60_perc,0.69,STL,5on4,last 20 games,STL@WPG,away
+Points,0.19,STL,5on4,last 10 games,STL@WPG,away
+Goals For,0.66,STL,5on4,last 10 games,STL@WPG,away
+Goal Differential,0.38,STL,5on4,last 10 games,STL@WPG,away
+Shooting %,0.7,STL,5on4,last 10 games,STL@WPG,away
+Save %,0.25,STL,5on4,last 10 games,STL@WPG,away
+Blocked shot attempt %,0.91,STL,5on4,last 10 games,STL@WPG,away
+Blocked shot attempt % against,0.5,STL,5on4,last 10 games,STL@WPG,away
+Expected Goals For,0.75,STL,5on4,last 10 games,STL@WPG,away
+XG Differential,0.47,STL,5on4,last 10 games,STL@WPG,away
+Shot (FW) Volume,0.34,STL,5on4,last 10 games,STL@WPG,away
+Shot (FW) Differential,0.19,STL,5on4,last 10 games,STL@WPG,away
+Penalty Differential,0.44,STL,5on4,last 10 games,STL@WPG,away
+offense_p60_perc,0.72,STL,5on4,last 10 games,STL@WPG,away
+defense_p60_perc,0.12,STL,5on4,last 10 games,STL@WPG,away
+cum_dif_p60_perc,0.47,STL,5on4,last 10 games,STL@WPG,away
+Points,0.03,STL,5on4,last 5 games,STL@WPG,away
+Goals For,0.81,STL,5on4,last 5 games,STL@WPG,away
+Goal Differential,0.28,STL,5on4,last 5 games,STL@WPG,away
+Shooting %,0.84,STL,5on4,last 5 games,STL@WPG,away
+Save %,0.19,STL,5on4,last 5 games,STL@WPG,away
+Blocked shot attempt %,0.77,STL,5on4,last 5 games,STL@WPG,away
+Blocked shot attempt % against,0.59,STL,5on4,last 5 games,STL@WPG,away
+Expected Goals For,0.88,STL,5on4,last 5 games,STL@WPG,away
+XG Differential,0.38,STL,5on4,last 5 games,STL@WPG,away
+Shot (FW) Volume,0.59,STL,5on4,last 5 games,STL@WPG,away
+Shot (FW) Differential,0.25,STL,5on4,last 5 games,STL@WPG,away
+Penalty Differential,0.41,STL,5on4,last 5 games,STL@WPG,away
+offense_p60_perc,0.84,STL,5on4,last 5 games,STL@WPG,away
+defense_p60_perc,0.03,STL,5on4,last 5 games,STL@WPG,away
+cum_dif_p60_perc,0.38,STL,5on4,last 5 games,STL@WPG,away
+Points,0.8,WPG,all,all,STL@WPG,home
+Goals For,0.64,WPG,all,all,STL@WPG,home
+Goal Differential,0.77,WPG,all,all,STL@WPG,home
+Shooting %,0.8,WPG,all,all,STL@WPG,home
+Save %,0.88,WPG,all,all,STL@WPG,home
+Blocked shot attempt %,0.84,WPG,all,all,STL@WPG,home
+Blocked shot attempt % against,0.34,WPG,all,all,STL@WPG,home
+Expected Goals For,0.62,WPG,all,all,STL@WPG,home
+XG Differential,0.53,WPG,all,all,STL@WPG,home
+Shot (FW) Volume,0.47,WPG,all,all,STL@WPG,home
+Shot (FW) Differential,0.53,WPG,all,all,STL@WPG,home
+Penalty Differential,0.88,WPG,all,all,STL@WPG,home
+offense_p60_perc,0.62,WPG,all,all,STL@WPG,home
+defense_p60_perc,0.73,WPG,all,all,STL@WPG,home
+cum_dif_p60_perc,0.75,WPG,all,all,STL@WPG,home
+Points,0.47,WPG,all,last 20 games,STL@WPG,home
+Goals For,0.31,WPG,all,last 20 games,STL@WPG,home
+Goal Differential,0.5,WPG,all,last 20 games,STL@WPG,home
+Shooting %,0.55,WPG,all,last 20 games,STL@WPG,home
+Save %,0.78,WPG,all,last 20 games,STL@WPG,home
+Blocked shot attempt %,0.8,WPG,all,last 20 games,STL@WPG,home
+Blocked shot attempt % against,0.27,WPG,all,last 20 games,STL@WPG,home
+Expected Goals For,0.55,WPG,all,last 20 games,STL@WPG,home
+XG Differential,0.53,WPG,all,last 20 games,STL@WPG,home
+Shot (FW) Volume,0.45,WPG,all,last 20 games,STL@WPG,home
+Shot (FW) Differential,0.53,WPG,all,last 20 games,STL@WPG,home
+Penalty Differential,0.97,WPG,all,last 20 games,STL@WPG,home
+offense_p60_perc,0.34,WPG,all,last 20 games,STL@WPG,home
+defense_p60_perc,0.62,WPG,all,last 20 games,STL@WPG,home
+cum_dif_p60_perc,0.56,WPG,all,last 20 games,STL@WPG,home
+Points,0.36,WPG,all,last 10 games,STL@WPG,home
+Goals For,0.23,WPG,all,last 10 games,STL@WPG,home
+Goal Differential,0.47,WPG,all,last 10 games,STL@WPG,home
+Shooting %,0.25,WPG,all,last 10 games,STL@WPG,home
+Save %,0.81,WPG,all,last 10 games,STL@WPG,home
+Blocked shot attempt %,0.78,WPG,all,last 10 games,STL@WPG,home
+Blocked shot attempt % against,0.31,WPG,all,last 10 games,STL@WPG,home
+Expected Goals For,0.67,WPG,all,last 10 games,STL@WPG,home
+XG Differential,0.72,WPG,all,last 10 games,STL@WPG,home
+Shot (FW) Volume,0.75,WPG,all,last 10 games,STL@WPG,home
+Shot (FW) Differential,0.81,WPG,all,last 10 games,STL@WPG,home
+Penalty Differential,1.0,WPG,all,last 10 games,STL@WPG,home
+offense_p60_perc,0.33,WPG,all,last 10 games,STL@WPG,home
+defense_p60_perc,0.83,WPG,all,last 10 games,STL@WPG,home
+cum_dif_p60_perc,0.59,WPG,all,last 10 games,STL@WPG,home
+Points,0.2,WPG,all,last 5 games,STL@WPG,home
+Goals For,0.3,WPG,all,last 5 games,STL@WPG,home
+Goal Differential,0.48,WPG,all,last 5 games,STL@WPG,home
+Shooting %,0.28,WPG,all,last 5 games,STL@WPG,home
+Save %,0.73,WPG,all,last 5 games,STL@WPG,home
+Blocked shot attempt %,0.66,WPG,all,last 5 games,STL@WPG,home
+Blocked shot attempt % against,0.55,WPG,all,last 5 games,STL@WPG,home
+Expected Goals For,0.72,WPG,all,last 5 games,STL@WPG,home
+XG Differential,0.61,WPG,all,last 5 games,STL@WPG,home
+Shot (FW) Volume,0.75,WPG,all,last 5 games,STL@WPG,home
+Shot (FW) Differential,0.62,WPG,all,last 5 games,STL@WPG,home
+Penalty Differential,1.0,WPG,all,last 5 games,STL@WPG,home
+offense_p60_perc,0.56,WPG,all,last 5 games,STL@WPG,home
+defense_p60_perc,0.59,WPG,all,last 5 games,STL@WPG,home
+cum_dif_p60_perc,0.56,WPG,all,last 5 games,STL@WPG,home
+Points,0.8,WPG,5on5,all,STL@WPG,home
+Goals For,0.39,WPG,5on5,all,STL@WPG,home
+Goal Differential,0.5,WPG,5on5,all,STL@WPG,home
+Shooting %,0.55,WPG,5on5,all,STL@WPG,home
+Save %,0.75,WPG,5on5,all,STL@WPG,home
+Blocked shot attempt %,0.81,WPG,5on5,all,STL@WPG,home
+Blocked shot attempt % against,0.19,WPG,5on5,all,STL@WPG,home
+Expected Goals For,0.53,WPG,5on5,all,STL@WPG,home
+XG Differential,0.36,WPG,5on5,all,STL@WPG,home
+Shot (FW) Volume,0.53,WPG,5on5,all,STL@WPG,home
+Shot (FW) Differential,0.42,WPG,5on5,all,STL@WPG,home
+Penalty Differential,0.55,WPG,5on5,all,STL@WPG,home
+offense_p60_perc,0.5,WPG,5on5,all,STL@WPG,home
+defense_p60_perc,0.55,WPG,5on5,all,STL@WPG,home
+cum_dif_p60_perc,0.41,WPG,5on5,all,STL@WPG,home
+Points,0.47,WPG,5on5,last 20 games,STL@WPG,home
+Goals For,0.38,WPG,5on5,last 20 games,STL@WPG,home
+Goal Differential,0.47,WPG,5on5,last 20 games,STL@WPG,home
+Shooting %,0.41,WPG,5on5,last 20 games,STL@WPG,home
+Save %,0.53,WPG,5on5,last 20 games,STL@WPG,home
+Blocked shot attempt %,0.81,WPG,5on5,last 20 games,STL@WPG,home
+Blocked shot attempt % against,0.12,WPG,5on5,last 20 games,STL@WPG,home
+Expected Goals For,0.66,WPG,5on5,last 20 games,STL@WPG,home
+XG Differential,0.44,WPG,5on5,last 20 games,STL@WPG,home
+Shot (FW) Volume,0.75,WPG,5on5,last 20 games,STL@WPG,home
+Shot (FW) Differential,0.66,WPG,5on5,last 20 games,STL@WPG,home
+Penalty Differential,0.42,WPG,5on5,last 20 games,STL@WPG,home
+offense_p60_perc,0.5,WPG,5on5,last 20 games,STL@WPG,home
+defense_p60_perc,0.41,WPG,5on5,last 20 games,STL@WPG,home
+cum_dif_p60_perc,0.44,WPG,5on5,last 20 games,STL@WPG,home
+Points,0.36,WPG,5on5,last 10 games,STL@WPG,home
+Goals For,0.31,WPG,5on5,last 10 games,STL@WPG,home
+Goal Differential,0.42,WPG,5on5,last 10 games,STL@WPG,home
+Shooting %,0.25,WPG,5on5,last 10 games,STL@WPG,home
+Save %,0.62,WPG,5on5,last 10 games,STL@WPG,home
+Blocked shot attempt %,0.7,WPG,5on5,last 10 games,STL@WPG,home
+Blocked shot attempt % against,0.09,WPG,5on5,last 10 games,STL@WPG,home
+Expected Goals For,0.67,WPG,5on5,last 10 games,STL@WPG,home
+XG Differential,0.64,WPG,5on5,last 10 games,STL@WPG,home
+Shot (FW) Volume,0.78,WPG,5on5,last 10 games,STL@WPG,home
+Shot (FW) Differential,0.75,WPG,5on5,last 10 games,STL@WPG,home
+Penalty Differential,0.88,WPG,5on5,last 10 games,STL@WPG,home
+offense_p60_perc,0.39,WPG,5on5,last 10 games,STL@WPG,home
+defense_p60_perc,0.56,WPG,5on5,last 10 games,STL@WPG,home
+cum_dif_p60_perc,0.5,WPG,5on5,last 10 games,STL@WPG,home
+Points,0.2,WPG,5on5,last 5 games,STL@WPG,home
+Goals For,0.5,WPG,5on5,last 5 games,STL@WPG,home
+Goal Differential,0.45,WPG,5on5,last 5 games,STL@WPG,home
+Shooting %,0.42,WPG,5on5,last 5 games,STL@WPG,home
+Save %,0.81,WPG,5on5,last 5 games,STL@WPG,home
+Blocked shot attempt %,0.62,WPG,5on5,last 5 games,STL@WPG,home
+Blocked shot attempt % against,0.28,WPG,5on5,last 5 games,STL@WPG,home
+Expected Goals For,0.77,WPG,5on5,last 5 games,STL@WPG,home
+XG Differential,0.39,WPG,5on5,last 5 games,STL@WPG,home
+Shot (FW) Volume,0.75,WPG,5on5,last 5 games,STL@WPG,home
+Shot (FW) Differential,0.53,WPG,5on5,last 5 games,STL@WPG,home
+Penalty Differential,0.91,WPG,5on5,last 5 games,STL@WPG,home
+offense_p60_perc,0.59,WPG,5on5,last 5 games,STL@WPG,home
+defense_p60_perc,0.38,WPG,5on5,last 5 games,STL@WPG,home
+cum_dif_p60_perc,0.44,WPG,5on5,last 5 games,STL@WPG,home
+Points,0.8,WPG,4on5,all,STL@WPG,home
+Goals For,0.48,WPG,4on5,all,STL@WPG,home
+Goal Differential,0.94,WPG,4on5,all,STL@WPG,home
+Shooting %,0.8,WPG,4on5,all,STL@WPG,home
+Save %,0.89,WPG,4on5,all,STL@WPG,home
+Blocked shot attempt %,0.88,WPG,4on5,all,STL@WPG,home
+Blocked shot attempt % against,0.88,WPG,4on5,all,STL@WPG,home
+Expected Goals For,0.17,WPG,4on5,all,STL@WPG,home
+XG Differential,0.72,WPG,4on5,all,STL@WPG,home
+Shot (FW) Volume,0.28,WPG,4on5,all,STL@WPG,home
+Shot (FW) Differential,0.75,WPG,4on5,all,STL@WPG,home
+Penalty Differential,0.88,WPG,4on5,all,STL@WPG,home
+offense_p60_perc,0.38,WPG,4on5,all,STL@WPG,home
+defense_p60_perc,0.88,WPG,4on5,all,STL@WPG,home
+cum_dif_p60_perc,0.8,WPG,4on5,all,STL@WPG,home
+Points,0.47,WPG,4on5,last 20 games,STL@WPG,home
+Goals For,0.62,WPG,4on5,last 20 games,STL@WPG,home
+Goal Differential,0.88,WPG,4on5,last 20 games,STL@WPG,home
+Shooting %,0.89,WPG,4on5,last 20 games,STL@WPG,home
+Save %,0.75,WPG,4on5,last 20 games,STL@WPG,home
+Blocked shot attempt %,0.38,WPG,4on5,last 20 games,STL@WPG,home
+Blocked shot attempt % against,0.97,WPG,4on5,last 20 games,STL@WPG,home
+Expected Goals For,0.36,WPG,4on5,last 20 games,STL@WPG,home
+XG Differential,0.91,WPG,4on5,last 20 games,STL@WPG,home
+Shot (FW) Volume,0.22,WPG,4on5,last 20 games,STL@WPG,home
+Shot (FW) Differential,0.66,WPG,4on5,last 20 games,STL@WPG,home
+Penalty Differential,0.66,WPG,4on5,last 20 games,STL@WPG,home
+offense_p60_perc,0.58,WPG,4on5,last 20 games,STL@WPG,home
+defense_p60_perc,0.97,WPG,4on5,last 20 games,STL@WPG,home
+cum_dif_p60_perc,0.91,WPG,4on5,last 20 games,STL@WPG,home
+Points,0.36,WPG,4on5,last 10 games,STL@WPG,home
+Goals For,0.27,WPG,4on5,last 10 games,STL@WPG,home
+Goal Differential,0.81,WPG,4on5,last 10 games,STL@WPG,home
+Shooting %,0.27,WPG,4on5,last 10 games,STL@WPG,home
+Save %,0.72,WPG,4on5,last 10 games,STL@WPG,home
+Blocked shot attempt %,0.11,WPG,4on5,last 10 games,STL@WPG,home
+Blocked shot attempt % against,1.0,WPG,4on5,last 10 games,STL@WPG,home
+Expected Goals For,0.12,WPG,4on5,last 10 games,STL@WPG,home
+XG Differential,0.75,WPG,4on5,last 10 games,STL@WPG,home
+Shot (FW) Volume,0.22,WPG,4on5,last 10 games,STL@WPG,home
+Shot (FW) Differential,0.78,WPG,4on5,last 10 games,STL@WPG,home
+Penalty Differential,0.56,WPG,4on5,last 10 games,STL@WPG,home
+offense_p60_perc,0.12,WPG,4on5,last 10 games,STL@WPG,home
+defense_p60_perc,0.97,WPG,4on5,last 10 games,STL@WPG,home
+cum_dif_p60_perc,0.88,WPG,4on5,last 10 games,STL@WPG,home
+Points,0.2,WPG,4on5,last 5 games,STL@WPG,home
+Goals For,0.34,WPG,4on5,last 5 games,STL@WPG,home
+Goal Differential,0.28,WPG,4on5,last 5 games,STL@WPG,home
+Shooting %,0.33,WPG,4on5,last 5 games,STL@WPG,home
+Save %,0.19,WPG,4on5,last 5 games,STL@WPG,home
+Blocked shot attempt %,0.17,WPG,4on5,last 5 games,STL@WPG,home
+Blocked shot attempt % against,0.94,WPG,4on5,last 5 games,STL@WPG,home
+Expected Goals For,0.2,WPG,4on5,last 5 games,STL@WPG,home
+XG Differential,0.53,WPG,4on5,last 5 games,STL@WPG,home
+Shot (FW) Volume,0.25,WPG,4on5,last 5 games,STL@WPG,home
+Shot (FW) Differential,0.72,WPG,4on5,last 5 games,STL@WPG,home
+Penalty Differential,0.73,WPG,4on5,last 5 games,STL@WPG,home
+offense_p60_perc,0.2,WPG,4on5,last 5 games,STL@WPG,home
+defense_p60_perc,0.44,WPG,4on5,last 5 games,STL@WPG,home
+cum_dif_p60_perc,0.28,WPG,4on5,last 5 games,STL@WPG,home
+Points,0.8,WPG,5on4,all,STL@WPG,home
+Goals For,0.53,WPG,5on4,all,STL@WPG,home
+Goal Differential,0.62,WPG,5on4,all,STL@WPG,home
+Shooting %,0.56,WPG,5on4,all,STL@WPG,home
+Save %,0.97,WPG,5on4,all,STL@WPG,home
+Blocked shot attempt %,0.77,WPG,5on4,all,STL@WPG,home
+Blocked shot attempt % against,0.47,WPG,5on4,all,STL@WPG,home
+Expected Goals For,0.83,WPG,5on4,all,STL@WPG,home
+XG Differential,0.75,WPG,5on4,all,STL@WPG,home
+Shot (FW) Volume,0.69,WPG,5on4,all,STL@WPG,home
+Shot (FW) Differential,0.56,WPG,5on4,all,STL@WPG,home
+Penalty Differential,0.84,WPG,5on4,all,STL@WPG,home
+offense_p60_perc,0.66,WPG,5on4,all,STL@WPG,home
+defense_p60_perc,0.66,WPG,5on4,all,STL@WPG,home
+cum_dif_p60_perc,0.66,WPG,5on4,all,STL@WPG,home
+Points,0.47,WPG,5on4,last 20 games,STL@WPG,home
+Goals For,0.22,WPG,5on4,last 20 games,STL@WPG,home
+Goal Differential,0.42,WPG,5on4,last 20 games,STL@WPG,home
+Shooting %,0.48,WPG,5on4,last 20 games,STL@WPG,home
+Save %,0.91,WPG,5on4,last 20 games,STL@WPG,home
+Blocked shot attempt %,0.64,WPG,5on4,last 20 games,STL@WPG,home
+Blocked shot attempt % against,0.66,WPG,5on4,last 20 games,STL@WPG,home
+Expected Goals For,0.19,WPG,5on4,last 20 games,STL@WPG,home
+XG Differential,0.25,WPG,5on4,last 20 games,STL@WPG,home
+Shot (FW) Volume,0.38,WPG,5on4,last 20 games,STL@WPG,home
+Shot (FW) Differential,0.31,WPG,5on4,last 20 games,STL@WPG,home
+Penalty Differential,0.95,WPG,5on4,last 20 games,STL@WPG,home
+offense_p60_perc,0.19,WPG,5on4,last 20 games,STL@WPG,home
+defense_p60_perc,0.72,WPG,5on4,last 20 games,STL@WPG,home
+cum_dif_p60_perc,0.25,WPG,5on4,last 20 games,STL@WPG,home
+Points,0.36,WPG,5on4,last 10 games,STL@WPG,home
+Goals For,0.62,WPG,5on4,last 10 games,STL@WPG,home
+Goal Differential,0.59,WPG,5on4,last 10 games,STL@WPG,home
+Shooting %,0.66,WPG,5on4,last 10 games,STL@WPG,home
+Save %,0.52,WPG,5on4,last 10 games,STL@WPG,home
+Blocked shot attempt %,0.75,WPG,5on4,last 10 games,STL@WPG,home
+Blocked shot attempt % against,0.77,WPG,5on4,last 10 games,STL@WPG,home
+Expected Goals For,0.56,WPG,5on4,last 10 games,STL@WPG,home
+XG Differential,0.66,WPG,5on4,last 10 games,STL@WPG,home
+Shot (FW) Volume,0.59,WPG,5on4,last 10 games,STL@WPG,home
+Shot (FW) Differential,0.62,WPG,5on4,last 10 games,STL@WPG,home
+Penalty Differential,0.91,WPG,5on4,last 10 games,STL@WPG,home
+offense_p60_perc,0.56,WPG,5on4,last 10 games,STL@WPG,home
+defense_p60_perc,0.64,WPG,5on4,last 10 games,STL@WPG,home
+cum_dif_p60_perc,0.66,WPG,5on4,last 10 games,STL@WPG,home
+Points,0.2,WPG,5on4,last 5 games,STL@WPG,home
+Goals For,0.44,WPG,5on4,last 5 games,STL@WPG,home
+Goal Differential,0.59,WPG,5on4,last 5 games,STL@WPG,home
+Shooting %,0.72,WPG,5on4,last 5 games,STL@WPG,home
+Save %,0.73,WPG,5on4,last 5 games,STL@WPG,home
+Blocked shot attempt %,0.56,WPG,5on4,last 5 games,STL@WPG,home
+Blocked shot attempt % against,0.92,WPG,5on4,last 5 games,STL@WPG,home
+Expected Goals For,0.47,WPG,5on4,last 5 games,STL@WPG,home
+XG Differential,0.59,WPG,5on4,last 5 games,STL@WPG,home
+Shot (FW) Volume,0.47,WPG,5on4,last 5 games,STL@WPG,home
+Shot (FW) Differential,0.47,WPG,5on4,last 5 games,STL@WPG,home
+Penalty Differential,0.91,WPG,5on4,last 5 games,STL@WPG,home
+offense_p60_perc,0.5,WPG,5on4,last 5 games,STL@WPG,home
+defense_p60_perc,0.64,WPG,5on4,last 5 games,STL@WPG,home
+cum_dif_p60_perc,0.66,WPG,5on4,last 5 games,STL@WPG,home
