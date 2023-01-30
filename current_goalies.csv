@@ -89,15 +89,6 @@ GP:21 | W:0 | L:0
 Sv%: 0.914 | GSAX:7.79
 
 ****",Boston Bruins
-MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,,0,0,0,0.0,0.0,0.0,"**35 Samuel Montembeault**
-
-
-
-GP:0 | W:0 | L:0
-
-Sv%: 0.0 | GSAX:0.0
-
-****",Montreal Canadiens
 MTL,G,34,Jake Allen,G,32,L,"6'2""",195,,0,0,0,28.0,0.893,0.9200000000000016,"**34 Jake Allen**
 
 
@@ -105,6 +96,15 @@ MTL,G,34,Jake Allen,G,32,L,"6'2""",195,,0,0,0,28.0,0.893,0.9200000000000016,"**3
 GP:28 | W:0 | L:0
 
 Sv%: 0.893 | GSAX:0.92
+
+****",Montreal Canadiens
+MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,,0,0,0,0.0,0.0,0.0,"**35 Samuel Montembeault**
+
+
+
+GP:0 | W:0 | L:0
+
+Sv%: 0.0 | GSAX:0.0
 
 ****",Montreal Canadiens
 VAN,G,60,Collin Delia,G,28,L,"6'2""",208,,0,0,0,11.0,0.898,1.6099999999999994,"**60 Collin Delia**
@@ -269,15 +269,6 @@ GP:18 | W:0 | L:0
 Sv%: 0.897 | GSAX:-3.9
 
 ****",Carolina Hurricanes
-NYI,G,40,Semyon Varlamov,G,34,L,"6'2""",205,,0,0,0,16.0,0.917,4.719999999999999,"**40 Semyon Varlamov**
-
-
-
-GP:16 | W:0 | L:0
-
-Sv%: 0.917 | GSAX:4.72
-
-****",New York Islanders
 NYI,G,30,Ilya Sorokin,G,27,L,"6'2""",172,,0,0,0,38.0,0.923,25.5,"**30 Ilya Sorokin**
 
 
@@ -287,15 +278,24 @@ GP:38 | W:0 | L:0
 Sv%: 0.923 | GSAX:25.5
 
 ****",New York Islanders
-WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,0,0,0,39.0,0.923,21.66,"**37 Connor Hellebuyck**
+NYI,G,40,Semyon Varlamov,G,34,L,"6'2""",205,,0,0,0,16.0,0.917,4.719999999999999,"**40 Semyon Varlamov**
 
 
 
-GP:39 | W:0 | L:0
+GP:16 | W:0 | L:0
+
+Sv%: 0.917 | GSAX:4.72
+
+****",New York Islanders
+WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,Confirmed Starter,23,15,starter,39.0,0.923,21.66,"**37 Connor Hellebuyck**
+
+
+
+GP:39 | W:23 | L:15
 
 Sv%: 0.923 | GSAX:21.66
 
-****",Winnipeg Jets
+**Confirmed Starter**",Winnipeg Jets
 WPG,G,33,David Rittich,G,30,L,"6'3""",206,,0,0,0,13.0,0.909,-0.8599999999999994,"**33 David Rittich**
 
 
@@ -510,6 +510,15 @@ OTT,G,31,Anton Forsberg,G,30,L,"6'3""",192,,0,0,0,26.0,0.906,10.730000000000004,
 GP:26 | W:0 | L:0
 
 Sv%: 0.906 | GSAX:10.73
+
+****",Ottawa Senators
+OTT,G,40,Mads Sogaard,G,22,L,"6'8""",199,,0,0,0,0.0,0.0,0.0,"**40 Mads Sogaard**
+
+
+
+GP:0 | W:0 | L:0
+
+Sv%: 0.0 | GSAX:0.0
 
 ****",Ottawa Senators
 SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,,0,0,0,20.0,0.871,-20.25,"**36 Kaapo Kahkonen**
