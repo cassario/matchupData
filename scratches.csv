@@ -1,37 +1,38 @@
 team,player,pos,line,status
 CBJ,Nick Blankenburg,D,scratch,scratch-injured
-PHI,Wade Allison,F,scratch,scratch-injured
-NSH,Alexandre Carrier,D,scratch,scratch-injured
-COL,Darren Helm,F,scratch,scratch-injured
-BOS,Tomas Nosek,F,scratch,scratch-injured
-MTL,Cole Caufield,F,scratch,scratch-injured
-VGK,Mark Stone,F,scratch,scratch-injured
-CBJ,Adam Boqvist,D,scratch,scratch-injured
-TOR,Matt Murray,G,scratch,scratch-injured
-WPG,Dylan DeMelo,D,scratch,scratch-injured
-LAK,Gabriel Vilardi,F,scratch,scratch-injured
-OTT,Cam Talbot,G,scratch,scratch-injured
-OTT,Mark Kastelic,F,scratch,scratch-injured
-MTL,Joel Edmundson,D,scratch,scratch-injured
+CBJ,Lane Pederson,F,scratch,scratch-injured
 ANA,Kevin Shattenkirk,D,scratch,scratch-injured
+MTL,Joel Edmundson,D,scratch,scratch-injured
+OTT,Mark Kastelic,F,scratch,scratch-injured
+OTT,Cam Talbot,G,scratch,scratch-injured
+LAK,Gabriel Vilardi,F,scratch,scratch-injured
+WPG,Dylan DeMelo,D,scratch,scratch-injured
+TOR,Matt Murray,G,scratch,scratch-injured
+PHI,Wade Allison,F,scratch,scratch-injured
+CBJ,Adam Boqvist,D,scratch,scratch-injured
+VGK,Mark Stone,F,scratch,scratch-injured
+MTL,Cole Caufield,F,scratch,scratch-injured
+BOS,Tomas Nosek,F,scratch,scratch-injured
+COL,Darren Helm,F,scratch,scratch-injured
+NSH,Alexandre Carrier,D,scratch,scratch-injured
 ARI,Shayne Gostisbehere,D,scratch,scratch-injured
 PHI,Zack MacEwen,F,scratch,scratch-injured
+ARI,Liam O'Brien,F,scratch,scratch-injured
 WSH,Tom Wilson,F,scratch,scratch-injured
 TOR,Matt Murray,G,scratch,scratch-injured
-VGK,Daniil Miromanov,D,scratch,scratch-injured
 CAR,Jaccob Slavin,D,scratch,scratch-injured
-COL,Valeri Nichushkin,F,scratch,scratch-injured
 SEA,Jaden Schwartz,F,scratch,scratch-injured
-ARI,Liam O'Brien,F,scratch,scratch-injured
+VGK,Daniil Miromanov,D,scratch,scratch-injured
+COL,Valeri Nichushkin,F,scratch,scratch-injured
 SEA,Matty Beniers,F,scratch,scratch-injured
-DAL,Joel Hanley,D,scratch,scratch-healthy
-VAN,Travis Dermott,D,scratch,scratch-healthy
+FLA,Casey Fitzgerald,D,scratch,scratch-healthy
 ANA,Colton White,D,scratch,scratch-healthy
 LAK,Tobias Bjornfot,D,scratch,scratch-healthy
 OTT,Austin Watson,F,scratch,scratch-healthy
 WPG,Axel Jonsson-Fjallby,F,scratch,scratch-healthy
 LAK,Alex Turcotte,F,scratch,scratch-healthy
-FLA,Casey Fitzgerald,D,scratch,scratch-healthy
+VAN,Travis Dermott,D,scratch,scratch-healthy
+DAL,Joel Hanley,D,scratch,scratch-healthy
 BOS,Vinni Lettieri,F,scratch,scratch-healthy
 TOR,Jordie Benn,D,scratch,scratch-healthy
 TBL,Haydn Fleury,D,scratch,scratch-healthy
@@ -43,26 +44,25 @@ BUF,Kale Clague,D,scratch,scratch-healthy
 SJS,Scott Harrington,D,scratch,scratch-healthy
 NJD,Alexander Holtz,F,scratch,scratch-healthy
 WSH,Alexander Alexeyev,D,scratch,scratch-healthy
-MIN,Alex Goligoski,D,scratch,scratch-healthy
-BUF,Rasmus Asplund,F,scratch,scratch-healthy
+BUF,Craig Anderson,G,scratch,scratch-healthy
+MIN,Mason Shaw,F,scratch,scratch-healthy
+NJD,Jesper Boqvist,F,scratch,scratch-healthy
 SJS,Kevin Labanc,F,scratch,scratch-healthy
+EDM,Devin Shore,F,scratch,scratch-healthy
+TOR,Conor Timmins,D,scratch,scratch-healthy
+DET,Gustav Lindstrom,D,scratch,scratch-healthy
+EDM,Warren Foegele,F,scratch,scratch-healthy
+TBL,Cal Foote,D,scratch,scratch-healthy
+BUF,Rasmus Asplund,F,scratch,scratch-healthy
+MIN,Alex Goligoski,D,scratch,scratch-healthy
+ANA,Brett Leason,F,scratch,scratch-healthy
+NYR,Libor Hajek,D,scratch,scratch-healthy
 PIT,Mark Friedman,D,scratch,scratch-healthy
 WSH,Aliaksei Protas,F,scratch,scratch-healthy
-MIN,Mason Shaw,F,scratch,scratch-healthy
 DET,Robert Hagg,D,scratch,scratch-healthy
-NYR,Libor Hajek,D,scratch,scratch-healthy
-ANA,Brett Leason,F,scratch,scratch-healthy
-BUF,Craig Anderson,G,scratch,scratch-healthy
-CBJ,Lane Pederson,F,scratch,scratch-healthy
-TBL,Cal Foote,D,scratch,scratch-healthy
-EDM,Warren Foegele,F,scratch,scratch-healthy
-DET,Gustav Lindstrom,D,scratch,scratch-healthy
-TOR,Conor Timmins,D,scratch,scratch-healthy
-EDM,Devin Shore,F,scratch,scratch-healthy
-NJD,Jesper Boqvist,F,scratch,scratch-healthy
 EDM,Ryan Murray,D,injured reserve,injured reserve
-TOR,Victor Mete,D,injured reserve,injured reserve
 NYI,Hudson Fasching,F,injured reserve,injured reserve
+TOR,Victor Mete,D,injured reserve,injured reserve
 TOR,Auston Matthews,F,injured reserve,injured reserve
 PHI,Sean Couturier,F,injured reserve,injured reserve
 CBJ,Carson Meyer,F,injured reserve,injured reserve
