@@ -53,13 +53,13 @@ GP:22 | W:0 | L:0
 Sv%: 0.907 | GSAX:3.81
 
 ****",Columbus Blue Jackets
-STL,G,50,Jordan Binnington,G,29,L,"6'1""",174,,0,0,0,38.0,0.891,-10.040000000000006,"**50 Jordan Binnington**
+STL,G,50,Jordan Binnington,G,29,L,"6'1""",174,,0,0,0,39.0,0.892,-9.400000000000006,"**50 Jordan Binnington**
 
 
 
-GP:38 | W:0 | L:0
+GP:39 | W:0 | L:0
 
-Sv%: 0.891 | GSAX:-10.04
+Sv%: 0.892 | GSAX:-9.4
 
 ****",St. Louis Blues
 STL,G,1,Thomas Greiss,G,37,L,"6'2""",232,,0,0,0,15.0,0.907,-0.3699999999999974,"**1 Thomas Greiss**
@@ -89,15 +89,15 @@ GP:21 | W:0 | L:0
 Sv%: 0.914 | GSAX:7.79
 
 ****",Boston Bruins
-MTL,G,34,Jake Allen,G,32,L,"6'2""",195,,0,0,0,28.0,0.893,0.9200000000000016,"**34 Jake Allen**
+MTL,G,34,Jake Allen,G,32,L,"6'2""",195,Confirmed Starter,10,16,starter,28.0,0.893,0.9200000000000016,"**34 Jake Allen**
 
 
 
-GP:28 | W:0 | L:0
+GP:28 | W:10 | L:16
 
 Sv%: 0.893 | GSAX:0.92
 
-****",Montreal Canadiens
+**Confirmed Starter**",Montreal Canadiens
 MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,,0,0,0,0.0,0.0,0.0,"**35 Samuel Montembeault**
 
 
@@ -197,7 +197,7 @@ GP:18 | W:0 | L:0
 Sv%: 0.895 | GSAX:-0.19
 
 ****",Anaheim Ducks
-CGY,G,25,Jacob Markstrom,G,32,L,"6'6""",206,,0,0,0,33.0,0.893,1.2000000000000028,"**25 Jacob Markstrom**
+CGY,G,25,Jacob Markstrom,G,33,L,"6'6""",206,,0,0,0,33.0,0.893,1.2000000000000028,"**25 Jacob Markstrom**
 
 
 
@@ -287,15 +287,15 @@ GP:16 | W:0 | L:0
 Sv%: 0.917 | GSAX:4.72
 
 ****",New York Islanders
-WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,Confirmed Starter,23,15,starter,39.0,0.923,21.66,"**37 Connor Hellebuyck**
+WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,0,0,0,40.0,0.923,21.840000000000003,"**37 Connor Hellebuyck**
 
 
 
-GP:39 | W:23 | L:15
+GP:40 | W:0 | L:0
 
-Sv%: 0.923 | GSAX:21.66
+Sv%: 0.923 | GSAX:21.84
 
-**Confirmed Starter**",Winnipeg Jets
+****",Winnipeg Jets
 WPG,G,33,David Rittich,G,30,L,"6'3""",206,,0,0,0,13.0,0.909,-0.8599999999999994,"**33 David Rittich**
 
 
@@ -503,11 +503,11 @@ GP:13 | W:0 | L:0
 Sv%: 0.884 | GSAX:-4.13
 
 ****",Buffalo Sabres
-OTT,G,31,Anton Forsberg,G,30,L,"6'3""",192,,0,0,0,26.0,0.906,10.730000000000004,"**31 Anton Forsberg**
+OTT,G,31,Anton Forsberg,G,30,L,"6'3""",192,,10,10,starter,26.0,0.906,10.730000000000004,"**31 Anton Forsberg**
 
 
 
-GP:26 | W:0 | L:0
+GP:26 | W:10 | L:10
 
 Sv%: 0.906 | GSAX:10.73
 
