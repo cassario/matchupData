@@ -35,6 +35,15 @@ GP:14 | W:0 | L:0
 Sv%: 0.918 | GSAX:3.56
 
 ****",Chicago Blackhawks
+CBJ,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,Confirmed Starter,8,9,starter,22.0,0.907,3.8100000000000014,"**70 Joonas Korpisalo**
+
+
+
+GP:22 | W:8 | L:9
+
+Sv%: 0.907 | GSAX:3.81
+
+**Confirmed Starter**",Columbus Blue Jackets
 CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181,,0,0,0,21.0,0.87,-23.87,"**90 Elvis Merzlikins**
 
 
@@ -42,15 +51,6 @@ CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181,,0,0,0,21.0,0.87,-23.87,"**90 Elvis
 GP:21 | W:0 | L:0
 
 Sv%: 0.87 | GSAX:-23.87
-
-****",Columbus Blue Jackets
-CBJ,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,,0,0,0,22.0,0.907,3.8100000000000014,"**70 Joonas Korpisalo**
-
-
-
-GP:22 | W:0 | L:0
-
-Sv%: 0.907 | GSAX:3.81
 
 ****",Columbus Blue Jackets
 STL,G,50,Jordan Binnington,G,29,L,"6'1""",174,,0,0,0,39.0,0.892,-9.400000000000006,"**50 Jordan Binnington**
@@ -503,7 +503,7 @@ GP:13 | W:0 | L:0
 Sv%: 0.884 | GSAX:-4.13
 
 ****",Buffalo Sabres
-OTT,G,31,Anton Forsberg,G,30,L,"6'3""",192,,10,10,starter,26.0,0.906,10.730000000000004,"**31 Anton Forsberg**
+OTT,G,31,Anton Forsberg,G,30,L,"6'3""",192,Confirmed Starter,10,10,starter,26.0,0.906,10.730000000000004,"**31 Anton Forsberg**
 
 
 
@@ -511,7 +511,7 @@ GP:26 | W:10 | L:10
 
 Sv%: 0.906 | GSAX:10.73
 
-****",Ottawa Senators
+**Confirmed Starter**",Ottawa Senators
 OTT,G,40,Mads Sogaard,G,22,L,"6'8""",199,,0,0,0,0.0,0.0,0.0,"**40 Mads Sogaard**
 
 
