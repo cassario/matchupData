@@ -125,15 +125,6 @@ GP:27 | W:0 | L:0
 Sv%: 0.875 | GSAX:-18.59
 
 ****",Vancouver Canucks
-WSH,G,79,Charlie Lindgren,G,29,R,"6'1""",182,,0,0,0,23.0,0.907,1.1000000000000014,"**79 Charlie Lindgren**
-
-
-
-GP:23 | W:0 | L:0
-
-Sv%: 0.907 | GSAX:1.1
-
-****",Washington Capitals
 WSH,G,35,Darcy Kuemper,G,32,L,"6'5""",215,,0,0,0,34.0,0.915,4.060000000000002,"**35 Darcy Kuemper**
 
 
@@ -141,6 +132,15 @@ WSH,G,35,Darcy Kuemper,G,32,L,"6'5""",215,,0,0,0,34.0,0.915,4.060000000000002,"*
 GP:34 | W:0 | L:0
 
 Sv%: 0.915 | GSAX:4.06
+
+****",Washington Capitals
+WSH,G,79,Charlie Lindgren,G,29,R,"6'1""",182,,0,0,0,23.0,0.907,1.1000000000000014,"**79 Charlie Lindgren**
+
+
+
+GP:23 | W:0 | L:0
+
+Sv%: 0.907 | GSAX:1.1
 
 ****",Washington Capitals
 ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,,0,0,0,16.0,0.899,-1.7299999999999969,"**39 Connor Ingram**
@@ -485,15 +485,15 @@ GP:34 | W:0 | L:0
 Sv%: 0.901 | GSAX:-4.12
 
 ****",Detroit Red Wings
-BUF,G,1,Ukko-Pekka Luukkonen,G,23,L,"6'4""",190,,0,0,0,20.0,0.9,4.819999999999993,"**1 Ukko-Pekka Luukkonen**
+BUF,G,1,Ukko-Pekka Luukkonen,G,23,L,"6'4""",190,Confirmed Starter,13,5,starter,20.0,0.9,4.819999999999993,"**1 Ukko-Pekka Luukkonen**
 
 
 
-GP:20 | W:0 | L:0
+GP:20 | W:13 | L:5
 
 Sv%: 0.9 | GSAX:4.82
 
-****",Buffalo Sabres
+**Confirmed Starter**",Buffalo Sabres
 BUF,G,31,Eric Comrie,G,27,L,"6'1""",175,,0,0,0,13.0,0.884,-4.130000000000003,"**31 Eric Comrie**
 
 
@@ -512,13 +512,13 @@ GP:27 | W:0 | L:0
 Sv%: 0.905 | GSAX:10.98
 
 ****",Ottawa Senators
-OTT,G,40,Mads Sogaard,G,22,L,"6'8""",199,,0,0,0,0.0,0.0,0.0,"**40 Mads Sogaard**
+OTT,G,33,Cam Talbot,G,35,L,"6'4""",196,,0,0,0,28.0,0.905,0.7900000000000063,"**33 Cam Talbot**
 
 
 
-GP:0 | W:0 | L:0
+GP:28 | W:0 | L:0
 
-Sv%: 0.0 | GSAX:0.0
+Sv%: 0.905 | GSAX:0.79
 
 ****",Ottawa Senators
 SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,,0,0,0,20.0,0.871,-20.25,"**36 Kaapo Kahkonen**
