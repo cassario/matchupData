@@ -1,8 +1,5 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022020821,COL@TBL,TBL,02-09-2023,7:00 PM,66,32,16,2,east,atlantic,top3,3.0,COL,58,27,18,4,west,central,none,3.5
-2022020822,EDM@PHI,PHI,02-09-2023,7:00 PM,51,21,22,9,east,metro,none,7.0,EDM,62,29,18,4,west,pacific,wc,4.0
-2022020823,SJS@FLA,FLA,02-09-2023,7:00 PM,56,25,22,6,east,atlantic,none,4.5,SJS,43,16,25,11,west,pacific,none,7.0
-2022020824,SEA@NJD,NJD,02-09-2023,7:00 PM,70,33,13,4,east,metro,top3,2.0,SEA,63,29,16,5,west,pacific,top3,2.5
-2022020825,CGY@DET,DET,02-09-2023,7:00 PM,50,21,20,8,east,atlantic,none,7.0,CGY,58,24,17,10,west,pacific,none,5.0
-2022020826,VAN@NYI,NYI,02-09-2023,7:30 PM,59,27,22,5,east,metro,none,5.5,VAN,44,20,27,4,west,pacific,none,6.0
-2022020827,VGK@MIN,MIN,02-09-2023,8:00 PM,58,27,19,4,west,central,none,3.5,VGK,64,30,18,4,west,pacific,top3,1.0
+2022020828,SEA@NYR,NYR,02-10-2023,7:00 PM,66,29,14,8,east,metro,top3,3.0,SEA,63,29,17,5,west,pacific,top3,3.0
+2022020829,TOR@CBJ,CBJ,02-10-2023,7:00 PM,34,15,32,4,east,metro,none,8.0,TOR,70,31,13,8,east,atlantic,top3,2.0
+2022020830,ARI@CHI,CHI,02-10-2023,8:30 PM,35,15,29,5,west,central,none,8.0,ARI,40,17,28,6,west,central,none,7.0
+2022020831,PIT@ANA,ANA,02-10-2023,10:00 PM,40,17,29,6,west,pacific,none,8.0,PIT,59,25,16,9,east,metro,none,5.5
