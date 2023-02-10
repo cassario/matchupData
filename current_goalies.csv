@@ -17,15 +17,6 @@ GP:15 | W:0 | L:0
 Sv%: 0.919 | GSAX:1.78
 
 ****",Colorado Avalanche
-CHI,G,34,Petr Mrazek,G,30,L,"6'1""",190,,0,0,0,22.0,0.885,-10.790000000000006,"**34 Petr Mrazek**
-
-
-
-GP:22 | W:0 | L:0
-
-Sv%: 0.885 | GSAX:-10.79
-
-****",Chicago Blackhawks
 CHI,G,30,Jaxson Stauber,G,23,L,"6'3""",175,,0,0,0,2.0,0.94,2.22,"**30 Jaxson Stauber**
 
 
@@ -35,15 +26,24 @@ GP:2 | W:0 | L:0
 Sv%: 0.94 | GSAX:2.22
 
 ****",Chicago Blackhawks
-CBJ,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,,0,0,0,23.0,0.906,3.1200000000000045,"**70 Joonas Korpisalo**
+CHI,G,34,Petr Mrazek,G,30,L,"6'1""",190,,0,0,0,22.0,0.885,-10.790000000000006,"**34 Petr Mrazek**
 
 
 
-GP:23 | W:0 | L:0
+GP:22 | W:0 | L:0
+
+Sv%: 0.885 | GSAX:-10.79
+
+****",Chicago Blackhawks
+CBJ,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,Confirmed Starter,8,9,starter,23.0,0.906,3.1200000000000045,"**70 Joonas Korpisalo**
+
+
+
+GP:23 | W:8 | L:9
 
 Sv%: 0.906 | GSAX:3.12
 
-****",Columbus Blue Jackets
+**Confirmed Starter**",Columbus Blue Jackets
 CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181,,0,0,0,21.0,0.87,-23.87,"**90 Elvis Merzlikins**
 
 
@@ -143,6 +143,15 @@ GP:23 | W:0 | L:0
 Sv%: 0.907 | GSAX:1.1
 
 ****",Washington Capitals
+ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,Confirmed Starter,3,11,starter,16.0,0.899,-1.7299999999999969,"**39 Connor Ingram**
+
+
+
+GP:16 | W:3 | L:11
+
+Sv%: 0.899 | GSAX:-1.73
+
+**Confirmed Starter**",Arizona Coyotes
 ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203,,0,0,0,36.0,0.908,16.819999999999993,"**70 Karel Vejmelka**
 
 
@@ -150,15 +159,6 @@ ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203,,0,0,0,36.0,0.908,16.819999999999993,
 GP:36 | W:0 | L:0
 
 Sv%: 0.908 | GSAX:16.82
-
-****",Arizona Coyotes
-ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,,0,0,0,16.0,0.899,-1.7299999999999969,"**39 Connor Ingram**
-
-
-
-GP:16 | W:0 | L:0
-
-Sv%: 0.899 | GSAX:-1.73
 
 ****",Arizona Coyotes
 NJD,G,29,Mackenzie Blackwood,G,26,L,"6'4""",225,,0,0,0,15.0,0.9,3.4399999999999977,"**29 Mackenzie Blackwood**
@@ -179,22 +179,22 @@ GP:33 | W:0 | L:0
 Sv%: 0.916 | GSAX:7.53
 
 ****",New Jersey Devils
-ANA,G,41,Anthony Stolarz,G,29,L,"6'6""",240,,0,0,0,19.0,0.897,0.3900000000000005,"**41 Anthony Stolarz**
+ANA,G,36,John Gibson,G,29,L,"6'2""",215,Confirmed Starter,10,20,starter,35.0,0.9,-4.6200000000000045,"**36 John Gibson**
 
 
 
-GP:19 | W:0 | L:0
-
-Sv%: 0.897 | GSAX:0.39
-
-****",Anaheim Ducks
-ANA,G,36,John Gibson,G,29,L,"6'2""",215,,0,0,0,35.0,0.9,-4.6200000000000045,"**36 John Gibson**
-
-
-
-GP:35 | W:0 | L:0
+GP:35 | W:10 | L:20
 
 Sv%: 0.9 | GSAX:-4.62
+
+**Confirmed Starter**",Anaheim Ducks
+ANA,G,31,Olle Eriksson Ek,G,23,L,"6'3""",208,,0,0,0,0.0,0.0,0.0,"**31 Olle Eriksson Ek**
+
+
+
+GP:0 | W:0 | L:0
+
+Sv%: 0.0 | GSAX:0.0
 
 ****",Anaheim Ducks
 CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,,0,0,0,0.0,0.0,0.0,"**80 Daniel Vladar**
@@ -359,7 +359,7 @@ GP:13 | W:0 | L:0
 Sv%: 0.898 | GSAX:1.24
 
 ****",Tampa Bay Lightning
-TOR,G,35,Ilya Samsonov,G,25,L,"6'3""",208,,17,6,starter,25.0,0.913,9.489999999999997,"**35 Ilya Samsonov**
+TOR,G,35,Ilya Samsonov,G,25,L,"6'3""",208,Confirmed Starter,17,6,starter,25.0,0.913,9.489999999999997,"**35 Ilya Samsonov**
 
 
 
@@ -367,7 +367,7 @@ GP:25 | W:17 | L:6
 
 Sv%: 0.913 | GSAX:9.49
 
-****",Toronto Maple Leafs
+**Confirmed Starter**",Toronto Maple Leafs
 TOR,G,60,Joseph Woll,G,24,L,"6'2""",198,,0,0,0,0.0,0.0,0.0,"**60 Joseph Woll**
 
 
@@ -413,15 +413,15 @@ GP:19 | W:0 | L:0
 Sv%: 0.906 | GSAX:-1.43
 
 ****",Florida Panthers
-PIT,G,1,Casey DeSmith,G,31,L,"6'0""",181,,0,0,0,23.0,0.905,2.390000000000001,"**1 Casey DeSmith**
+PIT,G,1,Casey DeSmith,G,31,L,"6'0""",181,Confirmed Starter,8,10,starter,23.0,0.905,2.390000000000001,"**1 Casey DeSmith**
 
 
 
-GP:23 | W:0 | L:0
+GP:23 | W:8 | L:10
 
 Sv%: 0.905 | GSAX:2.39
 
-****",Pittsburgh Penguins
+**Confirmed Starter**",Pittsburgh Penguins
 PIT,G,40,Dustin Tokarski,G,33,L,"6'0""",205,,0,0,0,2.0,0.915,0.8399999999999999,"**40 Dustin Tokarski**
 
 
@@ -449,15 +449,15 @@ GP:11 | W:0 | L:0
 Sv%: 0.924 | GSAX:6.28
 
 ****",Nashville Predators
-NYR,G,31,Igor Shesterkin,G,27,L,"6'2""",192,,0,0,0,37.0,0.917,15.75,"**31 Igor Shesterkin**
+NYR,G,31,Igor Shesterkin,G,27,L,"6'2""",192,Confirmed Starter,22,8,starter,37.0,0.917,15.75,"**31 Igor Shesterkin**
 
 
 
-GP:37 | W:0 | L:0
+GP:37 | W:22 | L:8
 
 Sv%: 0.917 | GSAX:15.75
 
-****",New York Rangers
+**Confirmed Starter**",New York Rangers
 NYR,G,41,Jaroslav Halak,G,37,L,"5'11""",185,,0,0,0,14.0,0.905,0.7299999999999969,"**41 Jaroslav Halak**
 
 
