@@ -1,5 +1,7 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
+"Feb. 10, 2023",LAK,Pheonix Copley,G,31,Standard,1-way,1,1500000,1500000,,,
 "Feb. 10, 2023",MTL,Jordan Harris,LD/RD,22,Standard,1-way,2,1400000,2800000,47.0,6.0,0.4848608426971647
+"Feb. 10, 2023",FLA,Josh Mahura,LD/RD,25,Standard,1-way,1,925000,925000,54.0,9.0,0.5610121931637301
 "Feb. 9, 2023",TOR,Conor Timmins,RD,24,Standard,1-way,2,1100000,2200000,20.0,8.0,0.5131362745018333
 "Feb. 8, 2023",NSH,Thomas Novak,C,26,Standard,1-way,1,800000,800000,40.0,18.0,0.5379098020652098
 "Feb. 7, 2023",BUF,Dylan Cozens,"C, LW",22,Standard,1-way,7,7100000,49700000,49.0,31.0,0.5298501415993528
@@ -9,11 +11,11 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Feb. 3, 2023",WSH,Dylan Strome,C,26,Standard,1-way,5,5000000,25000000,52.0,27.0,0.519968102438716
 "Jan. 26, 2023",NYR,Ben Harpur,LD,28,Standard,1-way,2,787500,1575000,21.0,1.0,0.3703300706342819
 "Jan. 26, 2023",VAN,Andrei Kuzmenko,"LW, RW",27,Standard,1-way,2,5500000,11000000,51.0,31.0,0.4998408577946983
-"Jan. 24, 2023",ARI,Juuso Valimaki,LD,24,Standard,1-way,1,1000000,1000000,47.0,6.0,0.4896078749575948
+"Jan. 24, 2023",ARI,Juuso Valimaki,LD,24,Standard,1-way,1,1000000,1000000,48.0,6.0,0.4908271705876973
 "Jan. 16, 2023",MIN,Matthew Boldy,"RW, LW",22,Standard,1-way,7,7000000,49000000,51.0,26.0,0.5425347404451686
 "Jan. 14, 2023",BOS,Pavel Zacha,"LW, RW, C",26,Standard,1-way,4,4750000,19000000,51.0,22.0,0.4945814583252061
 "Jan. 6, 2023",EDM,Justin Bailey,RW,26,Standard,2-way,1,750000,750000,,,
-"Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,50.0,13.0,0.58969999843381
+"Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,51.0,13.0,0.5834309719408652
 "Jan. 2, 2023",TBL,Nick Perbix,RD,25,Standard,1-way,2,1125000,2250000,41.0,11.0,0.5289047630561602
 "Jan. 2, 2023",STL,Joel Hofer,G,22,Standard,1-way,2,775000,1550000,,,
 "Jan. 1, 2023",DAL,Joe Pavelski,RW,38,35+,1-way,1,3500000,5500000,53.0,31.0,0.6018009718186599
@@ -48,5 +50,3 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,44.0,14.0,0.5085323624083627
 "Oct. 21, 2022",FLA,Eric Staal,C,37,35+,1-way,1,750000,750000,54.0,2.0,0.5381937074881242
 "Oct. 20, 2022",CGY,Daniel Vladar,G,25,Standard,1-way,2,2200000,4400000,,,
-"Oct. 19, 2022",MIN,Michael Milne,LW,19,Entry-Level,2-way,3,861667,2850000,,,
-"Oct. 15, 2022",WSH,Sonny Milano,"LW, RW",26,Standard,1-way,1,750000,750000,40.0,14.0,0.521910120515971
