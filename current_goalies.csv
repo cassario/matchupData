@@ -107,6 +107,15 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****",Montreal Canadiens
+VAN,G,60,Collin Delia,G,28,L,"6'2""",208,Confirmed Starter,7,3,starter,13.0,0.887,-2.009999999999998,"**60 Collin Delia**
+
+
+
+GP:13 | W:7 | L:3
+
+Sv%: 0.887 | GSAX:-2.01
+
+**Confirmed Starter**",Vancouver Canucks
 VAN,G,30,Spencer Martin,G,27,L,"6'3""",205,,0,0,0,29.0,0.871,-23.53,"**30 Spencer Martin**
 
 
@@ -114,15 +123,6 @@ VAN,G,30,Spencer Martin,G,27,L,"6'3""",205,,0,0,0,29.0,0.871,-23.53,"**30 Spence
 GP:29 | W:0 | L:0
 
 Sv%: 0.871 | GSAX:-23.53
-
-****",Vancouver Canucks
-VAN,G,60,Collin Delia,G,28,L,"6'2""",208,,0,0,0,13.0,0.887,-2.009999999999998,"**60 Collin Delia**
-
-
-
-GP:13 | W:0 | L:0
-
-Sv%: 0.887 | GSAX:-2.01
 
 ****",Vancouver Canucks
 WSH,G,79,Charlie Lindgren,G,29,R,"6'1""",182,,0,0,0,24.0,0.907,2.469999999999999,"**79 Charlie Lindgren**
@@ -143,15 +143,15 @@ GP:35 | W:0 | L:0
 Sv%: 0.916 | GSAX:7.25
 
 ****",Washington Capitals
-ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203,,0,0,0,37.0,0.906,14.449999999999989,"**70 Karel Vejmelka**
+ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203,Confirmed Starter,14,17,starter,37.0,0.906,14.449999999999989,"**70 Karel Vejmelka**
 
 
 
-GP:37 | W:0 | L:0
+GP:37 | W:14 | L:17
 
 Sv%: 0.906 | GSAX:14.45
 
-****",Arizona Coyotes
+**Confirmed Starter**",Arizona Coyotes
 ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,,0,0,0,17.0,0.899,-2.8400000000000034,"**39 Connor Ingram**
 
 
@@ -422,15 +422,6 @@ GP:3 | W:0 | L:0
 Sv%: 0.893 | GSAX:0.72
 
 ****",Pittsburgh Penguins
-NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,0,0,0,39.0,0.919,23.91,"**74 Juuse Saros**
-
-
-
-GP:39 | W:0 | L:0
-
-Sv%: 0.919 | GSAX:23.91
-
-****",Nashville Predators
 NSH,G,32,Kevin Lankinen,G,27,L,"6'2""",185,Confirmed Starter,5,4,starter,11.0,0.924,6.280000000000001,"**32 Kevin Lankinen**
 
 
@@ -440,6 +431,15 @@ GP:11 | W:5 | L:4
 Sv%: 0.924 | GSAX:6.28
 
 **Confirmed Starter**",Nashville Predators
+NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,0,0,0,39.0,0.919,23.91,"**74 Juuse Saros**
+
+
+
+GP:39 | W:0 | L:0
+
+Sv%: 0.919 | GSAX:23.91
+
+****",Nashville Predators
 NYR,G,41,Jaroslav Halak,G,37,L,"5'11""",185,,0,0,0,15.0,0.907,2.3999999999999986,"**41 Jaroslav Halak**
 
 
@@ -476,13 +476,13 @@ GP:9 | W:0 | L:0
 Sv%: 0.901 | GSAX:1.86
 
 ****",Detroit Red Wings
-BUF,G,1,Ukko-Pekka Luukkonen,G,23,L,"6'4""",190,,0,0,0,22.0,0.895,0.1599999999999966,"**1 Ukko-Pekka Luukkonen**
+BUF,G,41,Craig Anderson,G,41,L,"6'2""",186,,0,0,0,17.0,0.918,6.020000000000003,"**41 Craig Anderson**
 
 
 
-GP:22 | W:0 | L:0
+GP:17 | W:0 | L:0
 
-Sv%: 0.895 | GSAX:0.16
+Sv%: 0.918 | GSAX:6.02
 
 ****",Buffalo Sabres
 BUF,G,31,Eric Comrie,G,27,L,"6'1""",175,,0,0,0,13.0,0.884,-4.130000000000003,"**31 Eric Comrie**
