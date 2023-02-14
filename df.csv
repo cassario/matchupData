@@ -1,6 +1,10 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022020850,CGY@OTT,OTT,02-13-2023,7:30 PM,51,24,24,3,east,atlantic,none,7.0,CGY,60,25,18,10,west,pacific,wc,5.0
-2022020851,ARI@NSH,NSH,02-13-2023,8:00 PM,56,25,19,6,west,central,none,5.0,ARI,42,17,28,8,west,central,none,7.0
-2022020852,FLA@MIN,MIN,02-13-2023,8:00 PM,60,28,20,4,west,central,wc,3.5,FLA,58,26,23,6,east,atlantic,none,4.0
-2022020853,DET@VAN,VAN,02-13-2023,10:00 PM,46,21,28,4,west,pacific,none,6.0,DET,54,23,20,8,east,atlantic,none,6.0
-2022020854,BUF@LAK,LAK,02-13-2023,10:30 PM,65,29,18,7,west,pacific,top3,3.0,BUF,56,26,21,4,east,atlantic,none,5.0
+2022020855,CAR@WSH,WSH,02-14-2023,7:00 PM,62,28,21,6,east,metro,wc,4.0,CAR,76,34,10,8,east,metro,top3,1.0
+2022020856,CHI@MTL,MTL,02-14-2023,7:00 PM,48,22,27,4,east,atlantic,none,8.0,CHI,37,16,30,5,west,central,none,8.0
+2022020857,NJD@CBJ,CBJ,02-14-2023,7:30 PM,36,16,33,4,east,metro,none,8.0,NJD,73,34,13,5,east,metro,top3,2.0
+2022020858,OTT@NYI,NYI,02-14-2023,7:30 PM,60,27,23,6,east,metro,none,6.0,OTT,53,25,24,3,east,atlantic,none,7.0
+2022020859,FLA@STL,STL,02-14-2023,8:00 PM,51,24,25,3,west,central,none,6.0,FLA,60,27,23,6,east,atlantic,none,4.0
+2022020860,SEA@WPG,WPG,02-14-2023,8:00 PM,67,33,19,1,west,central,top3,2.0,SEA,65,30,18,5,west,pacific,wc,3.5
+2022020861,BOS@DAL,DAL,02-14-2023,8:30 PM,70,30,14,10,west,central,top3,1.0,BOS,83,39,8,5,east,atlantic,top3,1.0
+2022020862,TBL@COL,COL,02-14-2023,9:00 PM,60,28,19,4,west,central,none,4.0,TBL,70,34,16,2,east,atlantic,top3,3.0
+2022020863,PIT@SJS,SJS,02-14-2023,10:30 PM,45,17,26,11,west,pacific,none,7.0,PIT,61,26,17,9,east,metro,wc,5.0
