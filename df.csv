@@ -1,6 +1,14 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022020878,CHI@OTT,OTT,02-17-2023,7:00 PM,55,26,24,3,east,atlantic,none,7.0,CHI,37,16,32,5,west,central,none,8.0
-2022020879,PIT@NYI,NYI,02-17-2023,7:00 PM,61,27,23,7,east,metro,none,6.0,PIT,63,27,17,9,east,metro,wc,4.0
-2022020880,DAL@MIN,MIN,02-17-2023,8:00 PM,61,28,21,5,west,central,none,4.0,DAL,71,30,14,11,west,central,top3,1.0
-2022020881,NYR@EDM,EDM,02-17-2023,9:00 PM,66,30,19,6,west,pacific,wc,4.0,NYR,72,32,14,8,east,metro,top3,3.0
-2022020882,LAK@ANA,ANA,02-17-2023,9:00 PM,40,17,32,6,west,pacific,none,8.0,LAK,67,30,18,7,west,pacific,top3,3.0
+2022020883,COL@STL,STL,02-18-2023,2:00 PM,55,26,25,3,west,central,none,6.0,COL,63,29,19,5,west,central,none,3.5
+2022020884,FLA@NSH,NSH,02-18-2023,2:00 PM,56,25,21,6,west,central,none,5.0,FLA,62,28,24,6,east,atlantic,none,4.0
+2022020885,NYI@BOS,BOS,02-18-2023,5:00 PM,87,41,8,5,east,atlantic,top3,1.0,NYI,63,28,23,7,east,metro,wc,4.5
+2022020886,NJD@PIT,PIT,02-18-2023,5:30 PM,63,27,18,9,east,metro,wc,4.5,NJD,75,35,14,5,east,metro,top3,2.0
+2022020887,CBJ@DAL,DAL,02-18-2023,6:00 PM,72,30,14,12,west,central,top3,1.0,CBJ,38,17,34,4,east,metro,none,8.0
+2022020888,MTL@TOR,TOR,02-18-2023,7:00 PM,74,33,14,8,east,atlantic,top3,2.0,MTL,50,23,28,4,east,atlantic,none,8.0
+2022020889,WSH@CAR,CAR,02-18-2023,8:00 PM,80,36,10,8,east,metro,top3,1.0,WSH,62,28,23,6,east,metro,none,6.0
+2022020890,NYR@CGY,CGY,02-18-2023,10:00 PM,61,25,19,11,west,pacific,none,5.0,NYR,74,33,14,8,east,metro,top3,3.0
+2022020891,PHI@VAN,VAN,02-18-2023,10:00 PM,46,21,30,4,west,pacific,none,6.0,PHI,54,22,24,10,east,metro,none,7.0
+2022020892,ARI@LAK,LAK,02-18-2023,10:30 PM,69,31,18,7,west,pacific,top3,2.0,ARI,46,19,28,8,west,central,none,7.0
+2022020893,BUF@SJS,SJS,02-18-2023,10:30 PM,45,17,28,11,west,pacific,none,7.0,BUF,58,27,22,4,east,atlantic,none,6.0
+2022020894,DET@SEA,SEA,02-18-2023,10:30 PM,68,31,18,6,west,pacific,top3,3.0,DET,60,26,20,8,east,atlantic,none,5.0
+2022020895,TBL@VGK,VGK,02-18-2023,10:30 PM,70,33,18,4,west,pacific,top3,1.0,TBL,73,35,16,3,east,atlantic,top3,3.0
