@@ -1,6 +1,6 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Feb. 16, 2023",DET,Olli Maatta,LD,28,Standard,1-way,2,3000000,6000000,50.0,11.0,0.4802566399139586
-"Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,55.0,5.0,0.5019013323710206
+"Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,56.0,5.0,0.5030535843014888
 "Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,1.0,0.0,0.1845967061698702
 "Feb. 10, 2023",LAK,Pheonix Copley,G,31,Standard,1-way,1,1500000,1500000,,,
 "Feb. 10, 2023",MTL,Jordan Harris,LD/RD,22,Standard,1-way,2,1400000,2800000,51.0,8.0,0.4896485326049488
@@ -9,34 +9,34 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Feb. 8, 2023",NSH,Thomas Novak,C,26,Standard,1-way,1,800000,800000,42.0,18.0,0.5271547714518987
 "Feb. 7, 2023",BUF,Dylan Cozens,"C, LW",22,Standard,1-way,7,7100000,49700000,52.0,34.0,0.522456721743716
 "Feb. 6, 2023",NSH,Cole Smith,LW,27,Standard,1-way,1,775000,775000,46.0,9.0,0.5086841469789856
-"Feb. 5, 2023",NYI,Bo Horvat,C,28,Standard,1-way,8,8500000,68000000,54.0,48.0,0.5013316385678205
+"Feb. 5, 2023",NYI,Bo Horvat,C,28,Standard,1-way,8,8500000,68000000,55.0,48.0,0.5025847303514129
 "Feb. 4, 2023",WSH,Sonny Milano,"LW, RW",27,Standard,1-way,3,1900000,5700000,44.0,14.0,0.5109588017475752
 "Feb. 3, 2023",WSH,Dylan Strome,C,26,Standard,1-way,5,5000000,25000000,56.0,28.0,0.5257152168019374
 "Jan. 26, 2023",NYR,Ben Harpur,LD,28,Standard,1-way,2,787500,1575000,21.0,1.0,0.3703300706342819
 "Jan. 26, 2023",VAN,Andrei Kuzmenko,"LW, RW",27,Standard,1-way,2,5500000,11000000,54.0,33.0,0.4938931965504902
 "Jan. 24, 2023",ARI,Juuso Valimaki,LD,24,Standard,1-way,1,1000000,1000000,51.0,6.0,0.5267782955089878
-"Jan. 16, 2023",MIN,Matthew Boldy,"RW, LW",22,Standard,1-way,7,7000000,49000000,54.0,26.0,0.5409364755732176
+"Jan. 16, 2023",MIN,Matthew Boldy,"RW, LW",22,Standard,1-way,7,7000000,49000000,55.0,27.0,0.5434610131454428
 "Jan. 14, 2023",BOS,Pavel Zacha,"LW, RW, C",26,Standard,1-way,4,4750000,19000000,54.0,23.0,0.4947732281968748
 "Jan. 6, 2023",EDM,Justin Bailey,RW,26,Standard,2-way,1,750000,750000,,,
-"Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,53.0,15.0,0.5800039307005331
+"Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,54.0,15.0,0.5866532801023361
 "Jan. 2, 2023",TBL,Nick Perbix,RD,25,Standard,1-way,2,1125000,2250000,43.0,11.0,0.528697909240496
 "Jan. 2, 2023",STL,Joel Hofer,G,22,Standard,1-way,2,775000,1550000,,,
-"Jan. 1, 2023",DAL,Joe Pavelski,RW,38,35+,1-way,1,3500000,5500000,55.0,32.0,0.5906779125539733
+"Jan. 1, 2023",DAL,Joe Pavelski,RW,38,35+,1-way,1,3500000,5500000,56.0,32.0,0.5899493894577004
 "Dec. 31, 2022",PHI,Ethan Samson,RD,18,Entry-Level,2-way,3,876667,2700000,,,
 "Dec. 30, 2022",WPG,Danny Zhilkin,C,18,Entry-Level,2-way,3,860000,2740000,,,
 "Dec. 30, 2022",ANA,Gage Alexander,G,19,Entry-Level,2-way,3,810000,2430000,,,
 "Dec. 27, 2022",VGK,Matyas Sapovaliv,C,18,Entry-Level,2-way,3,860000,2580000,,,
 "Dec. 23, 2022",DET,Amadeus Lombardi,C,19,Entry-Level,2-way,3,861667,2850000,,,
-"Dec. 21, 2022",OTT,Artem Zub,RD,27,Standard,1-way,4,4600000,18400000,24.0,3.0,0.5615205937263623
+"Dec. 21, 2022",OTT,Artem Zub,RD,27,Standard,1-way,4,4600000,18400000,25.0,3.0,0.5565006988719702
 "Dec. 19, 2022",CBJ,Justin Richards,"C, RW",24,Standard,2-way,1,750000,750000,,,
 "Dec. 19, 2022",EDM,Stuart Skinner,G,24,Standard,1-way,3,2600000,7800000,,,
 "Dec. 18, 2022",EDM,Jason Demers,RD,34,Standard,2-way,1,750000,750000,,,
 "Dec. 17, 2022",STL,Marc-Andre Gaudet,LD,19,Entry-Level,2-way,3,849167,2547500,,,
-"Dec. 15, 2022",LAK,Trevor Moore,"LW, RW",28,Standard,1-way,5,4200000,21000000,39.0,14.0,0.5388981151159128
+"Dec. 15, 2022",LAK,Trevor Moore,"LW, RW",28,Standard,1-way,5,4200000,21000000,40.0,15.0,0.5338427580085442
 "Dec. 10, 2022",VGK,Jakub Brabenec,C,18,Entry-Level,2-way,3,846667,2540000,,,
 "Dec. 1, 2022",CBJ,James Malatesta,LW,19,Entry-Level,2-way,3,870833,2637500,,,
 "Dec. 1, 2022",CBJ,Luca Del Bel Belluz,C,18,Entry-Level,2-way,3,923333,2850000,,,
-"Nov. 29, 2022",DAL,Roope Hintz,C,26,Standard,1-way,8,8450000,67600000,47.0,40.0,0.5931708195495021
+"Nov. 29, 2022",DAL,Roope Hintz,C,26,Standard,1-way,8,8450000,67600000,48.0,40.0,0.5928191139266638
 "Nov. 28, 2022",COL,Alex Galchenyuk,"LW, C, RW",28,Standard,2-way,1,750000,750000,4.0,0.0,0.194569972924436
 "Nov. 25, 2022",CBJ,Jordan Dumais,RW,18,Entry-Level,2-way,3,923333,2850000,,,
 "Nov. 23, 2022",CAR,Pyotr Kochetkov,G,24,Standard,1-way,4,2000000,8000000,,,
