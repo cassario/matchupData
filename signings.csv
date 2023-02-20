@@ -5,17 +5,17 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Feb. 10, 2023",LAK,Pheonix Copley,G,31,Standard,1-way,1,1500000,1500000,,,
 "Feb. 10, 2023",MTL,Jordan Harris,LD/RD,22,Standard,1-way,2,1400000,2800000,52.0,8.0,0.4877693544468767
 "Feb. 10, 2023",FLA,Josh Mahura,LD/RD,25,Standard,1-way,1,925000,925000,59.0,9.0,0.572979562146946
-"Feb. 9, 2023",TOR,Conor Timmins,RD,24,Standard,1-way,2,1100000,2200000,21.0,9.0,0.5108554148731242
-"Feb. 8, 2023",NSH,Thomas Novak,C,26,Standard,1-way,1,800000,800000,44.0,22.0,0.5250243278708399
+"Feb. 9, 2023",TOR,Conor Timmins,RD,24,Standard,1-way,2,1100000,2200000,22.0,9.0,0.5074509685336318
+"Feb. 8, 2023",NSH,Thomas Novak,C,26,Standard,1-way,1,800000,800000,46.0,24.0,0.5338408179977244
 "Feb. 7, 2023",BUF,Dylan Cozens,"C, LW",22,Standard,1-way,7,7100000,49700000,53.0,35.0,0.5220870403042467
-"Feb. 6, 2023",NSH,Cole Smith,LW,27,Standard,1-way,1,775000,775000,47.0,9.0,0.5103927290990378
+"Feb. 6, 2023",NSH,Cole Smith,LW,27,Standard,1-way,1,775000,775000,48.0,9.0,0.5089096728350578
 "Feb. 5, 2023",NYI,Bo Horvat,C,28,Standard,1-way,8,8500000,68000000,56.0,48.0,0.5035129301548921
 "Feb. 4, 2023",WSH,Sonny Milano,"LW, RW",27,Standard,1-way,3,1900000,5700000,45.0,15.0,0.5089618976704967
 "Feb. 3, 2023",WSH,Dylan Strome,C,26,Standard,1-way,5,5000000,25000000,57.0,28.0,0.5185729893857205
 "Jan. 26, 2023",NYR,Ben Harpur,LD,28,Standard,1-way,2,787500,1575000,21.0,1.0,0.3703300706342819
 "Jan. 26, 2023",VAN,Andrei Kuzmenko,"LW, RW",27,Standard,1-way,2,5500000,11000000,55.0,34.0,0.4951790288811098
-"Jan. 24, 2023",ARI,Juuso Valimaki,LD,24,Standard,1-way,1,1000000,1000000,52.0,6.0,0.5238275539503263
-"Jan. 16, 2023",MIN,Matthew Boldy,"RW, LW",22,Standard,1-way,7,7000000,49000000,55.0,27.0,0.5434610131454428
+"Jan. 24, 2023",ARI,Juuso Valimaki,LD,24,Standard,1-way,1,1000000,1000000,53.0,6.0,0.5238995314708673
+"Jan. 16, 2023",MIN,Matthew Boldy,"RW, LW",22,Standard,1-way,7,7000000,49000000,56.0,27.0,0.5389626550873599
 "Jan. 14, 2023",BOS,Pavel Zacha,"LW, RW, C",26,Standard,1-way,4,4750000,19000000,55.0,24.0,0.4954351909699127
 "Jan. 6, 2023",EDM,Justin Bailey,RW,26,Standard,2-way,1,750000,750000,,,
 "Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,55.0,15.0,0.5922597223875624
@@ -27,7 +27,7 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Dec. 30, 2022",ANA,Gage Alexander,G,19,Entry-Level,2-way,3,810000,2430000,,,
 "Dec. 27, 2022",VGK,Matyas Sapovaliv,C,18,Entry-Level,2-way,3,860000,2580000,,,
 "Dec. 23, 2022",DET,Amadeus Lombardi,C,19,Entry-Level,2-way,3,861667,2850000,,,
-"Dec. 21, 2022",OTT,Artem Zub,RD,27,Standard,1-way,4,4600000,18400000,25.0,3.0,0.5565006988719702
+"Dec. 21, 2022",OTT,Artem Zub,RD,27,Standard,1-way,4,4600000,18400000,26.0,4.0,0.5591545709680406
 "Dec. 19, 2022",CBJ,Justin Richards,"C, RW",24,Standard,2-way,1,750000,750000,,,
 "Dec. 19, 2022",EDM,Stuart Skinner,G,24,Standard,1-way,3,2600000,7800000,,,
 "Dec. 18, 2022",EDM,Jason Demers,RD,34,Standard,2-way,1,750000,750000,,,
@@ -49,4 +49,4 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Oct. 27, 2022",OTT,Mark Kastelic,C,24,Standard,1-way,2,835000,1670000,43.0,5.0,0.4676324498547933
 "Oct. 27, 2022",NYR,Ben Harpur,LD,27,Standard,2-way,1,750000,750000,21.0,1.0,0.3703300706342819
 "Oct. 27, 2022",SEA,Christopher Gibson,G,29,Standard,2-way,1,750000,750000,,,
-"Oct. 25, 2022",STL,Tyler Pitlick,RW,30,Standard,1-way,1,750000,750000,40.0,7.0,0.4052874647972588
+"Oct. 25, 2022",STL,Tyler Pitlick,RW,30,Standard,1-way,1,750000,750000,41.0,8.0,0.415259951270916
