@@ -71,15 +71,15 @@ GP:43 | W:0 | L:0
 Sv%: 0.893 | GSAX:-7.02
 
 ****",St. Louis Blues
-BOS,G,35,Linus Ullmark,G,29,L,"6'4""",215,,0,0,0,35.0,0.936,30.28,"**35 Linus Ullmark**
+BOS,G,35,Linus Ullmark,G,29,L,"6'4""",215,Confirmed Starter,28,0,starter,35.0,0.936,30.28,"**35 Linus Ullmark**
 
 
 
-GP:35 | W:0 | L:0
+GP:35 | W:28 | L:0
 
 Sv%: 0.936 | GSAX:30.28
 
-****",Boston Bruins
+**Confirmed Starter**",Boston Bruins
 BOS,G,1,Jeremy Swayman,G,24,L,"6'2""",187,,0,0,0,23.0,0.918,12.68,"**1 Jeremy Swayman**
 
 
@@ -179,15 +179,15 @@ GP:36 | W:0 | L:0
 Sv%: 0.917 | GSAX:8.82
 
 ****",New Jersey Devils
-ANA,G,36,John Gibson,G,29,L,"6'2""",215,,0,0,0,38.0,0.897,-10.650000000000006,"**36 John Gibson**
+ANA,G,36,John Gibson,G,29,L,"6'2""",215,Confirmed Starter,10,23,starter,38.0,0.897,-10.650000000000006,"**36 John Gibson**
 
 
 
-GP:38 | W:0 | L:0
+GP:38 | W:10 | L:23
 
 Sv%: 0.897 | GSAX:-10.65
 
-****",Anaheim Ducks
+**Confirmed Starter**",Anaheim Ducks
 ANA,G,1,Lukas Dostal,G,22,L,"6'2""",191,,0,0,0,8.0,0.899,-1.5500000000000007,"**1 Lukas Dostal**
 
 
@@ -395,15 +395,15 @@ GP:30 | W:0 | L:0
 Sv%: 0.913 | GSAX:1.28
 
 ****",Edmonton Oilers
-FLA,G,72,Sergei Bobrovsky,G,34,L,"6'2""",187,,0,0,0,36.0,0.902,4.060000000000002,"**72 Sergei Bobrovsky**
+FLA,G,72,Sergei Bobrovsky,G,34,L,"6'2""",187,Confirmed Starter,16,15,starter,36.0,0.902,4.060000000000002,"**72 Sergei Bobrovsky**
 
 
 
-GP:36 | W:0 | L:0
+GP:36 | W:16 | L:15
 
 Sv%: 0.902 | GSAX:4.06
 
-****",Florida Panthers
+**Confirmed Starter**",Florida Panthers
 FLA,G,30,Spencer Knight,G,21,L,"6'3""",193,,0,0,0,21.0,0.901,-4.479999999999997,"**30 Spencer Knight**
 
 
@@ -413,15 +413,15 @@ GP:21 | W:0 | L:0
 Sv%: 0.901 | GSAX:-4.48
 
 ****",Florida Panthers
-PIT,G,40,Dustin Tokarski,G,33,L,"6'0""",205,,0,0,0,4.0,0.897,1.17,"**40 Dustin Tokarski**
+PIT,G,35,Tristan Jarry,G,27,L,"6'2""",194,Confirmed Starter,16,5,starter,27.0,0.921,3.140000000000001,"**35 Tristan Jarry**
 
 
 
-GP:4 | W:0 | L:0
+GP:27 | W:16 | L:5
 
-Sv%: 0.897 | GSAX:1.17
+Sv%: 0.921 | GSAX:3.14
 
-****",Pittsburgh Penguins
+**Confirmed Starter**",Pittsburgh Penguins
 PIT,G,1,Casey DeSmith,G,31,L,"6'0""",181,,0,0,0,27.0,0.904,0.5300000000000011,"**1 Casey DeSmith**
 
 
@@ -503,6 +503,15 @@ GP:18 | W:0 | L:0
 Sv%: 0.914 | GSAX:3.53
 
 ****",Buffalo Sabres
+OTT,G,70,Kevin Mandolese,G,22,L,"6'5""",200,Confirmed Starter,1,0,starter,1.0,0.958,2.28,"**70 Kevin Mandolese**
+
+
+
+GP:1 | W:1 | L:0
+
+Sv%: 0.958 | GSAX:2.28
+
+**Confirmed Starter**",Ottawa Senators
 OTT,G,40,Mads Sogaard,G,22,L,"6'8""",199,,0,0,0,4.0,0.913,0.2599999999999998,"**40 Mads Sogaard**
 
 
@@ -512,15 +521,6 @@ GP:4 | W:0 | L:0
 Sv%: 0.913 | GSAX:0.26
 
 ****",Ottawa Senators
-OTT,G,70,Kevin Mandolese,G,22,L,"6'5""",200,Projected Starter,1,0,starter,1.0,0.958,2.28,"**70 Kevin Mandolese**
-
-
-
-GP:1 | W:1 | L:0
-
-Sv%: 0.958 | GSAX:2.28
-
-**Projected Starter**",Ottawa Senators
 SJS,G,47,James Reimer,G,34,L,"6'2""",220,Confirmed Starter,8,14,starter,28.0,0.895,-9.349999999999994,"**47 James Reimer**
 
 
