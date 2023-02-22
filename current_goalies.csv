@@ -26,15 +26,15 @@ GP:26 | W:0 | L:0
 Sv%: 0.888 | GSAX:-9.87
 
 ****",Chicago Blackhawks
-CHI,G,30,Jaxson Stauber,G,23,L,"6'3""",175,,0,0,0,5.0,0.912,1.5199999999999996,"**30 Jaxson Stauber**
+CHI,G,30,Jaxson Stauber,G,23,L,"6'3""",175,Projected Starter,4,1,starter,5.0,0.912,1.5199999999999996,"**30 Jaxson Stauber**
 
 
 
-GP:5 | W:0 | L:0
+GP:5 | W:4 | L:1
 
 Sv%: 0.912 | GSAX:1.52
 
-****",Chicago Blackhawks
+**Projected Starter**",Chicago Blackhawks
 CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181,,0,0,0,24.0,0.873,-23.94,"**90 Elvis Merzlikins**
 
 
@@ -287,11 +287,11 @@ GP:19 | W:0 | L:0
 Sv%: 0.911 | GSAX:2.31
 
 ****",New York Islanders
-WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,0,0,0,43.0,0.926,26.849999999999994,"**37 Connor Hellebuyck**
+WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,26,16,starter,43.0,0.926,26.849999999999994,"**37 Connor Hellebuyck**
 
 
 
-GP:43 | W:0 | L:0
+GP:43 | W:26 | L:16
 
 Sv%: 0.926 | GSAX:26.85
 
@@ -539,22 +539,22 @@ GP:25 | W:0 | L:0
 Sv%: 0.884 | GSAX:-14.66
 
 ****",San Jose Sharks
-DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,,0,0,0,42.0,0.926,19.319999999999997,"**29 Jake Oettinger**
+DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,,23,7,starter,42.0,0.926,19.319999999999997,"**29 Jake Oettinger**
 
 
 
-GP:42 | W:0 | L:0
+GP:42 | W:23 | L:7
 
 Sv%: 0.926 | GSAX:19.32
 
 ****",Dallas Stars
-DAL,G,41,Scott Wedgewood,G,30,L,"6'0""",194,,0,0,0,18.0,0.913,4.0,"**41 Scott Wedgewood**
+DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,19.0,0.911,4.829999999999998,"**32 Matt Murray**
 
 
 
-GP:18 | W:0 | L:0
+GP:19 | W:0 | L:0
 
-Sv%: 0.913 | GSAX:4.0
+Sv%: 0.911 | GSAX:4.83
 
 ****",Dallas Stars
 MIN,G,32,Filip Gustavsson,G,24,L,"6'2""",185,,0,0,0,26.0,0.928,15.689999999999998,"**32 Filip Gustavsson**
