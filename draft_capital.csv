@@ -3,10 +3,10 @@ season,team,round,picks,rd_value
 2023,CHI,Round 1,2.0,1.0
 2023,CBJ,Round 1,1.0,1.0
 2023,STL,Round 1,3.0,1.0
-2023,BOS,Round 1,1.0,1.0
+2023,BOS,Round 1,0.0,1.0
 2023,MTL,Round 1,2.0,1.0
 2023,VAN,Round 1,2.0,1.0
-2023,WSH,Round 1,1.0,1.0
+2023,WSH,Round 1,2.0,1.0
 2023,ARI,Round 1,1.0,1.0
 2023,NJD,Round 1,1.0,1.0
 2023,ANA,Round 1,1.0,1.0
@@ -131,7 +131,7 @@ season,team,round,picks,rd_value
 2023,CHI,Round 5,1.0,0.123
 2023,CBJ,Round 5,0.0,0.123
 2023,STL,Round 5,1.0,0.123
-2023,BOS,Round 5,1.0,0.123
+2023,BOS,Round 5,0.0,0.123
 2023,MTL,Round 5,2.0,0.123
 2023,VAN,Round 5,0.0,0.123
 2023,WSH,Round 5,1.0,0.123
@@ -158,7 +158,7 @@ season,team,round,picks,rd_value
 2023,OTT,Round 5,1.0,0.123
 2023,SJS,Round 5,2.0,0.123
 2023,DAL,Round 5,1.0,0.123
-2023,MIN,Round 5,1.0,0.123
+2023,MIN,Round 5,2.0,0.123
 2023,COL,Round 6,1.0,0.067
 2023,CHI,Round 6,0.0,0.067
 2023,CBJ,Round 6,1.0,0.067
@@ -291,10 +291,10 @@ season,team,round,picks,rd_value
 2024,CHI,Round 3,2.0,0.287
 2024,CBJ,Round 3,1.0,0.287
 2024,STL,Round 3,1.0,0.287
-2024,BOS,Round 3,1.0,0.287
+2024,BOS,Round 3,0.0,0.287
 2024,MTL,Round 3,1.0,0.287
 2024,VAN,Round 3,1.0,0.287
-2024,WSH,Round 3,1.0,0.287
+2024,WSH,Round 3,2.0,0.287
 2024,ARI,Round 3,3.0,0.287
 2024,NJD,Round 3,1.0,0.287
 2024,ANA,Round 3,1.0,0.287
@@ -483,10 +483,10 @@ season,team,round,picks,rd_value
 2025,CHI,Round 2,1.0,0.435
 2025,CBJ,Round 2,1.0,0.435
 2025,STL,Round 2,1.0,0.435
-2025,BOS,Round 2,1.0,0.435
+2025,BOS,Round 2,0.0,0.435
 2025,MTL,Round 2,1.0,0.435
 2025,VAN,Round 2,1.0,0.435
-2025,WSH,Round 2,1.0,0.435
+2025,WSH,Round 2,2.0,0.435
 2025,ARI,Round 2,4.0,0.435
 2025,NJD,Round 2,1.0,0.435
 2025,ANA,Round 2,1.0,0.435
