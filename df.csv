@@ -1,7 +1,12 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022020930,BUF@FLA,FLA,02-24-2023,7:00 PM,64,29,25,6,east,atlantic,none,4.5,BUF,62,29,23,4,east,atlantic,none,6.0
-2022020931,MIN@TOR,TOR,02-24-2023,7:00 PM,78,35,15,8,east,atlantic,top3,2.0,MIN,69,32,21,5,west,central,top3,3.0
-2022020932,MTL@PHI,PHI,02-24-2023,7:00 PM,56,23,26,10,east,metro,none,7.0,MTL,52,24,29,4,east,atlantic,none,8.0
-2022020933,OTT@CAR,CAR,02-24-2023,7:00 PM,84,38,10,8,east,metro,top3,1.0,OTT,58,27,25,4,east,atlantic,none,7.0
-2022020934,LAK@NYI,NYI,02-24-2023,7:30 PM,67,30,24,7,east,metro,wc,4.0,LAK,72,32,19,8,west,pacific,top3,2.5
-2022020935,COL@WPG,WPG,02-24-2023,8:00 PM,71,35,22,1,west,central,top3,2.0,COL,67,31,19,5,west,central,wc,4.0
+2022020936,EDM@CBJ,CBJ,02-25-2023,12:30 PM,41,18,35,5,east,metro,none,8.0,EDM,72,32,19,8,west,pacific,top3,3.0
+2022020937,NYR@WSH,WSH,02-25-2023,1:00 PM,62,28,26,6,east,metro,none,6.0,NYR,75,33,16,9,east,metro,top3,3.0
+2022020938,ANA@CAR,CAR,02-25-2023,7:00 PM,86,39,10,8,east,metro,top3,1.0,ANA,43,18,34,7,west,pacific,none,8.0
+2022020939,BOS@VAN,VAN,02-25-2023,7:00 PM,51,23,30,5,west,pacific,none,6.0,BOS,93,44,8,5,east,atlantic,top3,1.0
+2022020940,OTT@MTL,MTL,02-25-2023,7:00 PM,54,25,29,4,east,atlantic,none,8.0,OTT,58,27,26,4,east,atlantic,none,7.0
+2022020941,PHI@NJD,NJD,02-25-2023,7:00 PM,81,38,15,5,east,metro,top3,2.0,PHI,56,23,27,10,east,metro,none,7.0
+2022020942,TBL@DET,DET,02-25-2023,8:00 PM,64,28,21,8,east,atlantic,none,5.0,TBL,76,36,17,4,east,atlantic,top3,3.0
+2022020943,PIT@STL,STL,02-25-2023,3:30 PM,56,26,28,4,west,central,none,6.0,PIT,63,27,21,9,east,metro,none,5.0
+2022020944,CGY@COL,COL,02-25-2023,10:00 PM,69,32,19,5,west,central,wc,4.0,CGY,66,27,20,12,west,pacific,none,5.0
+2022020945,DAL@VGK,VGK,02-25-2023,10:00 PM,75,35,18,5,west,pacific,top3,1.0,DAL,72,30,16,12,west,central,top3,1.0
+2022020946,CHI@SJS,SJS,02-25-2023,10:30 PM,47,18,30,11,west,pacific,none,7.0,CHI,45,20,32,5,west,central,none,8.0
