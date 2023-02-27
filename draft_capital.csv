@@ -71,14 +71,14 @@ season,team,round,picks,rd_value
 2023,MTL,Round 3,1.0,0.287
 2023,VAN,Round 3,1.0,0.287
 2023,WSH,Round 3,0.0,0.287
-2023,ARI,Round 3,2.0,0.287
+2023,ARI,Round 3,3.0,0.287
 2023,NJD,Round 3,0.0,0.287
 2023,ANA,Round 3,2.0,0.287
 2023,CGY,Round 3,0.0,0.287
 2023,PHI,Round 3,2.0,0.287
 2023,VGK,Round 3,2.0,0.287
 2023,CAR,Round 3,1.0,0.287
-2023,NYI,Round 3,1.0,0.287
+2023,NYI,Round 3,0.0,0.287
 2023,WPG,Round 3,1.0,0.287
 2023,LAK,Round 3,2.0,0.287
 2023,SEA,Round 3,1.0,0.287
@@ -352,7 +352,7 @@ season,team,round,picks,rd_value
 2024,DAL,Round 4,0.0,0.192
 2024,MIN,Round 4,1.0,0.192
 2024,COL,Round 5,0.0,0.123
-2024,CHI,Round 5,2.0,0.123
+2024,CHI,Round 5,1.0,0.123
 2024,CBJ,Round 5,1.0,0.123
 2024,STL,Round 5,1.0,0.123
 2024,BOS,Round 5,1.0,0.123
@@ -371,7 +371,7 @@ season,team,round,picks,rd_value
 2024,LAK,Round 5,1.0,0.123
 2024,SEA,Round 5,1.0,0.123
 2024,TBL,Round 5,1.0,0.123
-2024,TOR,Round 5,1.0,0.123
+2024,TOR,Round 5,2.0,0.123
 2024,EDM,Round 5,1.0,0.123
 2024,FLA,Round 5,2.0,0.123
 2024,PIT,Round 5,1.0,0.123
@@ -448,7 +448,7 @@ season,team,round,picks,rd_value
 2024,DAL,Round 7,1.0,0.021
 2024,MIN,Round 7,1.0,0.021
 2025,COL,Round 1,1.0,1.0
-2025,CHI,Round 1,1.0,1.0
+2025,CHI,Round 1,2.0,1.0
 2025,CBJ,Round 1,1.0,1.0
 2025,STL,Round 1,1.0,1.0
 2025,BOS,Round 1,1.0,1.0
@@ -467,7 +467,7 @@ season,team,round,picks,rd_value
 2025,LAK,Round 1,1.0,1.0
 2025,SEA,Round 1,1.0,1.0
 2025,TBL,Round 1,0.0,1.0
-2025,TOR,Round 1,1.0,1.0
+2025,TOR,Round 1,0.0,1.0
 2025,EDM,Round 1,1.0,1.0
 2025,FLA,Round 1,0.0,1.0
 2025,PIT,Round 1,1.0,1.0
@@ -576,7 +576,7 @@ season,team,round,picks,rd_value
 2025,DAL,Round 4,0.0,0.192
 2025,MIN,Round 4,2.0,0.192
 2025,COL,Round 5,1.0,0.123
-2025,CHI,Round 5,1.0,0.123
+2025,CHI,Round 5,0.0,0.123
 2025,CBJ,Round 5,1.0,0.123
 2025,STL,Round 5,1.0,0.123
 2025,BOS,Round 5,1.0,0.123
@@ -595,7 +595,7 @@ season,team,round,picks,rd_value
 2025,LAK,Round 5,1.0,0.123
 2025,SEA,Round 5,1.0,0.123
 2025,TBL,Round 5,1.0,0.123
-2025,TOR,Round 5,1.0,0.123
+2025,TOR,Round 5,2.0,0.123
 2025,EDM,Round 5,1.0,0.123
 2025,FLA,Round 5,1.0,0.123
 2025,PIT,Round 5,1.0,0.123
@@ -704,7 +704,7 @@ season,team,round,picks,rd_value
 2026,DAL,Round 1,1.0,1.0
 2026,MIN,Round 1,1.0,1.0
 2026,COL,Round 2,1.0,0.435
-2026,CHI,Round 2,1.0,0.435
+2026,CHI,Round 2,2.0,0.435
 2026,CBJ,Round 2,1.0,0.435
 2026,STL,Round 2,1.0,0.435
 2026,BOS,Round 2,1.0,0.435
@@ -723,7 +723,7 @@ season,team,round,picks,rd_value
 2026,LAK,Round 2,1.0,0.435
 2026,SEA,Round 2,1.0,0.435
 2026,TBL,Round 2,1.0,0.435
-2026,TOR,Round 2,1.0,0.435
+2026,TOR,Round 2,0.0,0.435
 2026,EDM,Round 2,1.0,0.435
 2026,FLA,Round 2,1.0,0.435
 2026,PIT,Round 2,1.0,0.435
