@@ -1,7 +1,10 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
-"Mar. 3, 2023",NSH,Dante Fabbro,RD,25,Standard,1-way,1,2500000,2500000,56.0,4.0,0.5181967214324046
+"Mar. 3, 2023",DET,John Lethemon,G,25,Standard,2-way,1,750000,750000,,,
+"Mar. 3, 2023",NSH,Kevin Lankinen,G,28,Standard,1-way,1,2000000,2000000,,,
 "Mar. 3, 2023",DET,Alex Chiasson,RW,31,Standard,2-way,1,750000,750000,,,
 "Mar. 3, 2023",WSH,Nicolas Aube-Kubel,RW,27,Standard,1-way,1,1225000,1225000,36.0,5.0,0.5320493819049895
+"Mar. 3, 2023",NSH,Dante Fabbro,RD,25,Standard,1-way,1,2500000,2500000,56.0,4.0,0.5181967214324046
+"Mar. 2, 2023",STL,Samuel Blais,"LW, RW",27,Standard,1-way,1,1000000,1000000,50.0,3.0,0.4436533306434435
 "Mar. 2, 2023",ANA,Jaxsen Wiebe,"RW, C",21,Entry-Level,2-way,3,852500,2557500,,,
 "Mar. 2, 2023",DAL,Gavin White,RD,20,Entry-Level,2-way,3,857500,2732500,,,
 "Mar. 2, 2023",VGK,Christoffer Sedoff,LD,21,Entry-Level,2-way,3,870000,2850000,,,
@@ -11,7 +14,6 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Mar. 2, 2023",FLA,Evan Fitzpatrick,G,24,Standard,2-way,1,750000,750000,,,
 "Mar. 2, 2023",SJS,Derrick Pouliot,LD,28,Standard,2-way,1,750000,750000,,,
 "Mar. 2, 2023",OTT,Dylan Ferguson,G,23,Standard,2-way,1,750000,750000,,,
-"Mar. 2, 2023",STL,Samuel Blais,"LW, RW",27,Standard,1-way,1,1000000,1000000,50.0,3.0,0.4436533306434435
 "Mar. 2, 2023",BOS,David Pastrnak,RW,27,Standard,1-way,8,11250000,90000000,61.0,66.0,0.5402467575748668
 "Mar. 1, 2023",MTL,Xavier Simoneau,"RW, LW, C",22,Entry-Level,2-way,2,855000,1710000,,,
 "Mar. 1, 2023",STL,Michael Buchinger,LD,19,Entry-Level,2-way,3,870000,2850000,,,
@@ -31,7 +33,7 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,63.0,5.0,0.5049001481873935
 "Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,1.0,0.0,0.1845967061698702
 "Feb. 10, 2023",LAK,Pheonix Copley,G,31,Standard,1-way,1,1500000,1500000,,,
-"Feb. 10, 2023",MTL,Jordan Harris,LD/RD,22,Standard,1-way,2,1400000,2800000,57.0,8.0,0.4842511429646652
+"Feb. 10, 2023",MTL,Jordan Harris,LD/RD,22,Standard,1-way,2,1400000,2800000,58.0,8.0,0.4856400101316194
 "Feb. 10, 2023",FLA,Josh Mahura,LD/RD,25,Standard,1-way,1,925000,925000,63.0,10.0,0.5816441412996726
 "Feb. 9, 2023",TOR,Conor Timmins,RD,24,Standard,1-way,2,1100000,2200000,24.0,9.0,0.5108052286564216
 "Feb. 8, 2023",NSH,Thomas Novak,C,26,Standard,1-way,1,800000,800000,56.0,34.0,0.5231898376767121
@@ -42,11 +44,9 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Feb. 3, 2023",WSH,Dylan Strome,C,26,Standard,1-way,5,5000000,25000000,62.0,31.0,0.5282496216580234
 "Jan. 26, 2023",NYR,Ben Harpur,LD,28,Standard,1-way,2,787500,1575000,26.0,1.0,0.3868364508915151
 "Jan. 26, 2023",VAN,Andrei Kuzmenko,"LW, RW",27,Standard,1-way,2,5500000,11000000,60.0,38.0,0.5068906421809277
-"Jan. 24, 2023",ARI,Juuso Valimaki,LD,24,Standard,1-way,1,1000000,1000000,57.0,8.0,0.526366851773291
+"Jan. 24, 2023",ARI,Juuso Valimaki,LD,24,Standard,1-way,1,1000000,1000000,58.0,8.0,0.5275925193918066
 "Jan. 16, 2023",MIN,Matthew Boldy,"RW, LW",22,Standard,1-way,7,7000000,49000000,62.0,28.0,0.5289557631329833
 "Jan. 14, 2023",BOS,Pavel Zacha,"LW, RW, C",26,Standard,1-way,4,4750000,19000000,61.0,28.0,0.4927310276783831
 "Jan. 6, 2023",EDM,Justin Bailey,RW,26,Standard,2-way,1,750000,750000,,,
 "Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,61.0,15.0,0.5788282460304576
 "Jan. 2, 2023",TBL,Nick Perbix,RD,25,Standard,1-way,2,1125000,2250000,50.0,13.0,0.5267133970783899
-"Jan. 2, 2023",STL,Joel Hofer,G,22,Standard,1-way,2,775000,1550000,,,
-"Jan. 1, 2023",DAL,Joe Pavelski,RW,38,35+,1-way,1,3500000,5500000,62.0,34.0,0.5919536907629037
