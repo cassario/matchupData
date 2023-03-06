@@ -107,6 +107,15 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****",Montreal Canadiens
+VAN,G,31,Arturs Silovs,G,21,L,"6'4""",203,Confirmed Starter,2,2,starter,4.0,0.908,-1.1999999999999993,"**31 Arturs Silovs**
+
+
+
+GP:4 | W:2 | L:2
+
+Sv%: 0.908 | GSAX:-1.2
+
+**Confirmed Starter**",Vancouver Canucks
 VAN,G,35,Thatcher Demko,G,27,L,"6'4""",192,,0,0,0,18.0,0.893,-6.780000000000001,"**35 Thatcher Demko**
 
 
@@ -116,24 +125,15 @@ GP:18 | W:0 | L:0
 Sv%: 0.893 | GSAX:-6.78
 
 ****",Vancouver Canucks
-VAN,G,60,Collin Delia,G,28,L,"6'2""",208,,0,0,0,15.0,0.876,-4.329999999999998,"**60 Collin Delia**
+WSH,G,35,Darcy Kuemper,G,32,L,"6'5""",215,Confirmed Starter,19,19,starter,43.0,0.91,6.159999999999997,"**35 Darcy Kuemper**
 
 
 
-GP:15 | W:0 | L:0
-
-Sv%: 0.876 | GSAX:-4.33
-
-****",Vancouver Canucks
-WSH,G,35,Darcy Kuemper,G,32,L,"6'5""",215,,0,0,0,43.0,0.91,6.159999999999997,"**35 Darcy Kuemper**
-
-
-
-GP:43 | W:0 | L:0
+GP:43 | W:19 | L:19
 
 Sv%: 0.91 | GSAX:6.16
 
-****",Washington Capitals
+**Confirmed Starter**",Washington Capitals
 WSH,G,79,Charlie Lindgren,G,29,R,"6'1""",182,,0,0,0,26.0,0.905,1.5600000000000025,"**79 Charlie Lindgren**
 
 
@@ -143,15 +143,6 @@ GP:26 | W:0 | L:0
 Sv%: 0.905 | GSAX:1.56
 
 ****",Washington Capitals
-ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,,0,0,0,23.0,0.906,3.010000000000005,"**39 Connor Ingram**
-
-
-
-GP:23 | W:0 | L:0
-
-Sv%: 0.906 | GSAX:3.01
-
-****",Arizona Coyotes
 ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203,,0,0,0,42.0,0.902,12.620000000000005,"**70 Karel Vejmelka**
 
 
@@ -159,6 +150,15 @@ ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203,,0,0,0,42.0,0.902,12.620000000000005,
 GP:42 | W:0 | L:0
 
 Sv%: 0.902 | GSAX:12.62
+
+****",Arizona Coyotes
+ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,,0,0,0,23.0,0.906,3.010000000000005,"**39 Connor Ingram**
+
+
+
+GP:23 | W:0 | L:0
+
+Sv%: 0.906 | GSAX:3.01
 
 ****",Arizona Coyotes
 NJD,G,41,Vitek Vanecek,G,27,L,"6'1""",180,,0,0,0,40.0,0.908,1.6099999999999994,"**41 Vitek Vanecek**
@@ -197,15 +197,15 @@ GP:10 | W:0 | L:0
 Sv%: 0.897 | GSAX:-0.82
 
 ****",Anaheim Ducks
-CGY,G,25,Jacob Markstrom,G,33,L,"6'6""",206,,0,0,0,42.0,0.89,0.3599999999999994,"**25 Jacob Markstrom**
+CGY,G,25,Jacob Markstrom,G,33,L,"6'6""",206,Confirmed Starter,15,17,starter,42.0,0.89,0.3599999999999994,"**25 Jacob Markstrom**
 
 
 
-GP:42 | W:0 | L:0
+GP:42 | W:15 | L:17
 
 Sv%: 0.89 | GSAX:0.36
 
-****",Calgary Flames
+**Confirmed Starter**",Calgary Flames
 CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,,0,0,0,0.0,0.0,0.0,"**80 Daniel Vladar**
 
 
@@ -314,15 +314,15 @@ GP:29 | W:0 | L:0
 Sv%: 0.912 | GSAX:8.34
 
 ****",Los Angeles Kings
-LAK,G,29,Pheonix Copley,G,31,L,"6'4""",200,,0,0,0,28.0,0.897,2.390000000000001,"**29 Pheonix Copley**
+LAK,G,29,Pheonix Copley,G,31,L,"6'4""",200,Confirmed Starter,19,4,starter,28.0,0.897,2.390000000000001,"**29 Pheonix Copley**
 
 
 
-GP:28 | W:0 | L:0
+GP:28 | W:19 | L:4
 
 Sv%: 0.897 | GSAX:2.39
 
-****",Los Angeles Kings
+**Confirmed Starter**",Los Angeles Kings
 SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,,0,0,0,27.0,0.895,2.680000000000007,"**31 Philipp Grubauer**
 
 
@@ -359,6 +359,15 @@ GP:16 | W:0 | L:0
 Sv%: 0.894 | GSAX:-1.24
 
 ****",Tampa Bay Lightning
+TOR,G,35,Ilya Samsonov,G,26,L,"6'3""",208,,0,0,0,32.0,0.915,10.86,"**35 Ilya Samsonov**
+
+
+
+GP:32 | W:0 | L:0
+
+Sv%: 0.915 | GSAX:10.86
+
+****",Toronto Maple Leafs
 TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,1.0,0.905,0.6800000000000002,"**30 Matt Murray**
 
 
@@ -375,15 +384,6 @@ TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,20.0,0.908,3.719999999999999,"**3
 GP:20 | W:0 | L:0
 
 Sv%: 0.908 | GSAX:3.72
-
-****",Toronto Maple Leafs
-TOR,G,35,Ilya Samsonov,G,26,L,"6'3""",208,,0,0,0,32.0,0.915,10.86,"**35 Ilya Samsonov**
-
-
-
-GP:32 | W:0 | L:0
-
-Sv%: 0.915 | GSAX:10.86
 
 ****",Toronto Maple Leafs
 EDM,G,74,Stuart Skinner,G,24,L,"6'4""",207,Confirmed Starter,17,13,starter,36.0,0.912,-0.3100000000000023,"**74 Stuart Skinner**
@@ -440,11 +440,11 @@ GP:30 | W:0 | L:0
 Sv%: 0.904 | GSAX:2.36
 
 ****",Pittsburgh Penguins
-NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,0,0,0,46.0,0.917,29.340000000000003,"**74 Juuse Saros**
+NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,24,17,starter,46.0,0.917,29.340000000000003,"**74 Juuse Saros**
 
 
 
-GP:46 | W:0 | L:0
+GP:46 | W:24 | L:17
 
 Sv%: 0.917 | GSAX:29.34
 
