@@ -1,22 +1,31 @@
 team,pos,num,player,positions_played,age,handedness,ht,wt,confirmed,w,l,starter,gp,sv%,gsax,info,full
-COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,,0,0,0,43.0,0.918,16.710000000000008,"**40 Alexandar Georgiev**
+COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,,0,0,0,44.0,0.918,15.560000000000002,"**40 Alexandar Georgiev**
 
 
 
-GP:43 | W:0 | L:0
+GP:44 | W:0 | L:0
 
-Sv%: 0.918 | GSAX:16.71
-
-****",Colorado Avalanche
-COL,G,30,Keith Kinkaid,G,33,L,"6'3""",186,,0,0,0,2.0,0.95,2.1900000000000004,"**30 Keith Kinkaid**
-
-
-
-GP:2 | W:0 | L:0
-
-Sv%: 0.95 | GSAX:2.19
+Sv%: 0.918 | GSAX:15.56
 
 ****",Colorado Avalanche
+COL,G,39,Pavel Francouz,G,32,R,"6'0""",179,,0,0,0,15.0,0.919,1.8599999999999997,"**39 Pavel Francouz**
+
+
+
+GP:15 | W:0 | L:0
+
+Sv%: 0.919 | GSAX:1.86
+
+****",Colorado Avalanche
+CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,Confirmed Starter,6,7,starter,15.0,0.915,2.3999999999999986,"**32 Alex Stalock**
+
+
+
+GP:15 | W:6 | L:7
+
+Sv%: 0.915 | GSAX:2.4
+
+**Confirmed Starter**",Chicago Blackhawks
 CHI,G,34,Petr Mrazek,G,31,L,"6'1""",190,,0,0,0,30.0,0.891,-6.599999999999994,"**34 Petr Mrazek**
 
 
@@ -24,15 +33,6 @@ CHI,G,34,Petr Mrazek,G,31,L,"6'1""",190,,0,0,0,30.0,0.891,-6.599999999999994,"**
 GP:30 | W:0 | L:0
 
 Sv%: 0.891 | GSAX:-6.6
-
-****",Chicago Blackhawks
-CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,,0,0,0,15.0,0.915,2.3999999999999986,"**32 Alex Stalock**
-
-
-
-GP:15 | W:0 | L:0
-
-Sv%: 0.915 | GSAX:2.4
 
 ****",Chicago Blackhawks
 CBJ,G,90,Elvis Merzlikins,G,28,L,"6'3""",181,,0,0,0,28.0,0.879,-22.980000000000004,"**90 Elvis Merzlikins**
@@ -89,6 +89,15 @@ GP:26 | W:0 | L:0
 Sv%: 0.918 | GSAX:13.65
 
 ****",Boston Bruins
+MTL,G,34,Jake Allen,G,32,L,"6'2""",195,,0,0,0,36.0,0.897,5.840000000000003,"**34 Jake Allen**
+
+
+
+GP:36 | W:0 | L:0
+
+Sv%: 0.897 | GSAX:5.84
+
+****",Montreal Canadiens
 MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,,0,0,0,0.0,0.0,0.0,"**35 Samuel Montembeault**
 
 
@@ -96,15 +105,6 @@ MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,,0,0,0,0.0,0.0,0.0,"**35 Samuel 
 GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
-
-****",Montreal Canadiens
-MTL,G,34,Jake Allen,G,32,L,"6'2""",195,,0,0,0,35.0,0.898,6.939999999999998,"**34 Jake Allen**
-
-
-
-GP:35 | W:0 | L:0
-
-Sv%: 0.898 | GSAX:6.94
 
 ****",Montreal Canadiens
 VAN,G,35,Thatcher Demko,G,27,L,"6'4""",192,,0,0,0,18.0,0.893,-6.780000000000001,"**35 Thatcher Demko**
@@ -143,6 +143,15 @@ GP:26 | W:0 | L:0
 Sv%: 0.905 | GSAX:1.56
 
 ****",Washington Capitals
+ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,,0,0,0,23.0,0.906,3.010000000000005,"**39 Connor Ingram**
+
+
+
+GP:23 | W:0 | L:0
+
+Sv%: 0.906 | GSAX:3.01
+
+****",Arizona Coyotes
 ARI,G,70,Karel Vejmelka,G,26,R,"6'3""",203,,0,0,0,42.0,0.902,12.620000000000005,"**70 Karel Vejmelka**
 
 
@@ -152,22 +161,13 @@ GP:42 | W:0 | L:0
 Sv%: 0.902 | GSAX:12.62
 
 ****",Arizona Coyotes
-ARI,G,39,Connor Ingram,G,25,L,"6'0""",212,,0,0,0,22.0,0.908,4.230000000000004,"**39 Connor Ingram**
+NJD,G,41,Vitek Vanecek,G,27,L,"6'1""",180,,0,0,0,40.0,0.908,1.6099999999999994,"**41 Vitek Vanecek**
 
 
 
-GP:22 | W:0 | L:0
+GP:40 | W:0 | L:0
 
-Sv%: 0.908 | GSAX:4.23
-
-****",Arizona Coyotes
-NJD,G,41,Vitek Vanecek,G,27,L,"6'1""",180,,0,0,0,39.0,0.91,2.2900000000000063,"**41 Vitek Vanecek**
-
-
-
-GP:39 | W:0 | L:0
-
-Sv%: 0.91 | GSAX:2.29
+Sv%: 0.908 | GSAX:1.61
 
 ****",New Jersey Devils
 NJD,G,40,Akira Schmid,G,22,L,"6'5""",205,,0,0,0,12.0,0.926,6.469999999999999,"**40 Akira Schmid**
@@ -215,13 +215,13 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****",Calgary Flames
-PHI,G,79,Carter Hart,G,24,L,"6'2""",181,,0,0,0,45.0,0.907,11.330000000000013,"**79 Carter Hart**
+PHI,G,79,Carter Hart,G,24,L,"6'2""",181,,0,0,0,46.0,0.908,12.069999999999991,"**79 Carter Hart**
 
 
 
-GP:45 | W:0 | L:0
+GP:46 | W:0 | L:0
 
-Sv%: 0.907 | GSAX:11.33
+Sv%: 0.908 | GSAX:12.07
 
 ****",Philadelphia Flyers
 PHI,G,32,Felix Sandstrom,G,26,L,"6'2""",192,,0,0,0,11.0,0.88,-6.600000000000001,"**32 Felix Sandstrom**
@@ -233,6 +233,15 @@ GP:11 | W:0 | L:0
 Sv%: 0.88 | GSAX:-6.6
 
 ****",Philadelphia Flyers
+VGK,G,32,Jonathan Quick,G,37,L,"6'1""",216,,0,0,0,32.0,0.877,-19.81,"**32 Jonathan Quick**
+
+
+
+GP:32 | W:0 | L:0
+
+Sv%: 0.877 | GSAX:-19.81
+
+****",Vegas Golden Knights
 VGK,G,33,Adin Hill,G,26,L,"6'6""",202,,0,0,0,26.0,0.913,0.1799999999999997,"**33 Adin Hill**
 
 
@@ -242,15 +251,15 @@ GP:26 | W:0 | L:0
 Sv%: 0.913 | GSAX:0.18
 
 ****",Vegas Golden Knights
-VGK,G,32,Jonathan Quick,G,37,L,"6'1""",216,Confirmed Starter,11,13,starter,31.0,0.876,-18.980000000000004,"**32 Jonathan Quick**
+CAR,G,31,Frederik Andersen,G,33,L,"6'4""",238,,0,0,0,22.0,0.905,-2.890000000000001,"**31 Frederik Andersen**
 
 
 
-GP:31 | W:11 | L:13
+GP:22 | W:0 | L:0
 
-Sv%: 0.876 | GSAX:-18.98
+Sv%: 0.905 | GSAX:-2.89
 
-**Confirmed Starter**",Vegas Golden Knights
+****",Carolina Hurricanes
 CAR,G,32,Antti Raanta,G,33,L,"6'0""",195,,0,0,0,22.0,0.909,0.75,"**32 Antti Raanta**
 
 
@@ -258,15 +267,6 @@ CAR,G,32,Antti Raanta,G,33,L,"6'0""",195,,0,0,0,22.0,0.909,0.75,"**32 Antti Raan
 GP:22 | W:0 | L:0
 
 Sv%: 0.909 | GSAX:0.75
-
-****",Carolina Hurricanes
-CAR,G,31,Frederik Andersen,G,33,L,"6'4""",238,,14,6,starter,21.0,0.903,-3.950000000000003,"**31 Frederik Andersen**
-
-
-
-GP:21 | W:14 | L:6
-
-Sv%: 0.903 | GSAX:-3.95
 
 ****",Carolina Hurricanes
 NYI,G,30,Ilya Sorokin,G,27,L,"6'2""",172,,0,0,0,47.0,0.926,33.099999999999994,"**30 Ilya Sorokin**
@@ -287,6 +287,15 @@ GP:20 | W:0 | L:0
 Sv%: 0.914 | GSAX:4.48
 
 ****",New York Islanders
+WPG,G,33,David Rittich,G,30,L,"6'3""",206,Confirmed Starter,9,6,starter,18.0,0.908,-0.6599999999999966,"**33 David Rittich**
+
+
+
+GP:18 | W:9 | L:6
+
+Sv%: 0.908 | GSAX:-0.66
+
+**Confirmed Starter**",Winnipeg Jets
 WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,0,0,0,48.0,0.919,22.75999999999999,"**37 Connor Hellebuyck**
 
 
@@ -294,15 +303,6 @@ WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,0,0,0,48.0,0.919,22.7599999999999
 GP:48 | W:0 | L:0
 
 Sv%: 0.919 | GSAX:22.76
-
-****",Winnipeg Jets
-WPG,G,33,David Rittich,G,30,L,"6'3""",206,,0,0,0,18.0,0.908,-0.6599999999999966,"**33 David Rittich**
-
-
-
-GP:18 | W:0 | L:0
-
-Sv%: 0.908 | GSAX:-0.66
 
 ****",Winnipeg Jets
 LAK,G,70,Joonas Korpisalo,G,28,L,"6'3""",191,,0,0,0,29.0,0.912,8.340000000000003,"**70 Joonas Korpisalo**
@@ -323,13 +323,13 @@ GP:28 | W:0 | L:0
 Sv%: 0.897 | GSAX:2.39
 
 ****",Los Angeles Kings
-SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,,0,0,0,26.0,0.895,1.9599999999999935,"**31 Philipp Grubauer**
+SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,,0,0,0,27.0,0.895,2.680000000000007,"**31 Philipp Grubauer**
 
 
 
-GP:26 | W:0 | L:0
+GP:27 | W:0 | L:0
 
-Sv%: 0.895 | GSAX:1.96
+Sv%: 0.895 | GSAX:2.68
 
 ****",Seattle Kraken
 SEA,G,30,Martin Jones,G,33,L,"6'4""",190,,0,0,0,41.0,0.888,-3.9099999999999966,"**30 Martin Jones**
@@ -341,6 +341,15 @@ GP:41 | W:0 | L:0
 Sv%: 0.888 | GSAX:-3.91
 
 ****",Seattle Kraken
+TBL,G,88,Andrei Vasilevskiy,G,28,L,"6'3""",216,,0,0,0,47.0,0.915,17.75,"**88 Andrei Vasilevskiy**
+
+
+
+GP:47 | W:0 | L:0
+
+Sv%: 0.915 | GSAX:17.75
+
+****",Tampa Bay Lightning
 TBL,G,1,Brian Elliott,G,37,L,"6'2""",209,,0,0,0,16.0,0.894,-1.240000000000002,"**1 Brian Elliott**
 
 
@@ -350,24 +359,6 @@ GP:16 | W:0 | L:0
 Sv%: 0.894 | GSAX:-1.24
 
 ****",Tampa Bay Lightning
-TBL,G,88,Andrei Vasilevskiy,G,28,L,"6'3""",216,Projected Starter,28,15,starter,46.0,0.917,19.25,"**88 Andrei Vasilevskiy**
-
-
-
-GP:46 | W:28 | L:15
-
-Sv%: 0.917 | GSAX:19.25
-
-**Projected Starter**",Tampa Bay Lightning
-TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,20.0,0.908,3.719999999999999,"**30 Matt Murray**
-
-
-
-GP:20 | W:0 | L:0
-
-Sv%: 0.908 | GSAX:3.72
-
-****",Toronto Maple Leafs
 TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,1.0,0.905,0.6800000000000002,"**30 Matt Murray**
 
 
@@ -375,6 +366,15 @@ TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,1.0,0.905,0.6800000000000002,"**3
 GP:1 | W:0 | L:0
 
 Sv%: 0.905 | GSAX:0.68
+
+****",Toronto Maple Leafs
+TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,20.0,0.908,3.719999999999999,"**30 Matt Murray**
+
+
+
+GP:20 | W:0 | L:0
+
+Sv%: 0.908 | GSAX:3.72
 
 ****",Toronto Maple Leafs
 TOR,G,35,Ilya Samsonov,G,26,L,"6'3""",208,,0,0,0,32.0,0.915,10.86,"**35 Ilya Samsonov**
@@ -386,6 +386,15 @@ GP:32 | W:0 | L:0
 Sv%: 0.915 | GSAX:10.86
 
 ****",Toronto Maple Leafs
+EDM,G,74,Stuart Skinner,G,24,L,"6'4""",207,Confirmed Starter,17,13,starter,36.0,0.912,-0.3100000000000023,"**74 Stuart Skinner**
+
+
+
+GP:36 | W:17 | L:13
+
+Sv%: 0.912 | GSAX:-0.31
+
+**Confirmed Starter**",Edmonton Oilers
 EDM,G,36,Jack Campbell,G,31,L,"6'2""",197,,0,0,0,32.0,0.882,-20.69,"**36 Jack Campbell**
 
 
@@ -393,15 +402,6 @@ EDM,G,36,Jack Campbell,G,31,L,"6'2""",197,,0,0,0,32.0,0.882,-20.69,"**36 Jack Ca
 GP:32 | W:0 | L:0
 
 Sv%: 0.882 | GSAX:-20.69
-
-****",Edmonton Oilers
-EDM,G,74,Stuart Skinner,G,24,L,"6'4""",207,,0,0,0,36.0,0.912,-0.3100000000000023,"**74 Stuart Skinner**
-
-
-
-GP:36 | W:0 | L:0
-
-Sv%: 0.912 | GSAX:-0.31
 
 ****",Edmonton Oilers
 FLA,G,72,Sergei Bobrovsky,G,34,L,"6'2""",187,,0,0,0,41.0,0.906,11.840000000000003,"**72 Sergei Bobrovsky**
@@ -422,15 +422,6 @@ GP:6 | W:0 | L:0
 Sv%: 0.887 | GSAX:-2.64
 
 ****",Florida Panthers
-PIT,G,1,Casey DeSmith,G,31,L,"6'0""",181,,0,0,0,30.0,0.904,2.3599999999999994,"**1 Casey DeSmith**
-
-
-
-GP:30 | W:0 | L:0
-
-Sv%: 0.904 | GSAX:2.36
-
-****",Pittsburgh Penguins
 PIT,G,35,Tristan Jarry,G,27,L,"6'2""",194,,0,0,0,32.0,0.916,2.230000000000004,"**35 Tristan Jarry**
 
 
@@ -438,6 +429,15 @@ PIT,G,35,Tristan Jarry,G,27,L,"6'2""",194,,0,0,0,32.0,0.916,2.230000000000004,"*
 GP:32 | W:0 | L:0
 
 Sv%: 0.916 | GSAX:2.23
+
+****",Pittsburgh Penguins
+PIT,G,1,Casey DeSmith,G,31,L,"6'0""",181,,0,0,0,30.0,0.904,2.3599999999999994,"**1 Casey DeSmith**
+
+
+
+GP:30 | W:0 | L:0
+
+Sv%: 0.904 | GSAX:2.36
 
 ****",Pittsburgh Penguins
 NSH,G,74,Juuse Saros,G,27,L,"5'11""",180,,0,0,0,46.0,0.917,29.340000000000003,"**74 Juuse Saros**
@@ -476,6 +476,15 @@ GP:19 | W:0 | L:0
 Sv%: 0.9 | GSAX:-0.74
 
 ****",New York Rangers
+DET,G,35,Ville Husso,G,28,L,"6'2""",205,,0,0,0,46.0,0.904,-3.1500000000000057,"**35 Ville Husso**
+
+
+
+GP:46 | W:0 | L:0
+
+Sv%: 0.904 | GSAX:-3.15
+
+****",Detroit Red Wings
 DET,G,45,Magnus Hellberg,G,31,L,"6'5""",190,,0,0,0,12.0,0.899,0.6599999999999966,"**45 Magnus Hellberg**
 
 
@@ -485,15 +494,15 @@ GP:12 | W:0 | L:0
 Sv%: 0.899 | GSAX:0.66
 
 ****",Detroit Red Wings
-DET,G,39,Alex Nedeljkovic,G,27,L,"6'0""",189,,0,0,0,9.0,0.88,-10.97,"**39 Alex Nedeljkovic**
+BUF,G,41,Craig Anderson,G,41,L,"6'2""",186,,9,8,starter,21.0,0.918,8.650000000000006,"**41 Craig Anderson**
 
 
 
-GP:9 | W:0 | L:0
+GP:21 | W:9 | L:8
 
-Sv%: 0.88 | GSAX:-10.97
+Sv%: 0.918 | GSAX:8.65
 
-****",Detroit Red Wings
+****",Buffalo Sabres
 BUF,G,31,Eric Comrie,G,27,L,"6'1""",175,,0,0,0,16.0,0.885,-4.07,"**31 Eric Comrie**
 
 
@@ -501,15 +510,6 @@ BUF,G,31,Eric Comrie,G,27,L,"6'1""",175,,0,0,0,16.0,0.885,-4.07,"**31 Eric Comri
 GP:16 | W:0 | L:0
 
 Sv%: 0.885 | GSAX:-4.07
-
-****",Buffalo Sabres
-BUF,G,1,Ukko-Pekka Luukkonen,G,23,L,"6'4""",190,,0,0,0,26.0,0.891,-2.1500000000000057,"**1 Ukko-Pekka Luukkonen**
-
-
-
-GP:26 | W:0 | L:0
-
-Sv%: 0.891 | GSAX:-2.15
 
 ****",Buffalo Sabres
 OTT,G,33,Cam Talbot,G,35,L,"6'4""",196,,0,0,0,32.0,0.905,1.9000000000000057,"**33 Cam Talbot**
@@ -530,6 +530,15 @@ GP:6 | W:0 | L:0
 Sv%: 0.922 | GSAX:1.36
 
 ****",Ottawa Senators
+SJS,G,47,James Reimer,G,34,L,"6'2""",220,Confirmed Starter,9,16,starter,31.0,0.892,-10.349999999999994,"**47 James Reimer**
+
+
+
+GP:31 | W:9 | L:16
+
+Sv%: 0.892 | GSAX:-10.35
+
+**Confirmed Starter**",San Jose Sharks
 SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,,0,0,0,28.0,0.882,-19.5,"**36 Kaapo Kahkonen**
 
 
@@ -539,22 +548,22 @@ GP:28 | W:0 | L:0
 Sv%: 0.882 | GSAX:-19.5
 
 ****",San Jose Sharks
-SJS,G,47,James Reimer,G,34,L,"6'2""",220,,0,0,0,31.0,0.892,-10.349999999999994,"**47 James Reimer**
+DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,Confirmed Starter,26,8,starter,47.0,0.922,16.459999999999994,"**29 Jake Oettinger**
 
 
 
-GP:31 | W:0 | L:0
-
-Sv%: 0.892 | GSAX:-10.35
-
-****",San Jose Sharks
-DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,,0,0,0,47.0,0.922,16.459999999999994,"**29 Jake Oettinger**
-
-
-
-GP:47 | W:0 | L:0
+GP:47 | W:26 | L:8
 
 Sv%: 0.922 | GSAX:16.46
+
+**Confirmed Starter**",Dallas Stars
+DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,1.0,0.905,0.6800000000000002,"**32 Matt Murray**
+
+
+
+GP:1 | W:0 | L:0
+
+Sv%: 0.905 | GSAX:0.68
 
 ****",Dallas Stars
 DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,20.0,0.908,3.719999999999999,"**32 Matt Murray**
@@ -564,15 +573,6 @@ DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,20.0,0.908,3.719999999999999,"**3
 GP:20 | W:0 | L:0
 
 Sv%: 0.908 | GSAX:3.72
-
-****",Dallas Stars
-DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,1.0,0.905,0.6800000000000002,"**32 Matt Murray**
-
-
-
-GP:1 | W:0 | L:0
-
-Sv%: 0.905 | GSAX:0.68
 
 ****",Dallas Stars
 MIN,G,32,Filip Gustavsson,G,24,L,"6'2""",185,,0,0,0,29.0,0.933,21.02,"**32 Filip Gustavsson**
