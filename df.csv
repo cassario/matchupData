@@ -1,7 +1,11 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022021006,EDM@BUF,BUF,03-06-2023,7:30 PM,68,32,25,4,east,atlantic,none,5.0,EDM,76,34,22,8,west,pacific,wc,4.0
-2022021007,SJS@WPG,WPG,03-06-2023,7:30 PM,74,36,25,2,west,central,none,3.5,SJS,48,18,33,12,west,pacific,none,8.0
-2022021008,CGY@DAL,DAL,03-06-2023,8:30 PM,81,34,16,13,west,central,top3,1.0,CGY,67,27,23,13,west,pacific,none,5.0
-2022021009,OTT@CHI,CHI,03-06-2023,9:00 PM,47,21,36,5,west,central,none,8.0,OTT,68,32,26,4,east,atlantic,none,5.0
-2022021010,NSH@VAN,VAN,03-06-2023,10:30 PM,55,25,32,5,west,pacific,none,6.0,NSH,68,31,23,6,west,central,none,5.0
-2022021011,WSH@LAK,LAK,03-06-2023,10:30 PM,80,36,20,8,west,pacific,top3,2.0,WSH,68,31,27,6,east,metro,none,6.0
+2022021012,CAR@MTL,MTL,03-07-2023,7:00 PM,56,26,33,4,east,atlantic,none,8.0,CAR,90,41,12,8,east,metro,top3,1.0
+2022021013,CBJ@PIT,PIT,03-07-2023,7:00 PM,71,31,22,9,east,metro,wc,5.0,CBJ,46,20,37,6,east,metro,none,8.0
+2022021014,PHI@TBL,TBL,03-07-2023,7:00 PM,79,37,21,5,east,atlantic,top3,3.0,PHI,59,24,28,11,east,metro,none,7.0
+2022021015,TOR@NJD,NJD,03-07-2023,7:00 PM,88,41,15,6,east,metro,top3,2.0,TOR,84,38,17,8,east,atlantic,top3,2.0
+2022021016,VGK@FLA,FLA,03-07-2023,7:00 PM,68,31,27,6,east,atlantic,none,5.0,VGK,82,38,19,6,west,pacific,top3,1.5
+2022021017,BUF@NYI,NYI,03-07-2023,7:30 PM,72,32,25,8,east,metro,wc,4.0,BUF,68,32,26,4,east,atlantic,none,5.0
+2022021018,CGY@MIN,MIN,03-07-2023,8:00 PM,78,36,21,6,west,central,top3,2.0,CGY,69,28,23,13,west,pacific,none,5.0
+2022021019,SJS@COL,COL,03-07-2023,9:00 PM,74,34,21,6,west,central,none,4.0,SJS,50,19,33,12,west,pacific,none,7.5
+2022021020,STL@ARI,ARI,03-07-2023,9:00 PM,52,21,32,10,west,central,none,7.0,STL,59,27,30,5,west,central,none,6.0
+2022021021,ANA@SEA,SEA,03-07-2023,10:00 PM,78,36,21,6,west,pacific,wc,3.5,ANA,50,21,34,8,west,pacific,none,7.5
