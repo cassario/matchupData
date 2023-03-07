@@ -1,10 +1,11 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
+"Mar. 6, 2023",MIN,David Spacek,RD,20,Entry-Level,2-way,3,862500,2625000,,,
 "Mar. 6, 2023",STL,Anton Malmstrom,LD,23,Entry-Level,2-way,2,910000,1900000,,,
 "Mar. 3, 2023",DET,John Lethemon,G,25,Standard,2-way,1,750000,750000,,,
 "Mar. 3, 2023",NSH,Kevin Lankinen,G,28,Standard,1-way,1,2000000,2000000,,,
 "Mar. 3, 2023",DET,Alex Chiasson,RW,31,Standard,2-way,1,750000,750000,2.0,0.0,0.1574278751628726
-"Mar. 3, 2023",WSH,Nicolas Aube-Kubel,RW,27,Standard,1-way,1,1225000,1225000,37.0,6.0,0.5325504935116359
-"Mar. 3, 2023",NSH,Dante Fabbro,RD,25,Standard,1-way,1,2500000,2500000,57.0,4.0,0.5170643898374837
+"Mar. 3, 2023",WSH,Nicolas Aube-Kubel,RW,27,Standard,1-way,1,1225000,1225000,38.0,6.0,0.5298274300276242
+"Mar. 3, 2023",NSH,Dante Fabbro,RD,25,Standard,1-way,1,2500000,2500000,58.0,4.0,0.5171670848004056
 "Mar. 2, 2023",STL,Samuel Blais,"LW, RW",27,Standard,1-way,1,1000000,1000000,51.0,3.0,0.4399642265872354
 "Mar. 2, 2023",ANA,Jaxsen Wiebe,"RW, C",21,Entry-Level,2-way,3,852500,2557500,,,
 "Mar. 2, 2023",DAL,Gavin White,RD,20,Entry-Level,2-way,3,857500,2732500,,,
@@ -31,22 +32,21 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Feb. 25, 2023",COL,Keaton Middleton,LD,25,Standard,2-way,2,775000,1550000,,,
 "Feb. 23, 2023",CHI,David Gust,RW,28,Standard,2-way,2,762500,1525000,4.0,1.0,0.3568046960293807
 "Feb. 16, 2023",DET,Olli Maatta,LD,28,Standard,1-way,2,3000000,6000000,59.0,12.0,0.4687721867644224
-"Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,64.0,5.0,0.5107854202313561
+"Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,65.0,6.0,0.5148348180403505
 "Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,1.0,0.0,0.1845967061698702
 "Feb. 10, 2023",LAK,Pheonix Copley,G,31,Standard,1-way,1,1500000,1500000,,,
 "Feb. 10, 2023",MTL,Jordan Harris,LD/RD,22,Standard,1-way,2,1400000,2800000,59.0,8.0,0.4859662052425028
 "Feb. 10, 2023",FLA,Josh Mahura,LD/RD,25,Standard,1-way,1,925000,925000,64.0,10.0,0.5857445838696032
 "Feb. 9, 2023",TOR,Conor Timmins,RD,24,Standard,1-way,2,1100000,2200000,24.0,9.0,0.5108052286564216
-"Feb. 8, 2023",NSH,Thomas Novak,C,26,Standard,1-way,1,800000,800000,58.0,36.0,0.5271246588384435
-"Feb. 7, 2023",BUF,Dylan Cozens,"C, LW",22,Standard,1-way,7,7100000,49700000,60.0,38.0,0.4859430680907602
-"Feb. 6, 2023",NSH,Cole Smith,LW,27,Standard,1-way,1,775000,775000,54.0,11.0,0.4939700452226896
+"Feb. 8, 2023",NSH,Thomas Novak,C,26,Standard,1-way,1,800000,800000,60.0,36.0,0.5420142625215949
+"Feb. 7, 2023",BUF,Dylan Cozens,"C, LW",22,Standard,1-way,7,7100000,49700000,61.0,39.0,0.4861704675847843
+"Feb. 6, 2023",NSH,Cole Smith,LW,27,Standard,1-way,1,775000,775000,55.0,12.0,0.5017766267321773
 "Feb. 5, 2023",NYI,Bo Horvat,C,28,Standard,1-way,8,8500000,68000000,62.0,51.0,0.5097407798759819
-"Feb. 4, 2023",WSH,Sonny Milano,"LW, RW",27,Standard,1-way,3,1900000,5700000,51.0,18.0,0.5139822723549466
-"Feb. 3, 2023",WSH,Dylan Strome,C,26,Standard,1-way,5,5000000,25000000,63.0,33.0,0.529098505789793
+"Feb. 4, 2023",WSH,Sonny Milano,"LW, RW",27,Standard,1-way,3,1900000,5700000,52.0,19.0,0.5069667590058503
+"Feb. 3, 2023",WSH,Dylan Strome,C,26,Standard,1-way,5,5000000,25000000,64.0,33.0,0.5206117357085237
 "Jan. 26, 2023",NYR,Ben Harpur,LD,28,Standard,1-way,2,787500,1575000,27.0,1.0,0.3929036563146203
-"Jan. 26, 2023",VAN,Andrei Kuzmenko,"LW, RW",27,Standard,1-way,2,5500000,11000000,61.0,39.0,0.5114952607948506
+"Jan. 26, 2023",VAN,Andrei Kuzmenko,"LW, RW",27,Standard,1-way,2,5500000,11000000,62.0,40.0,0.5012357643183308
 "Jan. 24, 2023",ARI,Juuso Valimaki,LD,24,Standard,1-way,1,1000000,1000000,59.0,9.0,0.526810266454082
 "Jan. 16, 2023",MIN,Matthew Boldy,"RW, LW",22,Standard,1-way,7,7000000,49000000,63.0,29.0,0.5366724885819455
 "Jan. 14, 2023",BOS,Pavel Zacha,"LW, RW, C",26,Standard,1-way,4,4750000,19000000,62.0,28.0,0.4922224855225532
 "Jan. 6, 2023",EDM,Justin Bailey,RW,26,Standard,2-way,1,750000,750000,,,
-"Jan. 4, 2023",NYR,Jimmy Vesey,"RW, LW",30,Standard,1-way,2,800000,1600000,62.0,15.0,0.5801337558751429
