@@ -17,13 +17,13 @@ GP:1 | W:0 | L:0
 Sv%: 1.0 | GSAX:0.69
 
 ****",Colorado Avalanche
-CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,,0,0,0,16.0,0.921,4.600000000000001,"**32 Alex Stalock**
+CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,,0,0,0,17.0,0.92,4.82,"**32 Alex Stalock**
 
 
 
-GP:16 | W:0 | L:0
+GP:17 | W:0 | L:0
 
-Sv%: 0.921 | GSAX:4.6
+Sv%: 0.92 | GSAX:4.82
 
 ****",Chicago Blackhawks
 CHI,G,34,Petr Mrazek,G,31,L,"6'1""",190,,0,0,0,30.0,0.891,-6.599999999999994,"**34 Petr Mrazek**
@@ -107,13 +107,13 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****",Montreal Canadiens
-VAN,G,35,Thatcher Demko,G,27,L,"6'4""",192,,0,0,0,18.0,0.893,-6.780000000000001,"**35 Thatcher Demko**
+VAN,G,35,Thatcher Demko,G,27,L,"6'4""",192,,0,0,0,19.0,0.894,-7.560000000000002,"**35 Thatcher Demko**
 
 
 
-GP:18 | W:0 | L:0
+GP:19 | W:0 | L:0
 
-Sv%: 0.893 | GSAX:-6.78
+Sv%: 0.894 | GSAX:-7.56
 
 ****",Vancouver Canucks
 VAN,G,60,Collin Delia,G,28,L,"6'2""",208,,0,0,0,15.0,0.876,-4.329999999999998,"**60 Collin Delia**
@@ -179,6 +179,15 @@ GP:12 | W:0 | L:0
 Sv%: 0.926 | GSAX:6.47
 
 ****",New Jersey Devils
+ANA,G,1,Lukas Dostal,G,22,L,"6'2""",191,,0,0,0,11.0,0.898,-1.3100000000000025,"**1 Lukas Dostal**
+
+
+
+GP:11 | W:0 | L:0
+
+Sv%: 0.898 | GSAX:-1.31
+
+****",Anaheim Ducks
 ANA,G,36,John Gibson,G,29,L,"6'2""",215,,0,0,0,44.0,0.902,-4.699999999999989,"**36 John Gibson**
 
 
@@ -186,15 +195,6 @@ ANA,G,36,John Gibson,G,29,L,"6'2""",215,,0,0,0,44.0,0.902,-4.699999999999989,"**
 GP:44 | W:0 | L:0
 
 Sv%: 0.902 | GSAX:-4.7
-
-****",Anaheim Ducks
-ANA,G,1,Lukas Dostal,G,22,L,"6'2""",191,,0,0,0,10.0,0.897,-0.8200000000000003,"**1 Lukas Dostal**
-
-
-
-GP:10 | W:0 | L:0
-
-Sv%: 0.897 | GSAX:-0.82
 
 ****",Anaheim Ducks
 CGY,G,25,Jacob Markstrom,G,33,L,"6'6""",206,,0,0,0,44.0,0.893,3.7900000000000063,"**25 Jacob Markstrom**
@@ -233,6 +233,15 @@ GP:11 | W:0 | L:0
 Sv%: 0.88 | GSAX:-6.6
 
 ****",Philadelphia Flyers
+VGK,G,32,Jonathan Quick,G,37,L,"6'1""",216,,12,13,starter,32.0,0.877,-19.81,"**32 Jonathan Quick**
+
+
+
+GP:32 | W:12 | L:13
+
+Sv%: 0.877 | GSAX:-19.81
+
+****",Vegas Golden Knights
 VGK,G,33,Adin Hill,G,26,L,"6'6""",202,,0,0,0,27.0,0.915,2.069999999999993,"**33 Adin Hill**
 
 
@@ -240,15 +249,6 @@ VGK,G,33,Adin Hill,G,26,L,"6'6""",202,,0,0,0,27.0,0.915,2.069999999999993,"**33 
 GP:27 | W:0 | L:0
 
 Sv%: 0.915 | GSAX:2.07
-
-****",Vegas Golden Knights
-VGK,G,32,Jonathan Quick,G,37,L,"6'1""",216,,0,0,0,32.0,0.877,-19.81,"**32 Jonathan Quick**
-
-
-
-GP:32 | W:0 | L:0
-
-Sv%: 0.877 | GSAX:-19.81
 
 ****",Vegas Golden Knights
 CAR,G,32,Antti Raanta,G,33,L,"6'0""",195,,0,0,0,23.0,0.907,0.1000000000000014,"**32 Antti Raanta**
@@ -287,6 +287,15 @@ GP:20 | W:0 | L:0
 Sv%: 0.914 | GSAX:4.48
 
 ****",New York Islanders
+WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,0,0,0,49.0,0.918,21.74000000000001,"**37 Connor Hellebuyck**
+
+
+
+GP:49 | W:0 | L:0
+
+Sv%: 0.918 | GSAX:21.74
+
+****",Winnipeg Jets
 WPG,G,33,David Rittich,G,30,L,"6'3""",206,,0,0,0,19.0,0.906,-1.2000000000000028,"**33 David Rittich**
 
 
@@ -294,15 +303,6 @@ WPG,G,33,David Rittich,G,30,L,"6'3""",206,,0,0,0,19.0,0.906,-1.2000000000000028,
 GP:19 | W:0 | L:0
 
 Sv%: 0.906 | GSAX:-1.2
-
-****",Winnipeg Jets
-WPG,G,37,Connor Hellebuyck,G,29,L,"6'4""",207,,27,19,starter,48.0,0.919,22.75999999999999,"**37 Connor Hellebuyck**
-
-
-
-GP:48 | W:27 | L:19
-
-Sv%: 0.919 | GSAX:22.76
 
 ****",Winnipeg Jets
 LAK,G,29,Pheonix Copley,G,31,L,"6'4""",200,,0,0,0,29.0,0.897,2.519999999999996,"**29 Pheonix Copley**
@@ -359,13 +359,13 @@ GP:16 | W:0 | L:0
 Sv%: 0.894 | GSAX:-1.24
 
 ****",Tampa Bay Lightning
-TOR,G,35,Ilya Samsonov,G,26,L,"6'3""",208,,0,0,0,33.0,0.915,12.260000000000003,"**35 Ilya Samsonov**
+TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,1.0,0.905,0.6800000000000002,"**30 Matt Murray**
 
 
 
-GP:33 | W:0 | L:0
+GP:1 | W:0 | L:0
 
-Sv%: 0.915 | GSAX:12.26
+Sv%: 0.905 | GSAX:0.68
 
 ****",Toronto Maple Leafs
 TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,20.0,0.908,3.719999999999999,"**30 Matt Murray**
@@ -377,13 +377,13 @@ GP:20 | W:0 | L:0
 Sv%: 0.908 | GSAX:3.72
 
 ****",Toronto Maple Leafs
-TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,1.0,0.905,0.6800000000000002,"**30 Matt Murray**
+TOR,G,35,Ilya Samsonov,G,26,L,"6'3""",208,,0,0,0,33.0,0.915,12.260000000000003,"**35 Ilya Samsonov**
 
 
 
-GP:1 | W:0 | L:0
+GP:33 | W:0 | L:0
 
-Sv%: 0.905 | GSAX:0.68
+Sv%: 0.915 | GSAX:12.26
 
 ****",Toronto Maple Leafs
 EDM,G,74,Stuart Skinner,G,24,L,"6'4""",207,,0,0,0,37.0,0.913,1.2099999999999935,"**74 Stuart Skinner**
@@ -476,13 +476,13 @@ GP:19 | W:0 | L:0
 Sv%: 0.9 | GSAX:-0.74
 
 ****",New York Rangers
-DET,G,35,Ville Husso,G,28,L,"6'2""",205,,0,0,0,46.0,0.904,-3.1500000000000057,"**35 Ville Husso**
+DET,G,35,Ville Husso,G,28,L,"6'2""",205,,0,0,0,47.0,0.903,-4.300000000000011,"**35 Ville Husso**
 
 
 
-GP:46 | W:0 | L:0
+GP:47 | W:0 | L:0
 
-Sv%: 0.904 | GSAX:-3.15
+Sv%: 0.903 | GSAX:-4.3
 
 ****",Detroit Red Wings
 DET,G,45,Magnus Hellberg,G,31,L,"6'5""",190,,0,0,0,12.0,0.899,0.6599999999999966,"**45 Magnus Hellberg**
@@ -557,15 +557,6 @@ GP:48 | W:0 | L:0
 Sv%: 0.921 | GSAX:13.49
 
 ****",Dallas Stars
-DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,20.0,0.908,3.719999999999999,"**32 Matt Murray**
-
-
-
-GP:20 | W:0 | L:0
-
-Sv%: 0.908 | GSAX:3.72
-
-****",Dallas Stars
 DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,1.0,0.905,0.6800000000000002,"**32 Matt Murray**
 
 
@@ -575,6 +566,24 @@ GP:1 | W:0 | L:0
 Sv%: 0.905 | GSAX:0.68
 
 ****",Dallas Stars
+DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,20.0,0.908,3.719999999999999,"**32 Matt Murray**
+
+
+
+GP:20 | W:0 | L:0
+
+Sv%: 0.908 | GSAX:3.72
+
+****",Dallas Stars
+MIN,G,29,Marc-Andre Fleury,G,38,L,"6'2""",185,,0,0,0,38.0,0.908,5.760000000000005,"**29 Marc-Andre Fleury**
+
+
+
+GP:38 | W:0 | L:0
+
+Sv%: 0.908 | GSAX:5.76
+
+****",Minnesota Wild
 MIN,G,32,Filip Gustavsson,G,24,L,"6'2""",185,,0,0,0,30.0,0.935,22.86,"**32 Filip Gustavsson**
 
 
@@ -584,12 +593,3 @@ GP:30 | W:0 | L:0
 Sv%: 0.935 | GSAX:22.86
 
 ****",Minnesota Wild
-MIN,G,29,Marc-Andre Fleury,G,38,L,"6'2""",185,Projected Starter,19,13,starter,37.0,0.905,3.1899999999999977,"**29 Marc-Andre Fleury**
-
-
-
-GP:37 | W:19 | L:13
-
-Sv%: 0.905 | GSAX:3.19
-
-**Projected Starter**",Minnesota Wild
