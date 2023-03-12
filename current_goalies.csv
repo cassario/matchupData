@@ -26,13 +26,13 @@ GP:32 | W:0 | L:0
 Sv%: 0.894 | GSAX:-6.01
 
 ****",Chicago Blackhawks
-CHI,G,31,Anton Khudobin,G,36,L,"5'11""",195,,0,0,0,0.0,0.0,0.0,"**31 Anton Khudobin**
+CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,,0,0,0,17.0,0.92,4.82,"**32 Alex Stalock**
 
 
 
-GP:0 | W:0 | L:0
+GP:17 | W:0 | L:0
 
-Sv%: 0.0 | GSAX:0.0
+Sv%: 0.92 | GSAX:4.82
 
 ****",Chicago Blackhawks
 CBJ,G,31,Michael Hutchinson,G,33,R,"6'3""",198,,0,0,0,3.0,0.873,-1.4900000000000002,"**31 Michael Hutchinson**
@@ -179,15 +179,15 @@ GP:41 | W:27 | L:7
 Sv%: 0.907 | GSAX:0.32
 
 **Projected Starter**",New Jersey Devils
-ANA,G,36,John Gibson,G,29,L,"6'2""",215,,0,0,0,45.0,0.904,-1.75,"**36 John Gibson**
+ANA,G,36,John Gibson,G,29,L,"6'2""",215,Confirmed Starter,14,24,starter,45.0,0.904,-1.75,"**36 John Gibson**
 
 
 
-GP:45 | W:0 | L:0
+GP:45 | W:14 | L:24
 
 Sv%: 0.904 | GSAX:-1.75
 
-****",Anaheim Ducks
+**Confirmed Starter**",Anaheim Ducks
 ANA,G,1,Lukas Dostal,G,22,L,"6'2""",191,,0,0,0,11.0,0.898,-1.3100000000000025,"**1 Lukas Dostal**
 
 
@@ -197,24 +197,24 @@ GP:11 | W:0 | L:0
 Sv%: 0.898 | GSAX:-1.31
 
 ****",Anaheim Ducks
-CGY,G,25,Jacob Markstrom,G,33,L,"6'6""",206,,0,0,0,45.0,0.893,3.280000000000001,"**25 Jacob Markstrom**
+CGY,G,25,Jacob Markstrom,G,33,L,"6'6""",206,Confirmed Starter,17,18,starter,45.0,0.893,3.280000000000001,"**25 Jacob Markstrom**
 
 
 
-GP:45 | W:0 | L:0
+GP:45 | W:17 | L:18
 
 Sv%: 0.893 | GSAX:3.28
 
-****",Calgary Flames
-CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,Projected Starter,12,6,starter,0.0,0.0,0.0,"**80 Daniel Vladar**
+**Confirmed Starter**",Calgary Flames
+CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,,0,0,0,0.0,0.0,0.0,"**80 Daniel Vladar**
 
 
 
-GP:0 | W:12 | L:6
+GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-**Projected Starter**",Calgary Flames
+****",Calgary Flames
 PHI,G,79,Carter Hart,G,24,L,"6'2""",181,,0,0,0,48.0,0.906,8.800000000000011,"**79 Carter Hart**
 
 
@@ -431,7 +431,7 @@ GP:32 | W:0 | L:0
 Sv%: 0.908 | GSAX:3.73
 
 ****",Pittsburgh Penguins
-PIT,G,35,Tristan Jarry,G,27,L,"6'2""",194,Projected Starter,19,7,starter,34.0,0.912,-0.2099999999999937,"**35 Tristan Jarry**
+PIT,G,35,Tristan Jarry,G,27,L,"6'2""",194,Confirmed Starter,19,7,starter,34.0,0.912,-0.2099999999999937,"**35 Tristan Jarry**
 
 
 
@@ -439,7 +439,7 @@ GP:34 | W:19 | L:7
 
 Sv%: 0.912 | GSAX:-0.21
 
-**Projected Starter**",Pittsburgh Penguins
+**Confirmed Starter**",Pittsburgh Penguins
 NSH,G,32,Kevin Lankinen,G,27,L,"6'2""",185,,0,0,0,15.0,0.925,9.770000000000003,"**32 Kevin Lankinen**
 
 
@@ -467,7 +467,7 @@ GP:47 | W:0 | L:0
 Sv%: 0.91 | GSAX:14.23
 
 ****",New York Rangers
-NYR,G,41,Jaroslav Halak,G,37,L,"5'11""",185,Projected Starter,8,8,starter,19.0,0.9,-0.740000000000002,"**41 Jaroslav Halak**
+NYR,G,41,Jaroslav Halak,G,37,L,"5'11""",185,Confirmed Starter,8,8,starter,19.0,0.9,-0.740000000000002,"**41 Jaroslav Halak**
 
 
 
@@ -475,7 +475,7 @@ GP:19 | W:8 | L:8
 
 Sv%: 0.9 | GSAX:-0.74
 
-**Projected Starter**",New York Rangers
+**Confirmed Starter**",New York Rangers
 DET,G,35,Ville Husso,G,28,L,"6'2""",205,Confirmed Starter,24,16,starter,47.0,0.903,-4.300000000000011,"**35 Ville Husso**
 
 
