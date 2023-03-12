@@ -1,20 +1,21 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
+"Mar. 11, 2023",WSH,Trevor van Riemsdyk,RD,31,Standard,1-way,3,3000000,9000000,67.0,13.0,0.5123526169498976
 "Mar. 10, 2023",DAL,Kyle McDonald,RW,21,Entry-Level,2-way,3,870000,2850000,,,
 "Mar. 10, 2023",VAN,Kirill Kudryavtsev,LD,19,Entry-Level,2-way,3,850000,2550000,,,
 "Mar. 9, 2023",MIN,Kyle Masters,RD,20,Entry-Level,2-way,3,865000,2700000,,,
-"Mar. 9, 2023",CHI,Luke Philp,C,27,Standard,2-way,1,775000,775000,2.0,1.0,0.1124482068248958
+"Mar. 9, 2023",CHI,Luke Philp,C,27,Standard,2-way,1,775000,775000,3.0,1.0,0.1841608676281841
 "Mar. 8, 2023",DAL,Christian Kyrou,RD,19,Entry-Level,2-way,3,878333,2850000,,,
 "Mar. 7, 2023",CBJ,Corson Ceulemans,RD,20,Entry-Level,2-way,3,925000,2775000,,,
-"Mar. 7, 2023",VAN,Guillaume Brisebois,LD,25,Standard,2-way,2,775000,1550000,10.0,0.0,0.5386914771982831
+"Mar. 7, 2023",VAN,Guillaume Brisebois,LD,25,Standard,2-way,2,775000,1550000,11.0,0.0,0.5191919120286649
 "Mar. 7, 2023",PHI,Will Zmolek,LD,24,Entry-Level,2-way,1,920000,950000,,,
 "Mar. 6, 2023",MIN,David Spacek,RD,20,Entry-Level,2-way,3,862500,2625000,,,
 "Mar. 6, 2023",STL,Anton Malmstrom,LD,23,Entry-Level,2-way,2,910000,1900000,,,
 "Mar. 3, 2023",DET,John Lethemon,G,25,Standard,2-way,1,750000,750000,,,
 "Mar. 3, 2023",NSH,Kevin Lankinen,G,28,Standard,1-way,1,2000000,2000000,,,
-"Mar. 3, 2023",DET,Alex Chiasson,RW,31,Standard,2-way,1,750000,750000,3.0,1.0,0.1786349915855761
-"Mar. 3, 2023",WSH,Nicolas Aube-Kubel,RW,27,Standard,1-way,1,1225000,1225000,39.0,6.0,0.5182700848962932
-"Mar. 3, 2023",NSH,Dante Fabbro,RD,25,Standard,1-way,1,2500000,2500000,59.0,4.0,0.5258507948770735
-"Mar. 2, 2023",STL,Samuel Blais,"LW, RW",27,Standard,1-way,1,1000000,1000000,53.0,4.0,0.4467332182515475
+"Mar. 3, 2023",DET,Alex Chiasson,RW,31,Standard,2-way,1,750000,750000,4.0,2.0,0.4717657074078693
+"Mar. 3, 2023",WSH,Nicolas Aube-Kubel,RW,27,Standard,1-way,1,1225000,1225000,40.0,6.0,0.5193481988510492
+"Mar. 3, 2023",NSH,Dante Fabbro,RD,25,Standard,1-way,1,2500000,2500000,60.0,4.0,0.5272429762297854
+"Mar. 2, 2023",STL,Samuel Blais,"LW, RW",27,Standard,1-way,1,1000000,1000000,54.0,6.0,0.4398105957543586
 "Mar. 2, 2023",ANA,Jaxsen Wiebe,"RW, C",21,Entry-Level,2-way,3,852500,2557500,,,
 "Mar. 2, 2023",DAL,Gavin White,RD,20,Entry-Level,2-way,3,857500,2732500,,,
 "Mar. 2, 2023",VGK,Christoffer Sedoff,LD,21,Entry-Level,2-way,3,870000,2850000,,,
@@ -22,31 +23,30 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Mar. 2, 2023",WSH,Ethen Frank,C,25,Standard,2-way,1,775000,775000,,,
 "Mar. 2, 2023",FLA,Jean-Francois Berube,G,30,Standard,2-way,1,750000,750000,,,
 "Mar. 2, 2023",FLA,Evan Fitzpatrick,G,24,Standard,2-way,1,750000,750000,,,
-"Mar. 2, 2023",SJS,Derrick Pouliot,LD,28,Standard,2-way,1,750000,750000,2.0,0.0,0.5873018807477703
+"Mar. 2, 2023",SJS,Derrick Pouliot,LD,28,Standard,2-way,1,750000,750000,3.0,0.0,0.6780318539870326
 "Mar. 2, 2023",OTT,Dylan Ferguson,G,23,Standard,2-way,1,750000,750000,,,
-"Mar. 2, 2023",BOS,David Pastrnak,RW,27,Standard,1-way,8,11250000,90000000,63.0,69.0,0.5339682008443022
+"Mar. 2, 2023",BOS,David Pastrnak,RW,27,Standard,1-way,8,11250000,90000000,64.0,69.0,0.538154991605111
 "Mar. 1, 2023",MTL,Xavier Simoneau,"RW, LW, C",22,Entry-Level,2-way,2,855000,1710000,,,
 "Mar. 1, 2023",STL,Michael Buchinger,LD,19,Entry-Level,2-way,3,870000,2850000,,,
 "Mar. 1, 2023",WSH,Ryan Hofer,C,21,Entry-Level,2-way,3,851667,2555000,,,
 "Mar. 1, 2023",PIT,Isaac Belliveau,LD,20,Entry-Level,2-way,3,875000,2625000,,,
 "Mar. 1, 2023",NYI,Tristan Lennox,G,20,Entry-Level,2-way,3,867500,2775000,,,
 "Mar. 1, 2023",MIN,Caedan Bankier,C,20,Entry-Level,2-way,3,867500,2775000,,,
-"Mar. 1, 2023",DET,Dylan Larkin,C,26,Standard,1-way,8,8700000,69600000,63.0,42.0,0.5182560383572707
+"Mar. 1, 2023",DET,Dylan Larkin,C,26,Standard,1-way,8,8700000,69600000,64.0,42.0,0.5174576644392457
 "Mar. 1, 2023",WPG,Evan Cormier,G,24,Standard,2-way,1,750000,750000,,,
 "Mar. 1, 2023",DET,Alexandre Doucet,C,21,Entry-Level,2-way,3,870000,2850000,,,
-"Feb. 28, 2023",WSH,Nick Jensen,RD,32,Standard,1-way,3,4050000,12150000,63.0,14.0,0.5168026688350852
-"Feb. 28, 2023",DET,Jake Walman,LD,27,Standard,1-way,3,3400000,10200000,45.0,10.0,0.5363956603905861
+"Feb. 28, 2023",WSH,Nick Jensen,RD,32,Standard,1-way,3,4050000,12150000,64.0,14.0,0.5160640497352212
+"Feb. 28, 2023",DET,Jake Walman,LD,27,Standard,1-way,3,3400000,10200000,46.0,10.0,0.5358450696655169
 "Feb. 27, 2023",BUF,Michael Houser,G,29,Standard,2-way,1,750000,750000,,,
 "Feb. 25, 2023",COL,Keaton Middleton,LD,25,Standard,2-way,2,775000,1550000,,,
 "Feb. 23, 2023",CHI,David Gust,RW,28,Standard,2-way,2,762500,1525000,4.0,1.0,0.3568046960293807
-"Feb. 16, 2023",DET,Olli Maatta,LD,28,Standard,1-way,2,3000000,6000000,60.0,12.0,0.4747271652997361
-"Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,66.0,6.0,0.5162041825620421
+"Feb. 16, 2023",DET,Olli Maatta,LD,28,Standard,1-way,2,3000000,6000000,61.0,12.0,0.4705992467742723
+"Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,67.0,7.0,0.5163057846346586
 "Feb. 15, 2023",LAK,Michael Anderson,LD,24,Standard,1-way,8,4125000,33000000,1.0,0.0,0.1845967061698702
 "Feb. 10, 2023",LAK,Pheonix Copley,G,31,Standard,1-way,1,1500000,1500000,,,
 "Feb. 10, 2023",MTL,Jordan Harris,LD/RD,22,Standard,1-way,2,1400000,2800000,60.0,8.0,0.4874247027828557
-"Feb. 10, 2023",FLA,Josh Mahura,LD/RD,25,Standard,1-way,1,925000,925000,66.0,11.0,0.5976729957075803
+"Feb. 10, 2023",FLA,Josh Mahura,LD/RD,25,Standard,1-way,1,925000,925000,67.0,11.0,0.5973359304565544
 "Feb. 9, 2023",TOR,Conor Timmins,RD,24,Standard,1-way,2,1100000,2200000,24.0,9.0,0.5108052286564216
-"Feb. 8, 2023",NSH,Thomas Novak,C,26,Standard,1-way,1,800000,800000,62.0,36.0,0.5408008430416759
-"Feb. 7, 2023",BUF,Dylan Cozens,"C, LW",22,Standard,1-way,7,7100000,49700000,63.0,40.0,0.4761407959018401
-"Feb. 6, 2023",NSH,Cole Smith,LW,27,Standard,1-way,1,775000,775000,56.0,12.0,0.5033616460920517
-"Feb. 5, 2023",NYI,Bo Horvat,C,28,Standard,1-way,8,8500000,68000000,64.0,52.0,0.5110002522640932
+"Feb. 8, 2023",NSH,Thomas Novak,C,26,Standard,1-way,1,800000,800000,64.0,38.0,0.5458827081462425
+"Feb. 7, 2023",BUF,Dylan Cozens,"C, LW",22,Standard,1-way,7,7100000,49700000,64.0,40.0,0.4785442409916329
+"Feb. 6, 2023",NSH,Cole Smith,LW,27,Standard,1-way,1,775000,775000,57.0,12.0,0.4997724753157879
