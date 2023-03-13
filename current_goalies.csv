@@ -1,13 +1,13 @@
 team,pos,num,player,positions_played,age,handedness,ht,wt,confirmed,w,l,starter,gp,sv%,gsax,info,full
-COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,,0,0,0,47.0,0.918,14.949999999999989,"**40 Alexandar Georgiev**
+COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,Confirmed Starter,28,14,starter,47.0,0.918,14.949999999999989,"**40 Alexandar Georgiev**
 
 
 
-GP:47 | W:0 | L:0
+GP:47 | W:28 | L:14
 
 Sv%: 0.918 | GSAX:14.95
 
-****",Colorado Avalanche
+**Confirmed Starter**",Colorado Avalanche
 COL,G,31,Jonas Johansson,G,27,L,"6'4""",205,,0,0,0,1.0,1.0,0.69,"**31 Jonas Johansson**
 
 
@@ -89,15 +89,15 @@ GP:40 | W:0 | L:0
 Sv%: 0.938 | GSAX:37.39
 
 ****",Boston Bruins
-MTL,G,34,Jake Allen,G,32,L,"6'2""",195,,0,0,0,38.0,0.899,7.77000000000001,"**34 Jake Allen**
+MTL,G,34,Jake Allen,G,32,L,"6'2""",195,Confirmed Starter,14,21,starter,38.0,0.899,7.77000000000001,"**34 Jake Allen**
 
 
 
-GP:38 | W:0 | L:0
+GP:38 | W:14 | L:21
 
 Sv%: 0.899 | GSAX:7.77
 
-****",Montreal Canadiens
+**Confirmed Starter**",Montreal Canadiens
 MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,,0,0,0,0.0,0.0,0.0,"**35 Samuel Montembeault**
 
 
@@ -323,6 +323,15 @@ GP:30 | W:0 | L:0
 Sv%: 0.913 | GSAX:8.95
 
 ****",Los Angeles Kings
+SEA,G,30,Martin Jones,G,33,L,"6'4""",190,Confirmed Starter,24,10,starter,41.0,0.888,-3.9099999999999966,"**30 Martin Jones**
+
+
+
+GP:41 | W:24 | L:10
+
+Sv%: 0.888 | GSAX:-3.91
+
+**Confirmed Starter**",Seattle Kraken
 SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,,0,0,0,30.0,0.892,-0.3299999999999983,"**31 Philipp Grubauer**
 
 
@@ -330,15 +339,6 @@ SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,,0,0,0,30.0,0.892,-0.32999999999999
 GP:30 | W:0 | L:0
 
 Sv%: 0.892 | GSAX:-0.33
-
-****",Seattle Kraken
-SEA,G,30,Martin Jones,G,33,L,"6'4""",190,,0,0,0,41.0,0.888,-3.9099999999999966,"**30 Martin Jones**
-
-
-
-GP:41 | W:0 | L:0
-
-Sv%: 0.888 | GSAX:-3.91
 
 ****",Seattle Kraken
 TBL,G,88,Andrei Vasilevskiy,G,28,L,"6'3""",216,,0,0,0,50.0,0.914,16.180000000000007,"**88 Andrei Vasilevskiy**
@@ -494,6 +494,15 @@ GP:13 | W:0 | L:0
 Sv%: 0.901 | GSAX:1.58
 
 ****",Detroit Red Wings
+BUF,G,41,Craig Anderson,G,41,L,"6'2""",186,Confirmed Starter,9,9,starter,22.0,0.918,8.909999999999997,"**41 Craig Anderson**
+
+
+
+GP:22 | W:9 | L:9
+
+Sv%: 0.918 | GSAX:8.91
+
+**Confirmed Starter**",Buffalo Sabres
 BUF,G,1,Ukko-Pekka Luukkonen,G,24,L,"6'4""",190,,0,0,0,28.0,0.894,-0.2199999999999988,"**1 Ukko-Pekka Luukkonen**
 
 
@@ -501,15 +510,6 @@ BUF,G,1,Ukko-Pekka Luukkonen,G,24,L,"6'4""",190,,0,0,0,28.0,0.894,-0.21999999999
 GP:28 | W:0 | L:0
 
 Sv%: 0.894 | GSAX:-0.22
-
-****",Buffalo Sabres
-BUF,G,41,Craig Anderson,G,41,L,"6'2""",186,,9,9,starter,22.0,0.918,8.909999999999997,"**41 Craig Anderson**
-
-
-
-GP:22 | W:9 | L:9
-
-Sv%: 0.918 | GSAX:8.91
 
 ****",Buffalo Sabres
 OTT,G,70,Kevin Mandolese,G,22,L,"6'5""",200,,0,0,0,3.0,0.916,3.02,"**70 Kevin Mandolese**
@@ -548,15 +548,15 @@ GP:30 | W:0 | L:0
 Sv%: 0.879 | GSAX:-23.35
 
 ****",San Jose Sharks
-DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,,0,0,0,50.0,0.919,10.439999999999998,"**29 Jake Oettinger**
+DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,Confirmed Starter,28,9,starter,50.0,0.919,10.439999999999998,"**29 Jake Oettinger**
 
 
 
-GP:50 | W:0 | L:0
+GP:50 | W:28 | L:9
 
 Sv%: 0.919 | GSAX:10.44
 
-****",Dallas Stars
+**Confirmed Starter**",Dallas Stars
 DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,21.0,0.905,2.549999999999997,"**32 Matt Murray**
 
 
