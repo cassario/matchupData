@@ -1,13 +1,13 @@
 team,pos,num,player,positions_played,age,handedness,ht,wt,confirmed,w,l,starter,gp,sv%,gsax,info,full
-COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,Confirmed Starter,28,14,starter,47.0,0.918,14.949999999999989,"**40 Alexandar Georgiev**
+COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,,0,0,0,48.0,0.916,13.050000000000011,"**40 Alexandar Georgiev**
 
 
 
-GP:47 | W:28 | L:14
+GP:48 | W:0 | L:0
 
-Sv%: 0.918 | GSAX:14.95
+Sv%: 0.916 | GSAX:13.05
 
-**Confirmed Starter**",Colorado Avalanche
+****",Colorado Avalanche
 COL,G,31,Jonas Johansson,G,27,L,"6'4""",205,,0,0,0,1.0,1.0,0.69,"**31 Jonas Johansson**
 
 
@@ -89,24 +89,24 @@ GP:40 | W:0 | L:0
 Sv%: 0.938 | GSAX:37.39
 
 ****",Boston Bruins
-MTL,G,34,Jake Allen,G,32,L,"6'2""",195,Confirmed Starter,14,21,starter,38.0,0.899,7.77000000000001,"**34 Jake Allen**
+MTL,G,34,Jake Allen,G,32,L,"6'2""",195,,0,0,0,39.0,0.895,4.27000000000001,"**34 Jake Allen**
 
 
 
-GP:38 | W:14 | L:21
+GP:39 | W:0 | L:0
 
-Sv%: 0.899 | GSAX:7.77
+Sv%: 0.895 | GSAX:4.27
 
-**Confirmed Starter**",Montreal Canadiens
-MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,,0,0,0,0.0,0.0,0.0,"**35 Samuel Montembeault**
+****",Montreal Canadiens
+MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,Projected Starter,12,13,starter,0.0,0.0,0.0,"**35 Samuel Montembeault**
 
 
 
-GP:0 | W:0 | L:0
+GP:0 | W:12 | L:13
 
 Sv%: 0.0 | GSAX:0.0
 
-****",Montreal Canadiens
+**Projected Starter**",Montreal Canadiens
 VAN,G,35,Thatcher Demko,G,27,L,"6'4""",192,,0,0,0,20.0,0.894,-7.310000000000002,"**35 Thatcher Demko**
 
 
@@ -323,15 +323,15 @@ GP:30 | W:0 | L:0
 Sv%: 0.913 | GSAX:8.95
 
 ****",Los Angeles Kings
-SEA,G,30,Martin Jones,G,33,L,"6'4""",190,Confirmed Starter,24,10,starter,41.0,0.888,-3.9099999999999966,"**30 Martin Jones**
+SEA,G,30,Martin Jones,G,33,L,"6'4""",190,,0,0,0,42.0,0.887,-5.200000000000003,"**30 Martin Jones**
 
 
 
-GP:41 | W:24 | L:10
+GP:42 | W:0 | L:0
 
-Sv%: 0.888 | GSAX:-3.91
+Sv%: 0.887 | GSAX:-5.2
 
-**Confirmed Starter**",Seattle Kraken
+****",Seattle Kraken
 SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,,0,0,0,30.0,0.892,-0.3299999999999983,"**31 Philipp Grubauer**
 
 
@@ -359,24 +359,24 @@ GP:17 | W:0 | L:0
 Sv%: 0.896 | GSAX:-0.21
 
 ****",Tampa Bay Lightning
-TOR,G,30,Matt Murray,G,28,L,"6'4""",178,Confirmed Starter,12,6,starter,21.0,0.905,2.549999999999997,"**30 Matt Murray**
+TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,22.0,0.903,1.5799999999999983,"**30 Matt Murray**
 
 
 
-GP:21 | W:12 | L:6
+GP:22 | W:0 | L:0
 
-Sv%: 0.905 | GSAX:2.55
+Sv%: 0.903 | GSAX:1.58
 
-**Confirmed Starter**",Toronto Maple Leafs
-TOR,G,30,Matt Murray,G,28,L,"6'4""",178,Confirmed Starter,12,6,starter,1.0,0.905,0.6800000000000002,"**30 Matt Murray**
+****",Toronto Maple Leafs
+TOR,G,30,Matt Murray,G,28,L,"6'4""",178,,0,0,0,1.0,0.905,0.6800000000000002,"**30 Matt Murray**
 
 
 
-GP:1 | W:12 | L:6
+GP:1 | W:0 | L:0
 
 Sv%: 0.905 | GSAX:0.68
 
-**Confirmed Starter**",Toronto Maple Leafs
+****",Toronto Maple Leafs
 TOR,G,35,Ilya Samsonov,G,26,L,"6'3""",208,,0,0,0,33.0,0.915,12.260000000000003,"**35 Ilya Samsonov**
 
 
@@ -494,15 +494,15 @@ GP:13 | W:0 | L:0
 Sv%: 0.901 | GSAX:1.58
 
 ****",Detroit Red Wings
-BUF,G,41,Craig Anderson,G,41,L,"6'2""",186,Confirmed Starter,9,9,starter,22.0,0.918,8.909999999999997,"**41 Craig Anderson**
+BUF,G,41,Craig Anderson,G,41,L,"6'2""",186,,0,0,0,23.0,0.917,7.760000000000005,"**41 Craig Anderson**
 
 
 
-GP:22 | W:9 | L:9
+GP:23 | W:0 | L:0
 
-Sv%: 0.918 | GSAX:8.91
+Sv%: 0.917 | GSAX:7.76
 
-**Confirmed Starter**",Buffalo Sabres
+****",Buffalo Sabres
 BUF,G,1,Ukko-Pekka Luukkonen,G,24,L,"6'4""",190,,0,0,0,28.0,0.894,-0.2199999999999988,"**1 Ukko-Pekka Luukkonen**
 
 
@@ -548,22 +548,22 @@ GP:30 | W:0 | L:0
 Sv%: 0.879 | GSAX:-23.35
 
 ****",San Jose Sharks
-DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,Confirmed Starter,28,9,starter,50.0,0.919,10.439999999999998,"**29 Jake Oettinger**
+DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,,0,0,0,51.0,0.92,10.849999999999994,"**29 Jake Oettinger**
 
 
 
-GP:50 | W:28 | L:9
+GP:51 | W:0 | L:0
 
-Sv%: 0.919 | GSAX:10.44
+Sv%: 0.92 | GSAX:10.85
 
-**Confirmed Starter**",Dallas Stars
-DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,21.0,0.905,2.549999999999997,"**32 Matt Murray**
+****",Dallas Stars
+DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,22.0,0.903,1.5799999999999983,"**32 Matt Murray**
 
 
 
-GP:21 | W:0 | L:0
+GP:22 | W:0 | L:0
 
-Sv%: 0.905 | GSAX:2.55
+Sv%: 0.903 | GSAX:1.58
 
 ****",Dallas Stars
 DAL,G,32,Matt Murray,G,25,L,"6'0""",170,,0,0,0,1.0,0.905,0.6800000000000002,"**32 Matt Murray**
