@@ -1,5 +1,12 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022021076,BUF@WSH,WSH,03-15-2023,7:00 PM,71,32,29,7,east,metro,none,6.0,BUF,71,33,28,5,east,atlantic,none,5.0
-2022021077,COL@TOR,TOR,03-15-2023,7:00 PM,88,40,18,8,east,atlantic,top3,2.0,COL,80,37,22,6,west,central,top3,3.0
-2022021078,MIN@STL,STL,03-15-2023,9:30 PM,63,29,32,5,west,central,none,6.0,MIN,84,38,21,8,west,central,top3,2.0
-2022021079,NYI@ANA,ANA,03-15-2023,10:00 PM,54,22,35,10,west,pacific,none,7.0,NYI,76,34,27,8,east,metro,wc,5.0
+2022021080,COL@OTT,OTT,03-16-2023,7:00 PM,70,33,30,4,east,atlantic,none,6.0,COL,82,38,22,6,west,central,top3,3.0
+2022021081,MTL@FLA,FLA,03-16-2023,7:00 PM,73,33,27,7,east,atlantic,none,4.0,MTL,60,27,35,6,east,atlantic,none,8.0
+2022021082,PIT@NYR,NYR,03-16-2023,7:00 PM,86,38,19,10,east,metro,top3,3.0,PIT,78,34,23,10,east,metro,wc,4.5
+2022021083,TBL@NJD,NJD,03-16-2023,7:00 PM,94,44,17,6,east,metro,top3,2.0,TBL,86,40,22,6,east,atlantic,top3,3.0
+2022021084,BOS@WPG,WPG,03-16-2023,8:00 PM,79,38,27,3,west,central,wc,4.0,BOS,105,50,11,5,east,atlantic,top3,1.0
+2022021085,CHI@NSH,NSH,03-16-2023,8:00 PM,75,34,24,7,west,central,none,5.0,CHI,52,23,38,6,west,central,none,8.0
+2022021086,DAL@EDM,EDM,03-16-2023,9:00 PM,82,37,23,8,west,pacific,top3,3.0,DAL,87,37,18,13,west,central,top3,1.0
+2022021087,CGY@VGK,VGK,03-16-2023,10:00 PM,90,42,20,6,west,pacific,top3,1.0,CGY,74,30,24,14,west,pacific,none,5.0
+2022021088,VAN@ARI,ARI,03-16-2023,10:00 PM,61,25,32,11,west,central,none,7.0,VAN,63,29,32,5,west,pacific,none,6.0
+2022021089,CBJ@LAK,LAK,03-16-2023,10:30 PM,87,39,20,9,west,pacific,top3,2.0,CBJ,49,21,38,7,east,metro,none,8.0
+2022021090,SEA@SJS,SJS,03-16-2023,10:30 PM,51,19,36,13,west,pacific,none,8.0,SEA,81,37,23,7,west,pacific,wc,4.0
