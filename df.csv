@@ -1,5 +1,14 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022021091,BUF@PHI,PHI,03-17-2023,7:00 PM,59,24,32,11,east,metro,none,7.0,BUF,72,33,28,6,east,atlantic,none,5.0
-2022021092,CAR@TOR,TOR,03-17-2023,7:00 PM,89,40,18,9,east,atlantic,top3,2.0,CAR,96,44,14,8,east,metro,top3,1.0
-2022021093,STL@WSH,WSH,03-17-2023,7:00 PM,73,33,29,7,east,metro,none,6.0,STL,63,29,33,5,west,central,none,6.5
-2022021094,CBJ@ANA,ANA,03-17-2023,10:00 PM,54,22,36,10,west,pacific,none,7.0,CBJ,49,21,39,7,east,metro,none,8.0
+2022021095,COL@DET,DET,03-18-2023,1:00 PM,69,30,28,9,east,atlantic,none,7.0,COL,84,39,22,6,west,central,top3,3.0
+2022021096,BOS@MIN,MIN,03-18-2023,2:00 PM,86,39,21,8,west,central,top3,2.0,BOS,107,51,11,5,east,atlantic,top3,1.0
+2022021097,WPG@NSH,NSH,03-18-2023,2:00 PM,75,34,25,7,west,central,none,5.0,WPG,79,38,28,3,west,central,wc,4.0
+2022021098,EDM@SEA,SEA,03-18-2023,4:00 PM,83,38,23,7,west,pacific,wc,4.0,EDM,84,38,23,8,west,pacific,top3,3.0
+2022021099,CAR@PHI,PHI,03-18-2023,5:00 PM,61,25,32,11,east,metro,none,7.0,CAR,96,44,15,8,east,metro,top3,1.0
+2022021100,NJD@FLA,FLA,03-18-2023,6:00 PM,75,34,27,7,east,atlantic,none,4.0,NJD,95,44,17,7,east,metro,top3,2.0
+2022021101,MTL@TBL,TBL,03-18-2023,7:00 PM,88,41,22,6,east,atlantic,top3,3.0,MTL,60,27,36,6,east,atlantic,none,8.0
+2022021102,TOR@OTT,OTT,03-18-2023,7:00 PM,70,33,31,4,east,atlantic,none,6.0,TOR,91,41,18,9,east,atlantic,top3,2.0
+2022021103,PIT@NYR,NYR,03-18-2023,8:00 PM,88,39,19,10,east,metro,top3,3.0,PIT,78,34,24,10,east,metro,wc,4.5
+2022021104,DAL@CGY,CGY,03-18-2023,10:00 PM,76,31,24,14,west,pacific,none,5.0,DAL,87,37,19,13,west,central,top3,1.0
+2022021105,VAN@LAK,LAK,03-18-2023,10:00 PM,89,40,20,9,west,pacific,top3,2.0,VAN,63,29,33,5,west,pacific,none,6.0
+2022021106,CHI@ARI,ARI,03-18-2023,10:30 PM,63,26,32,11,west,central,none,7.0,CHI,54,24,38,6,west,central,none,8.0
+2022021107,NYI@SJS,SJS,03-18-2023,10:30 PM,52,19,36,14,west,pacific,none,8.0,NYI,78,35,27,8,east,metro,wc,4.5
