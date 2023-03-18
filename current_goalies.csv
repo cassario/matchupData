@@ -8,15 +8,15 @@ GP:2 | W:0 | L:0
 Sv%: 0.907 | GSAX:2.11
 
 ****",Colorado Avalanche
-COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,,0,0,0,49.0,0.916,13.879999999999995,"**40 Alexandar Georgiev**
+COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,Confirmed Starter,30,14,starter,49.0,0.916,13.879999999999995,"**40 Alexandar Georgiev**
 
 
 
-GP:49 | W:0 | L:0
+GP:49 | W:30 | L:14
 
 Sv%: 0.916 | GSAX:13.88
 
-****",Colorado Avalanche
+**Confirmed Starter**",Colorado Avalanche
 CHI,G,32,Alex Stalock,G,35,L,"6'0""",200,,0,0,0,19.0,0.922,6.030000000000001,"**32 Alex Stalock**
 
 
@@ -71,15 +71,15 @@ GP:19 | W:0 | L:0
 Sv%: 0.898 | GSAX:-2.83
 
 ****",St. Louis Blues
-BOS,G,35,Linus Ullmark,G,29,L,"6'4""",215,,0,0,0,41.0,0.935,35.790000000000006,"**35 Linus Ullmark**
+BOS,G,35,Linus Ullmark,G,29,L,"6'4""",215,Confirmed Starter,33,0,starter,41.0,0.935,35.790000000000006,"**35 Linus Ullmark**
 
 
 
-GP:41 | W:0 | L:0
+GP:41 | W:33 | L:0
 
 Sv%: 0.935 | GSAX:35.79
 
-****",Boston Bruins
+**Confirmed Starter**",Boston Bruins
 BOS,G,1,Jeremy Swayman,G,24,L,"6'2""",187,,0,0,0,29.0,0.917,14.909999999999997,"**1 Jeremy Swayman**
 
 
@@ -197,15 +197,15 @@ GP:47 | W:0 | L:0
 Sv%: 0.901 | GSAX:-8.48
 
 ****",Anaheim Ducks
-CGY,G,25,Jacob Markstrom,G,33,L,"6'6""",206,,0,0,0,48.0,0.894,2.6100000000000136,"**25 Jacob Markstrom**
+CGY,G,25,Jacob Markstrom,G,33,L,"6'6""",206,Confirmed Starter,19,18,starter,48.0,0.894,2.6100000000000136,"**25 Jacob Markstrom**
 
 
 
-GP:48 | W:0 | L:0
+GP:48 | W:19 | L:18
 
 Sv%: 0.894 | GSAX:2.61
 
-****",Calgary Flames
+**Confirmed Starter**",Calgary Flames
 CGY,G,80,Daniel Vladar,G,25,L,"6'5""",185,,0,0,0,0.0,0.0,0.0,"**80 Daniel Vladar**
 
 
@@ -359,15 +359,6 @@ GP:52 | W:0 | L:0
 Sv%: 0.914 | GSAX:19.7
 
 ****",Tampa Bay Lightning
-TOR,G,35,Ilya Samsonov,G,26,L,"6'3""",208,,0,0,0,35.0,0.917,15.400000000000006,"**35 Ilya Samsonov**
-
-
-
-GP:35 | W:0 | L:0
-
-Sv%: 0.917 | GSAX:15.4
-
-****",Toronto Maple Leafs
 TOR,G,30,Matt Murray,G,28,L,"6'4""",178,Projected Starter,12,7,starter,2.0,0.825,-1.8200000000000005,"**30 Matt Murray**
 
 
@@ -386,6 +377,15 @@ GP:22 | W:12 | L:7
 Sv%: 0.903 | GSAX:1.58
 
 **Projected Starter**",Toronto Maple Leafs
+TOR,G,60,Joseph Woll,G,24,L,"6'2""",198,,0,0,0,3.0,0.938,2.2300000000000004,"**60 Joseph Woll**
+
+
+
+GP:3 | W:0 | L:0
+
+Sv%: 0.938 | GSAX:2.23
+
+****",Toronto Maple Leafs
 EDM,G,74,Stuart Skinner,G,24,L,"6'4""",207,Confirmed Starter,21,14,starter,41.0,0.912,-0.1700000000000017,"**74 Stuart Skinner**
 
 
@@ -476,15 +476,15 @@ GP:20 | W:0 | L:0
 Sv%: 0.901 | GSAX:-0.07
 
 ****",New York Rangers
-DET,G,35,Ville Husso,G,28,L,"6'2""",205,,0,0,0,49.0,0.903,-4.25,"**35 Ville Husso**
+DET,G,35,Ville Husso,G,28,L,"6'2""",205,Confirmed Starter,25,17,starter,49.0,0.903,-4.25,"**35 Ville Husso**
 
 
 
-GP:49 | W:0 | L:0
+GP:49 | W:25 | L:17
 
 Sv%: 0.903 | GSAX:-4.25
 
-****",Detroit Red Wings
+**Confirmed Starter**",Detroit Red Wings
 DET,G,45,Magnus Hellberg,G,31,L,"6'5""",190,,0,0,0,13.0,0.901,1.6000000000000014,"**45 Magnus Hellberg**
 
 
