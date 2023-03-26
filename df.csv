@@ -1,16 +1,6 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022021150,DET@PHI,PHI,03-25-2023,1:00 PM,66,27,32,12,east,metro,none,7.0,DET,71,31,31,9,east,atlantic,none,7.0
-2022021151,TBL@BOS,BOS,03-25-2023,1:00 PM,115,55,11,5,east,atlantic,top3,1.0,TBL,90,42,25,6,east,atlantic,top3,3.0
-2022021152,SEA@NSH,NSH,03-25-2023,2:00 PM,80,36,26,8,west,central,none,5.0,SEA,86,39,24,8,west,pacific,wc,4.0
-2022021153,SJS@CGY,CGY,03-25-2023,4:00 PM,79,32,26,15,west,pacific,none,5.0,SJS,53,19,38,15,west,pacific,none,8.0
-2022021154,WPG@LAK,LAK,03-25-2023,4:00 PM,92,41,20,10,west,pacific,top3,2.0,WPG,85,41,29,3,west,central,wc,4.0
-2022021155,CHI@MIN,MIN,03-25-2023,5:00 PM,91,41,22,9,west,central,top3,2.0,CHI,54,24,41,6,west,central,none,8.0
-2022021156,NYR@FLA,FLA,03-25-2023,5:00 PM,79,36,29,7,east,atlantic,none,4.0,NYR,94,42,20,10,east,metro,top3,3.0
-2022021157,BUF@NYI,NYI,03-25-2023,5:00 PM,83,37,27,9,east,metro,wc,4.0,BUF,74,34,31,6,east,atlantic,none,6.0
-2022021158,CBJ@MTL,MTL,03-25-2023,7:00 PM,62,28,38,6,east,atlantic,none,8.0,CBJ,53,23,41,7,east,metro,none,8.0
-2022021159,OTT@NJD,NJD,03-25-2023,7:00 PM,98,45,19,8,east,metro,top3,2.0,OTT,75,35,32,5,east,atlantic,none,5.0
-2022021160,TOR@CAR,CAR,03-25-2023,7:00 PM,100,46,16,8,east,metro,top3,1.0,TOR,95,43,19,9,east,atlantic,top3,2.0
-2022021161,VAN@DAL,DAL,03-25-2023,7:00 PM,92,39,19,14,west,central,top3,1.0,VAN,69,32,34,5,west,pacific,none,6.0
-2022021162,WSH@PIT,PIT,03-25-2023,8:00 PM,80,35,27,10,east,metro,wc,5.0,WSH,76,34,31,8,east,metro,none,6.0
-2022021163,VGK@EDM,EDM,03-25-2023,10:00 PM,90,41,23,8,west,pacific,top3,3.0,VGK,96,45,21,6,west,pacific,top3,1.0
-2022021164,STL@ANA,ANA,03-25-2023,10:30 PM,56,23,39,10,west,pacific,none,7.0,STL,70,32,33,6,west,central,none,6.0
+2022021165,COL@ARI,ARI,03-26-2023,3:00 PM,66,27,34,12,west,central,none,7.0,COL,90,42,23,6,west,central,top3,3.0
+2022021166,BOS@CAR,CAR,03-26-2023,5:00 PM,102,47,16,8,east,metro,top3,1.0,BOS,117,56,11,5,east,atlantic,top3,1.0
+2022021167,TOR@NSH,NSH,03-26-2023,6:00 PM,80,36,27,8,west,central,none,5.0,TOR,95,43,20,9,east,atlantic,top3,2.0
+2022021168,VAN@CHI,CHI,03-26-2023,6:00 PM,54,24,42,6,west,central,none,8.0,VAN,71,33,34,5,west,pacific,none,6.0
+2022021169,STL@LAK,LAK,03-26-2023,10:30 PM,94,42,20,10,west,pacific,top3,2.0,STL,72,33,33,6,west,central,none,6.0
