@@ -1,4 +1,5 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
+"Apr. 2, 2023",ANA,Judd Caulfield,RW,22,Standard,2-way,2,837500,1675000,,,
 "Mar. 31, 2023",NJD,Josh Filmon,LW,19,Entry-Level,2-way,3,870000,2850000,,,
 "Mar. 31, 2023",MTL,Jakub Dobes,G,22,Entry-Level,2-way,2,925000,1850000,,,
 "Mar. 31, 2023",NYI,Travis Mitchell,LD,23,Entry-Level,2-way,2,882500,1900000,,,
@@ -10,10 +11,10 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Mar. 29, 2023",CHI,Brett Seney,"C, LW",27,Standard,2-way,1,775000,775000,7.0,1.0,0.4747005323250012
 "Mar. 29, 2023",DAL,Matthew Seminoff,RW,19,Entry-Level,2-way,3,850000,2550000,,,
 "Mar. 29, 2023",BOS,Trevor Kuntar,C,22,Entry-Level,2-way,2,867500,1850000,,,
-"Mar. 29, 2023",NYR,Filip Chytil,"C, LW",23,Standard,1-way,4,4437500,17750000,68.0,36.0,0.4868676589891456
+"Mar. 29, 2023",NYR,Filip Chytil,"C, LW",23,Standard,1-way,4,4437500,17750000,69.0,37.0,0.4918253900843767
 "Mar. 29, 2023",SJS,Nikolai Knyzhov,LD/RD,25,Standard,1-way,2,1250000,2500000,9.0,1.0,0.3968297444669058
 "Mar. 29, 2023",NSH,Jake Livingstone,RD,23,Entry-Level,2-way,1,2001667,950000,,,
-"Mar. 29, 2023",VAN,Akito Hirose,LD,23,Entry-Level,2-way,1,2026667,950000,,,
+"Mar. 29, 2023",VAN,Akito Hirose,LD,23,Entry-Level,2-way,1,2026667,950000,1.0,0.0,0.5486828408232837
 "Mar. 29, 2023",COL,Jason Polin,RW,24,Entry-Level,2-way,1,870000,950000,,,
 "Mar. 28, 2023",CHI,Antti Saarela,C,22,Entry-Level,2-way,2,896250,1850000,,,
 "Mar. 28, 2023",DET,Carter Mazur,LW,21,Entry-Level,2-way,3,905833,2775000,,,
@@ -27,13 +28,13 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Mar. 25, 2023",WPG,Parker Ford,C,22,Entry-Level,2-way,2,867500,1850000,,,
 "Mar. 25, 2023",LAK,Cole Krygier,LD,23,Entry-Level,2-way,2,837500,1675000,,,
 "Mar. 25, 2023",CHI,Paul Ludwinski,C,19,Entry-Level,2-way,3,931667,2850000,,,
-"Mar. 23, 2023",OTT,Tyler Kleven,LD,20,Entry-Level,2-way,3,916667,3375000,2.0,0.0,0.3878260048533167
+"Mar. 23, 2023",OTT,Tyler Kleven,LD,20,Entry-Level,2-way,3,916667,3375000,3.0,1.0,0.5702373565900187
 "Mar. 23, 2023",NYR,Bryce McConnell-Barker,C,19,Entry-Level,2-way,3,870000,2850000,,,
 "Mar. 23, 2023",VAN,Christian Wolanin,LD,28,Standard,2-way,2,775000,1550000,16.0,1.0,0.4837318720916581
 "Mar. 22, 2023",EDM,Carl Berglund,"C, RW",23,Entry-Level,2-way,2,950000,1900000,,,
 "Mar. 21, 2023",NYR,Brett Berard,LW,20,Entry-Level,2-way,3,867500,2775000,,,
 "Mar. 21, 2023",TBL,Maxwell Crozier,RD,23,Entry-Level,2-way,2,867500,1850000,,,
-"Mar. 20, 2023",CBJ,Hunter McKown,C,19,Entry-Level,2-way,3,950000,4100000,5.0,0.0,0.4208201916692237
+"Mar. 20, 2023",CBJ,Hunter McKown,C,19,Entry-Level,2-way,3,950000,4100000,6.0,0.0,0.3265735800002323
 "Mar. 20, 2023",SEA,Ville Ottavainen,RD,20,Entry-Level,2-way,3,867500,2775000,,,
 "Mar. 19, 2023",DET,Antti Tuomisto,RD,22,Entry-Level,2-way,2,867500,1850000,,,
 "Mar. 18, 2023",DAL,Chase Wheatcroft,LW,21,Entry-Level,2-way,3,862500,2747500,,,
@@ -48,4 +49,3 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Mar. 13, 2023",CHI,Ryder Rolston,"C, LW, RW",21,Entry-Level,2-way,3,895000,2775000,,,
 "Mar. 13, 2023",FLA,Marek Alscher,LD,19,Entry-Level,2-way,3,896667,2850000,,,
 "Mar. 13, 2023",NSH,Mark Jankowski,"C, LW",28,Standard,1-way,1,775000,775000,43.0,6.0,0.4128971472247179
-"Mar. 13, 2023",VAN,Aidan McDonough,C,22,Entry-Level,2-way,2,925000,1850000,2.0,1.0,0.7992610563327717
