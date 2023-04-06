@@ -1,4 +1,15 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022021240,CGY@WPG,WPG,04-05-2023,7:30 PM,89,43,31,3,west,central,wc,4.0,CGY,87,36,27,15,west,pacific,none,5.0
-2022021241,TBL@NYR,NYR,04-05-2023,7:30 PM,101,45,21,11,east,metro,top3,3.0,TBL,96,45,26,6,east,atlantic,top3,3.0
-2022021242,EDM@ANA,ANA,04-05-2023,10:00 PM,56,23,44,10,west,pacific,none,8.0,EDM,101,46,23,9,west,pacific,top3,2.0
+2022021243,CBJ@NJD,NJD,04-06-2023,7:00 PM,106,49,21,8,east,metro,top3,2.0,CBJ,56,24,45,8,east,metro,none,8.0
+2022021244,MIN@PIT,PIT,04-06-2023,7:00 PM,86,38,30,10,east,metro,none,5.0,MIN,98,44,23,10,west,central,top3,2.0
+2022021245,OTT@FLA,FLA,04-06-2023,7:00 PM,87,40,31,7,east,atlantic,wc,4.0,OTT,81,37,34,7,east,atlantic,none,5.5
+2022021246,TOR@BOS,BOS,04-06-2023,7:00 PM,125,60,12,5,east,atlantic,top3,1.0,TOR,102,46,21,10,east,atlantic,top3,2.0
+2022021247,WSH@MTL,MTL,04-06-2023,7:00 PM,66,30,42,6,east,atlantic,none,8.0,WSH,77,34,34,9,east,metro,none,6.0
+2022021248,BUF@DET,DET,04-06-2023,7:00 PM,79,35,33,9,east,atlantic,none,7.0,BUF,81,37,32,7,east,atlantic,none,5.5
+2022021249,TBL@NYI,NYI,04-06-2023,7:30 PM,87,39,30,9,east,metro,wc,4.0,TBL,96,45,27,6,east,atlantic,top3,3.0
+2022021250,CAR@NSH,NSH,04-06-2023,8:00 PM,86,39,30,8,west,central,none,5.0,CAR,109,50,18,9,east,metro,top3,1.0
+2022021251,NYR@STL,STL,04-06-2023,8:00 PM,79,36,35,7,west,central,none,6.0,NYR,103,46,21,11,east,metro,top3,3.0
+2022021252,PHI@DAL,DAL,04-06-2023,8:30 PM,98,42,21,14,west,central,top3,2.0,PHI,71,29,35,13,east,metro,none,7.0
+2022021253,ARI@SEA,SEA,04-06-2023,10:30 PM,94,43,26,8,west,pacific,wc,4.0,ARI,67,27,38,13,west,central,none,7.0
+2022021254,CHI@VAN,VAN,04-06-2023,10:00 PM,75,34,36,7,west,pacific,none,6.0,CHI,56,25,46,6,west,central,none,8.0
+2022021255,LAK@VGK,VGK,04-06-2023,10:00 PM,104,48,22,8,west,pacific,top3,1.0,LAK,100,45,23,10,west,pacific,top3,3.0
+2022021256,COL@SJS,SJS,04-06-2023,10:30 PM,60,22,39,16,west,pacific,none,7.0,COL,98,46,24,6,west,central,top3,2.0
