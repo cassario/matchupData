@@ -1,1 +1,19 @@
-game_id,matchup,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,home,division_place_home,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,away,division_place_away
+game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
+2022021257,CAR@BUF,BUF,04-08-2023,12:30 PM,83,38,32,7,east,atlantic,none,5.0,CAR,109,50,19,9,east,metro,top3,1.0
+2022021258,STL@MIN,MIN,04-08-2023,1:00 PM,98,44,24,10,west,central,top3,3.0,STL,81,37,35,7,west,central,none,6.0
+2022021259,EDM@SJS,SJS,04-08-2023,4:00 PM,60,22,40,16,west,pacific,none,7.0,EDM,103,47,23,9,west,pacific,top3,2.0
+2022021260,ANA@ARI,ARI,04-08-2023,5:30 PM,67,27,39,13,west,central,none,7.0,ANA,56,23,45,10,west,pacific,none,8.0
+2022021261,FLA@WSH,WSH,04-08-2023,7:00 PM,77,34,35,9,east,metro,none,6.0,FLA,89,41,31,7,east,atlantic,wc,4.0
+2022021262,MTL@TOR,TOR,04-08-2023,7:00 PM,103,46,21,11,east,atlantic,top3,2.0,MTL,68,31,42,6,east,atlantic,none,8.0
+2022021263,NYR@CBJ,CBJ,04-08-2023,7:00 PM,56,24,46,8,east,metro,none,8.0,NYR,104,46,21,12,east,metro,top3,3.0
+2022021264,NSH@WPG,WPG,04-08-2023,7:00 PM,89,43,32,3,west,central,none,4.0,NSH,88,40,30,8,west,central,none,5.0
+2022021265,NJD@BOS,BOS,04-08-2023,7:00 PM,127,61,12,5,east,atlantic,top3,1.0,NJD,108,50,21,8,east,metro,top3,2.0
+2022021266,PIT@DET,DET,04-08-2023,8:00 PM,80,35,33,10,east,atlantic,none,7.0,PIT,88,39,30,10,east,metro,none,5.0
+2022021267,TBL@OTT,OTT,04-08-2023,7:00 PM,81,37,35,7,east,atlantic,none,6.0,TBL,96,45,28,6,east,atlantic,top3,3.0
+2022021268,PHI@NYI,NYI,04-08-2023,7:30 PM,89,40,30,9,east,metro,wc,4.0,PHI,71,29,36,13,east,metro,none,7.0
+2022021269,VGK@DAL,DAL,04-08-2023,3:30 PM,100,43,21,14,west,central,top3,1.5,VGK,106,49,22,8,west,pacific,top3,1.0
+2022021270,CGY@VAN,VAN,04-08-2023,10:00 PM,77,35,36,7,west,pacific,none,6.0,CGY,89,37,27,15,west,pacific,none,5.0
+2022021271,CHI@SEA,SEA,04-08-2023,10:00 PM,96,44,26,8,west,pacific,wc,4.0,CHI,56,25,47,6,west,central,none,8.0
+2022021272,COL@LAK,LAK,04-08-2023,10:30 PM,100,45,24,10,west,pacific,top3,3.0,COL,100,47,24,6,west,central,top3,1.5
+2022021273,BOS@PHI,PHI,04-09-2023,6:00 PM,71,29,36,13,east,metro,none,7.0,COL,100,47,24,6,west,central,top3,1.5
+2022021274,COL@ANA,ANA,04-09-2023,8:30 PM,56,23,45,10,west,pacific,none,8.0,BOS,127,61,12,5,east,atlantic,top3,1.0
