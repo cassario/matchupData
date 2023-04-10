@@ -1,6 +1,5 @@
 player,team,exp,birth_date,gp,toi_pg,g,a1,pts,ppts,iXG,xg_perc,pos,age,years_remaining,terms,acquired,status,cap%,free_agency_type,2022-23,2023-24,2024-25,2025-26,2026-27,2027-28
 Troy Terry,ANA,,,,,,,,,,,"RW, C",25,1,,Draft,NHL,0.018000000000000002,RFA,1450000,0,0,0,0,0
-Jamie Drysdale,ANA,,,,,,,,,,,RD,20,1,ELC,Draft,IR,0.011000000000000001,RFA,925000,0,0,0,0,0
 Anthony Stolarz,ANA,,,,,,,,,,,G,29,1,,Signed,IR,0.012,UFA,950000,0,0,0,0,0
 John Moore,ANA,,,,,,,,,,,LD,32,1,,Trade,IR,0.033,UFA,2750000,0,0,0,0,0
 Olle Eriksson Ek,ANA,,,,,,,,,,,G,23,1,,Draft,Emerg. Loan,0.009000000000000001,RFA,750000,0,0,0,0,0
@@ -10,15 +9,14 @@ Scott Harrington,ANA,,,,,,,,,,,LD,30,1,,Waivers claim,NHL,0.009000000000000001,U
 Simon Benoit,ANA,,,,,,,,,,,LD,24,1,,Signed,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
 Colton White,ANA,,,,,,,,,,,LD,25,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
 Nathan Beaulieu,ANA,,,,,,,,,,,LD/RD,30,1,,Signed,NHL,0.01,UFA,850000,0,0,0,0,0
+Drew Helleson,ANA,,,,,,,,,,,RD,22,3,ELC,Trade,Emerg. Loan,0.011000000000000001,RFA,925000,925000,925000,0,0,0
 Kevin Shattenkirk,ANA,,,,,,,,,,,RD,34,1,M-NTC,Signed,NHL,0.047,UFA,3900000,0,0,0,0,0
 Cam Fowler,ANA,,,,,,,,,,,LD/RD,31,4,M-NTC,Draft,NHL,0.079,UFA,6500000,6500000,6500000,6500000,0,0
-Urho Vaakanainen,ANA,,,,,,,,,,,LD/RD,24,2,,Trade,IR,0.01,RFA,850000,850000,0,0,0,0
+Jamie Drysdale,ANA,,,,,,,,,,,RD,21,1,ELC,Draft,IR,0.011000000000000001,RFA,925000,0,0,0,0,0
 Jayson Megna,ANA,,,,,,,,,,,"C, LW, RW",33,1,,Waivers claim,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
 Sam Carrick,ANA,,,,,,,,,,,"RW, C",31,2,,Trade,NHL,0.01,UFA,850000,850000,0,0,0,0
 Mason McTavish,ANA,,,,,,,,,,,"C, LW",20,3,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,894167,0,0,0
 Trevor Zegras,ANA,,,,,,,,,,,"C, LW",22,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
-Adam Henrique,ANA,,,,,,,,,,,"LW, C",33,2,M-NTC,Trade,NHL,0.071,UFA,5825000,5825000,0,0,0,0
-Jakob Silfverberg,ANA,,,,,,,,,,,"RW, LW",32,2,M-NTC,Trade,NHL,0.064,UFA,5250000,5250000,0,0,0,0
 Nikita Nesterenko,ANA,,,,,,,,,,,C,21,2,ELC,Trade,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0
 Max Jones,ANA,,,,,,,,,,,"LW, RW",25,2,,Draft,NHL,0.016,RFA,1295000,1295000,0,0,0,0
 Gage Alexander,ANA,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,810000,810000,810000,0,0,0
@@ -26,7 +24,10 @@ Derek Grant,ANA,,,,,,,,,,,"LW, C",32,1,,Signed,NHL,0.018000000000000002,UFA,1500
 Isac Lundestrom,ANA,,,,,,,,,,,"C, LW",23,2,,Draft,NHL,0.022000000000000002,RFA,1800000,1800000,0,0,0,0
 Maxime Comtois,ANA,,,,,,,,,,,LW,24,1,,Draft,NHL,0.025,RFA,2037500,0,0,0,0,0
 Brock McGinn,ANA,,,,,,,,,,,"LW, RW",29,3,,Trade,NHL,0.033,UFA,2750000,2750000,2750000,0,0,0
+Frank Vatrano,ANA,,,,,,,,,,,"LW, RW",29,3,,Signed,NHL,0.044000000000000004,UFA,3650000,3650000,3650000,0,0,0
+Ryan Strome,ANA,,,,,,,,,,,"C, RW",29,5,,Signed,NHL,0.061,UFA,5000000,5000000,5000000,5000000,5000000,0
 Brett Leason,ANA,,,,,,,,,,,RW,23,2,,Waivers claim,NHL,0.009000000000000001,RFA,775000,775000,0,0,0,0
+Urho Vaakanainen,ANA,,,,,,,,,,,LD/RD,24,2,,Trade,IR,0.01,RFA,850000,850000,0,0,0,0
 Calle Clang,ANA,,,,,,,,,,,G,20,3,ELC,Trade,Minor,0.0,RFA,878333,878333,878333,0,0,0
 Andrej Sustr,ANA,,,,,,,,,,,RD,32,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
 Olli Juolevi,ANA,,,,,,,,,,,LD,24,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
@@ -35,10 +36,9 @@ Axel Andersson,ANA,,,,,,,,,,,RD,23,1,ELC,Trade,Minor,0.0,RFA,772500,0,0,0,0,0
 Chase Priskie,ANA,,,,,,,,,,,RD,27,1,,Trade,Minor,0.0,UFA,800000,0,0,0,0,0
 Tyson Hinds,ANA,,,,,,,,,,,LD,20,3,ELC,Draft,Junior,0.0,RFA,848333,848333,848333,0,0,0
 Olen Zellweger,ANA,,,,,,,,,,,LD,19,3,ELC,Draft,Junior,0.0,RFA,866667,866667,866667,0,0,0
-Drew Helleson,ANA,,,,,,,,,,,RD,22,3,ELC,Trade,Minor,0.0,RFA,925000,925000,925000,0,0,0
 Pavel Mintyukov,ANA,,,,,,,,,,,LD,19,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0
 Jaxsen Wiebe,ANA,,,,,,,,,,,"RW, C",20,4,ELC,Signed,Junior,0.0,RFA,0,852500,852500,852500,0,0
-Judd Caulfield,ANA,,,,,,,,,,,RW,22,3,,Trade,Minor,0.0,RFA,0,837500,837500,0,0,0
+Judd Caulfield,ANA,,,,,,,,,,,RW,22,3,ELC,Trade,Minor,0.0,RFA,0,837500,837500,0,0,0
 Dylan Sikura,ANA,,,,,,,,,,,"LW, RW, C",27,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
 Justin Kirkland,ANA,,,,,,,,,,,"LW, RW",26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Glenn Gawdin,ANA,,,,,,,,,,,"C, RW",26,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
@@ -53,12 +53,12 @@ Joshua Lopina,ANA,,,,,,,,,,,C,22,3,ELC,Draft,Minor,0.0,RFA,878333,878333,878333,
 Blake McLaughlin,ANA,,,,,,,,,,,LW,23,2,ELC,Draft,Minor,0.0,RFA,883750,883750,0,0,0,0
 Bryce Kindopp,ANA,,,,,,,,,,,RW,23,1,ELC,Signed,Minor,0.0,RFA,925000,0,0,0,0,0
 Nathan Gaucher,ANA,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0
-Frank Vatrano,ANA,,,,,,,,,,,"LW, RW",29,3,,Signed,NHL,0.044000000000000004,UFA,3650000,3650000,3650000,0,0,0
-Ryan Strome,ANA,,,,,,,,,,,"C, RW",29,5,,Signed,NHL,0.061,UFA,5000000,5000000,5000000,5000000,5000000,0
+Jakob Silfverberg,ANA,,,,,,,,,,,"RW, LW",32,2,M-NTC,Trade,NHL,0.064,UFA,5250000,5250000,0,0,0,0
+Adam Henrique,ANA,,,,,,,,,,,"LW, C",33,2,M-NTC,Trade,NHL,0.071,UFA,5825000,5825000,0,0,0,0
 Clayton Keller,ARI,,,,,,,,,,,"LW, RW",24,6,,Draft,NHL,0.087,UFA,7150000,7150000,7150000,7150000,7150000,7150000
 Connor Ingram,ARI,,,,,,,,,,,G,26,1,,Waivers claim,NHL,0.009000000000000001,RFA,733333,0,0,0,0,0
 Conor Geekie,ARI,,,,,,,,,,,C,18,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0
-Dylan Guenther,ARI,,,,,,,,,,,RW,19,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
+Dylan Guenther,ARI,,,,,,,,,,,RW,20,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
 Nathan Smith,ARI,,,,,,,,,,,C,24,1,ELC,Trade,Minor,0.0,RFA,883750,0,0,0,0,0
 Curtis Douglas,ARI,,,,,,,,,,,C,23,2,ELC,Trade,Minor,0.0,RFA,837500,837500,0,0,0,0
 Liam Kirk,ARI,,,,,,,,,,,C,23,2,ELC,Draft,Loan,0.0,RFA,813333,813333,0,0,0,0
@@ -101,7 +101,10 @@ Jakub Voracek,ARI,,,,,,,,,,,"RW, LW",33,2,,Trade,IR,0.1,UFA,8250000,8250000,0,0,
 Brett Ritchie,ARI,,,,,,,,,,,RW,29,1,,Trade,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
 David Tendeck,ARI,,,,,,,,,,,G,23,1,ELC,Draft,Minor,0.0,RFA,783333,0,0,0,0,0
 Nick Schmaltz,ARI,,,,,,,,,,,"RW, C",27,4,,Trade,NHL,0.071,UFA,5850000,5850000,5850000,5850000,0,0
-Jack Ahcan,BOS,,,,,,,,,,,LD,25,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Ryan Mast,BOS,,,,,,,,,,,RD,20,3,ELC,Draft,Junior,0.0,RFA,850000,850000,850000,0,0,0
+Nick Foligno,BOS,,,,,,,,,,,"LW, C, RW",35,1,M-NTC,Signed,LTIR,0.046,UFA,3800000,0,0,0,0,0
+Derek Forbort,BOS,,,,,,,,,,,LD,31,2,M-NTC,Signed,LTIR,0.036000000000000004,UFA,3000000,3000000,0,0,0,0
+Chris Wagner,BOS,,,,,,,,,,,"RW, C",31,1,,Signed,Minor,0.003,UFA,225000,0,0,0,0,0
 Mike Reilly,BOS,,,,,,,,,,,LD,29,2,,Trade,Minor,0.023,UFA,1875000,1875000,0,0,0,0
 Chris Wagner,BOS,,,,,,,,,,,"RW, C",31,1,,Signed,Minor,0.0,UFA,1350000,0,0,0,0,0
 John Beecher,BOS,,,,,,,,,,,C,22,3,ELC,Draft,Minor,0.0,RFA,925000,925000,925000,0,0,0
@@ -109,28 +112,26 @@ Curtis Hall,BOS,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,925000,925000,0,0,0,0
 Georgi Merkulov,BOS,,,,,,,,,,,LW,22,3,ELC,Signed,Minor,0.0,RFA,925000,925000,925000,0,0,0
 Fabian Lysell,BOS,,,,,,,,,,,RW,20,3,ELC,Draft,Minor,0.0,RFA,894167,894167,894167,0,0,0
 Marc McLaughlin,BOS,,,,,,,,,,,C,23,1,ELC,Signed,Minor,0.0,RFA,883750,0,0,0,0,0
-Brett Harrison,BOS,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,859167,859167,859167,0,0,0
-Samuel Asselin,BOS,,,,,,,,,,,C,24,1,ELC,Signed,Minor,0.0,RFA,800000,0,0,0,0,0
+Brandon Bussi,BOS,,,,,,,,,,,G,24,1,ELC,Signed,Emerg. Loan,0.01,RFA,825000,0,0,0,0,0
+Brett Harrison,BOS,,,,,,,,,,,C,19,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
 Matt Filipe,BOS,,,,,,,,,,,"C, LW",25,1,,Signed,Minor,0.0,RFA,787500,0,0,0,0,0
 Shane Bowers,BOS,,,,,,,,,,,C,23,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
-Chris Wagner,BOS,,,,,,,,,,,"RW, C",31,1,,Signed,Minor,0.003,UFA,225000,0,0,0,0,0
 Joona Koppanen,BOS,,,,,,,,,,,"LW, C",25,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
 Trevor Kuntar,BOS,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,0,867500,867500,0,0,0
-Mike Reilly,BOS,,,,,,,,,,,LD,29,2,,Trade,Minor,0.0,UFA,3000000,3000000,0,0,0,0
-Anton Stralman,BOS,,,,,,,,,,,RD,36,1,35+,Signed,Minor,0.0,UFA,1000000,0,0,0,0,0
-Michael Callahan,BOS,,,,,,,,,,,LD,23,2,ELC,Trade,Minor,0.0,RFA,883750,883750,0,0,0,0
 Kyle Keyser,BOS,,,,,,,,,,,G,24,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Brandon Bussi,BOS,,,,,,,,,,,G,24,1,ELC,Signed,Minor,0.0,RFA,825000,0,0,0,0,0
 Michael DiPietro,BOS,,,,,,,,,,,G,23,1,,Trade,Minor,0.0,RFA,840000,0,0,0,0,0
-Connor Carrick,BOS,,,,,,,,,,,RD,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Nick Wolff,BOS,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Mitchell Miller,BOS,,,,,,,,,,,LD,21,3,ELC,Signed,Minor,0.0,RFA,861667,861667,861667,0,0,0
 Daniel Renouf,BOS,,,,,,,,,,,LD,28,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Vinni Lettieri,BOS,,,,,,,,,,,"C, RW",28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Taylor Hall,BOS,,,,,,,,,,,LW,31,3,"M-NTC, NMC",Trade,LTIR,0.073,UFA,6000000,6000000,6000000,0,0,0
-Nick Foligno,BOS,,,,,,,,,,,"LW, C, RW",35,1,M-NTC,Signed,IR,0.046,UFA,3800000,0,0,0,0,0
+Kai Wissmann,BOS,,,,,,,,,,,RD,26,1,ELC,Signed,Minor,0.0,RFA,825000,0,0,0,0,0
+Mike Reilly,BOS,,,,,,,,,,,LD,29,2,,Trade,Minor,0.0,UFA,3000000,3000000,0,0,0,0
+Mitchell Miller,BOS,,,,,,,,,,,LD,21,3,ELC,Signed,Minor,0.0,RFA,861667,861667,861667,0,0,0
+Samuel Asselin,BOS,,,,,,,,,,,C,24,1,ELC,Signed,Minor,0.0,RFA,800000,0,0,0,0,0
+Jeremy Swayman,BOS,,,,,,,,,,,G,24,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
+Linus Ullmark,BOS,,,,,,,,,,,G,29,3,NMC,Signed,NHL,0.061,UFA,5000000,5000000,5000000,0,0,0
+Connor Carrick,BOS,,,,,,,,,,,RD,28,1,,Signed,Emerg. Loan,0.009000000000000001,UFA,750000,0,0,0,0,0
 David Pastrnak,BOS,,,,,,,,,,,RW,26,9,"M-NTC, NMC",Draft,NHL,0.081,UFA,6666667,11250000,11250000,11250000,11250000,11250000
 Brad Marchand,BOS,,,,,,,,,,,LW,34,3,M-NTC,Draft,NHL,0.07400000000000001,UFA,6125000,6125000,6125000,0,0,0
+Taylor Hall,BOS,,,,,,,,,,,LW,31,3,"M-NTC, NMC",Trade,NHL,0.073,UFA,6000000,6000000,6000000,0,0,0
 Charlie Coyle,BOS,,,,,,,,,,,"C, RW",31,4,"M-NTC, NMC",Trade,NHL,0.064,UFA,5250000,5250000,5250000,5250000,0,0
 Jake DeBrusk,BOS,,,,,,,,,,,"RW, LW",26,2,,Draft,NHL,0.048,UFA,4000000,4000000,0,0,0,0
 Pavel Zacha,BOS,,,,,,,,,,,"LW, RW, C",26,5,,Trade,NHL,0.042,UFA,3500000,4750000,4750000,4750000,4750000,0
@@ -139,27 +140,24 @@ Tyler Bertuzzi,BOS,,,,,,,,,,,"LW, RW",28,1,RS,Trade,NHL,0.028999999999999998,UFA
 Tomas Nosek,BOS,,,,,,,,,,,"C, LW",30,1,,Signed,NHL,0.021,UFA,1750000,0,0,0,0,0
 Garnet Hathaway,BOS,,,,,,,,,,,"RW, LW",31,1,,Trade,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
 Trent Frederic,BOS,,,,,,,,,,,"LW, RW",25,1,,Draft,NHL,0.013000000000000001,RFA,1050000,0,0,0,0,0
+Michael Callahan,BOS,,,,,,,,,,,LD,23,2,ELC,Trade,Minor,0.0,RFA,883750,883750,0,0,0,0
 David Krejci,BOS,,,,,,,,,,,C,36,1,35+NTC,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0
-Kai Wissmann,BOS,,,,,,,,,,,RD,26,1,ELC,Signed,Minor,0.0,RFA,825000,0,0,0,0,0
-Oskar Steen,BOS,,,,,,,,,,,"C, RW",25,2,,Draft,Emerg. Loan,0.01,RFA,800000,800000,0,0,0,0
+Jakub Lauko,BOS,,,,,,,,,,,"LW, RW",23,1,ELC,Draft,NHL,0.009000000000000001,RFA,764167,0,0,0,0,0
 AJ Greer,BOS,,,,,,,,,,,"RW, LW",26,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
+Vinni Lettieri,BOS,,,,,,,,,,,"C, RW",28,1,,Signed,Emerg. Loan,0.009000000000000001,UFA,750000,0,0,0,0,0
 Charlie McAvoy,BOS,,,,,,,,,,,RD,25,8,,Draft,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,9500000
 Hampus Lindholm,BOS,,,,,,,,,,,LD,29,8,"NTC, NMC",Trade,NHL,0.079,UFA,6500000,6500000,6500000,6500000,6500000,6500000
 Brandon Carlo,BOS,,,,,,,,,,,RD,26,5,,Draft,NHL,0.05,UFA,4100000,4100000,4100000,4100000,4100000,0
 Matt Grzelcyk,BOS,,,,,,,,,,,LD,29,2,,Draft,NHL,0.045,UFA,3687500,3687500,0,0,0,0
-Derek Forbort,BOS,,,,,,,,,,,LD,31,2,M-NTC,Signed,NHL,0.036000000000000004,UFA,3000000,3000000,0,0,0,0
 Dmitry Orlov,BOS,,,,,,,,,,,LD,31,1,RSM-NTC,Trade,NHL,0.015,UFA,1275000,0,0,0,0,0
 Jakub Zboril,BOS,,,,,,,,,,,LD/RD,26,2,,Draft,NHL,0.013999999999999999,UFA,1137500,1137500,0,0,0,0
 Connor Clifton,BOS,,,,,,,,,,,RD,27,1,,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0
-Linus Ullmark,BOS,,,,,,,,,,,G,29,3,NMC,Signed,NHL,0.061,UFA,5000000,5000000,5000000,0,0,0
-Jeremy Swayman,BOS,,,,,,,,,,,G,24,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
-Jakub Lauko,BOS,,,,,,,,,,,"LW, RW",23,1,ELC,Draft,NHL,0.009000000000000001,RFA,764167,0,0,0,0,0
-Ryan Mast,BOS,,,,,,,,,,,RD,20,3,ELC,Draft,Junior,0.0,RFA,850000,850000,850000,0,0,0
-Peyton Krebs,BUF,,,,,,,,,,,"C, LW",22,2,ELC,Trade,NHL,0.01,RFA,863333,863333,0,0,0,0
+Jack Ahcan,BOS,,,,,,,,,,,LD,25,1,,Signed,Emerg. Loan,0.009000000000000001,UFA,750000,0,0,0,0,0
+Oskar Steen,BOS,,,,,,,,,,,"C, RW",25,2,,Draft,Emerg. Loan,0.01,RFA,800000,800000,0,0,0,0
+Anton Stralman,BOS,,,,,,,,,,,RD,36,1,35+,Signed,Minor,0.0,UFA,1000000,0,0,0,0,0
+John-Jason Peterka,BUF,,,,,,,,,,,"LW, RW",21,3,ELC,Draft,NHL,0.01,RFA,855833,855833,855833,0,0,0
 Kyle Okposo,BUF,,,,,,,,,,,RW,34,1,M-NTC,Signed,NHL,0.073,UFA,6000000,0,0,0,0,0
-Jack Quinn,BUF,,,,,,,,,,,"RW, LW",21,3,ELC,Draft,NHL,0.01,RFA,863333,863333,863333,0,0,0
-Tyson Kozak,BUF,,,,,,,,,,,C,20,3,ELC,Draft,Minor,0.0,RFA,850000,850000,850000,0,0,0
-Linus Weissbach,BUF,,,,,,,,,,,"LW, RW",24,1,ELC,Draft,Minor,0.0,RFA,842500,0,0,0,0,0
+Rasmus Dahlin,BUF,,,,,,,,,,,LD/RD,22,2,,Draft,NHL,0.073,RFA,6000000,6000000,0,0,0,0
 Lukas Rousek,BUF,,,,,,,,,,,RW,23,1,ELC,Draft,Minor,0.0,10.2(c),830000,0,0,0,0,0
 Matej Pekar,BUF,,,,,,,,,,,"C, RW",23,1,ELC,Draft,Minor,0.0,RFA,764167,0,0,0,0,0
 Brandon Biro,BUF,,,,,,,,,,,LW,25,2,,Signed,Minor,0.0,RFA,762500,762500,0,0,0,0
@@ -167,10 +165,12 @@ Brett Murray,BUF,,,,,,,,,,,LW,24,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
 Sean Malone,BUF,,,,,,,,,,,C,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Lawrence Pilut,BUF,,,,,,,,,,,LD,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Joseph Cecconi,BUF,,,,,,,,,,,RD,25,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Filip Cederqvist,BUF,,,,,,,,,,,"LW, RW",22,2,ELC,Draft,Minor,0.0,RFA,850000,850000,0,0,0,0
 Jeremy Davies,BUF,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Austin Strand,BUF,,,,,,,,,,,RD,26,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Linus Weissbach,BUF,,,,,,,,,,,"LW, RW",24,1,ELC,Draft,Minor,0.0,RFA,842500,0,0,0,0,0
 Malcolm Subban,BUF,,,,,,,,,,,G,29,1,,Trade,Minor,0.0,UFA,850000,0,0,0,0,0
-Michael Houser,BUF,,,,,,,,,,,G,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Dylan Cozens,BUF,,,,,,,,,,,"C, LW",22,8,ELC,Draft,NHL,0.011000000000000001,UFA,894167,7100000,7100000,7100000,7100000,7100000
+Tage Thompson,BUF,,,,,,,,,,,C,25,8,,Trade,NHL,0.017,UFA,1400000,7142857,7142857,7142857,7142857,7142857
 Vinnie Hinostroza,BUF,,,,,,,,,,,"RW, LW",29,1,,Signed,NHL,0.021,UFA,1700000,0,0,0,0,0
 Tyson Jost,BUF,,,,,,,,,,,C,25,1,,Waivers claim,NHL,0.024,RFA,2000000,0,0,0,0,0
 Zemgus Girgensons,BUF,,,,,,,,,,,"LW, C",29,1,,Draft,NHL,0.027000000000000003,UFA,2200000,0,0,0,0,0
@@ -178,12 +178,10 @@ Casey Mittelstadt,BUF,,,,,,,,,,,"LW, C",24,2,,Draft,NHL,0.03,RFA,2500000,2500000
 Jordan Greenway,BUF,,,,,,,,,,,"LW, RW",26,3,,Trade,NHL,0.036000000000000004,UFA,3000000,3000000,3000000,0,0,0
 Victor Olofsson,BUF,,,,,,,,,,,"RW, LW",27,2,,Draft,NHL,0.057999999999999996,UFA,4750000,4750000,0,0,0,0
 Alex Tuch,BUF,,,,,,,,,,,"RW, LW",26,4,,Trade,NHL,0.057999999999999996,UFA,4750000,4750000,4750000,4750000,0,0
-Austin Strand,BUF,,,,,,,,,,,RD,26,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Michael Houser,BUF,,,,,,,,,,,G,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Jeff Skinner,BUF,,,,,,,,,,,"LW, RW",30,5,NMC,Trade,NHL,0.109,UFA,9000000,9000000,9000000,9000000,9000000,0
-Olivier Nadeau,BUF,,,,,,,,,,,RW,20,3,ELC,Draft,Junior,0.0,RFA,859167,859167,859167,0,0,0
-Isak Rosen,BUF,,,,,,,,,,,RW,20,3,ELC,Draft,Minor,0.0,RFA,925000,925000,925000,0,0,0
-John-Jason Peterka,BUF,,,,,,,,,,,"LW, RW",21,3,ELC,Draft,NHL,0.01,RFA,855833,855833,855833,0,0,0
-Rasmus Dahlin,BUF,,,,,,,,,,,LD/RD,22,2,,Draft,NHL,0.073,RFA,6000000,6000000,0,0,0,0
+Tyson Kozak,BUF,,,,,,,,,,,C,20,3,ELC,Draft,Minor,0.0,RFA,850000,850000,850000,0,0,0
+Ukko-Pekka Luukkonen,BUF,,,,,,,,,,,G,24,2,,Draft,NHL,0.01,RFA,837500,837500,0,0,0,0
 Ilya Lyubushkin,BUF,,,,,,,,,,,RD,29,2,,Signed,NHL,0.033,UFA,2750000,2750000,0,0,0,0
 Henri Jokiharju,BUF,,,,,,,,,,,RD,23,2,,Trade,NHL,0.03,RFA,2500000,2500000,0,0,0,0
 Jacob Bryson,BUF,,,,,,,,,,,LD/RD,25,2,,Draft,NHL,0.022000000000000002,RFA,1850000,1850000,0,0,0,0
@@ -194,27 +192,32 @@ Kale Clague,BUF,,,,,,,,,,,LD/RD,24,1,,Signed,NHL,0.009000000000000001,RFA,750000
 Eric Comrie,BUF,,,,,,,,,,,G,27,2,,Signed,NHL,0.022000000000000002,UFA,1800000,1800000,0,0,0,0
 Craig Anderson,BUF,,,,,,,,,,,G,41,1,35+,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
 Devon Levi,BUF,,,,,,,,,,,G,21,3,ELC,Trade,NHL,0.011000000000000001,10.2(c),925000,925000,925000,0,0,0
-Ukko-Pekka Luukkonen,BUF,,,,,,,,,,,G,24,2,,Draft,NHL,0.01,RFA,837500,837500,0,0,0,0
+Jack Quinn,BUF,,,,,,,,,,,"RW, LW",21,3,ELC,Draft,NHL,0.01,RFA,863333,863333,863333,0,0,0
 Ben Bishop,BUF,,,,,,,,,,,G,36,1,"M-NTC, NMC",Trade,IR,0.06,UFA,4916667,0,0,0,0,0
 Jiri Kulich,BUF,,,,,,,,,,,"C, LW",18,3,ELC,Draft,Minor,0.0,RFA,950000,950000,950000,0,0,0
-Tage Thompson,BUF,,,,,,,,,,,C,25,8,,Trade,NHL,0.017,UFA,1400000,7142857,7142857,7142857,7142857,7142857
 Noah Ã–stlund,BUF,,,,,,,,,,,C,19,3,ELC,Draft,Loan,0.0,RFA,950000,950000,950000,0,0,0
 Matthew Savoie,BUF,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0
+Peyton Krebs,BUF,,,,,,,,,,,"C, LW",22,2,ELC,Trade,NHL,0.01,RFA,863333,863333,0,0,0,0
+Isak Rosen,BUF,,,,,,,,,,,RW,20,3,ELC,Draft,Minor,0.0,RFA,925000,925000,925000,0,0,0
 Alexander Kisakov,BUF,,,,,,,,,,,LW,20,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Dylan Cozens,BUF,,,,,,,,,,,"C, LW",22,8,ELC,Draft,NHL,0.011000000000000001,UFA,894167,7100000,7100000,7100000,7100000,7100000
-Cavan Fitzgerald,CAR,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Maxime Lajoie,CAR,,,,,,,,,,,LD,25,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
-Paul Stastny,CAR,,,,,,,,,,,"C, LW",37,1,35+NTC,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
+Olivier Nadeau,BUF,,,,,,,,,,,RW,20,3,ELC,Draft,Junior,0.0,RFA,859167,859167,859167,0,0,0
+Filip Cederqvist,BUF,,,,,,,,,,,"LW, RW",22,2,ELC,Draft,Minor,0.0,RFA,850000,850000,0,0,0,0
+Pyotr Kochetkov,CAR,,,,,,,,,,,G,23,5,ELC,Draft,Minor,0.0,UFA,842500,2000000,2000000,2000000,2000000,0
+Zach Sawchenko,CAR,,,,,,,,,,,G,25,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Stefan Noesen,CAR,,,,,,,,,,,"LW, RW",30,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
+Antti Raanta,CAR,,,,,,,,,,,G,33,1,,Signed,NHL,0.024,UFA,2000000,0,0,0,0,0
+Frederik Andersen,CAR,,,,,,,,,,,G,33,1,M-NTC,Signed,NHL,0.055,UFA,4500000,0,0,0,0,0
+Jalen Chatfield,CAR,,,,,,,,,,,RD,26,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
 Dylan Coghlan,CAR,,,,,,,,,,,RD,25,1,,Trade,NHL,0.009000000000000001,RFA,762500,0,0,0,0,0
-Calvin De Haan,CAR,,,,,,,,,,,LD/RD,31,1,,Signed,NHL,0.01,UFA,850000,0,0,0,0,0
 Brett Pesce,CAR,,,,,,,,,,,RD,28,2,,Draft,NHL,0.049,UFA,4025000,4025000,0,0,0,0
 Shayne Gostisbehere,CAR,,,,,,,,,,,LD/RD,29,1,,Trade,NHL,0.055,UFA,4500000,0,0,0,0,0
+Brady Skjei,CAR,,,,,,,,,,,LD,29,2,M-NTC,Trade,NHL,0.064,UFA,5250000,5250000,0,0,0,0
 Brent Burns,CAR,,,,,,,,,,,RD,38,3,RSM-NTC,Trade,NHL,0.064,UFA,5280000,5280000,5280000,0,0,0
 Jaccob Slavin,CAR,,,,,,,,,,,LD,28,3,M-NTC,Draft,NHL,0.064,UFA,5300000,5300000,5300000,0,0,0
 Derek Stepan,CAR,,,,,,,,,,,"C, RW",32,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Stefan Noesen,CAR,,,,,,,,,,,"LW, RW",30,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
 Seth Jarvis,CAR,,,,,,,,,,,RW,21,2,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,0,0,0,0
 Jack Drury,CAR,,,,,,,,,,,C,23,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0
+Paul Stastny,CAR,,,,,,,,,,,"C, LW",37,1,35+NTC,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
 Jordan Martinook,CAR,,,,,,,,,,,"LW, RW",30,2,,Signed,NHL,0.022000000000000002,UFA,1800000,1800000,0,0,0,0
 Jesper Fast,CAR,,,,,,,,,,,RW,31,1,,Signed,NHL,0.024,UFA,2000000,0,0,0,0,0
 Jesse Puljujarvi,CAR,,,,,,,,,,,RW,24,1,,Trade,NHL,0.036000000000000004,RFA,3000000,0,0,0,0,0
@@ -223,34 +226,31 @@ Jesperi Kotkaniemi,CAR,,,,,,,,,,,C,22,8,,Signed,NHL,0.057999999999999996,UFA,482
 Teuvo Teravainen,CAR,,,,,,,,,,,"LW, RW",28,2,M-NTC,Trade,NHL,0.065,UFA,5400000,5400000,0,0,0,0
 Jordan Staal,CAR,,,,,,,,,,,"C, LW",34,1,NMC,Trade,NHL,0.073,UFA,6000000,0,0,0,0,0
 Sebastian Aho,CAR,,,,,,,,,,,C,25,2,,Signed,NHL,0.10300000000000001,UFA,8460250,8460250,0,0,0,0
-William Lagesson,CAR,,,,,,,,,,,LD,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Pyotr Kochetkov,CAR,,,,,,,,,,,G,23,5,ELC,Draft,Minor,0.0,UFA,842500,2000000,2000000,2000000,2000000,0
-Zach Sawchenko,CAR,,,,,,,,,,,G,25,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Jalen Chatfield,CAR,,,,,,,,,,,RD,26,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
-Frederik Andersen,CAR,,,,,,,,,,,G,33,1,M-NTC,Signed,NHL,0.055,UFA,4500000,0,0,0,0,0
-Brady Skjei,CAR,,,,,,,,,,,LD,29,2,M-NTC,Trade,NHL,0.064,UFA,5250000,5250000,0,0,0,0
 Andrei Svechnikov,CAR,,,,,,,,,,,"LW, RW",23,7,,Draft,LTIR,0.094,UFA,7750000,7750000,7750000,7750000,7750000,7750000
+Max Pacioretty,CAR,,,,,,,,,,,LW,34,1,M-NTC,Trade,LTIR,0.085,UFA,7000000,0,0,0,0,0
+Calvin De Haan,CAR,,,,,,,,,,,LD/RD,31,1,,Signed,NHL,0.01,UFA,850000,0,0,0,0,0
+Ondrej Kase,CAR,,,,,,,,,,,RW,27,1,,Signed,LTIR,0.018000000000000002,UFA,1500000,0,0,0,0,0
+William Lagesson,CAR,,,,,,,,,,,LD,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Maxime Lajoie,CAR,,,,,,,,,,,LD,25,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
+Cavan Fitzgerald,CAR,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
 Ronan Seeley,CAR,,,,,,,,,,,LD,20,3,ELC,Draft,Minor,0.0,RFA,810000,810000,810000,0,0,0
 Aleksi Heimosalmi,CAR,,,,,,,,,,,RD,19,3,ELC,Draft,Loan,0.0,RFA,828333,828333,828333,0,0,0
 Anttoni Honka,CAR,,,,,,,,,,,RD,22,3,ELC,Draft,Minor,0.0,RFA,836667,836667,836667,0,0,0
-Mackenzie MacEachern,CAR,,,,,,,,,,,"LW, RW",29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Jake Gardiner,CAR,,,,,,,,,,,LD,32,1,M-NTC,Signed,LTIR,0.049,UFA,4050000,0,0,0,0,0
 Ryan Dzingel,CAR,,,,,,,,,,,"LW, RW, C",31,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Jack Dugan,CAR,,,,,,,,,,,LW,25,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Antti Raanta,CAR,,,,,,,,,,,G,33,1,,Signed,NHL,0.024,UFA,2000000,0,0,0,0,0
-Malte Stromwall,CAR,,,,,,,,,,,RW,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Blake Murray,CAR,,,,,,,,,,,C,21,2,ELC,Draft,Minor,0.0,RFA,791667,791667,0,0,0,0
-Vasili Ponomarev,CAR,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,795000,795000,795000,0,0,0
-Tuukka Tieksola,CAR,,,,,,,,,,,RW,21,2,ELC,Draft,Minor,0.0,RFA,823333,823333,0,0,0,0
 Stelio Mattheos,CAR,,,,,,,,,,,C,23,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
-Alexander Pashin,CAR,,,,,,,,,,,"C, LW, RW",20,3,ELC,Draft,Minor,0.0,RFA,826667,826667,826667,0,0,0
-Jake Gardiner,CAR,,,,,,,,,,,LD,32,1,M-NTC,Signed,LTIR,0.049,UFA,4050000,0,0,0,0,0
-Ondrej Kase,CAR,,,,,,,,,,,RW,27,1,,Signed,LTIR,0.018000000000000002,UFA,1500000,0,0,0,0,0
+Malte Stromwall,CAR,,,,,,,,,,,RW,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Mackenzie MacEachern,CAR,,,,,,,,,,,"LW, RW",29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Blake Murray,CAR,,,,,,,,,,,C,21,2,ELC,Draft,Minor,0.0,RFA,791667,791667,0,0,0,0
 Dominik Bokk,CAR,,,,,,,,,,,"LW, RW",23,1,ELC,Trade,Loan,0.0,RFA,863333,0,0,0,0,0
-Max Pacioretty,CAR,,,,,,,,,,,LW,34,1,M-NTC,Trade,LTIR,0.085,UFA,7000000,0,0,0,0,0
+Ryan Suzuki,CAR,,,,,,,,,,,C,21,2,ELC,Draft,Minor,0.0,RFA,863333,863333,0,0,0,0
 Noel Gunler,CAR,,,,,,,,,,,"RW, LW",21,3,ELC,Draft,Minor,0.0,RFA,862500,862500,862500,0,0,0
 Jamieson Rees,CAR,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,839167,839167,0,0,0,0
+Alexander Pashin,CAR,,,,,,,,,,,"C, LW, RW",20,3,ELC,Draft,Minor,0.0,RFA,826667,826667,826667,0,0,0
+Tuukka Tieksola,CAR,,,,,,,,,,,RW,21,2,ELC,Draft,Minor,0.0,RFA,823333,823333,0,0,0,0
+Vasili Ponomarev,CAR,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,795000,795000,795000,0,0,0
 Ville Koivunen,CAR,,,,,,,,,,,RW,19,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
-Ryan Suzuki,CAR,,,,,,,,,,,C,21,2,ELC,Draft,Minor,0.0,RFA,863333,863333,0,0,0,0
 Tim Berni,CBJ,,,,,,,,,,,LD,23,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
 Nick Blankenburg,CBJ,,,,,,,,,,,LD/RD,24,2,,Signed,NHL,0.01,RFA,825000,825000,0,0,0,0
 Andrew Peeke,CBJ,,,,,,,,,,,RD,25,4,,Draft,NHL,0.01,UFA,787500,2750000,2750000,2750000,0,0
@@ -409,7 +409,7 @@ Anton Khudobin,CHI,,,,,,,,,,,G,36,1,,Trade,Minor,0.027000000000000003,UFA,220833
 Ian Mitchell,CHI,,,,,,,,,,,RD,24,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
 Arvid Soderblom,CHI,,,,,,,,,,,G,23,1,ELC,Signed,Minor,0.0,RFA,883750,0,0,0,0,0
 Mikko Rantanen,COL,,,,,,,,,,,"RW, C",26,3,,Draft,NHL,0.11199999999999999,UFA,9250000,9250000,9250000,0,0,0
-Charles Hudon,COL,,,,,,,,,,,"C, LW, RW",28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Ondrej Pavel,COL,,,,,,,,,,,"C, LW, RW",22,3,ELC,Signed,Minor,0.0,RFA,0,870000,870000,0,0,0
 Gabriel Landeskog,COL,,,,,,,,,,,"LW, C",30,7,NMC,Draft,LTIR,0.085,UFA,7000000,7000000,7000000,7000000,7000000,7000000
 Sampo Ranta,COL,,,,,,,,,,,LW,22,1,ELC,Draft,Minor,0.0,RFA,925000,0,0,0,0,0
 Oskar Olausson,COL,,,,,,,,,,,RW,20,3,ELC,Draft,Minor,0.0,RFA,894167,894167,894167,0,0,0
@@ -420,7 +420,7 @@ Gustav Rydahl,COL,,,,,,,,,,,C,28,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
 Callahan Burke,COL,,,,,,,,,,,"C, RW",26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
 Alex Galchenyuk,COL,,,,,,,,,,,"LW, C, RW",29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Jonas Johansson,COL,,,,,,,,,,,G,27,1,,Waivers claim,Emerg. Loan,0.009000000000000001,UFA,750000,0,0,0,0,0
-Ondrej Pavel,COL,,,,,,,,,,,"C, LW, RW",22,3,ELC,Signed,Minor,0.0,RFA,0,870000,870000,0,0,0
+Charles Hudon,COL,,,,,,,,,,,"C, LW, RW",28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Wyatt Aamodt,COL,,,,,,,,,,,LD,25,1,ELC,Signed,Minor,0.0,RFA,925000,0,0,0,0,0
 Ryan Merkley,COL,,,,,,,,,,,RD,22,1,ELC,Trade,Minor,0.0,RFA,863333,0,0,0,0,0
 Nathan Clurman,COL,,,,,,,,,,,RD,24,1,ELC,Draft,Minor,0.0,RFA,842500,0,0,0,0,0
@@ -437,7 +437,7 @@ Brad Hunt,COL,,,,,,,,,,,LD/RD,34,2,,Signed,NHL,0.009000000000000001,UFA,762500,7
 Nathan MacKinnon,COL,,,,,,,,,,,C,27,9,NMC,Draft,NHL,0.076,UFA,6300000,12600000,12600000,12600000,12600000,12600000
 Valeri Nichushkin,COL,,,,,,,,,,,"RW, LW",28,8,NMC,Signed,NHL,0.07400000000000001,UFA,6125000,6125000,6125000,6125000,6125000,6125000
 Artturi Lehkonen,COL,,,,,,,,,,,"LW, RW",27,5,,Trade,NHL,0.055,UFA,4500000,4500000,4500000,4500000,4500000,0
-J.T. Compher,COL,,,,,,,,,,,"C, RW",27,1,,Trade,NHL,0.042,UFA,3500000,0,0,0,0,0
+J.T. Compher,COL,,,,,,,,,,,"C, RW",28,1,,Trade,NHL,0.042,UFA,3500000,0,0,0,0,0
 Lars Eller,COL,,,,,,,,,,,C,33,1,RS,Trade,NHL,0.028999999999999998,UFA,2415000,0,0,0,0,0
 Evan Rodrigues,COL,,,,,,,,,,,"C, LW",29,1,,Signed,NHL,0.024,UFA,2000000,0,0,0,0,0
 Alexandar Georgiev,COL,,,,,,,,,,,G,27,3,,Trade,NHL,0.040999999999999995,UFA,3400000,3400000,3400000,0,0,0
@@ -446,31 +446,30 @@ Logan O'Connor,COL,,,,,,,,,,,"RW, LW",26,3,,Signed,NHL,0.013000000000000001,UFA,
 Ben Meyers,COL,,,,,,,,,,,"LW, C",24,1,ELC,Signed,Emerg. Loan,0.011000000000000001,10.2(c),912500,0,0,0,0,0
 Alex Newhook,COL,,,,,,,,,,,"LW, C",22,1,ELC,Draft,NHL,0.011000000000000001,RFA,908333,0,0,0,0,0
 Andrew Cogliano,COL,,,,,,,,,,,LW,35,1,35+,Trade,NHL,0.015,UFA,1250000,0,0,0,0,0
-Matt Nieto,COL,,,,,,,,,,,"LW, RW",30,1,,Trade,NHL,0.01,UFA,850000,0,0,0,0,0
-Jack Johnson,COL,,,,,,,,,,,LD,36,1,35+,Trade,NHL,0.012,UFA,950000,0,0,0,0,0
-Kurtis MacDermid,COL,,,,,,,,,,,"LD/RD, LW",29,2,,Trade,NHL,0.012,UFA,987500,987500,0,0,0,0
-Devon Toews,COL,,,,,,,,,,,LD,29,2,,Trade,NHL,0.05,UFA,4100000,4100000,0,0,0,0
-Josh Manson,COL,,,,,,,,,,,RD,31,4,NTC,Signed,NHL,0.055,UFA,4500000,4500000,4500000,4500000,0,0
-Bowen Byram,COL,,,,,,,,,,,LD/RD,21,1,ELC,Draft,NHL,0.011000000000000001,RFA,894167,0,0,0,0,0
-Erik Johnson,COL,,,,,,,,,,,RD,35,1,"M-NTC, NMC",Trade,NHL,0.073,UFA,6000000,0,0,0,0,0
-Cale Makar,COL,,,,,,,,,,,RD,24,5,,Draft,NHL,0.109,UFA,9000000,9000000,9000000,9000000,9000000,0
 Denis Malgin,COL,,,,,,,,,,,"LW, RW",26,1,,Trade,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
+Cale Makar,COL,,,,,,,,,,,RD,24,5,,Draft,NHL,0.109,UFA,9000000,9000000,9000000,9000000,9000000,0
+Erik Johnson,COL,,,,,,,,,,,RD,35,1,"M-NTC, NMC",Trade,NHL,0.073,UFA,6000000,0,0,0,0,0
 Samuel Girard,COL,,,,,,,,,,,LD/RD,24,5,,Trade,NHL,0.061,UFA,5000000,5000000,5000000,5000000,5000000,0
-Colin Miller,DAL,,,,,,,,,,,RD,30,2,,Signed,NHL,0.022000000000000002,UFA,1850000,1850000,0,0,0,0
-Antonio Stranges,DAL,,,,,,,,,,,"C, LW",21,3,ELC,Draft,Minor,0.0,RFA,846667,846667,846667,0,0,0
+Josh Manson,COL,,,,,,,,,,,RD,31,4,NTC,Signed,NHL,0.055,UFA,4500000,4500000,4500000,4500000,0,0
+Devon Toews,COL,,,,,,,,,,,LD,29,2,,Trade,NHL,0.05,UFA,4100000,4100000,0,0,0,0
+Kurtis MacDermid,COL,,,,,,,,,,,"LD/RD, LW",29,2,,Trade,NHL,0.012,UFA,987500,987500,0,0,0,0
+Jack Johnson,COL,,,,,,,,,,,LD,36,1,35+,Trade,NHL,0.012,UFA,950000,0,0,0,0,0
+Bowen Byram,COL,,,,,,,,,,,LD/RD,21,1,ELC,Draft,NHL,0.011000000000000001,RFA,894167,0,0,0,0,0
+Matt Nieto,COL,,,,,,,,,,,"LW, RW",30,1,,Trade,NHL,0.01,UFA,850000,0,0,0,0,0
 Oskar Back,DAL,,,,,,,,,,,"C, RW",23,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
-Mavrik Bourque,DAL,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,894167,894167,894167,0,0,0
-Matej Blumel,DAL,,,,,,,,,,,LW,22,2,ELC,Signed,Minor,0.0,RFA,925000,925000,0,0,0,0
-Scott Wedgewood,DAL,,,,,,,,,,,G,30,2,,Trade,NHL,0.012,UFA,1000000,1000000,0,0,0,0
-Jake Oettinger,DAL,,,,,,,,,,,G,24,3,,Draft,NHL,0.048,RFA,4000000,4000000,4000000,0,0,0
-Joel Hanley,DAL,,,,,,,,,,,LD/RD,31,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Thomas Harley,DAL,,,,,,,,,,,LD,21,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0
-Nils Lundkvist,DAL,,,,,,,,,,,RD,22,2,ELC,Trade,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0
-Jani Hakanpaa,DAL,,,,,,,,,,,RD,31,2,,Signed,NHL,0.018000000000000002,UFA,1500000,1500000,0,0,0,0
 Ryan Suter,DAL,,,,,,,,,,,LD,38,3,35+NMC,Signed,NHL,0.044000000000000004,UFA,3650000,3650000,3650000,0,0,0
-Gavin White,DAL,,,,,,,,,,,RD,20,4,ELC,Draft,Minor,0.0,RFA,0,857500,857500,857500,0,0
+Colin Miller,DAL,,,,,,,,,,,RD,30,2,,Signed,NHL,0.022000000000000002,UFA,1850000,1850000,0,0,0,0
+Jani Hakanpaa,DAL,,,,,,,,,,,RD,31,2,,Signed,NHL,0.018000000000000002,UFA,1500000,1500000,0,0,0,0
+Nils Lundkvist,DAL,,,,,,,,,,,RD,22,2,ELC,Trade,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0
+Thomas Harley,DAL,,,,,,,,,,,LD,21,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0
+Mavrik Bourque,DAL,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,894167,894167,894167,0,0,0
+Jake Oettinger,DAL,,,,,,,,,,,G,24,3,,Draft,NHL,0.048,RFA,4000000,4000000,4000000,0,0,0
+Scott Wedgewood,DAL,,,,,,,,,,,G,30,2,,Trade,NHL,0.012,UFA,1000000,1000000,0,0,0,0
+Matej Blumel,DAL,,,,,,,,,,,LW,22,2,ELC,Signed,Minor,0.0,RFA,925000,925000,0,0,0,0
+Esa Lindell,DAL,,,,,,,,,,,LD,28,3,NMC,Draft,NHL,0.07,UFA,5800000,5800000,5800000,0,0,0
+Joel Hanley,DAL,,,,,,,,,,,LD/RD,31,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
 Miro Heiskanen,DAL,,,,,,,,,,,LD/RD,23,7,,Draft,NHL,0.102,UFA,8450000,8450000,8450000,8450000,8450000,8450000
-Fredrik Olofsson,DAL,,,,,,,,,,,LW,26,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Adam Scheel,DAL,,,,,,,,,,,G,23,1,ELC,Signed,Minor,0.0,RFA,925000,0,0,0,0,0
 Ty Dellandrea,DAL,,,,,,,,,,,"RW, C",22,1,ELC,Draft,NHL,0.01,RFA,863333,0,0,0,0,0
 Wyatt Johnston,DAL,,,,,,,,,,,C,19,3,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,894167,0,0,0
 Joel Kiviranta,DAL,,,,,,,,,,,"RW, LW",27,1,,Signed,NHL,0.013000000000000001,UFA,1050000,0,0,0,0,0
@@ -480,99 +479,98 @@ Max Domi,DAL,,,,,,,,,,,"C, LW",28,1,,Trade,NHL,0.036000000000000004,UFA,3000000,
 Roope Hintz,DAL,,,,,,,,,,,C,26,9,,Draft,NHL,0.038,UFA,3150000,8450000,8450000,8450000,8450000,8450000
 Radek Faksa,DAL,,,,,,,,,,,"C, LW",29,3,M-NTC,Draft,NHL,0.039,UFA,3250000,3250000,3250000,0,0,0
 Mason Marchment,DAL,,,,,,,,,,,"LW, RW",27,4,NMC,Signed,NHL,0.055,UFA,4500000,4500000,4500000,4500000,0,0
+Joe Pavelski,DAL,,,,,,,,,,,RW,38,2,35+NMC,Signed,NHL,0.067,UFA,5500000,3500000,0,0,0,0
+Jason Robertson,DAL,,,,,,,,,,,"LW, RW",23,4,,Draft,NHL,0.094,RFA,7750000,7750000,7750000,7750000,0,0
+Antonio Stranges,DAL,,,,,,,,,,,"C, LW",21,3,ELC,Draft,Minor,0.0,RFA,846667,846667,846667,0,0,0
+Fredrik Olofsson,DAL,,,,,,,,,,,LW,26,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
 Scott Reedy,DAL,,,,,,,,,,,C,24,1,ELC,Trade,Minor,0.0,RFA,842500,0,0,0,0,0
-Esa Lindell,DAL,,,,,,,,,,,LD,28,3,NMC,Draft,NHL,0.07,UFA,5800000,5800000,5800000,0,0,0
-Francesco Arcuri,DAL,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,841667,841667,841667,0,0,0
-Remi Poirier,DAL,,,,,,,,,,,G,21,3,ELC,Draft,Minor,0.0,RFA,836667,836667,836667,0,0,0
-Riley Damiani,DAL,,,,,,,,,,,C,23,1,ELC,Draft,Minor,0.0,RFA,803333,0,0,0,0,0
 Tyler Seguin,DAL,,,,,,,,,,,"C, RW",31,5,NMC,Trade,NHL,0.11900000000000001,UFA,9850000,9850000,9850000,9850000,9850000,0
+Logan Stankoven,DAL,,,,,,,,,,,C,20,3,ELC,Draft,Junior,0.0,RFA,836667,836667,836667,0,0,0
 Dylan Wells,DAL,,,,,,,,,,,G,25,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
 Matt Murray,DAL,,,,,,,,,,,G,25,1,ELC,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Joe Pavelski,DAL,,,,,,,,,,,RW,38,2,35+NMC,Signed,NHL,0.067,UFA,5500000,3500000,0,0,0,0
-Adam Scheel,DAL,,,,,,,,,,,G,23,1,ELC,Signed,Minor,0.0,RFA,925000,0,0,0,0,0
+Remi Poirier,DAL,,,,,,,,,,,G,21,3,ELC,Draft,Minor,0.0,RFA,836667,836667,836667,0,0,0
 Jamie Benn,DAL,,,,,,,,,,,"LW, C",33,3,NMC,Draft,NHL,0.115,UFA,9500000,9500000,9500000,0,0,0
+Gavin White,DAL,,,,,,,,,,,RD,20,4,ELC,Draft,Minor,0.0,RFA,0,857500,857500,857500,0,0
 Christian Kyrou,DAL,,,,,,,,,,,RD,19,4,ELC,Draft,Minor,0.0,RFA,0,878333,878333,878333,0,0
 Alex Petrovic,DAL,,,,,,,,,,,RD,31,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Will Butcher,DAL,,,,,,,,,,,LD,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Ryan Shea,DAL,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Benjamin Gleason,DAL,,,,,,,,,,,LD,25,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Jerad Rosburg,DAL,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Francesco Arcuri,DAL,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,841667,841667,841667,0,0,0
 Dawson Barteaux,DAL,,,,,,,,,,,RD,23,1,ELC,Draft,Minor,0.0,RFA,783333,0,0,0,0,0
-Artem Grushnikov,DAL,,,,,,,,,,,LD,20,3,ELC,Draft,Junior,0.0,RFA,836667,836667,836667,0,0,0
 Oskari Laaksonen,DAL,,,,,,,,,,,RD,23,1,ELC,Trade,Minor,0.0,RFA,853333,0,0,0,0,0
 Chase Wheatcroft,DAL,,,,,,,,,,,LW,20,4,ELC,Signed,Minor,0.0,RFA,0,862500,862500,862500,0,0
 Matthew Seminoff,DAL,,,,,,,,,,,RW,19,4,ELC,Draft,Minor,0.0,RFA,0,850000,850000,850000,0,0
 Kyle McDonald,DAL,,,,,,,,,,,RW,21,4,ELC,Signed,Junior,0.0,RFA,0,870000,870000,870000,0,0
 Riley Barber,DAL,,,,,,,,,,,RW,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Riley Tufte,DAL,,,,,,,,,,,LW,24,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
+Riley Tufte,DAL,,,,,,,,,,,LW,25,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
 Marian Studenic,DAL,,,,,,,,,,,"LW, RW",24,1,,Waivers claim,Minor,0.0,RFA,750000,0,0,0,0,0
 Fredrik Karlstrom,DAL,,,,,,,,,,,C,25,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
 Nicholas Caamano,DAL,,,,,,,,,,,"LW, RW",24,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
 Tanner Kero,DAL,,,,,,,,,,,"C, LW",30,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
 Rhett Gardner,DAL,,,,,,,,,,,"C, LW",27,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
-Logan Stankoven,DAL,,,,,,,,,,,C,20,3,ELC,Draft,Junior,0.0,RFA,836667,836667,836667,0,0,0
-Jason Robertson,DAL,,,,,,,,,,,"LW, RW",23,4,,Draft,NHL,0.094,RFA,7750000,7750000,7750000,7750000,0,0
-Andrew Copp,DET,,,,,,,,,,,"C, LW, RW",28,5,M-NTC,Signed,NHL,0.068,UFA,5625000,5625000,5625000,5625000,5625000,0
-David Perron,DET,,,,,,,,,,,"RW, LW",34,2,M-NTC,Signed,NHL,0.057999999999999996,UFA,4750000,4750000,0,0,0,0
-Victor Brattstrom,DET,,,,,,,,,,,G,26,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
-John Lethemon,DET,,,,,,,,,,,G,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Pontus Andreasson,DET,,,,,,,,,,,"C, LW",24,1,ELC,Signed,Minor,0.0,RFA,842500,0,0,0,0,0
+Riley Damiani,DAL,,,,,,,,,,,C,23,1,ELC,Draft,Minor,0.0,RFA,803333,0,0,0,0,0
+Artem Grushnikov,DAL,,,,,,,,,,,LD,20,3,ELC,Draft,Junior,0.0,RFA,836667,836667,836667,0,0,0
+Pius Suter,DET,,,,,,,,,,,"C, LW",26,1,,Signed,NHL,0.039,UFA,3250000,0,0,0,0,0
+Robby Fabbri,DET,,,,,,,,,,,"LW, C",27,3,,Trade,NHL,0.048,UFA,4000000,4000000,4000000,0,0,0
+Jasper Weatherby,DET,,,,,,,,,,,C,25,1,ELC,Trade,Minor,0.0,RFA,842500,0,0,0,0,0
 Chase Pearson,DET,,,,,,,,,,,C,25,1,,Draft,Minor,0.0,UFA,917831,0,0,0,0,0
 Elmer Soderblom,DET,,,,,,,,,,,"LW, C",21,3,ELC,Draft,Minor,0.0,RFA,878333,878333,878333,0,0,0
 Amadeus Lombardi,DET,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,861667,861667,861667,0,0,0
 Cross Hanas,DET,,,,,,,,,,,LW,21,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
 Taro Hirose,DET,,,,,,,,,,,LW,26,2,,Signed,Minor,0.0,UFA,850000,850000,0,0,0,0
-Jasper Weatherby,DET,,,,,,,,,,,C,25,1,ELC,Trade,Minor,0.0,RFA,842500,0,0,0,0,0
+Pontus Andreasson,DET,,,,,,,,,,,"C, LW",24,1,ELC,Signed,Minor,0.0,RFA,842500,0,0,0,0,0
 Dylan McLaughlin,DET,,,,,,,,,,,C,27,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Mark Pysyk,DET,,,,,,,,,,,RD,31,1,,Signed,IR,0.01,UFA,850000,0,0,0,0,0
 Danny O'Regan,DET,,,,,,,,,,,"C, LW",29,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Alexandre Doucet,DET,,,,,,,,,,,C,21,4,ELC,Signed,Junior,0.0,RFA,0,870000,870000,870000,0,0
 Carter Mazur,DET,,,,,,,,,,,LW,21,4,ELC,Draft,Minor,0.0,RFA,0,905833,905833,905833,0,0
 Seth Barton,DET,,,,,,,,,,,RD,23,1,ELC,Draft,Minor,0.0,RFA,832500,0,0,0,0,0
 Donovan Sebrango,DET,,,,,,,,,,,LD,21,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
+Eemil Viro,DET,,,,,,,,,,,LD,21,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
+Albert Johansson,DET,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,820000,820000,0,0,0,0
+Victor Brattstrom,DET,,,,,,,,,,,G,26,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
+John Lethemon,DET,,,,,,,,,,,G,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
 Sebastian Cossa,DET,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,894167,894167,894167,0,0,0
 William Wallinder,DET,,,,,,,,,,,LD,20,4,ELC,Draft,Minor,0.0,RFA,0,925000,925000,925000,0,0
 Antti Tuomisto,DET,,,,,,,,,,,RD,22,3,ELC,Draft,Minor,0.0,RFA,0,867500,867500,0,0,0
 Jared McIsaac,DET,,,,,,,,,,,LD,23,1,ELC,Draft,Minor,0.0,RFA,764167,0,0,0,0,0
 Wyatt Newpower,DET,,,,,,,,,,,RD,25,1,ELC,Signed,Minor,0.0,RFA,800000,0,0,0,0,0
-Albert Johansson,DET,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,820000,820000,0,0,0,0
-Eemil Viro,DET,,,,,,,,,,,LD,21,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
-Alexandre Doucet,DET,,,,,,,,,,,C,21,4,ELC,Signed,Junior,0.0,RFA,0,870000,870000,870000,0,0
-Michael Rasmussen,DET,,,,,,,,,,,"C, LW",23,2,,Draft,IR,0.018000000000000002,RFA,1460000,1460000,0,0,0,0
-Alex Nedeljkovic,DET,,,,,,,,,,,G,27,1,,Trade,Emerg. Loan,0.036000000000000004,UFA,3000000,0,0,0,0,0
+Mark Pysyk,DET,,,,,,,,,,,RD,31,1,,Signed,IR,0.01,UFA,850000,0,0,0,0,0
+Magnus Hellberg,DET,,,,,,,,,,,G,32,1,,Waivers claim,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+David Perron,DET,,,,,,,,,,,"RW, LW",34,2,M-NTC,Signed,NHL,0.057999999999999996,UFA,4750000,4750000,0,0,0,0
+Andrew Copp,DET,,,,,,,,,,,"C, LW, RW",28,5,M-NTC,Signed,NHL,0.068,UFA,5625000,5625000,5625000,5625000,5625000,0
 Dylan Larkin,DET,,,,,,,,,,,C,26,9,NTC,Draft,NHL,0.07400000000000001,UFA,6100000,8700000,8700000,8700000,8700000,8700000
-Robby Fabbri,DET,,,,,,,,,,,"LW, C",27,3,,Trade,NHL,0.048,UFA,4000000,4000000,4000000,0,0,0
-Pius Suter,DET,,,,,,,,,,,"C, LW",26,1,,Signed,NHL,0.039,UFA,3250000,0,0,0,0,0
 Dominik Kubalik,DET,,,,,,,,,,,"LW, RW",27,2,,Signed,NHL,0.03,UFA,2500000,2500000,0,0,0,0
 Adam Erne,DET,,,,,,,,,,,"LW, RW",27,1,,Trade,NHL,0.025,UFA,2100000,0,0,0,0,0
 Filip Zadina,DET,,,,,,,,,,,"RW, LW",23,3,,Draft,NHL,0.022000000000000002,RFA,1825000,1825000,1825000,0,0,0
-Marco Kasper,DET,,,,,,,,,,,C,18,3,ELC,Draft,NHL,0.012,RFA,950000,950000,950000,0,0,0
+Marco Kasper,DET,,,,,,,,,,,C,19,3,ELC,Draft,NHL,0.012,RFA,950000,950000,950000,0,0,0
 Jonatan Berggren,DET,,,,,,,,,,,"RW, LW",22,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0
-Magnus Hellberg,DET,,,,,,,,,,,G,32,1,,Waivers claim,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Michael Rasmussen,DET,,,,,,,,,,,"C, LW",23,2,,Draft,IR,0.018000000000000002,RFA,1460000,1460000,0,0,0,0
 Joseph Veleno,DET,,,,,,,,,,,C,23,1,ELC,Draft,NHL,0.011000000000000001,RFA,894167,0,0,0,0,0
 Austin Czarnik,DET,,,,,,,,,,,"C, RW",30,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
 Alex Chiasson,DET,,,,,,,,,,,RW,32,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
 Lucas Raymond,DET,,,,,,,,,,,"RW, LW",21,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0
 Ben Chiarot,DET,,,,,,,,,,,LD/RD,31,4,M-NTC,Signed,NHL,0.057999999999999996,UFA,4750000,4750000,4750000,4750000,0,0
-Ville Husso,DET,,,,,,,,,,,G,28,3,M-NTC,Trade,NHL,0.057999999999999996,UFA,4750000,4750000,4750000,0,0,0
 Olli Maatta,DET,,,,,,,,,,,LD,28,3,,Signed,NHL,0.027000000000000003,UFA,2250000,3000000,3000000,0,0,0
 Jordan Oesterle,DET,,,,,,,,,,,LD/RD,30,1,,Signed,NHL,0.016,UFA,1350000,0,0,0,0,0
+Alex Nedeljkovic,DET,,,,,,,,,,,G,27,1,,Trade,Emerg. Loan,0.036000000000000004,UFA,3000000,0,0,0,0,0
+Ville Husso,DET,,,,,,,,,,,G,28,3,M-NTC,Trade,NHL,0.057999999999999996,UFA,4750000,4750000,4750000,0,0,0
+Jake Walman,DET,,,,,,,,,,,LD,27,4,,Trade,NHL,0.013000000000000001,UFA,1050000,3400000,3400000,3400000,0,0
 Robert Hagg,DET,,,,,,,,,,,LD,28,1,,Signed,NHL,0.01,UFA,800000,0,0,0,0,0
 Gustav Lindstrom,DET,,,,,,,,,,,RD,24,1,,Draft,NHL,0.01,RFA,850000,0,0,0,0,0
-Moritz Seider,DET,,,,,,,,,,,RD,22,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0
-Simon Edvinsson,DET,,,,,,,,,,,LD,20,3,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,925000,0,0,0
 Matt Luff,DET,,,,,,,,,,,RW,25,1,,Signed,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
-Jake Walman,DET,,,,,,,,,,,LD,27,4,,Trade,NHL,0.013000000000000001,UFA,1050000,3400000,3400000,3400000,0,0
+Simon Edvinsson,DET,,,,,,,,,,,LD,20,3,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,925000,0,0,0
+Moritz Seider,DET,,,,,,,,,,,RD,22,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0
 Tyler Tullio,EDM,,,,,,,,,,,RW,21,3,ELC,Draft,Minor,0.0,RFA,823333,823333,823333,0,0,0
-Noah Philp,EDM,,,,,,,,,,,C,24,1,ELC,Signed,Minor,0.0,RFA,842500,0,0,0,0,0
+James Hamblin,EDM,,,,,,,,,,,"RW, C",23,2,ELC,Signed,Minor,0.0,RFA,807500,807500,0,0,0,0
+Matvei Petrov,EDM,,,,,,,,,,,LW,20,3,ELC,Draft,Junior,0.0,RFA,823333,823333,823333,0,0,0
 Raphael Lavoie,EDM,,,,,,,,,,,"RW, C",22,1,ELC,Draft,Minor,0.0,RFA,870000,0,0,0,0,0
 Carter Savoie,EDM,,,,,,,,,,,LW,21,2,ELC,Draft,Minor,0.0,RFA,925000,925000,0,0,0,0
 Dylan Holloway,EDM,,,,,,,,,,,"LW, C",21,2,ELC,Draft,Minor,0.0,RFA,925000,925000,0,0,0,0
-Xavier Bourgault,EDM,,,,,,,,,,,C,20,3,ELC,Draft,Minor,0.0,RFA,925000,925000,925000,0,0,0
-Cam Dineen,EDM,,,,,,,,,,,LD,24,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Matvei Petrov,EDM,,,,,,,,,,,LW,20,3,ELC,Draft,Junior,0.0,RFA,823333,823333,823333,0,0,0
-James Hamblin,EDM,,,,,,,,,,,"RW, C",23,2,ELC,Signed,Minor,0.0,RFA,807500,807500,0,0,0,0
-Ryan Fanti,EDM,,,,,,,,,,,G,23,2,ELC,Signed,Minor,0.0,RFA,883750,883750,0,0,0,0
-Brad Malone,EDM,,,,,,,,,,,"C, LW",33,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Noah Philp,EDM,,,,,,,,,,,C,24,1,ELC,Signed,Minor,0.0,RFA,842500,0,0,0,0,0
+Seth Griffith,EDM,,,,,,,,,,,"RW, C",30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Calvin Pickard,EDM,,,,,,,,,,,G,30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Greg McKegg,EDM,,,,,,,,,,,"C, LW",30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Tyler Benson,EDM,,,,,,,,,,,"LW, RW",25,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
 Justin Bailey,EDM,,,,,,,,,,,RW,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
@@ -581,23 +579,23 @@ Jake Chiasson,EDM,,,,,,,,,,,C,19,4,ELC,Draft,Minor,0.0,RFA,0,843333,843333,84333
 Slater Koekkoek,EDM,,,,,,,,,,,LD/RD,29,1,,Signed,Minor,0.0,UFA,925000,0,0,0,0,0
 Maximus Wanner,EDM,,,,,,,,,,,RD,20,3,ELC,Draft,Junior,0.0,RFA,846667,846667,846667,0,0,0
 Philip Kemp,EDM,,,,,,,,,,,RD,24,1,ELC,Draft,Minor,0.0,RFA,786667,0,0,0,0,0
-Seth Griffith,EDM,,,,,,,,,,,"RW, C",30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Markus Niemelainen,EDM,,,,,,,,,,,LD,24,2,,Draft,Minor,0.0,RFA,762500,762500,0,0,0,0
+Brad Malone,EDM,,,,,,,,,,,"C, LW",33,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Ryan Murray,EDM,,,,,,,,,,,LD,29,1,,Signed,LTIR,0.009000000000000001,UFA,750000,0,0,0,0,0
-Warren Foegele,EDM,,,,,,,,,,,"LW, RW",27,2,,Trade,NHL,0.033,UFA,2750000,2750000,0,0,0,0
-Oscar Klefbom,EDM,,,,,,,,,,,LD,29,1,M-NTC,Draft,LTIR,0.051,UFA,4167000,0,0,0,0,0
+Kailer Yamamoto,EDM,,,,,,,,,,,RW,24,2,,Draft,NHL,0.038,RFA,3100000,3100000,0,0,0,0
+Mike Smith,EDM,,,,,,,,,,,G,41,1,35+,Signed,LTIR,0.027000000000000003,UFA,2200000,0,0,0,0,0
 Connor McDavid,EDM,,,,,,,,,,,C,26,4,NMC,Draft,NHL,0.152,UFA,12500000,12500000,12500000,12500000,0,0
 Leon Draisaitl,EDM,,,,,,,,,,,"C, LW",27,3,"M-NTC, NMC",Draft,NHL,0.10300000000000001,UFA,8500000,8500000,8500000,0,0,0
 Zach Hyman,EDM,,,,,,,,,,,"RW, LW",30,6,NMC,Signed,NHL,0.067,UFA,5500000,5500000,5500000,5500000,5500000,5500000
 Ryan Nugent-Hopkins,EDM,,,,,,,,,,,"LW, C",29,7,NMC,Draft,NHL,0.062,UFA,5125000,5125000,5125000,5125000,5125000,5125000
 Evander Kane,EDM,,,,,,,,,,,"LW, RW",31,4,NMC,Signed,NHL,0.062,UFA,5125000,5125000,5125000,5125000,0,0
-Kailer Yamamoto,EDM,,,,,,,,,,,RW,24,2,,Draft,NHL,0.038,RFA,3100000,3100000,0,0,0,0
-Markus Niemelainen,EDM,,,,,,,,,,,LD,24,2,,Draft,Minor,0.0,RFA,762500,762500,0,0,0,0
+Jason Demers,EDM,,,,,,,,,,,RD,34,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Warren Foegele,EDM,,,,,,,,,,,"LW, RW",27,2,,Trade,NHL,0.033,UFA,2750000,2750000,0,0,0,0
 Derek Ryan,EDM,,,,,,,,,,,"C, RW",36,1,,Signed,NHL,0.015,UFA,1250000,0,0,0,0,0
 Mattias Janmark,EDM,,,,,,,,,,,"LW, RW",30,1,,Signed,NHL,0.015,UFA,1250000,0,0,0,0,0
 Devin Shore,EDM,,,,,,,,,,,"LW, RW",28,1,,Signed,NHL,0.01,UFA,850000,0,0,0,0,0
-Mike Smith,EDM,,,,,,,,,,,G,41,1,35+,Signed,LTIR,0.027000000000000003,UFA,2200000,0,0,0,0,0
-Ryan McLeod,EDM,,,,,,,,,,,C,23,1,,Draft,NHL,0.01,RFA,798000,0,0,0,0,0
-Nick Bjugstad,EDM,,,,,,,,,,,"C, RW",30,1,RS,Trade,NHL,0.005,UFA,450000,0,0,0,0,0
+Ryan McLeod,EDM,,,,,,,,,,,C,23,1,,Draft,LTIR,0.01,RFA,798000,0,0,0,0,0
+Klim Kostin,EDM,,,,,,,,,,,"LW, RW",23,1,,Trade,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
 Darnell Nurse,EDM,,,,,,,,,,,LD,28,8,NMC,Draft,NHL,0.11199999999999999,UFA,9250000,9250000,9250000,9250000,9250000,9250000
 Mattias Ekholm,EDM,,,,,,,,,,,LD/RD,32,4,RS,Trade,NHL,0.073,UFA,6000000,6000000,6000000,6000000,0,0
 Cody Ceci,EDM,,,,,,,,,,,RD,29,3,,Signed,NHL,0.039,UFA,3250000,3250000,3250000,0,0,0
@@ -607,97 +605,103 @@ Philip Broberg,EDM,,,,,,,,,,,LD,21,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,
 Vincent Desharnais,EDM,,,,,,,,,,,RD,26,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
 Jack Campbell,EDM,,,,,,,,,,,G,31,5,M-NTC,Signed,NHL,0.061,UFA,5000000,5000000,5000000,5000000,5000000,0
 Stuart Skinner,EDM,,,,,,,,,,,G,24,4,,Draft,NHL,0.009000000000000001,UFA,750000,2600000,2600000,2600000,0,0
-Klim Kostin,EDM,,,,,,,,,,,"LW, RW",23,1,,Trade,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
-Jason Demers,EDM,,,,,,,,,,,RD,34,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Oscar Klefbom,EDM,,,,,,,,,,,LD,29,1,M-NTC,Draft,LTIR,0.051,UFA,4167000,0,0,0,0,0
+Nick Bjugstad,EDM,,,,,,,,,,,"C, RW",30,1,RS,Trade,NHL,0.005,UFA,450000,0,0,0,0,0
+Cam Dineen,EDM,,,,,,,,,,,LD,24,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Xavier Bourgault,EDM,,,,,,,,,,,C,20,3,ELC,Draft,Minor,0.0,RFA,925000,925000,925000,0,0,0
 Olivier Rodrigue,EDM,,,,,,,,,,,G,22,1,ELC,Draft,Minor,0.0,RFA,795000,0,0,0,0,0
-Calvin Pickard,EDM,,,,,,,,,,,G,30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Santtu Kinnunen,FLA,,,,,,,,,,,RD,24,2,ELC,Draft,Minor,0.0,RFA,855000,855000,0,0,0,0
-Patric Hornqvist,FLA,,,,,,,,,,,RW,36,1,M-NTC,Trade,LTIR,0.064,UFA,5300000,0,0,0,0,0
-Spencer Knight,FLA,,,,,,,,,,,G,21,4,ELC,Draft,NHLPA Player Asst.,0.011000000000000001,RFA,925000,4500000,4500000,4500000,0,0
+Ryan Fanti,EDM,,,,,,,,,,,G,23,2,ELC,Signed,Minor,0.0,RFA,883750,883750,0,0,0,0
+Matt Kiersted,FLA,,,,,,,,,,,LD,24,2,,Signed,Minor,0.0,RFA,762500,762500,0,0,0,0
+Aleksander Barkov,FLA,,,,,,,,,,,C,27,8,NMC,Draft,NHL,0.121,UFA,10000000,10000000,10000000,10000000,10000000,10000000
 Grigori Denisenko,FLA,,,,,,,,,,,"LW, RW",22,1,ELC,Draft,Minor,0.0,RFA,925000,0,0,0,0,0
 Serron Noel,FLA,,,,,,,,,,,RW,22,1,ELC,Draft,Minor,0.0,RFA,894167,0,0,0,0,0
 Logan Hutsko,FLA,,,,,,,,,,,C,24,1,ELC,Draft,Minor,0.0,RFA,867500,0,0,0,0,0
 Justin Sourdif,FLA,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,847500,847500,847500,0,0,0
+Kai Schwindt,FLA,,,,,,,,,,,LW,19,3,ELC,Signed,Junior,0.0,RFA,836667,836667,836667,0,0,0
 Patrick Giles,FLA,,,,,,,,,,,C,23,2,ELC,Signed,Minor,0.0,RFA,812500,812500,0,0,0,0
 Connor Bunnaman,FLA,,,,,,,,,,,"C, LW",24,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Henry Bowlby,FLA,,,,,,,,,,,C,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Alex Lyon,FLA,,,,,,,,,,,G,30,1,,Signed,Emerg. Loan,0.009000000000000001,UFA,750000,0,0,0,0,0
+Zac Dalpe,FLA,,,,,,,,,,,C,33,3,,Signed,Minor,0.0,UFA,750000,775000,775000,0,0,0
 Aleksi Heponiemi,FLA,,,,,,,,,,,"LW, C",24,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
-Gerald Mayhew,FLA,,,,,,,,,,,"C, RW",30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Ryan McAllister,FLA,,,,,,,,,,,C,21,4,ELC,Signed,Minor,0.0,RFA,0,896667,896667,896667,0,0
+Evan Nause,FLA,,,,,,,,,,,LD,20,3,ELC,Draft,Junior,0.0,RFA,886667,886667,886667,0,0,0
+Nathan Staios,FLA,,,,,,,,,,,LD,21,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Zach Uens,FLA,,,,,,,,,,,LD,21,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Santtu Kinnunen,FLA,,,,,,,,,,,RD,24,2,ELC,Draft,Minor,0.0,RFA,855000,855000,0,0,0,0
+Marek Alscher,FLA,,,,,,,,,,,LD,19,4,ELC,Draft,Junior,0.0,RFA,0,896667,896667,896667,0,0
+Anthony Bitetto,FLA,,,,,,,,,,,LD,32,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Lucas Carlsson,FLA,,,,,,,,,,,LD,25,1,,Trade,Minor,0.0,RFA,800000,0,0,0,0,0
 John Ludvig,FLA,,,,,,,,,,,LD,22,1,ELC,Draft,Minor,0.0,10.2(c),853333,0,0,0,0,0
 Max Gildon,FLA,,,,,,,,,,,LD,23,1,ELC,Draft,Minor,0.0,RFA,853333,0,0,0,0,0
 Calle Sjalin,FLA,,,,,,,,,,,LD,23,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,0,0
-Zach Uens,FLA,,,,,,,,,,,LD,21,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Nathan Staios,FLA,,,,,,,,,,,LD,21,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Evan Nause,FLA,,,,,,,,,,,LD,20,3,ELC,Draft,Junior,0.0,RFA,886667,886667,886667,0,0,0
-Zac Dalpe,FLA,,,,,,,,,,,C,33,3,,Signed,Minor,0.0,UFA,750000,775000,775000,0,0,0
-Mack Guzda,FLA,,,,,,,,,,,G,22,2,ELC,Signed,Emerg. Loan,0.011000000000000001,10.2(c),897500,897500,0,0,0,0
-Kai Schwindt,FLA,,,,,,,,,,,LW,19,3,ELC,Signed,Junior,0.0,RFA,836667,836667,836667,0,0,0
-Marc Staal,FLA,,,,,,,,,,,LD,36,1,35+,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Gerald Mayhew,FLA,,,,,,,,,,,"C, RW",30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Spencer Knight,FLA,,,,,,,,,,,G,21,4,ELC,Draft,NHLPA Player Asst.,0.011000000000000001,RFA,925000,4500000,4500000,4500000,0,0
+Henry Bowlby,FLA,,,,,,,,,,,C,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Patric Hornqvist,FLA,,,,,,,,,,,RW,36,1,M-NTC,Trade,LTIR,0.064,UFA,5300000,0,0,0,0,0
+Matthew Tkachuk,FLA,,,,,,,,,,,RW,25,8,,Trade,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,9500000
 Evan Fitzpatrick,FLA,,,,,,,,,,,G,25,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
 Jean-Francois Berube,FLA,,,,,,,,,,,G,31,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Marek Alscher,FLA,,,,,,,,,,,LD,19,4,ELC,Draft,Junior,0.0,RFA,0,896667,896667,896667,0,0
-Sergei Bobrovsky,FLA,,,,,,,,,,,G,34,4,NMC,Signed,NHL,0.121,UFA,10000000,10000000,10000000,10000000,0,0
-Anthony Bitetto,FLA,,,,,,,,,,,LD,32,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Matt Kiersted,FLA,,,,,,,,,,,LD,24,2,,Signed,Minor,0.0,RFA,762500,762500,0,0,0,0
-Aleksander Barkov,FLA,,,,,,,,,,,C,27,8,NMC,Draft,NHL,0.121,UFA,10000000,10000000,10000000,10000000,10000000,10000000
-Matthew Tkachuk,FLA,,,,,,,,,,,RW,25,8,,Trade,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,9500000
+Mack Guzda,FLA,,,,,,,,,,,G,22,2,ELC,Signed,Minor,0.0,10.2(c),897500,897500,0,0,0,0
 Sam Bennett,FLA,,,,,,,,,,,C,26,3,,Trade,NHL,0.054000000000000006,UFA,4425000,4425000,4425000,0,0,0
 Carter Verhaeghe,FLA,,,,,,,,,,,LW,27,3,,Signed,NHL,0.051,UFA,4166667,4166667,4166667,0,0,0
 Anthony Duclair,FLA,,,,,,,,,,,"LW, RW",27,2,,Signed,NHL,0.036000000000000004,UFA,3000000,3000000,0,0,0,0
 Eetu Luostarinen,FLA,,,,,,,,,,,"LW, C",24,2,,Trade,NHL,0.018000000000000002,RFA,1500000,1500000,0,0,0,0
-Sam Reinhart,FLA,,,,,,,,,,,RW,27,2,,Trade,NHL,0.079,UFA,6500000,6500000,0,0,0,0
-Nick Cousins,FLA,,,,,,,,,,,"LW, C",29,2,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,0,0,0,0
-Josh Mahura,FLA,,,,,,,,,,,LD/RD,24,2,,Waivers claim,NHL,0.009000000000000001,RFA,750000,925000,0,0,0,0
-Casey Fitzgerald,FLA,,,,,,,,,,,RD,26,1,,Waivers claim,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
-Radko Gudas,FLA,,,,,,,,,,,RD,32,1,,Signed,NHL,0.03,UFA,2500000,0,0,0,0,0
-Gustav Forsling,FLA,,,,,,,,,,,LD,26,2,,Waivers claim,NHL,0.032,UFA,2666667,2666667,0,0,0,0
 Colin White,FLA,,,,,,,,,,,"RW, C",26,1,,Signed,NHL,0.015,RFA,1200000,0,0,0,0,0
-Aaron Ekblad,FLA,,,,,,,,,,,RD,27,3,NMC,Draft,NHL,0.091,UFA,7500000,7500000,7500000,0,0,0
-Eric Staal,FLA,,,,,,,,,,,C,38,1,35+,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Brandon Montour,FLA,,,,,,,,,,,RD,28,2,,Trade,NHL,0.042,UFA,3500000,3500000,0,0,0,0
-Ryan Lomberg,FLA,,,,,,,,,,,LW,28,2,,Signed,NHL,0.01,UFA,800000,800000,0,0,0,0
+Nick Cousins,FLA,,,,,,,,,,,"LW, C",29,2,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,0,0,0,0
 Anton Lundell,FLA,,,,,,,,,,,"C, LW",21,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0
+Sam Reinhart,FLA,,,,,,,,,,,RW,27,2,,Trade,NHL,0.079,UFA,6500000,6500000,0,0,0,0
+Casey Fitzgerald,FLA,,,,,,,,,,,RD,26,1,,Waivers claim,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
 Givani Smith,FLA,,,,,,,,,,,"LW, RW",25,1,,Trade,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
+Eric Staal,FLA,,,,,,,,,,,C,38,1,35+,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Aaron Ekblad,FLA,,,,,,,,,,,RD,27,3,NMC,Draft,NHL,0.091,UFA,7500000,7500000,7500000,0,0,0
+Brandon Montour,FLA,,,,,,,,,,,RD,28,2,,Trade,NHL,0.042,UFA,3500000,3500000,0,0,0,0
+Gustav Forsling,FLA,,,,,,,,,,,LD,26,2,,Waivers claim,NHL,0.032,UFA,2666667,2666667,0,0,0,0
+Ryan Lomberg,FLA,,,,,,,,,,,LW,28,2,,Signed,NHL,0.01,UFA,800000,800000,0,0,0,0
+Radko Gudas,FLA,,,,,,,,,,,RD,32,1,,Signed,NHL,0.03,UFA,2500000,0,0,0,0,0
+Alex Lyon,FLA,,,,,,,,,,,G,30,1,,Signed,Emerg. Loan,0.009000000000000001,UFA,750000,0,0,0,0,0
+Sergei Bobrovsky,FLA,,,,,,,,,,,G,34,4,NMC,Signed,NHL,0.121,UFA,10000000,10000000,10000000,10000000,0,0
+Josh Mahura,FLA,,,,,,,,,,,LD/RD,24,2,,Waivers claim,NHL,0.009000000000000001,RFA,750000,925000,0,0,0,0
+Marc Staal,FLA,,,,,,,,,,,LD,36,1,35+,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Joonas Korpisalo,LAK,,,,,,,,,,,G,28,1,,Trade,NHL,0.016,UFA,1300000,0,0,0,0,0
 Pheonix Copley,LAK,,,,,,,,,,,G,31,2,,Signed,NHL,0.01,UFA,825000,1500000,0,0,0,0
 Jacob Ingham,LAK,,,,,,,,,,,G,22,1,ELC,Draft,SOIR,0.0,RFA,4091,0,0,0,0,0
-Sean Walker,LAK,,,,,,,,,,,LD/RD,28,2,,Signed,NHL,0.032,UFA,2650000,2650000,0,0,0,0
-Cal Petersen,LAK,,,,,,,,,,,G,28,3,M-NTC,Signed,Minor,0.047,UFA,3875000,3875000,3875000,0,0,0
-Joonas Korpisalo,LAK,,,,,,,,,,,G,28,1,,Trade,NHL,0.016,UFA,1300000,0,0,0,0,0
+Tyler Madden,LAK,,,,,,,,,,,C,23,1,ELC,Trade,Minor,0.0,RFA,925000,0,0,0,0,0
 Alexander Edler,LAK,,,,,,,,,,,LD,36,1,35+NMC,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Jordan Spence,LAK,,,,,,,,,,,RD,22,2,ELC,Draft,Emerg. Loan,0.01,RFA,820000,820000,0,0,0,0
-Tobias Bjornfot,LAK,,,,,,,,,,,LD,22,1,ELC,Draft,Emerg. Loan,0.011000000000000001,RFA,894167,0,0,0,0,0
+Cal Petersen,LAK,,,,,,,,,,,G,28,3,M-NTC,Signed,Minor,0.047,UFA,3875000,3875000,3875000,0,0,0
+Alex Laferriere,LAK,,,,,,,,,,,RW,21,3,ELC,Draft,Registration Pending,,RFA,0,875000,875000,0,0,0
 Michael Anderson,LAK,,,,,,,,,,,LD,23,9,,Draft,NHL,0.012,UFA,1000000,4125000,4125000,4125000,4125000,4125000
-Sean Durzi,LAK,,,,,,,,,,,LD/RD,24,2,,Trade,NHL,0.021,RFA,1700000,1700000,0,0,0,0
+Gabriel Vilardi,LAK,,,,,,,,,,,"RW, C",23,1,,Draft,NHL,0.01,RFA,825000,0,0,0,0,0
+Sean Walker,LAK,,,,,,,,,,,LD/RD,28,2,,Signed,NHL,0.032,UFA,2650000,2650000,0,0,0,0
 Vladislav Gavrikov,LAK,,,,,,,,,,,LD,27,1,,Trade,NHL,0.034,UFA,2800000,0,0,0,0,0
-Blake Lizotte,LAK,,,,,,,,,,,C,25,2,,Signed,NHL,0.02,RFA,1675000,1675000,0,0,0,0
+Matt Roy,LAK,,,,,,,,,,,RD,28,2,,Draft,NHL,0.038,UFA,3150000,3150000,0,0,0,0
 Drew Doughty,LAK,,,,,,,,,,,RD,33,5,NMC,Draft,NHL,0.133,UFA,11000000,11000000,11000000,11000000,11000000,0
 Jaret Anderson-Dolan,LAK,,,,,,,,,,,"C, LW, RW",23,1,,Draft,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
-Gabriel Vilardi,LAK,,,,,,,,,,,"RW, C",23,1,,Draft,NHL,0.01,RFA,825000,0,0,0,0,0
 Rasmus Kupari,LAK,,,,,,,,,,,"C, LW, RW",23,1,ELC,Draft,NHL,0.01,RFA,863333,0,0,0,0,0
 Arthur Kaliyev,LAK,,,,,,,,,,,"RW, LW",21,2,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,0,0,0,0
 Quinton Byfield,LAK,,,,,,,,,,,"C, LW",20,2,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,0,0,0,0
 Zack MacEwen,LAK,,,,,,,,,,,"RW, C",26,1,,Trade,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
 Carl Grundstrom,LAK,,,,,,,,,,,"LW, RW",25,2,,Trade,NHL,0.016,RFA,1300000,1300000,0,0,0,0
+Blake Lizotte,LAK,,,,,,,,,,,C,25,2,,Signed,NHL,0.02,RFA,1675000,1675000,0,0,0,0
 Trevor Moore,LAK,,,,,,,,,,,"LW, RW",28,6,,Trade,NHL,0.023,UFA,1875000,4200000,4200000,4200000,4200000,4200000
-Alex Iafallo,LAK,,,,,,,,,,,LW,29,3,,Signed,NHL,0.048,UFA,4000000,4000000,4000000,0,0,0
-Viktor Arvidsson,LAK,,,,,,,,,,,"RW, LW",29,2,,Trade,NHL,0.052000000000000005,UFA,4250000,4250000,0,0,0,0
-Matt Roy,LAK,,,,,,,,,,,RD,28,2,,Draft,NHL,0.038,UFA,3150000,3150000,0,0,0,0
-Tyler Madden,LAK,,,,,,,,,,,C,23,1,ELC,Trade,Minor,0.0,RFA,925000,0,0,0,0,0
-Anze Kopitar,LAK,,,,,,,,,,,C,35,2,M-NTC,Draft,NHL,0.121,UFA,10000000,10000000,0,0,0,0
+Sean Durzi,LAK,,,,,,,,,,,LD/RD,24,2,,Trade,NHL,0.021,RFA,1700000,1700000,0,0,0,0
 Adrian Kempe,LAK,,,,,,,,,,,"LW, RW",26,4,,Draft,NHL,0.067,UFA,5500000,5500000,5500000,5500000,0,0
+Alex Turcotte,LAK,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,894167,894167,0,0,0,0
+Francesco Pinelli,LAK,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,867500,867500,867500,0,0,0
+Anze Kopitar,LAK,,,,,,,,,,,C,35,2,M-NTC,Draft,NHL,0.121,UFA,10000000,10000000,0,0,0,0
+Kevin Fiala,LAK,,,,,,,,,,,"RW, LW",26,7,,Trade,NHL,0.095,UFA,7875000,7875000,7875000,7875000,7875000,7875000
+Phillip Danault,LAK,,,,,,,,,,,C,30,5,NMC,Signed,NHL,0.067,UFA,5500000,5500000,5500000,5500000,5500000,0
+Alex Iafallo,LAK,,,,,,,,,,,LW,29,3,,Signed,NHL,0.048,UFA,4000000,4000000,4000000,0,0,0
 Matt Villalta,LAK,,,,,,,,,,,G,23,1,,Draft,Minor,0.0,RFA,787500,0,0,0,0,0
 David Hrenak,LAK,,,,,,,,,,,G,24,1,ELC,Draft,Minor,0.0,RFA,842500,0,0,0,0,0
 Cal Petersen,LAK,,,,,,,,,,,G,28,3,M-NTC,Signed,Minor,0.0,UFA,5000000,5000000,5000000,0,0,0
 Cole Krygier,LAK,,,,,,,,,,,LD,22,3,ELC,Trade,Minor,0.0,RFA,0,837500,837500,0,0,0
 Tobie Paquette-Bisson,LAK,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
 Jacob Moverare,LAK,,,,,,,,,,,LD,24,2,,Draft,Minor,0.0,RFA,762500,762500,0,0,0,0
+Andre Lee,LAK,,,,,,,,,,,"LW, C",22,2,ELC,Draft,Minor,0.0,RFA,883750,883750,0,0,0,0
 Helge Grans,LAK,,,,,,,,,,,RD,20,3,ELC,Draft,Minor,0.0,RFA,847500,847500,847500,0,0,0
-Kim Nousiainen,LAK,,,,,,,,,,,LD,22,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Kevin Fiala,LAK,,,,,,,,,,,"RW, LW",26,7,,Trade,NHL,0.095,UFA,7875000,7875000,7875000,7875000,7875000,7875000
+Jordan Spence,LAK,,,,,,,,,,,RD,22,2,ELC,Draft,Minor,0.0,RFA,820000,820000,0,0,0,0
 Brandt Clarke,LAK,,,,,,,,,,,RD,20,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
+Tobias Bjornfot,LAK,,,,,,,,,,,LD,22,1,ELC,Draft,Minor,0.0,RFA,894167,0,0,0,0,0
+Nathan Schnarr,LAK,,,,,,,,,,,C,24,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
 Lias Andersson,LAK,,,,,,,,,,,"C, LW",24,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
 Aidan Dudas,LAK,,,,,,,,,,,LW,22,1,ELC,Draft,Minor,0.0,RFA,786667,0,0,0,0,0
 T.J. Tynan,LAK,,,,,,,,,,,C,31,2,,Signed,Minor,0.0,UFA,787500,787500,0,0,0,0
@@ -706,27 +710,22 @@ Samuel Fagemo,LAK,,,,,,,,,,,"LW, RW",23,1,ELC,Draft,Minor,0.0,RFA,795000,0,0,0,0
 Martin Chromiak,LAK,,,,,,,,,,,RW,20,3,ELC,Draft,Minor,0.0,RFA,820000,820000,820000,0,0,0
 Samuel Helenius,LAK,,,,,,,,,,,C,20,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
 Taylor Ward,LAK,,,,,,,,,,,RW,25,1,ELC,Signed,Minor,0.0,RFA,842500,0,0,0,0,0
-Francesco Pinelli,LAK,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,867500,867500,867500,0,0,0
-Andre Lee,LAK,,,,,,,,,,,"LW, C",22,2,ELC,Draft,Minor,0.0,RFA,883750,883750,0,0,0,0
-Alex Turcotte,LAK,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,894167,894167,0,0,0,0
-Nathan Schnarr,LAK,,,,,,,,,,,C,24,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
-Phillip Danault,LAK,,,,,,,,,,,C,30,5,NMC,Signed,NHL,0.067,UFA,5500000,5500000,5500000,5500000,5500000,0
+Kim Nousiainen,LAK,,,,,,,,,,,LD,22,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Viktor Arvidsson,LAK,,,,,,,,,,,"RW, LW",30,2,,Trade,NHL,0.052000000000000005,UFA,4250000,4250000,0,0,0,0
 Hunter Jones,MIN,,,,,,,,,,,G,22,1,ELC,Draft,Minor,0.0,RFA,825833,0,0,0,0,0
 Jesper Wallstedt,MIN,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,925000,925000,925000,0,0,0
-Brandon Baddock,MIN,,,,,,,,,,,"LW, C",28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Nick Swaney,MIN,,,,,,,,,,,RW,25,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
 Kirill Kaprizov,MIN,,,,,,,,,,,LW,25,4,,Draft,NHL,0.109,UFA,9000000,9000000,9000000,9000000,0,0
 Liam Ã–hgren,MIN,,,,,,,,,,,LW,19,3,ELC,Draft,Loan,0.0,RFA,950000,950000,950000,0,0,0
 Vladislav Firstov,MIN,,,,,,,,,,,LW,21,3,ELC,Draft,Loan,0.0,RFA,925000,925000,925000,0,0,0
 Adam Beckman,MIN,,,,,,,,,,,LW,21,2,ELC,Draft,Minor,0.0,RFA,894167,894167,0,0,0,0
-Marco Rossi,MIN,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,863333,863333,863333,0,0,0
 Michael Milne,MIN,,,,,,,,,,,LW,20,3,ELC,Draft,Minor,0.0,RFA,861667,861667,861667,0,0,0
 Sam Hentges,MIN,,,,,,,,,,,C,23,2,ELC,Draft,Minor,0.0,RFA,855000,855000,0,0,0,0
 Samuel Walker,MIN,,,,,,,,,,,"RW, LW",23,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,0,0
 Damien Giroux,MIN,,,,,,,,,,,C,23,1,ELC,Draft,Minor,0.0,RFA,818333,0,0,0,0,0
 Steven Fogarty,MIN,,,,,,,,,,,"C, RW",29,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Nicolas Petan,MIN,,,,,,,,,,,"C, LW, RW",28,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 David Spacek,MIN,,,,,,,,,,,RD,20,4,ELC,Draft,Junior,0.0,RFA,0,862500,862500,862500,0,0
-Kyle Masters,MIN,,,,,,,,,,,RD,19,4,ELC,Draft,Minor,0.0,RFA,0,865000,865000,865000,0,0
+Kyle Masters,MIN,,,,,,,,,,,RD,20,4,ELC,Draft,Minor,0.0,RFA,0,865000,865000,865000,0,0
 Dakota Mermis,MIN,,,,,,,,,,,LD/RD,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Joe Hicketts,MIN,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Daemon Hunt,MIN,,,,,,,,,,,LD,20,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
@@ -735,19 +734,24 @@ Ryan O'Rourke,MIN,,,,,,,,,,,LD,20,3,ELC,Draft,Minor,0.0,RFA,855833,855833,855833
 Carson Lambos,MIN,,,,,,,,,,,LD,20,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
 Hunter Haight,MIN,,,,,,,,,,,C,19,4,ELC,Draft,Junior,0.0,RFA,0,897500,897500,897500,0,0
 Caedan Bankier,MIN,,,,,,,,,,,C,20,4,ELC,Draft,Junior,0.0,RFA,0,867500,867500,867500,0,0
-Mitchell Chaffee,MIN,,,,,,,,,,,RW,25,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Brandon Baddock,MIN,,,,,,,,,,,"LW, C",28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Brock Faber,MIN,,,,,,,,,,,RD,20,3,ELC,Trade,Registration Pending,,RFA,0,925000,925000,0,0,0
 Pavel Novak,MIN,,,,,,,,,,,RW,20,3,ELC,Draft,SOIR,,RFA,0,846667,846667,0,0,0
+Filip Gustavsson,MIN,,,,,,,,,,,G,24,1,,Trade,NHL,0.01,RFA,787500,0,0,0,0,0
 Mats Zuccarello,MIN,,,,,,,,,,,"RW, LW",35,2,"M-NTC, NMC",Signed,NHL,0.073,UFA,6000000,6000000,0,0,0,0
 Joel Eriksson Ek,MIN,,,,,,,,,,,C,26,7,,Draft,NHL,0.064,UFA,5250000,5250000,5250000,5250000,5250000,5250000
 Marcus Foligno,MIN,,,,,,,,,,,"RW, LW",31,2,,Trade,NHL,0.038,UFA,3100000,3100000,0,0,0,0
+Gustav Nyquist,MIN,,,,,,,,,,,"LW, RW",33,1,RS,Trade,NHL,0.033,UFA,2750000,0,0,0,0,0
 Oskar Sundqvist,MIN,,,,,,,,,,,"RW, C",29,1,,Trade,NHL,0.033,UFA,2750000,0,0,0,0,0
 Ryan Reaves,MIN,,,,,,,,,,,RW,36,1,35+,Trade,NHL,0.021,UFA,1750000,0,0,0,0,0
 Ryan Hartman,MIN,,,,,,,,,,,"C, RW",28,2,,Trade,NHL,0.021,UFA,1700000,1700000,0,0,0,0
 Frederick Gaudreau,MIN,,,,,,,,,,,"C, LW",29,1,,Signed,NHL,0.015,UFA,1200000,0,0,0,0,0
 Marcus Johansson,MIN,,,,,,,,,,,"LW, RW",32,1,,Trade,NHL,0.013000000000000001,UFA,1100000,0,0,0,0,0
 Matthew Boldy,MIN,,,,,,,,,,,"RW, LW",22,8,ELC,Draft,NHL,0.011000000000000001,UFA,880833,7000000,7000000,7000000,7000000,7000000
+Marco Rossi,MIN,,,,,,,,,,,C,21,3,ELC,Draft,Emerg. Loan,0.01,RFA,863333,863333,863333,0,0,0
+Mitchell Chaffee,MIN,,,,,,,,,,,RW,25,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Sam Steel,MIN,,,,,,,,,,,"C, LW",25,1,,Signed,NHL,0.01,RFA,825000,0,0,0,0,0
-Connor Dewar,MIN,,,,,,,,,,,"LW, C",23,2,,Draft,NHL,0.01,RFA,800000,800000,0,0,0,0
+Nicolas Petan,MIN,,,,,,,,,,,"C, LW, RW",28,2,,Signed,Emerg. Loan,0.009000000000000001,UFA,762500,762500,0,0,0,0
 Brandon Duhaime,MIN,,,,,,,,,,,"RW, LW",25,1,,Draft,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
 Mason Shaw,MIN,,,,,,,,,,,"LW, C",24,1,,Draft,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
 Jared Spurgeon,MIN,,,,,,,,,,,RD,33,5,NMC,Signed,NHL,0.092,UFA,7575000,7575000,7575000,7575000,7575000,0
@@ -758,116 +762,118 @@ Jacob Middleton,MIN,,,,,,,,,,,LD,27,3,,Trade,NHL,0.03,UFA,2450000,2450000,245000
 Jon Merrill,MIN,,,,,,,,,,,LD,31,3,,Signed,NHL,0.015,UFA,1200000,1200000,1200000,0,0,0
 Calen Addison,MIN,,,,,,,,,,,RD,22,1,ELC,Trade,NHL,0.01,RFA,795000,0,0,0,0,0
 Marc-Andre Fleury,MIN,,,,,,,,,,,G,38,2,35+NMC,Trade,NHL,0.042,UFA,3500000,3500000,0,0,0,0
-Filip Gustavsson,MIN,,,,,,,,,,,G,24,1,,Trade,NHL,0.01,RFA,787500,0,0,0,0,0
-Gustav Nyquist,MIN,,,,,,,,,,,"LW, RW",33,1,RS,Trade,IR,0.033,UFA,2750000,0,0,0,0,0
-Nick Swaney,MIN,,,,,,,,,,,RW,25,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
+Connor Dewar,MIN,,,,,,,,,,,"LW, C",23,2,,Draft,NHL,0.01,RFA,800000,800000,0,0,0,0
 Alex Goligoski,MIN,,,,,,,,,,,LD/RD,37,2,35+NMC,Signed,NHL,0.024,UFA,2000000,2000000,0,0,0,0
 Zane McIntyre,MIN,,,,,,,,,,,G,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Corey Schueneman,MTL,,,,,,,,,,,LD,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Filip Mesar,MTL,,,,,,,,,,,"RW, C, LW",19,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0
+Owen Beck,MTL,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,916667,916667,916667,0,0,0
+Emil Heineman,MTL,,,,,,,,,,,LW,21,3,ELC,Trade,Minor,0.0,RFA,897500,897500,897500,0,0,0
+Jesse Ylonen,MTL,,,,,,,,,,,"RW, LW",23,1,ELC,Draft,Minor,0.0,RFA,880833,0,0,0,0,0
+Riley Kidney,MTL,,,,,,,,,,,C,20,3,ELC,Draft,Junior,0.0,RFA,859167,859167,859167,0,0,0
+Joshua Roy,MTL,,,,,,,,,,,"RW, LW",19,3,ELC,Draft,Junior,0.0,RFA,856667,856667,856667,0,0,0
+Jan Mysak,MTL,,,,,,,,,,,"C, LW",20,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
+Rafael Harvey-Pinard,MTL,,,,,,,,,,,LW,24,1,ELC,Draft,Minor,0.0,RFA,825000,0,0,0,0,0
+Joel Teasdale,MTL,,,,,,,,,,,"RW, LW",24,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
+Paul Byron,MTL,,,,,,,,,,,"LW, RW",33,1,,Waivers claim,LTIR,0.040999999999999995,UFA,3400000,0,0,0,0,0
+Anthony Richard,MTL,,,,,,,,,,,"LW, RW",26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Xavier Simoneau,MTL,,,,,,,,,,,"RW, LW, C",21,3,ELC,Draft,Minor,0.0,RFA,0,855000,855000,0,0,0
+Logan Mailloux,MTL,,,,,,,,,,,RD,19,3,ELC,Draft,Junior,0.0,RFA,897500,897500,897500,0,0,0
+Nicolas Beaudin,MTL,,,,,,,,,,,LD,23,1,ELC,Trade,Minor,0.0,RFA,863333,0,0,0,0,0
+Mattias Norlinder,MTL,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,859167,859167,0,0,0,0
+William Trudeau,MTL,,,,,,,,,,,LD,20,3,ELC,Draft,Minor,0.0,RFA,856667,856667,856667,0,0,0
+Gianni Fairbrother,MTL,,,,,,,,,,,LD/RD,22,2,ELC,Draft,Minor,0.0,RFA,848333,848333,0,0,0,0
+Otto Leskinen,MTL,,,,,,,,,,,LD/RD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Frederic Allard,MTL,,,,,,,,,,,RD,25,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Madison Bowey,MTL,,,,,,,,,,,RD,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Jayden Struble,MTL,,,,,,,,,,,LD,21,3,ELC,Draft,Minor,0.0,RFA,0,867500,867500,0,0,0
+Cayden Primeau,MTL,,,,,,,,,,,G,23,3,,Draft,Minor,0.0,RFA,890000,890000,890000,0,0,0
+Jakub Dobes,MTL,,,,,,,,,,,G,21,3,ELC,Draft,Minor,0.0,RFA,0,925000,925000,0,0,0
+Mitchell Stephens,MTL,,,,,,,,,,,C,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
+Sean Monahan,MTL,,,,,,,,,,,"C, LW, RW",28,1,M-NTC,Trade,LTIR,0.077,UFA,6375000,0,0,0,0,0
+Lucas Condotta,MTL,,,,,,,,,,,LW,25,1,ELC,Signed,Minor,0.0,RFA,830000,0,0,0,0,0
 Arber Xhekaj,MTL,,,,,,,,,,,LD/RD,22,2,ELC,Signed,IR,0.01,RFA,828333,828333,0,0,0,0
-Samuel Montembeault,MTL,,,,,,,,,,,G,26,2,,Waivers claim,NHL,0.012,UFA,1000000,1000000,0,0,0,0
+Nick Suzuki,MTL,,,,,,,,,,,C,23,8,,Trade,NHL,0.095,UFA,7875000,7875000,7875000,7875000,7875000,7875000
+Brendan Gallagher,MTL,,,,,,,,,,,RW,30,5,"M-NTC, NMC",Draft,NHL,0.079,UFA,6500000,6500000,6500000,6500000,6500000,0
+Josh Anderson,MTL,,,,,,,,,,,"RW, LW",28,5,M-NTC,Trade,NHL,0.067,UFA,5500000,5500000,5500000,5500000,5500000,0
+Carey Price,MTL,,,,,,,,,,,G,35,4,NMC,Draft,LTIR,0.127,UFA,10500000,10500000,10500000,10500000,0,0
+Mike Hoffman,MTL,,,,,,,,,,,LW,33,2,,Signed,NHL,0.055,UFA,4500000,4500000,0,0,0,0
+Christian Dvorak,MTL,,,,,,,,,,,"C, LW",27,3,,Trade,NHL,0.054000000000000006,UFA,4450000,4450000,4450000,0,0,0
+Joel Armia,MTL,,,,,,,,,,,"RW, LW",29,3,,Trade,NHL,0.040999999999999995,UFA,3400000,3400000,3400000,0,0,0
+Kirby Dach,MTL,,,,,,,,,,,"C, RW",22,4,,Trade,NHL,0.040999999999999995,RFA,3362500,3362500,3362500,3362500,0,0
+Denis Gurianov,MTL,,,,,,,,,,,"RW, LW",25,1,,Trade,NHL,0.035,RFA,2900000,0,0,0,0,0
+Jake Evans,MTL,,,,,,,,,,,C,26,3,,Draft,NHL,0.021,UFA,1700000,1700000,1700000,0,0,0
+Rem Pitlick,MTL,,,,,,,,,,,"LW, C, RW",26,2,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,0,0,0,0
+Sean Farrell,MTL,,,,,,,,,,,"LW, C",21,3,ELC,Draft,NHL,0.011000000000000001,10.2(c),897500,897500,897500,0,0,0
+Michael Pezzetta,MTL,,,,,,,,,,,"LW, RW",25,1,,Draft,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
+Alex Belzile,MTL,,,,,,,,,,,"C, RW",31,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Jonathan Drouin,MTL,,,,,,,,,,,"C, LW",28,1,M-NTC,Trade,NHL,0.067,UFA,5500000,0,0,0,0,0
+Michael Matheson,MTL,,,,,,,,,,,LD,29,4,M-NTC,Trade,NHL,0.059000000000000004,UFA,4875000,4875000,4875000,4875000,0,0
+Chris Tierney,MTL,,,,,,,,,,,C,28,1,,Waivers claim,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Cole Caufield,MTL,,,,,,,,,,,LW,22,1,ELC,Draft,IR,0.011000000000000001,RFA,880833,0,0,0,0,0
+Juraj Slafkovsky,MTL,,,,,,,,,,,"LW, RW",19,3,ELC,Draft,IR,0.012,RFA,950000,950000,950000,0,0,0
 Jake Allen,MTL,,,,,,,,,,,G,32,3,,Trade,NHL,0.035,UFA,2875000,3850000,3850000,0,0,0
 Chris Wideman,MTL,,,,,,,,,,,RD,33,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
 Johnathan Kovacevic,MTL,,,,,,,,,,,RD,25,3,,Waivers claim,NHL,0.009000000000000001,UFA,766667,766667,766667,0,0,0
-Jordan Harris,MTL,,,,,,,,,,,LD/RD,22,3,ELC,Draft,NHL,0.01,RFA,842500,1400000,1400000,0,0,0
+Samuel Montembeault,MTL,,,,,,,,,,,G,26,2,,Waivers claim,NHL,0.012,UFA,1000000,1000000,0,0,0,0
 Kaiden Guhle,MTL,,,,,,,,,,,LD/RD,21,3,ELC,Draft,NHL,0.01,RFA,863333,863333,863333,0,0,0
 Justin Barron,MTL,,,,,,,,,,,RD,21,2,ELC,Trade,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0
 David Savard,MTL,,,,,,,,,,,RD,32,3,,Signed,NHL,0.042,UFA,3500000,3500000,3500000,0,0,0
 Joel Edmundson,MTL,,,,,,,,,,,LD/RD,29,2,M-NTC,Trade,NHL,0.042,UFA,3500000,3500000,0,0,0,0
-Michael Matheson,MTL,,,,,,,,,,,LD,29,4,M-NTC,Trade,NHL,0.059000000000000004,UFA,4875000,4875000,4875000,4875000,0,0
-Chris Tierney,MTL,,,,,,,,,,,C,28,1,,Waivers claim,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Alex Belzile,MTL,,,,,,,,,,,"C, RW",31,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Michael Pezzetta,MTL,,,,,,,,,,,"LW, RW",25,1,,Draft,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
-Rafael Harvey-Pinard,MTL,,,,,,,,,,,LW,24,1,ELC,Draft,NHL,0.01,RFA,825000,0,0,0,0,0
-Jesse Ylonen,MTL,,,,,,,,,,,"RW, LW",23,1,ELC,Draft,NHL,0.011000000000000001,RFA,880833,0,0,0,0,0
-Sean Farrell,MTL,,,,,,,,,,,"LW, C",21,3,ELC,Draft,NHL,0.011000000000000001,10.2(c),897500,897500,897500,0,0,0
-Rem Pitlick,MTL,,,,,,,,,,,"LW, C, RW",26,2,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,0,0,0,0
-Jake Evans,MTL,,,,,,,,,,,C,26,3,,Draft,NHL,0.021,UFA,1700000,1700000,1700000,0,0,0
-Denis Gurianov,MTL,,,,,,,,,,,"RW, LW",25,1,,Trade,NHL,0.035,RFA,2900000,0,0,0,0,0
-Kirby Dach,MTL,,,,,,,,,,,"C, RW",22,4,,Trade,NHL,0.040999999999999995,RFA,3362500,3362500,3362500,3362500,0,0
-Joel Armia,MTL,,,,,,,,,,,"RW, LW",29,3,,Trade,NHL,0.040999999999999995,UFA,3400000,3400000,3400000,0,0,0
-Christian Dvorak,MTL,,,,,,,,,,,"C, LW",27,3,,Trade,NHL,0.054000000000000006,UFA,4450000,4450000,4450000,0,0,0
-Mike Hoffman,MTL,,,,,,,,,,,LW,33,2,,Signed,NHL,0.055,UFA,4500000,4500000,0,0,0,0
-Juraj Slafkovsky,MTL,,,,,,,,,,,"LW, RW",19,3,ELC,Draft,IR,0.012,RFA,950000,950000,950000,0,0,0
-Jonathan Drouin,MTL,,,,,,,,,,,"C, LW",28,1,M-NTC,Trade,NHL,0.067,UFA,5500000,0,0,0,0,0
-Cole Caufield,MTL,,,,,,,,,,,LW,22,1,ELC,Draft,IR,0.011000000000000001,RFA,880833,0,0,0,0,0
-Sean Monahan,MTL,,,,,,,,,,,"C, LW, RW",28,1,M-NTC,Trade,LTIR,0.077,UFA,6375000,0,0,0,0,0
-Corey Schueneman,MTL,,,,,,,,,,,LD,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Frederic Allard,MTL,,,,,,,,,,,RD,25,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Otto Leskinen,MTL,,,,,,,,,,,LD/RD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Gianni Fairbrother,MTL,,,,,,,,,,,LD/RD,22,2,ELC,Draft,Minor,0.0,RFA,848333,848333,0,0,0,0
-William Trudeau,MTL,,,,,,,,,,,LD,20,3,ELC,Draft,Minor,0.0,RFA,856667,856667,856667,0,0,0
-Mattias Norlinder,MTL,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,859167,859167,0,0,0,0
-Nicolas Beaudin,MTL,,,,,,,,,,,LD,23,1,ELC,Trade,Minor,0.0,RFA,863333,0,0,0,0,0
-Logan Mailloux,MTL,,,,,,,,,,,RD,19,3,ELC,Draft,Junior,0.0,RFA,897500,897500,897500,0,0,0
-Xavier Simoneau,MTL,,,,,,,,,,,"RW, LW, C",21,3,ELC,Draft,Minor,0.0,RFA,0,855000,855000,0,0,0
-Mitchell Stephens,MTL,,,,,,,,,,,C,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Anthony Richard,MTL,,,,,,,,,,,"LW, RW",26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Joel Teasdale,MTL,,,,,,,,,,,"RW, LW",24,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Jan Mysak,MTL,,,,,,,,,,,"C, LW",20,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
-Lucas Condotta,MTL,,,,,,,,,,,LW,25,1,ELC,Signed,Minor,0.0,RFA,830000,0,0,0,0,0
-Joshua Roy,MTL,,,,,,,,,,,"RW, LW",19,3,ELC,Draft,Junior,0.0,RFA,856667,856667,856667,0,0,0
-Riley Kidney,MTL,,,,,,,,,,,C,20,3,ELC,Draft,Junior,0.0,RFA,859167,859167,859167,0,0,0
-Emil Heineman,MTL,,,,,,,,,,,LW,21,3,ELC,Trade,Minor,0.0,RFA,897500,897500,897500,0,0,0
-Owen Beck,MTL,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,916667,916667,916667,0,0,0
-Filip Mesar,MTL,,,,,,,,,,,"RW, C, LW",19,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0
-Paul Byron,MTL,,,,,,,,,,,"LW, RW",33,1,,Waivers claim,LTIR,0.040999999999999995,UFA,3400000,0,0,0,0,0
-Carey Price,MTL,,,,,,,,,,,G,35,4,NMC,Draft,LTIR,0.127,UFA,10500000,10500000,10500000,10500000,0,0
-Madison Bowey,MTL,,,,,,,,,,,RD,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Josh Anderson,MTL,,,,,,,,,,,"RW, LW",28,5,M-NTC,Trade,NHL,0.067,UFA,5500000,5500000,5500000,5500000,5500000,0
-Nick Suzuki,MTL,,,,,,,,,,,C,23,8,,Trade,NHL,0.095,UFA,7875000,7875000,7875000,7875000,7875000,7875000
-Jayden Struble,MTL,,,,,,,,,,,LD,21,3,ELC,Draft,Minor,0.0,RFA,0,867500,867500,0,0,0
-Brendan Gallagher,MTL,,,,,,,,,,,RW,30,5,"M-NTC, NMC",Draft,NHL,0.079,UFA,6500000,6500000,6500000,6500000,6500000,0
-Cayden Primeau,MTL,,,,,,,,,,,G,23,3,,Draft,Minor,0.0,RFA,890000,890000,890000,0,0,0
-Jakub Dobes,MTL,,,,,,,,,,,G,21,3,ELC,Draft,Minor,0.0,RFA,0,925000,925000,0,0,0
+Jordan Harris,MTL,,,,,,,,,,,LD/RD,22,3,ELC,Draft,NHL,0.01,RFA,842500,1400000,1400000,0,0,0
+Mackenzie Blackwood,NJD,,,,,,,,,,,G,26,1,,Draft,NHL,0.034,RFA,2800000,0,0,0,0,0
+John Marino,NJD,,,,,,,,,,,RD,25,5,,Trade,NHL,0.053,UFA,4400000,4400000,4400000,4400000,4400000,0
+Jonathan Bernier,NJD,,,,,,,,,,,G,34,1,,Signed,LTIR,0.05,UFA,4125000,0,0,0,0,0
+Vitek Vanecek,NJD,,,,,,,,,,,G,27,3,,Trade,NHL,0.040999999999999995,UFA,3400000,3400000,3400000,0,0,0
+Kevin Bahl,NJD,,,,,,,,,,,LD,22,1,ELC,Trade,NHL,0.01,RFA,795000,0,0,0,0,0
+Luke Hughes,NJD,,,,,,,,,,,LD/RD,19,3,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,925000,0,0,0
+Brendan Smith,NJD,,,,,,,,,,,LD/RD,34,2,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,0,0,0,0
+Jonas Siegenthaler,NJD,,,,,,,,,,,LD,25,6,,Trade,NHL,0.013999999999999999,UFA,1125000,3400000,3400000,3400000,3400000,3400000
+Ryan Graves,NJD,,,,,,,,,,,LD,27,1,,Trade,NHL,0.038,UFA,3166667,0,0,0,0,0
+Damon Severson,NJD,,,,,,,,,,,RD,28,1,,Draft,NHL,0.051,UFA,4166666,0,0,0,0,0
+Dougie Hamilton,NJD,,,,,,,,,,,RD,29,6,NMC,Signed,NHL,0.109,UFA,9000000,9000000,9000000,9000000,9000000,9000000
+Erik Haula,NJD,,,,,,,,,,,"C, LW",32,1,,Trade,NHL,0.028999999999999998,UFA,2375000,0,0,0,0,0
+Jesper Boqvist,NJD,,,,,,,,,,,"C, LW, RW",24,1,,Draft,NHL,0.011000000000000001,RFA,874125,0,0,0,0,0
+Dawson Mercer,NJD,,,,,,,,,,,"RW, C",21,2,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,0,0,0,0
+Michael Mcleod,NJD,,,,,,,,,,,C,25,1,,Draft,NHL,0.012,RFA,975000,0,0,0,0,0
+Curtis Lazar,NJD,,,,,,,,,,,"RW, C",28,3,,Trade,NHL,0.012,UFA,1000000,1000000,1000000,0,0,0
+Yegor Sharangovich,NJD,,,,,,,,,,,"LW, RW, C",24,1,,Draft,NHL,0.024,RFA,2000000,0,0,0,0,0
+Timo Meier,NJD,,,,,,,,,,,"LW, RW",26,1,RS,Trade,NHL,0.036000000000000004,RFA,3000000,0,0,0,0,0
 Miles Wood,NJD,,,,,,,,,,,LW,27,1,,Draft,NHL,0.039,UFA,3200000,0,0,0,0,0
-Graeme Clarke,NJD,,,,,,,,,,,"RW, C",21,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
-Aarne Talvitie,NJD,,,,,,,,,,,C,24,1,ELC,Draft,Minor,0.0,RFA,842500,0,0,0,0,0
-Timur Ibragimov,NJD,,,,,,,,,,,LW,22,1,ELC,Trade,Minor,0.0,RFA,813333,0,0,0,0,0
-Tyce Thompson,NJD,,,,,,,,,,,RW,23,2,,Draft,Minor,0.0,RFA,762500,762500,0,0,0,0
-Joseph Gambardella,NJD,,,,,,,,,,,LW,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Jayce Hawryluk,NJD,,,,,,,,,,,"RW, LW",27,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Mason Geertsen,NJD,,,,,,,,,,,"LW, LD",27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Brian Pinho,NJD,,,,,,,,,,,"C, RW",27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Josh Filmon,NJD,,,,,,,,,,,LW,19,4,ELC,Draft,Minor,0.0,RFA,0,870000,870000,870000,0,0
-Simon Nemec,NJD,,,,,,,,,,,RD,19,3,ELC,Draft,Minor,0.0,RFA,950000,950000,950000,0,0,0
+Tomas Tatar,NJD,,,,,,,,,,,"LW, RW",32,1,,Signed,NHL,0.055,UFA,4500000,0,0,0,0,0
+Jesper Bratt,NJD,,,,,,,,,,,"RW, LW",24,1,,Draft,NHL,0.066,RFA,5450000,0,0,0,0,0
+Ondrej Palat,NJD,,,,,,,,,,,"LW, RW",32,5,NMC,Signed,NHL,0.073,UFA,6000000,6000000,6000000,6000000,6000000,0
+Nathan Bastian,NJD,,,,,,,,,,,"RW, C",25,1,,Waivers claim,NHL,0.01,RFA,825000,0,0,0,0,0
+Zacharie Emond,NJD,,,,,,,,,,,G,22,1,ELC,Trade,Minor,0.0,10.2(c),786667,0,0,0,0,0
+Akira Schmid,NJD,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
+Nico Hischier,NJD,,,,,,,,,,,C,24,5,,Draft,NHL,0.08800000000000001,UFA,7250000,7250000,7250000,7250000,7250000,0
+Nico Daws,NJD,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
+Jeremy Groleau,NJD,,,,,,,,,,,LD,23,1,ELC,Signed,Minor,0.0,RFA,746667,0,0,0,0,0
+Robbie Russo,NJD,,,,,,,,,,,RD,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Tyler Wotherspoon,NJD,,,,,,,,,,,LD,30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Zackary Hayes,NJD,,,,,,,,,,,LD,23,1,ELC,Trade,Minor,0.0,RFA,805000,0,0,0,0,0
+Michael Vukojevic,NJD,,,,,,,,,,,LD,21,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
 Santeri Hatakka,NJD,,,,,,,,,,,LD,22,2,ELC,Trade,Minor,0.0,RFA,850833,850833,0,0,0,0
 Topias Vilen,NJD,,,,,,,,,,,LD,20,3,ELC,Draft,Loan,0.0,RFA,859167,859167,859167,0,0,0
-Nolan Foote,NJD,,,,,,,,,,,LW,22,2,ELC,Trade,Minor,0.0,RFA,863333,863333,0,0,0,0
-Michael Vukojevic,NJD,,,,,,,,,,,LD,21,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
-Zackary Hayes,NJD,,,,,,,,,,,LD,23,1,ELC,Trade,Minor,0.0,RFA,805000,0,0,0,0,0
-Tyler Wotherspoon,NJD,,,,,,,,,,,LD,30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Robbie Russo,NJD,,,,,,,,,,,RD,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Jeremy Groleau,NJD,,,,,,,,,,,LD,23,1,ELC,Signed,Minor,0.0,RFA,746667,0,0,0,0,0
-Nico Daws,NJD,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
-Akira Schmid,NJD,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
-Zacharie Emond,NJD,,,,,,,,,,,G,22,1,ELC,Trade,Minor,0.0,10.2(c),786667,0,0,0,0,0
 Reilly Walsh,NJD,,,,,,,,,,,RD,23,1,ELC,Draft,Minor,0.0,RFA,925000,0,0,0,0,0
+Simon Nemec,NJD,,,,,,,,,,,RD,19,3,ELC,Draft,Minor,0.0,RFA,950000,950000,950000,0,0,0
+Josh Filmon,NJD,,,,,,,,,,,LW,19,4,ELC,Draft,Minor,0.0,RFA,0,870000,870000,870000,0,0
+Mason Geertsen,NJD,,,,,,,,,,,"LW, LD",27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Jayce Hawryluk,NJD,,,,,,,,,,,"RW, LW",27,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Joseph Gambardella,NJD,,,,,,,,,,,LW,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Tyce Thompson,NJD,,,,,,,,,,,RW,23,2,,Draft,Minor,0.0,RFA,762500,762500,0,0,0,0
+Timur Ibragimov,NJD,,,,,,,,,,,LW,22,1,ELC,Trade,Minor,0.0,RFA,813333,0,0,0,0,0
+Aarne Talvitie,NJD,,,,,,,,,,,C,24,1,ELC,Draft,Minor,0.0,RFA,842500,0,0,0,0,0
+Graeme Clarke,NJD,,,,,,,,,,,"RW, C",21,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
+Nolan Foote,NJD,,,,,,,,,,,LW,22,2,ELC,Trade,Minor,0.0,RFA,863333,863333,0,0,0,0
 Chase Stillman,NJD,,,,,,,,,,,RW,20,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
-Jesper Bratt,NJD,,,,,,,,,,,"RW, LW",24,1,,Draft,NHL,0.066,RFA,5450000,0,0,0,0,0
-Tomas Tatar,NJD,,,,,,,,,,,"LW, RW",32,1,,Signed,NHL,0.055,UFA,4500000,0,0,0,0,0
-Timo Meier,NJD,,,,,,,,,,,"LW, RW",26,1,RS,Trade,NHL,0.036000000000000004,RFA,3000000,0,0,0,0,0
-Erik Haula,NJD,,,,,,,,,,,"C, LW",32,1,,Trade,NHL,0.028999999999999998,UFA,2375000,0,0,0,0,0
-Yegor Sharangovich,NJD,,,,,,,,,,,"LW, RW, C",24,1,,Draft,NHL,0.024,RFA,2000000,0,0,0,0,0
-Curtis Lazar,NJD,,,,,,,,,,,"RW, C",28,3,,Trade,NHL,0.012,UFA,1000000,1000000,1000000,0,0,0
-Michael Mcleod,NJD,,,,,,,,,,,C,25,1,,Draft,NHL,0.012,RFA,975000,0,0,0,0,0
-Dawson Mercer,NJD,,,,,,,,,,,"RW, C",21,2,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,0,0,0,0
-Jesper Boqvist,NJD,,,,,,,,,,,"C, LW, RW",24,1,,Draft,NHL,0.011000000000000001,RFA,874125,0,0,0,0,0
-Nathan Bastian,NJD,,,,,,,,,,,"RW, C",25,1,,Waivers claim,NHL,0.01,RFA,825000,0,0,0,0,0
-Dougie Hamilton,NJD,,,,,,,,,,,RD,29,6,NMC,Signed,NHL,0.109,UFA,9000000,9000000,9000000,9000000,9000000,9000000
-John Marino,NJD,,,,,,,,,,,RD,25,5,,Trade,NHL,0.053,UFA,4400000,4400000,4400000,4400000,4400000,0
 Alexander Holtz,NJD,,,,,,,,,,,"RW, LW",21,3,ELC,Draft,Minor,0.0,RFA,894167,894167,894167,0,0,0
-Damon Severson,NJD,,,,,,,,,,,RD,28,1,,Draft,NHL,0.051,UFA,4166666,0,0,0,0,0
-Jonas Siegenthaler,NJD,,,,,,,,,,,LD,25,6,,Trade,NHL,0.013999999999999999,UFA,1125000,3400000,3400000,3400000,3400000,3400000
-Brendan Smith,NJD,,,,,,,,,,,LD/RD,34,2,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,0,0,0,0
-Kevin Bahl,NJD,,,,,,,,,,,LD,22,1,ELC,Trade,NHL,0.01,RFA,795000,0,0,0,0,0
-Vitek Vanecek,NJD,,,,,,,,,,,G,27,3,,Trade,NHL,0.040999999999999995,UFA,3400000,3400000,3400000,0,0,0
-Mackenzie Blackwood,NJD,,,,,,,,,,,G,26,1,,Draft,NHL,0.034,RFA,2800000,0,0,0,0,0
-Jonathan Bernier,NJD,,,,,,,,,,,G,34,1,,Signed,LTIR,0.05,UFA,4125000,0,0,0,0,0
 Brian Halonen,NJD,,,,,,,,,,,"LW, RW",24,2,ELC,Signed,Minor,0.0,RFA,925000,925000,0,0,0,0
-Ryan Graves,NJD,,,,,,,,,,,LD,27,1,,Trade,NHL,0.038,UFA,3166667,0,0,0,0,0
-Nico Hischier,NJD,,,,,,,,,,,C,24,5,,Draft,NHL,0.08800000000000001,UFA,7250000,7250000,7250000,7250000,7250000,0
-Ondrej Palat,NJD,,,,,,,,,,,"LW, RW",32,5,NMC,Signed,NHL,0.073,UFA,6000000,6000000,6000000,6000000,6000000,0
+Brian Pinho,NJD,,,,,,,,,,,"C, RW",27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Jack Hughes,NJD,,,,,,,,,,,C,21,8,,Draft,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,8000000,8000000,8000000
+Mark Borowiecki,NSH,,,,,,,,,,,LD,33,1,,Signed,IR,0.011000000000000001,UFA,900000,0,0,0,0,0
+Juuse Saros,NSH,,,,,,,,,,,G,27,3,,Draft,NHL,0.061,UFA,5000000,5000000,5000000,0,0,0
+Filip Forsberg,NSH,,,,,,,,,,,LW,28,8,NMC,Trade,IR,0.10300000000000001,UFA,8500000,8500000,8500000,8500000,8500000,8500000
 Joakim Kemell,NSH,,,,,,,,,,,RW,18,3,ELC,Draft,Minor,0.0,RFA,950000,950000,950000,0,0,0
 Reid Schaefer,NSH,,,,,,,,,,,LW,19,3,ELC,Trade,Junior,0.0,RFA,950000,950000,950000,0,0,0
 Zachary L'Heureux,NSH,,,,,,,,,,,LW,19,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
@@ -875,26 +881,26 @@ Nolan Burke,NSH,,,,,,,,,,,C,20,3,ELC,Signed,Junior,0.0,RFA,861667,861667,861667,
 Jachym Kondelik,NSH,,,,,,,,,,,C,23,2,ELC,Draft,Minor,0.0,RFA,855000,855000,0,0,0,0
 Markus Nurmi,NSH,,,,,,,,,,,"RW, LW",24,1,ELC,Signed,Minor,0.0,RFA,842500,0,0,0,0,0
 Isaac Ratcliffe,NSH,,,,,,,,,,,LW,24,1,,Trade,Minor,0.0,RFA,813750,0,0,0,0,0
+Kevin Lankinen,NSH,,,,,,,,,,,G,27,2,,Signed,NHL,0.018000000000000002,UFA,1500000,2000000,0,0,0,0
 Navrin Mutter,NSH,,,,,,,,,,,LW,22,3,ELC,Signed,Minor,0.0,RFA,776667,776667,776667,0,0,0
-Jimmy Huntington,NSH,,,,,,,,,,,C,24,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
 John Leonard,NSH,,,,,,,,,,,"LW, RW",24,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
 Austin Rueschhoff,NSH,,,,,,,,,,,RW,25,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Cody Glass,NSH,,,,,,,,,,,C,24,1,,Trade,NHL,0.011000000000000001,RFA,874125,0,0,0,0,0
+Anthony Angello,NSH,,,,,,,,,,,"C, RW",27,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Marc Del Gaizo,NSH,,,,,,,,,,,LD,23,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
 Adam Wilsby,NSH,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,842500,842500,0,0,0,0
-Jack Matier,NSH,,,,,,,,,,,RD,19,3,ELC,Draft,Junior,0.0,RFA,820000,820000,820000,0,0,0
+Jack Matier,NSH,,,,,,,,,,,RD,20,3,ELC,Draft,Junior,0.0,RFA,820000,820000,820000,0,0,0
 Luke Prokop,NSH,,,,,,,,,,,RD,20,3,ELC,Draft,Junior,0.0,RFA,793333,793333,793333,0,0,0
-Kevin Gravel,NSH,,,,,,,,,,,LD,31,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Jordan Gross,NSH,,,,,,,,,,,RD,27,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Roland McKeown,NSH,,,,,,,,,,,RD,27,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Yaroslav Askarov,NSH,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,925000,925000,925000,0,0,0
-Tomas Vomacka,NSH,,,,,,,,,,,G,23,1,ELC,Draft,Minor,0.0,RFA,810000,0,0,0,0,0
-Devin Cooley,NSH,,,,,,,,,,,G,25,1,,Signed,Minor,0.0,UFA,787500,0,0,0,0,0
+Jimmy Huntington,NSH,,,,,,,,,,,C,24,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
 Matt Duchene,NSH,,,,,,,,,,,"RW, C",32,4,,Signed,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,8000000,0,0
+Alexandre Carrier,NSH,,,,,,,,,,,RD,26,1,,Draft,NHL,0.009000000000000001,RFA,733333,0,0,0,0,0
+Kevin Gravel,NSH,,,,,,,,,,,LD,31,2,,Signed,Emerg. Loan,0.009000000000000001,UFA,762500,762500,0,0,0,0
 Ryan Johansen,NSH,,,,,,,,,,,"C, RW",30,3,,Trade,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,0,0,0
-Marc Del Gaizo,NSH,,,,,,,,,,,LD,23,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
-Anthony Angello,NSH,,,,,,,,,,,"C, RW",27,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Filip Forsberg,NSH,,,,,,,,,,,LW,28,8,NMC,Trade,IR,0.10300000000000001,UFA,8500000,8500000,8500000,8500000,8500000,8500000
 Colton Sissons,NSH,,,,,,,,,,,"C, RW",29,4,,Draft,NHL,0.035,UFA,2857143,2857143,2857143,2857143,0,0
+Yakov Trenin,NSH,,,,,,,,,,,"LW, C",26,2,,Draft,NHL,0.021,UFA,1700000,1700000,0,0,0,0
+Cody Glass,NSH,,,,,,,,,,,C,24,1,,Trade,NHL,0.011000000000000001,RFA,874125,0,0,0,0,0
 Philip Tomasino,NSH,,,,,,,,,,,"LW, RW",21,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0
 Juuso Parssinen,NSH,,,,,,,,,,,C,22,2,ELC,Draft,NHL,0.01,RFA,850833,850833,0,0,0,0
 Zachary Sanford,NSH,,,,,,,,,,,"LW, RW",28,1,,Signed,Emerg. Loan,0.01,UFA,850000,0,0,0,0,0
@@ -914,163 +920,162 @@ Jake Livingstone,NSH,,,,,,,,,,,RD,23,1,ELC,Signed,NHL,0.024,RFA,2001667,0,0,0,0,
 Jeremy Lauzon,NSH,,,,,,,,,,,LD/RD,25,4,,Trade,NHL,0.024,UFA,2000000,2000000,2000000,2000000,0,0
 Spencer Stastney,NSH,,,,,,,,,,,LD,23,2,ELC,Draft,Emerg. Loan,0.011000000000000001,RFA,925000,925000,0,0,0,0
 Cal Foote,NSH,,,,,,,,,,,RD,24,1,,Trade,NHL,0.01,RFA,850000,0,0,0,0,0
-Alexandre Carrier,NSH,,,,,,,,,,,RD,26,1,,Draft,NHL,0.009000000000000001,RFA,733333,0,0,0,0,0
-Juuse Saros,NSH,,,,,,,,,,,G,27,3,,Draft,NHL,0.061,UFA,5000000,5000000,5000000,0,0,0
-Kevin Lankinen,NSH,,,,,,,,,,,G,27,2,,Signed,NHL,0.018000000000000002,UFA,1500000,2000000,0,0,0,0
-Mark Borowiecki,NSH,,,,,,,,,,,LD,33,1,,Signed,IR,0.011000000000000001,UFA,900000,0,0,0,0,0
-Yakov Trenin,NSH,,,,,,,,,,,"LW, C",26,2,,Draft,NHL,0.021,UFA,1700000,1700000,0,0,0,0
+Tomas Vomacka,NSH,,,,,,,,,,,G,23,1,ELC,Draft,Minor,0.0,RFA,810000,0,0,0,0,0
+Devin Cooley,NSH,,,,,,,,,,,G,25,1,,Signed,Minor,0.0,UFA,787500,0,0,0,0,0
+Mathew Barzal,NYI,,,,,,,,,,,"C, RW",25,9,,Draft,NHL,0.085,UFA,7000000,9150000,9150000,9150000,9150000,9150000
+Anders Lee,NYI,,,,,,,,,,,"LW, C",32,4,NTC,Signed,NHL,0.085,UFA,7000000,7000000,7000000,7000000,0,0
+Ken Appleby,NYI,,,,,,,,,,,G,28,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Cole Bardreau,NYI,,,,,,,,,,,C,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Richard Panik,NYI,,,,,,,,,,,"LW, RW",32,1,RS,Trade,Loan,0.0,UFA,1375000,0,0,0,0,0
+William Dufour,NYI,,,,,,,,,,,RW,21,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Reece Newkirk,NYI,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,828333,828333,0,0,0,0
+Blade Jenkins,NYI,,,,,,,,,,,LW,22,1,ELC,Draft,Minor,0.0,RFA,803333,0,0,0,0,0
+Collin Adams,NYI,,,,,,,,,,,LW,24,1,ELC,Draft,Minor,0.0,RFA,800000,0,0,0,0,0
+Otto Koivula,NYI,,,,,,,,,,,"LW, RW, C",24,2,,Draft,Minor,0.0,RFA,800000,800000,0,0,0,0
+Arnaud Durandeau,NYI,,,,,,,,,,,LW,24,2,,Draft,Minor,0.0,RFA,762500,762500,0,0,0,0
+Andy Andreoff,NYI,,,,,,,,,,,"LW, C",31,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Jeff Kubiak,NYI,,,,,,,,,,,C,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Calle Odelius,NYI,,,,,,,,,,,LD,18,3,ELC,Draft,Loan,0.0,RFA,870000,870000,870000,0,0,0
+Robin Salo,NYI,,,,,,,,,,,LD,24,2,,Draft,Minor,0.0,RFA,800000,800000,0,0,0,0
+Grant Hutton,NYI,,,,,,,,,,,RD,27,3,,Signed,Minor,0.0,UFA,775000,775000,775000,0,0,0
+Bode Wilde,NYI,,,,,,,,,,,RD,23,1,ELC,Draft,Minor,0.0,RFA,764167,0,0,0,0,0
+Dennis Cholowski,NYI,,,,,,,,,,,LD,25,2,,Signed,Minor,0.0,RFA,762500,762500,0,0,0,0
+Paul LaDue,NYI,,,,,,,,,,,RD,30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Aidan Fulp,NYI,,,,,,,,,,,RD,23,3,ELC,Signed,Minor,0.0,RFA,0,870000,870000,0,0,0
 Travis Mitchell,NYI,,,,,,,,,,,LD,23,3,ELC,Signed,Minor,0.0,RFA,0,882500,882500,0,0,0
+Jakub Skarek,NYI,,,,,,,,,,,G,23,1,ELC,Draft,Minor,0.0,RFA,764167,0,0,0,0,0
+Cory Schneider,NYI,,,,,,,,,,,G,37,1,35+,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Tristan Lennox,NYI,,,,,,,,,,,G,20,4,ELC,Draft,Junior,0.0,RFA,0,867500,867500,867500,0,0
+Richard Panik,NYI,,,,,,,,,,,"LW, RW",32,1,RS,Trade,Loan,0.003,UFA,250000,0,0,0,0,0
+Ruslan Iskhakov,NYI,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,855000,855000,0,0,0,0
+Ilya Sorokin,NYI,,,,,,,,,,,G,27,2,,Draft,NHL,0.048,UFA,4000000,4000000,0,0,0,0
+Brock Nelson,NYI,,,,,,,,,,,"C, LW",31,3,M-NTC,Draft,NHL,0.073,UFA,6000000,6000000,6000000,0,0,0
+Josh Bailey,NYI,,,,,,,,,,,"RW, LW, C",33,2,,Draft,NHL,0.061,UFA,5000000,5000000,0,0,0,0
+Jean-Gabriel Pageau,NYI,,,,,,,,,,,C,30,4,M-NTC,Trade,NHL,0.061,UFA,5000000,5000000,5000000,5000000,0,0
+Kyle Palmieri,NYI,,,,,,,,,,,"RW, LW",32,3,NTC,Signed,NHL,0.061,UFA,5000000,5000000,5000000,0,0,0
+Bo Horvat,NYI,,,,,,,,,,,C,28,9,RS,Trade,NHL,0.05,UFA,4125000,8500000,8500000,8500000,8500000,8500000
+Casey Cizikas,NYI,,,,,,,,,,,C,32,5,,Signed,NHL,0.03,UFA,2500000,2500000,2500000,2500000,2500000,0
+Pierre Engvall,NYI,,,,,,,,,,,"RW, LW",26,1,,Trade,NHL,0.027000000000000003,UFA,2250000,0,0,0,0,0
+Oliver Wahlstrom,NYI,,,,,,,,,,,RW,22,1,ELC,Draft,IR,0.011000000000000001,RFA,894167,0,0,0,0,0
+Matt Martin,NYI,,,,,,,,,,,"LW, RW",33,2,,Signed,NHL,0.018000000000000002,UFA,1500000,1500000,0,0,0,0
+Ross Johnston,NYI,,,,,,,,,,,LW,29,4,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,1100000,1100000,0,0
+Simon Holmstrom,NYI,,,,,,,,,,,RW,21,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0
+Hudson Fasching,NYI,,,,,,,,,,,RW,27,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Cal Clutterbuck,NYI,,,,,,,,,,,RW,35,2,,Trade,NHL,0.021,UFA,1750000,1750000,0,0,0,0
+Zach Parise,NYI,,,,,,,,,,,LW,38,1,35+,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Parker Wotherspoon,NYI,,,,,,,,,,,LD,25,1,,Draft,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
 Sebastian Aho,NYI,,,,,,,,,,,LD,27,2,,Draft,NHL,0.01,UFA,825000,825000,0,0,0,0
 Samuel Bolduc,NYI,,,,,,,,,,,LD,22,1,ELC,Draft,NHL,0.01,RFA,842500,0,0,0,0,0
 Scott Mayfield,NYI,,,,,,,,,,,RD,30,1,,Draft,NHL,0.018000000000000002,UFA,1450000,0,0,0,0,0
-Alexander Romanov,NYI,,,,,,,,,,,LD,23,3,,Trade,NHL,0.03,RFA,2500000,2500000,2500000,0,0,0
+Semyon Varlamov,NYI,,,,,,,,,,,G,34,1,M-NTC,Signed,NHL,0.061,UFA,5000000,0,0,0,0,0
 Noah Dobson,NYI,,,,,,,,,,,RD,23,3,,Draft,NHL,0.048,RFA,4000000,4000000,4000000,0,0,0
 Adam Pelech,NYI,,,,,,,,,,,LD,28,7,NTC,Draft,NHL,0.07,UFA,5750000,5750000,5750000,5750000,5750000,5750000
 Ryan Pulock,NYI,,,,,,,,,,,RD,28,8,NTC,Draft,NHL,0.075,UFA,6150000,6150000,6150000,6150000,6150000,6150000
-Zach Parise,NYI,,,,,,,,,,,LW,38,1,35+,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Hudson Fasching,NYI,,,,,,,,,,,RW,27,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Simon Holmstrom,NYI,,,,,,,,,,,RW,21,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0
-Parker Wotherspoon,NYI,,,,,,,,,,,LD,25,1,,Draft,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Ross Johnston,NYI,,,,,,,,,,,LW,29,4,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,1100000,1100000,0,0
-Cal Clutterbuck,NYI,,,,,,,,,,,RW,35,2,,Trade,NHL,0.021,UFA,1750000,1750000,0,0,0,0
-Pierre Engvall,NYI,,,,,,,,,,,"RW, LW",26,1,,Trade,NHL,0.027000000000000003,UFA,2250000,0,0,0,0,0
-Casey Cizikas,NYI,,,,,,,,,,,C,32,5,,Signed,NHL,0.03,UFA,2500000,2500000,2500000,2500000,2500000,0
-Bo Horvat,NYI,,,,,,,,,,,C,28,9,RS,Trade,NHL,0.05,UFA,4125000,8500000,8500000,8500000,8500000,8500000
-Kyle Palmieri,NYI,,,,,,,,,,,"RW, LW",32,3,NTC,Signed,NHL,0.061,UFA,5000000,5000000,5000000,0,0,0
-Jean-Gabriel Pageau,NYI,,,,,,,,,,,C,30,4,M-NTC,Trade,NHL,0.061,UFA,5000000,5000000,5000000,5000000,0,0
-Josh Bailey,NYI,,,,,,,,,,,"RW, LW, C",33,2,,Draft,NHL,0.061,UFA,5000000,5000000,0,0,0,0
-Brock Nelson,NYI,,,,,,,,,,,"C, LW",31,3,M-NTC,Draft,NHL,0.073,UFA,6000000,6000000,6000000,0,0,0
-Anders Lee,NYI,,,,,,,,,,,"LW, C",32,4,NTC,Signed,NHL,0.085,UFA,7000000,7000000,7000000,7000000,0,0
-Mathew Barzal,NYI,,,,,,,,,,,"C, RW",25,9,,Draft,NHL,0.085,UFA,7000000,9150000,9150000,9150000,9150000,9150000
-Matt Martin,NYI,,,,,,,,,,,"LW, RW",33,2,,Signed,NHL,0.018000000000000002,UFA,1500000,1500000,0,0,0,0
-Ilya Sorokin,NYI,,,,,,,,,,,G,27,2,,Draft,NHL,0.048,UFA,4000000,4000000,0,0,0,0
-Semyon Varlamov,NYI,,,,,,,,,,,G,34,1,M-NTC,Signed,NHL,0.061,UFA,5000000,0,0,0,0,0
-Cory Schneider,NYI,,,,,,,,,,,G,37,1,35+,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Ken Appleby,NYI,,,,,,,,,,,G,27,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Jakub Skarek,NYI,,,,,,,,,,,G,23,1,ELC,Draft,Minor,0.0,RFA,764167,0,0,0,0,0
-Aidan Fulp,NYI,,,,,,,,,,,RD,23,3,ELC,Signed,Minor,0.0,RFA,0,870000,870000,0,0,0
-Paul LaDue,NYI,,,,,,,,,,,RD,30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Dennis Cholowski,NYI,,,,,,,,,,,LD,25,2,,Signed,Minor,0.0,RFA,762500,762500,0,0,0,0
-Bode Wilde,NYI,,,,,,,,,,,RD,23,1,ELC,Draft,Minor,0.0,RFA,764167,0,0,0,0,0
-Grant Hutton,NYI,,,,,,,,,,,RD,27,3,,Signed,Minor,0.0,UFA,775000,775000,775000,0,0,0
-Robin Salo,NYI,,,,,,,,,,,LD,24,2,,Draft,Minor,0.0,RFA,800000,800000,0,0,0,0
-Calle Odelius,NYI,,,,,,,,,,,LD,18,3,ELC,Draft,Loan,0.0,RFA,870000,870000,870000,0,0,0
-Oliver Wahlstrom,NYI,,,,,,,,,,,RW,22,1,ELC,Draft,IR,0.011000000000000001,RFA,894167,0,0,0,0,0
-Cole Bardreau,NYI,,,,,,,,,,,C,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Jeff Kubiak,NYI,,,,,,,,,,,C,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Arnaud Durandeau,NYI,,,,,,,,,,,LW,24,2,,Draft,Minor,0.0,RFA,762500,762500,0,0,0,0
-Otto Koivula,NYI,,,,,,,,,,,"LW, RW, C",24,2,,Draft,Minor,0.0,RFA,800000,800000,0,0,0,0
-Collin Adams,NYI,,,,,,,,,,,LW,24,1,ELC,Draft,Minor,0.0,RFA,800000,0,0,0,0,0
-Blade Jenkins,NYI,,,,,,,,,,,LW,22,1,ELC,Draft,Minor,0.0,RFA,803333,0,0,0,0,0
-Reece Newkirk,NYI,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,828333,828333,0,0,0,0
-Ruslan Iskhakov,NYI,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,855000,855000,0,0,0,0
-William Dufour,NYI,,,,,,,,,,,RW,21,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Richard Panik,NYI,,,,,,,,,,,"LW, RW",32,1,RS,Trade,Loan,0.0,UFA,1375000,0,0,0,0,0
-Richard Panik,NYI,,,,,,,,,,,"LW, RW",32,1,RS,Trade,Loan,0.003,UFA,250000,0,0,0,0,0
-Andy Andreoff,NYI,,,,,,,,,,,"LW, C",31,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Vincent Trocheck,NYR,,,,,,,,,,,"C, RW",29,7,NMC,Signed,NHL,0.068,UFA,5625000,5625000,5625000,5625000,5625000,5625000
-Artemi Panarin,NYR,,,,,,,,,,,LW,31,4,NMC,Signed,NHL,0.141,UFA,11642857,11642857,11642857,11642857,0,0
-Mika Zibanejad,NYR,,,,,,,,,,,C,29,8,NMC,Trade,NHL,0.10300000000000001,UFA,8500000,8500000,8500000,8500000,8500000,8500000
-Chris Kreider,NYR,,,,,,,,,,,LW,31,5,NMC,Draft,NHL,0.079,UFA,6500000,6500000,6500000,6500000,6500000,0
-Vladimir Tarasenko,NYR,,,,,,,,,,,RW,31,1,RSNTC,Trade,NHL,0.045,UFA,3750000,0,0,0,0,0
-Ryan Lindgren,NYR,,,,,,,,,,,LD,25,2,,Trade,NHL,0.036000000000000004,RFA,3000000,3000000,0,0,0,0
-Patrick Kane,NYR,,,,,,,,,,,RW,34,1,RSNMC,Trade,NHL,0.032,UFA,2625000,0,0,0,0,0
+Alexander Romanov,NYI,,,,,,,,,,,LD,23,3,,Trade,NHL,0.03,RFA,2500000,2500000,2500000,0,0,0
+Anton Blidh,NYR,,,,,,,,,,,"LW, RW",28,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Karl Henriksson,NYR,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,870000,870000,0,0,0,0
+Adam Sykora,NYR,,,,,,,,,,,"LW, RW",18,3,ELC,Draft,Minor,0.0,RFA,870000,870000,870000,0,0,0
+Ryder Korczak,NYR,,,,,,,,,,,C,20,3,ELC,Draft,Junior,0.0,RFA,859167,859167,859167,0,0,0
+Will Cuylle,NYR,,,,,,,,,,,LW,21,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
 Matthew Rempe,NYR,,,,,,,,,,,C,20,3,ELC,Draft,Minor,0.0,RFA,820000,820000,820000,0,0,0
 Jake Leschyshyn,NYR,,,,,,,,,,,C,24,3,,Waivers claim,Minor,0.0,RFA,766667,766667,766667,0,0,0
 Jonny Brodzinski,NYR,,,,,,,,,,,C,29,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Turner Elson,NYR,,,,,,,,,,,LW,30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Tim Gettinger,NYR,,,,,,,,,,,"LW, RW",24,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
 William Lockwood,NYR,,,,,,,,,,,RW,24,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Anton Blidh,NYR,,,,,,,,,,,"LW, RW",28,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
 Ryan Carpenter,NYR,,,,,,,,,,,"RW, C",32,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-C.J. Smith,NYR,,,,,,,,,,,LW,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Adam Fox,NYR,,,,,,,,,,,RD,25,7,,Trade,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,9500000
 Brett Berard,NYR,,,,,,,,,,,LW,20,4,ELC,Draft,Minor,0.0,RFA,0,867500,867500,867500,0,0
-Will Cuylle,NYR,,,,,,,,,,,LW,21,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
+Bryce McConnell-Barker,NYR,,,,,,,,,,,C,18,4,ELC,Draft,Minor,0.0,RFA,0,870000,870000,870000,0,0
 Zachary Jones,NYR,,,,,,,,,,,LD,22,1,ELC,Draft,Minor,0.0,RFA,925000,0,0,0,0,0
+Brandon Scanlin,NYR,,,,,,,,,,,LD,23,1,ELC,Signed,Minor,0.0,RFA,925000,0,0,0,0,0
 Ty Emberson,NYR,,,,,,,,,,,RD,22,1,ELC,Trade,Minor,0.0,10.2(c),853333,0,0,0,0,0
 Cooper Zech,NYR,,,,,,,,,,,LD,24,1,ELC,Trade,Minor,0.0,RFA,837500,0,0,0,0,0
 Libor Hajek,NYR,,,,,,,,,,,LD,25,1,,Trade,Minor,0.0,RFA,800000,0,0,0,0,0
 Matthew Robertson,NYR,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,797500,797500,0,0,0,0
 Wyatt Kalynuk,NYR,,,,,,,,,,,LD,25,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
 Olof Lindbom,NYR,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,RFA,855000,855000,0,0,0,0
-Talyn Boyko,NYR,,,,,,,,,,,G,20,3,ELC,Draft,Junior,0.0,RFA,850833,850833,850833,0,0,0
+Talyn Boyko,NYR,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,850833,850833,850833,0,0,0
+Lauri Pajuniemi,NYR,,,,,,,,,,,RW,23,1,ELC,Draft,Minor,0.0,RFA,883750,0,0,0,0,0
+C.J. Smith,NYR,,,,,,,,,,,LW,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Brennan Othmann,NYR,,,,,,,,,,,LW,20,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
+Mika Zibanejad,NYR,,,,,,,,,,,C,29,8,NMC,Trade,NHL,0.10300000000000001,UFA,8500000,8500000,8500000,8500000,8500000,8500000
+Patrick Khodorenko,NYR,,,,,,,,,,,C,24,1,ELC,Signed,Minor,0.0,RFA,925000,0,0,0,0,0
+Artemi Panarin,NYR,,,,,,,,,,,LW,31,4,NMC,Signed,NHL,0.141,UFA,11642857,11642857,11642857,11642857,0,0
 Dylan Garand,NYR,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
-Louis Domingue,NYR,,,,,,,,,,,G,31,2,,Signed,Minor,0.0,UFA,775000,775000,0,0,0,0
+Chris Kreider,NYR,,,,,,,,,,,LW,31,5,NMC,Draft,NHL,0.079,UFA,6500000,6500000,6500000,6500000,6500000,0
+Vincent Trocheck,NYR,,,,,,,,,,,"C, RW",29,7,NMC,Signed,NHL,0.068,UFA,5625000,5625000,5625000,5625000,5625000,5625000
+Vladimir Tarasenko,NYR,,,,,,,,,,,RW,31,1,RSNTC,Trade,NHL,0.045,UFA,3750000,0,0,0,0,0
 Barclay Goodrow,NYR,,,,,,,,,,,"C, LW",30,5,M-NTC,Trade,NHL,0.044000000000000004,UFA,3641667,3641667,3641667,3641667,3641667,0
-Brandon Scanlin,NYR,,,,,,,,,,,LD,23,1,ELC,Signed,Minor,0.0,RFA,925000,0,0,0,0,0
-Adam Edstrom,NYR,,,,,,,,,,,C,22,3,ELC,Draft,Minor,0.0,RFA,846667,846667,846667,0,0,0
-Bryce McConnell-Barker,NYR,,,,,,,,,,,C,18,4,ELC,Draft,Minor,0.0,RFA,0,870000,870000,870000,0,0
-Adam Sykora,NYR,,,,,,,,,,,"LW, RW",18,3,ELC,Draft,Minor,0.0,RFA,870000,870000,870000,0,0,0
+Patrick Kane,NYR,,,,,,,,,,,RW,34,1,RSNMC,Trade,NHL,0.032,UFA,2625000,0,0,0,0,0
 Filip Chytil,NYR,,,,,,,,,,,"C, LW",23,5,,Draft,NHL,0.027999999999999997,UFA,2300000,4437500,4437500,4437500,4437500,0
-Ryder Korczak,NYR,,,,,,,,,,,C,20,3,ELC,Draft,Junior,0.0,RFA,859167,859167,859167,0,0,0
 Kaapo Kakko,NYR,,,,,,,,,,,RW,22,2,,Draft,NHL,0.025,RFA,2100000,2100000,0,0,0,0
 Tyler Motte,NYR,,,,,,,,,,,"LW, RW",28,1,,Trade,NHL,0.016,UFA,1350000,0,0,0,0,0
 Alexis Lafreniere,NYR,,,,,,,,,,,"LW, RW",21,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
+Bobby Trivigno,NYR,,,,,,,,,,,LW,24,2,ELC,Signed,Minor,0.0,RFA,925000,925000,0,0,0,0
 Jimmy Vesey,NYR,,,,,,,,,,,"RW, LW",29,3,,Signed,NHL,0.009000000000000001,UFA,750000,800000,800000,0,0,0
-Adam Fox,NYR,,,,,,,,,,,RD,25,7,,Trade,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,9500000
-Jacob Trouba,NYR,,,,,,,,,,,RD,29,4,NMC,Trade,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,8000000,0,0
+Ryan Lindgren,NYR,,,,,,,,,,,LD,25,2,,Trade,NHL,0.036000000000000004,RFA,3000000,3000000,0,0,0,0
 Niko Mikkola,NYR,,,,,,,,,,,LD,26,1,,Trade,NHL,0.023,UFA,1900000,0,0,0,0,0
 K'Andre Miller,NYR,,,,,,,,,,,LD,23,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
-Ben Harpur,NYR,,,,,,,,,,,LD,28,3,,Signed,NHL,0.009000000000000001,UFA,750000,787500,787500,0,0,0
 Braden Schneider,NYR,,,,,,,,,,,RD,21,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0
+Ben Harpur,NYR,,,,,,,,,,,LD,28,3,,Signed,NHL,0.009000000000000001,UFA,750000,787500,787500,0,0,0
 Igor Shesterkin,NYR,,,,,,,,,,,G,27,3,,Draft,NHL,0.069,UFA,5666667,5666667,5666667,0,0,0
 Jaroslav Halak,NYR,,,,,,,,,,,G,37,1,35+NMC,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
-Patrick Khodorenko,NYR,,,,,,,,,,,C,24,1,ELC,Signed,Minor,0.0,RFA,925000,0,0,0,0,0
-Bobby Trivigno,NYR,,,,,,,,,,,LW,24,2,ELC,Signed,Minor,0.0,RFA,925000,925000,0,0,0,0
-Brennan Othmann,NYR,,,,,,,,,,,LW,20,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
-Lauri Pajuniemi,NYR,,,,,,,,,,,RW,23,1,ELC,Draft,Minor,0.0,RFA,883750,0,0,0,0,0
-Karl Henriksson,NYR,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,870000,870000,0,0,0,0
-Joshua Norris,OTT,,,,,,,,,,,C,23,8,,Trade,IR,0.096,UFA,7950000,7950000,7950000,7950000,7950000,7950000
-Cam Talbot,OTT,,,,,,,,,,,G,35,1,,Trade,NHL,0.044000000000000004,UFA,3666667,0,0,0,0,0
-Mads Sogaard,OTT,,,,,,,,,,,G,22,2,ELC,Draft,Emerg. Loan,0.011000000000000001,RFA,925000,925000,0,0,0,0
-Erik Brannstrom,OTT,,,,,,,,,,,LD/RD,23,1,,Trade,NHL,0.011000000000000001,RFA,900000,0,0,0,0,0
-Anton Forsberg,OTT,,,,,,,,,,,G,30,3,,Waivers claim,IR,0.033,UFA,2750000,2750000,2750000,0,0,0
-Tyler Kleven,OTT,,,,,,,,,,,LD,21,3,ELC,Draft,NHL,0.011000000000000001,10.2(c),916667,916667,916667,0,0,0
-Jake Sanderson,OTT,,,,,,,,,,,LD,20,2,ELC,Draft,NHL,0.011000000000000001,10.2(c),925000,925000,0,0,0,0
-Egor Sokolov,OTT,,,,,,,,,,,LW,22,1,ELC,Draft,NHL,0.01,RFA,818333,0,0,0,0,0
-Nick Holden,OTT,,,,,,,,,,,LD,35,1,35+M-NTC,Trade,NHL,0.016,UFA,1300000,0,0,0,0,0
-Artem Zub,OTT,,,,,,,,,,,RD,27,5,,Signed,NHL,0.03,UFA,2500000,4600000,4600000,4600000,4600000,0
-Travis Hamonic,OTT,,,,,,,,,,,RD,32,1,,Trade,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0
-Jakob Chychrun,OTT,,,,,,,,,,,LD/RD,25,3,,Trade,NHL,0.055999999999999994,UFA,4600000,4600000,4600000,0,0,0
-Thomas Chabot,OTT,,,,,,,,,,,LD,26,6,,Draft,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,8000000,8000000,8000000
-Derick Brassard,OTT,,,,,,,,,,,"C, LW",35,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Patrick Brown,OTT,,,,,,,,,,,"C, RW",30,1,,Trade,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Parker Kelly,OTT,,,,,,,,,,,"C, LW",23,2,,Signed,NHL,0.009000000000000001,RFA,762500,762500,0,0,0,0
-Julien Gauthier,OTT,,,,,,,,,,,RW,25,1,,Trade,NHL,0.01,RFA,800000,0,0,0,0,0
-Mark Kastelic,OTT,,,,,,,,,,,C,24,3,ELC,Draft,NHL,0.01,RFA,821667,835000,835000,0,0,0
-Tim Stutzle,OTT,,,,,,,,,,,C,21,9,ELC,Draft,NHL,0.011000000000000001,UFA,925000,8350000,8350000,8350000,8350000,8350000
-Tyler Boucher,OTT,,,,,,,,,,,RW,20,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
-Jacob Bernard-Docker,OTT,,,,,,,,,,,RD,22,1,ELC,Draft,Emerg. Loan,0.011000000000000001,10.2(c),925000,0,0,0,0,0
-Roby Jarventie,OTT,,,,,,,,,,,LW,20,3,ELC,Draft,Minor,0.0,RFA,894167,894167,894167,0,0,0
-Dillon Heatherington,OTT,,,,,,,,,,,LD,27,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Zack Ostapchuk,OTT,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,847500,847500,847500,0,0,0
-Dylan Ferguson,OTT,,,,,,,,,,,G,24,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Brady Tkachuk,OTT,,,,,,,,,,,LW,23,6,,Draft,NHL,0.099,UFA,8205714,8205714,8205714,8205714,8205714,8205714
+Jacob Trouba,NYR,,,,,,,,,,,RD,29,4,NMC,Trade,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,8000000,0,0
+Louis Domingue,NYR,,,,,,,,,,,G,31,2,,Signed,Minor,0.0,UFA,775000,775000,0,0,0,0
+Adam Edstrom,NYR,,,,,,,,,,,C,22,3,ELC,Draft,Minor,0.0,RFA,846667,846667,846667,0,0,0
 Claude Giroux,OTT,,,,,,,,,,,"RW, C",35,3,NMC,Signed,NHL,0.079,UFA,6500000,6500000,6500000,0,0,0
+Tyler Boucher,OTT,,,,,,,,,,,RW,20,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
+Roby Jarventie,OTT,,,,,,,,,,,LW,20,3,ELC,Draft,Minor,0.0,RFA,894167,894167,894167,0,0,0
 Ridly Greig,OTT,,,,,,,,,,,"C, LW",20,3,ELC,Draft,Minor,0.0,RFA,863333,863333,863333,0,0,0
+Zack Ostapchuk,OTT,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,847500,847500,847500,0,0,0
+Viktor Lodin,OTT,,,,,,,,,,,"C, LW",23,1,ELC,Draft,Minor,0.0,RFA,830000,0,0,0,0,0
+Philippe Daoust,OTT,,,,,,,,,,,LW,21,3,ELC,Draft,Minor,0.0,RFA,821667,821667,821667,0,0,0
+Cole Reinhardt,OTT,,,,,,,,,,,LW,23,2,ELC,Draft,Minor,0.0,RFA,813333,813333,0,0,0,0
+Rourke Chartier,OTT,,,,,,,,,,,C,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Antoine Bibeau,OTT,,,,,,,,,,,G,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Leevi Merilainen,OTT,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,820000,820000,820000,0,0,0
+Kevin Mandolese,OTT,,,,,,,,,,,G,22,1,ELC,Draft,Minor,0.0,RFA,835000,0,0,0,0,0
+Jacob Larsson,OTT,,,,,,,,,,,LD,25,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
+Dillon Heatherington,OTT,,,,,,,,,,,LD,27,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Jonathan Aspirot,OTT,,,,,,,,,,,LD,23,1,ELC,Signed,Minor,0.0,RFA,768333,0,0,0,0,0
+Maxence Guenette,OTT,,,,,,,,,,,RD,21,2,ELC,Draft,Minor,0.0,RFA,813333,813333,0,0,0,0
+Jorian Donovan,OTT,,,,,,,,,,,LD,19,3,ELC,Draft,Junior,0.0,RFA,831667,831667,831667,0,0,0
+Tomas Hamara,OTT,,,,,,,,,,,LD,19,3,ELC,Draft,Junior,0.0,RFA,851667,851667,851667,0,0,0
+Lassi Thomson,OTT,,,,,,,,,,,RD,22,2,ELC,Draft,Minor,0.0,RFA,863333,863333,0,0,0,0
+Scott Sabourin,OTT,,,,,,,,,,,RW,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Jacob Lucchini,OTT,,,,,,,,,,,"RW, C, LW",27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Anton Forsberg,OTT,,,,,,,,,,,G,30,3,,Waivers claim,IR,0.033,UFA,2750000,2750000,2750000,0,0,0
+Angus Crookshank,OTT,,,,,,,,,,,LW,23,2,ELC,Draft,Minor,0.0,10.2(c),838333,838333,0,0,0,0
+Mads Sogaard,OTT,,,,,,,,,,,G,22,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0
+Alex DeBrincat,OTT,,,,,,,,,,,"LW, RW",25,1,,Trade,NHL,0.078,RFA,6400000,0,0,0,0,0
 Drake Batherson,OTT,,,,,,,,,,,RW,24,5,,Draft,NHL,0.06,UFA,4975000,4975000,4975000,4975000,4975000,0
 Mathieu Joseph,OTT,,,,,,,,,,,"LW, RW",26,4,,Trade,NHL,0.036000000000000004,UFA,2950000,2950000,2950000,2950000,0,0
 Austin Watson,OTT,,,,,,,,,,,"RW, LW",31,1,,Trade,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
 Dylan Gambrell,OTT,,,,,,,,,,,C,26,1,,Trade,NHL,0.012,RFA,950000,0,0,0,0,0
 Shane Pinto,OTT,,,,,,,,,,,C,22,1,ELC,Draft,NHL,0.011000000000000001,10.2(c),925000,0,0,0,0,0
-Antoine Bibeau,OTT,,,,,,,,,,,G,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Leevi Merilainen,OTT,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,820000,820000,820000,0,0,0
-Kevin Mandolese,OTT,,,,,,,,,,,G,22,1,ELC,Draft,Minor,0.0,RFA,835000,0,0,0,0,0
-Jacob Larsson,OTT,,,,,,,,,,,LD,25,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Alex DeBrincat,OTT,,,,,,,,,,,"LW, RW",25,1,,Trade,NHL,0.078,RFA,6400000,0,0,0,0,0
-Jonathan Aspirot,OTT,,,,,,,,,,,LD,23,1,ELC,Signed,Minor,0.0,RFA,768333,0,0,0,0,0
-Viktor Lodin,OTT,,,,,,,,,,,"C, LW",23,1,ELC,Draft,Minor,0.0,RFA,830000,0,0,0,0,0
-Philippe Daoust,OTT,,,,,,,,,,,LW,21,3,ELC,Draft,Minor,0.0,RFA,821667,821667,821667,0,0,0
-Cole Reinhardt,OTT,,,,,,,,,,,LW,23,2,ELC,Draft,Minor,0.0,RFA,813333,813333,0,0,0,0
-Rourke Chartier,OTT,,,,,,,,,,,C,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Jacob Lucchini,OTT,,,,,,,,,,,"RW, C, LW",27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Angus Crookshank,OTT,,,,,,,,,,,LW,23,2,ELC,Draft,Minor,0.0,10.2(c),838333,838333,0,0,0,0
-Lassi Thomson,OTT,,,,,,,,,,,RD,22,2,ELC,Draft,Minor,0.0,RFA,863333,863333,0,0,0,0
-Tomas Hamara,OTT,,,,,,,,,,,LD,19,3,ELC,Draft,Junior,0.0,RFA,851667,851667,851667,0,0,0
-Jorian Donovan,OTT,,,,,,,,,,,LD,19,3,ELC,Draft,Junior,0.0,RFA,831667,831667,831667,0,0,0
-Maxence Guenette,OTT,,,,,,,,,,,RD,21,2,ELC,Draft,Minor,0.0,RFA,813333,813333,0,0,0,0
-Scott Sabourin,OTT,,,,,,,,,,,RW,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Joshua Norris,OTT,,,,,,,,,,,C,23,8,,Trade,IR,0.096,UFA,7950000,7950000,7950000,7950000,7950000,7950000
+Mark Kastelic,OTT,,,,,,,,,,,C,24,3,ELC,Draft,NHL,0.01,RFA,821667,835000,835000,0,0,0
+Egor Sokolov,OTT,,,,,,,,,,,LW,22,1,ELC,Draft,NHL,0.01,RFA,818333,0,0,0,0,0
+Julien Gauthier,OTT,,,,,,,,,,,RW,25,1,,Trade,NHL,0.01,RFA,800000,0,0,0,0,0
+Parker Kelly,OTT,,,,,,,,,,,"C, LW",23,2,,Signed,NHL,0.009000000000000001,RFA,762500,762500,0,0,0,0
+Patrick Brown,OTT,,,,,,,,,,,"C, RW",30,1,,Trade,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Tim Stutzle,OTT,,,,,,,,,,,C,21,9,ELC,Draft,NHL,0.011000000000000001,UFA,925000,8350000,8350000,8350000,8350000,8350000
+Thomas Chabot,OTT,,,,,,,,,,,LD,26,6,,Draft,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,8000000,8000000,8000000
+Derick Brassard,OTT,,,,,,,,,,,"C, LW",35,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Cam Talbot,OTT,,,,,,,,,,,G,35,1,,Trade,NHL,0.044000000000000004,UFA,3666667,0,0,0,0,0
+Dylan Ferguson,OTT,,,,,,,,,,,G,24,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
+Erik Brannstrom,OTT,,,,,,,,,,,LD/RD,23,1,,Trade,NHL,0.011000000000000001,RFA,900000,0,0,0,0,0
+Tyler Kleven,OTT,,,,,,,,,,,LD,21,3,ELC,Draft,NHL,0.011000000000000001,10.2(c),916667,916667,916667,0,0,0
+Jake Sanderson,OTT,,,,,,,,,,,LD,20,2,ELC,Draft,NHL,0.011000000000000001,10.2(c),925000,925000,0,0,0,0
+Jacob Bernard-Docker,OTT,,,,,,,,,,,RD,22,1,ELC,Draft,Emerg. Loan,0.011000000000000001,10.2(c),925000,0,0,0,0,0
+Nick Holden,OTT,,,,,,,,,,,LD,35,1,35+M-NTC,Trade,NHL,0.016,UFA,1300000,0,0,0,0,0
+Brady Tkachuk,OTT,,,,,,,,,,,LW,23,6,,Draft,NHL,0.099,UFA,8205714,8205714,8205714,8205714,8205714,8205714
+Travis Hamonic,OTT,,,,,,,,,,,RD,32,1,,Trade,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0
+Jakob Chychrun,OTT,,,,,,,,,,,LD/RD,25,3,,Trade,NHL,0.055999999999999994,UFA,4600000,4600000,4600000,0,0,0
+Artem Zub,OTT,,,,,,,,,,,RD,27,5,,Signed,NHL,0.03,UFA,2500000,4600000,4600000,4600000,4600000,0
+Anthony Deangelo,PHI,,,,,,,,,,,RD,27,2,,Trade,NHL,0.061,UFA,5000000,5000000,0,0,0,0
+Rasmus Ristolainen,PHI,,,,,,,,,,,RD,28,5,,Trade,NHL,0.062,UFA,5100000,5100000,5100000,5100000,5100000,0
 Ivan Provorov,PHI,,,,,,,,,,,LD,26,3,,Draft,NHL,0.08199999999999999,UFA,6750000,6750000,6750000,0,0,0
 Tanner Laczynski,PHI,,,,,,,,,,,"RW, C",25,2,,Draft,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
 Wade Allison,PHI,,,,,,,,,,,RW,25,2,,Draft,NHL,0.01,RFA,785000,785000,0,0,0,0
@@ -1078,108 +1083,97 @@ Morgan Frost,PHI,,,,,,,,,,,C,23,1,,Draft,NHL,0.01,RFA,800000,0,0,0,0,0
 Noah Cates,PHI,,,,,,,,,,,"C, LW",24,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
 Kieffer Bellows,PHI,,,,,,,,,,,"LW, RW",24,1,,Waivers claim,NHL,0.015,RFA,1200000,0,0,0,0,0
 Brendan Lemieux,PHI,,,,,,,,,,,"LW, RW",27,1,,Trade,NHL,0.016,UFA,1350000,0,0,0,0,0
-Owen Tippett,PHI,,,,,,,,,,,RW,24,2,,Trade,NHL,0.018000000000000002,RFA,1500000,1500000,0,0,0,0
 Nicolas Deslauriers,PHI,,,,,,,,,,,"LW, RW",32,4,M-NTC,Signed,NHL,0.021,UFA,1750000,1750000,1750000,1750000,0,0
-Travis Konecny,PHI,,,,,,,,,,,"RW, LW",26,3,,Draft,NHL,0.067,UFA,5500000,5500000,5500000,0,0,0
-Joel Farabee,PHI,,,,,,,,,,,"LW, RW",23,6,,Draft,NHL,0.061,UFA,5000000,5000000,5000000,5000000,5000000,5000000
-James van Riemsdyk,PHI,,,,,,,,,,,"LW, RW",33,1,,Signed,NHL,0.085,UFA,7000000,0,0,0,0,0
-Kevin Hayes,PHI,,,,,,,,,,,C,30,4,M-NTC,Trade,NHL,0.087,UFA,7142857,7142857,7142857,7142857,0,0
-Rasmus Ristolainen,PHI,,,,,,,,,,,RD,28,5,,Trade,NHL,0.062,UFA,5100000,5100000,5100000,5100000,5100000,0
-Emil Andrae,PHI,,,,,,,,,,,LD,21,4,ELC,Draft,Minor,0.0,RFA,0,903333,903333,903333,0,0
-Will Zmolek,PHI,,,,,,,,,,,LD,24,2,ELC,Signed,Minor,0.0,RFA,0,920000,0,0,0,0
-Ivan Fedotov,PHI,,,,,,,,,,,G,26,1,ELC,Draft,Loan,0.0,RFA,925000,0,0,0,0,0
-Samuel Ersson,PHI,,,,,,,,,,,G,23,2,ELC,Draft,Minor,0.0,RFA,859167,859167,0,0,0,0
-Troy Grosenick,PHI,,,,,,,,,,,G,33,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Scott Laughton,PHI,,,,,,,,,,,"LW, C",28,4,,Draft,NHL,0.036000000000000004,UFA,3000000,3000000,3000000,3000000,0,0
-Anthony Deangelo,PHI,,,,,,,,,,,RD,27,2,,Trade,NHL,0.061,UFA,5000000,5000000,0,0,0,0
-Max Willman,PHI,,,,,,,,,,,LW,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Justin Braun,PHI,,,,,,,,,,,RD,36,1,35+,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0
+Joel Farabee,PHI,,,,,,,,,,,"LW, RW",23,6,,Draft,NHL,0.061,UFA,5000000,5000000,5000000,5000000,5000000,5000000
+Travis Konecny,PHI,,,,,,,,,,,"RW, LW",26,3,,Draft,NHL,0.067,UFA,5500000,5500000,5500000,0,0,0
+James van Riemsdyk,PHI,,,,,,,,,,,"LW, RW",33,1,,Signed,NHL,0.085,UFA,7000000,0,0,0,0,0
+Troy Grosenick,PHI,,,,,,,,,,,G,33,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Samuel Ersson,PHI,,,,,,,,,,,G,23,2,ELC,Draft,Minor,0.0,RFA,859167,859167,0,0,0,0
+Ivan Fedotov,PHI,,,,,,,,,,,G,26,1,ELC,Draft,Loan,0.0,RFA,925000,0,0,0,0,0
+Will Zmolek,PHI,,,,,,,,,,,LD,24,2,ELC,Signed,Minor,0.0,RFA,0,920000,0,0,0,0
+Owen Tippett,PHI,,,,,,,,,,,RW,24,2,,Trade,NHL,0.018000000000000002,RFA,1500000,1500000,0,0,0,0
+Kevin Hayes,PHI,,,,,,,,,,,C,30,4,M-NTC,Trade,NHL,0.087,UFA,7142857,7142857,7142857,7142857,0,0
 Travis Sanheim,PHI,,,,,,,,,,,LD,27,9,,Draft,NHL,0.057,UFA,4675000,6250000,6250000,6250000,6250000,6250000
+Cam York,PHI,,,,,,,,,,,LD/RD,22,1,ELC,Draft,NHL,0.011000000000000001,RFA,880833,0,0,0,0,0
+Justin Braun,PHI,,,,,,,,,,,RD,36,1,35+,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0
+Emil Andrae,PHI,,,,,,,,,,,LD,21,4,ELC,Draft,Minor,0.0,RFA,0,903333,903333,903333,0,0
 Louis Belpedio,PHI,,,,,,,,,,,RD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Yegor Zamula,PHI,,,,,,,,,,,LD/RD,23,1,ELC,Signed,Minor,0.0,RFA,756667,0,0,0,0,0
 Kevin Connauton,PHI,,,,,,,,,,,LD/RD,33,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Mason Millman,PHI,,,,,,,,,,,LD,21,2,ELC,Draft,Minor,0.0,RFA,818333,818333,0,0,0,0
+Wyatte Wylie,PHI,,,,,,,,,,,RD,23,1,ELC,Draft,Minor,0.0,RFA,820833,0,0,0,0,0
 Ethan Samson,PHI,,,,,,,,,,,RD,19,3,ELC,Draft,Junior,0.0,RFA,876667,876667,876667,0,0,0
 Adam Ginning,PHI,,,,,,,,,,,LD,23,2,ELC,Draft,Minor,0.0,RFA,883750,883750,0,0,0,0
+Ronnie Attard,PHI,,,,,,,,,,,RD,24,1,ELC,Draft,Minor,0.0,RFA,883750,0,0,0,0,0
+Max Willman,PHI,,,,,,,,,,,LW,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Cooper Marody,PHI,,,,,,,,,,,"C, RW",26,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Adam Brooks,PHI,,,,,,,,,,,C,26,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Jackson Cates,PHI,,,,,,,,,,,C,25,1,,Signed,Minor,0.0,UFA,775000,0,0,0,0,0
 Zayde Wisdom,PHI,,,,,,,,,,,C,20,3,ELC,Draft,Minor,0.0,RFA,797500,797500,797500,0,0,0
 Hayden Hodgson,PHI,,,,,,,,,,,RW,27,2,,Signed,Minor,0.0,UFA,800000,800000,0,0,0,0
-Elliot Desnoyers,PHI,,,,,,,,,,,"C, LW",21,3,ELC,Draft,Minor,0.0,RFA,825000,825000,825000,0,0,0
+Mason Millman,PHI,,,,,,,,,,,LD,21,2,ELC,Draft,Minor,0.0,RFA,818333,818333,0,0,0,0
 Jon-Randall Avon,PHI,,,,,,,,,,,C,19,3,ELC,Signed,Junior,0.0,RFA,825000,825000,825000,0,0,0
-Wyatte Wylie,PHI,,,,,,,,,,,RD,23,1,ELC,Draft,Minor,0.0,RFA,820833,0,0,0,0,0
-Samu Tuomaala,PHI,,,,,,,,,,,RW,20,3,ELC,Draft,Loan,0.0,RFA,861667,861667,861667,0,0,0
-Ronnie Attard,PHI,,,,,,,,,,,RD,24,1,ELC,Draft,NHL,0.011000000000000001,RFA,883750,0,0,0,0,0
-Olle Lycksell,PHI,,,,,,,,,,,RW,23,1,ELC,Draft,Minor,0.0,RFA,837500,0,0,0,0,0
-Cam York,PHI,,,,,,,,,,,LD/RD,22,1,ELC,Draft,NHL,0.011000000000000001,RFA,880833,0,0,0,0,0
 Nick Seeler,PHI,,,,,,,,,,,LD/RD,29,2,,Signed,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0
-Felix Sandstrom,PHI,,,,,,,,,,,G,26,2,,Draft,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0
-Sean Couturier,PHI,,,,,,,,,,,C,30,8,NMC,Draft,IR,0.094,UFA,7750000,7750000,7750000,7750000,7750000,7750000
+Elliot Desnoyers,PHI,,,,,,,,,,,"C, LW",21,3,ELC,Draft,Minor,0.0,RFA,825000,825000,825000,0,0,0
 Carter Hart,PHI,,,,,,,,,,,G,24,2,,Draft,NHL,0.048,RFA,3979000,3979000,0,0,0,0
+Felix Sandstrom,PHI,,,,,,,,,,,G,26,2,,Draft,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0
+Cam Atkinson,PHI,,,,,,,,,,,"RW, LW",33,3,M-NTC,Trade,IR,0.071,UFA,5875000,5875000,5875000,0,0,0
 Ryan Ellis,PHI,,,,,,,,,,,RD,32,5,,Trade,LTIR,0.076,UFA,6250000,6250000,6250000,6250000,6250000,0
+Sean Couturier,PHI,,,,,,,,,,,C,30,8,NMC,Draft,IR,0.094,UFA,7750000,7750000,7750000,7750000,7750000,7750000
 Bobby Brink,PHI,,,,,,,,,,,RW,21,2,ELC,Draft,Minor,0.0,RFA,925000,925000,0,0,0,0
 Evan Barratt,PHI,,,,,,,,,,,C,24,1,ELC,Trade,Minor,0.0,RFA,870000,0,0,0,0,0
 Tyson Foerster,PHI,,,,,,,,,,,"RW, C",21,3,ELC,Draft,Minor,0.0,RFA,863333,863333,863333,0,0,0
-Cam Atkinson,PHI,,,,,,,,,,,"RW, LW",33,3,M-NTC,Trade,IR,0.071,UFA,5875000,5875000,5875000,0,0,0
-Ty Smith,PIT,,,,,,,,,,,LD/RD,23,1,ELC,Trade,Minor,0.0,RFA,863333,0,0,0,0,0
-Filip Lindberg,PIT,,,,,,,,,,,G,24,1,ELC,Signed,Minor,0.0,10.2(c),925000,0,0,0,0,0
-Jack St. Ivany,PIT,,,,,,,,,,,RD,23,2,ELC,Signed,Minor,0.0,RFA,857500,857500,0,0,0,0
-Joshua Maniscalco,PIT,,,,,,,,,,,RD,24,1,ELC,Signed,Minor,0.0,RFA,853333,0,0,0,0,0
-Colin Swoyer,PIT,,,,,,,,,,,RD,25,1,ELC,Signed,Minor,0.0,RFA,842500,0,0,0,0,0
-Taylor Fedun,PIT,,,,,,,,,,,RD,34,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Xavier Ouellet,PIT,,,,,,,,,,,LD/RD,29,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Isaac Belliveau,PIT,,,,,,,,,,,LD,20,4,ELC,Draft,Junior,0.0,RFA,0,875000,875000,875000,0,0
-Taylor Gauthier,PIT,,,,,,,,,,,G,22,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Josh Archibald,PIT,,,,,,,,,,,"RW, LW",30,1,,Signed,NHL,0.011000000000000001,UFA,900000,0,0,0,0,0
-Joel Blomqvist,PIT,,,,,,,,,,,G,21,4,ELC,Draft,Minor,0.0,RFA,0,886667,886667,886667,0,0
-Mikael Granlund,PIT,,,,,,,,,,,"C, RW",31,3,,Trade,NHL,0.061,UFA,5000000,5000000,5000000,0,0,0
-Drew O'Connor,PIT,,,,,,,,,,,LW,24,1,,Signed,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
-Alexander Nylander,PIT,,,,,,,,,,,"RW, LW",25,1,,Trade,Emerg. Loan,0.009000000000000001,RFA,750000,0,0,0,0,0
+Samu Tuomaala,PHI,,,,,,,,,,,RW,20,3,ELC,Draft,Loan,0.0,RFA,861667,861667,861667,0,0,0
+Olle Lycksell,PHI,,,,,,,,,,,RW,23,1,ELC,Draft,Minor,0.0,RFA,837500,0,0,0,0,0
+Corey Andonovski,PIT,,,,,,,,,,,RW,24,2,ELC,Signed,Minor,0.0,RFA,925000,925000,0,0,0,0
+Mark Friedman,PIT,,,,,,,,,,,LD/RD,27,2,,Waivers claim,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0
+Nick Bonino,PIT,,,,,,,,,,,"C, LW",34,1,RSM-NTC,Trade,LTIR,0.012,UFA,1025000,0,0,0,0,0
+Dmitry Kulikov,PIT,,,,,,,,,,,LD/RD,32,1,RSM-NTC,Trade,LTIR,0.013999999999999999,UFA,1125000,0,0,0,0,0
+Marcus Pettersson,PIT,,,,,,,,,,,LD,26,3,,Trade,LTIR,0.049,UFA,4025175,4025175,4025175,0,0,0
+Casey DeSmith,PIT,,,,,,,,,,,G,31,2,,Signed,NHL,0.022000000000000002,UFA,1800000,1800000,0,0,0,0
+Tristan Jarry,PIT,,,,,,,,,,,G,27,1,,Draft,NHL,0.042,UFA,3500000,0,0,0,0,0
+Chad Ruhwedel,PIT,,,,,,,,,,,RD,32,2,,Signed,NHL,0.01,UFA,800000,800000,0,0,0,0
 Ryan Poehling,PIT,,,,,,,,,,,"LW, C",24,1,,Trade,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
+Jan Rutta,PIT,,,,,,,,,,,LD/RD,32,3,,Signed,NHL,0.033,UFA,2750000,2750000,2750000,0,0,0
+Brian Dumoulin,PIT,,,,,,,,,,,LD,31,1,M-NTC,Trade,NHL,0.05,UFA,4100000,0,0,0,0,0
+Kris Letang,PIT,,,,,,,,,,,RD,35,6,35+NMC,Draft,NHL,0.07400000000000001,UFA,6100000,6100000,6100000,6100000,6100000,6100000
+Jeff Petry,PIT,,,,,,,,,,,RD,35,3,"M-NTC, NMC",Trade,NHL,0.076,UFA,6250000,6250000,6250000,0,0,0
+Drew O'Connor,PIT,,,,,,,,,,,LW,24,1,,Signed,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
+Josh Archibald,PIT,,,,,,,,,,,"RW, LW",30,1,,Signed,NHL,0.011000000000000001,UFA,900000,0,0,0,0,0
 Danton Heinen,PIT,,,,,,,,,,,"LW, RW",27,1,,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0
 Jeff Carter,PIT,,,,,,,,,,,"C, RW",38,2,35+NMC,Trade,NHL,0.038,UFA,3125000,3125000,0,0,0,0
-Rickard Rakell,PIT,,,,,,,,,,,"RW, LW",29,6,M-NTC,Trade,NHL,0.061,UFA,5000000,5000000,5000000,5000000,5000000,5000000
-Peter Diliberatore,PIT,,,,,,,,,,,LD,23,1,ELC,Trade,Minor,0.0,RFA,880833,0,0,0,0,0
-Dustin Tokarski,PIT,,,,,,,,,,,G,33,1,,Signed,Minor,0.0,UFA,775000,0,0,0,0,0
-Owen Pickering,PIT,,,,,,,,,,,LD,19,3,ELC,Draft,Minor,0.0,RFA,950000,950000,950000,0,0,0
-Tristan Jarry,PIT,,,,,,,,,,,G,27,1,,Draft,NHL,0.042,UFA,3500000,0,0,0,0,0
-Filip Hallander,PIT,,,,,,,,,,,C,22,1,ELC,Trade,Minor,0.0,RFA,764167,0,0,0,0,0
-Jeff Petry,PIT,,,,,,,,,,,RD,35,3,"M-NTC, NMC",Trade,NHL,0.076,UFA,6250000,6250000,6250000,0,0,0
-Kris Letang,PIT,,,,,,,,,,,RD,35,6,35+NMC,Draft,NHL,0.07400000000000001,UFA,6100000,6100000,6100000,6100000,6100000,6100000
-Brian Dumoulin,PIT,,,,,,,,,,,LD,31,1,M-NTC,Trade,NHL,0.05,UFA,4100000,0,0,0,0,0
-Jan Rutta,PIT,,,,,,,,,,,LD/RD,32,3,,Signed,NHL,0.033,UFA,2750000,2750000,2750000,0,0,0
-Pierre-Olivier Joseph,PIT,,,,,,,,,,,LD,23,2,,Trade,NHL,0.01,RFA,825000,825000,0,0,0,0
-Chad Ruhwedel,PIT,,,,,,,,,,,RD,32,2,,Signed,NHL,0.01,UFA,800000,800000,0,0,0,0
-Mark Friedman,PIT,,,,,,,,,,,LD/RD,27,2,,Waivers claim,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0
-Casey DeSmith,PIT,,,,,,,,,,,G,31,2,,Signed,NHL,0.022000000000000002,UFA,1800000,1800000,0,0,0,0
-Marcus Pettersson,PIT,,,,,,,,,,,LD,26,3,,Trade,LTIR,0.049,UFA,4025175,4025175,4025175,0,0,0
-Drake Caggiula,PIT,,,,,,,,,,,"LW, RW",28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Dmitry Kulikov,PIT,,,,,,,,,,,LD/RD,32,1,RSM-NTC,Trade,LTIR,0.013999999999999999,UFA,1125000,0,0,0,0,0
-Corey Andonovski,PIT,,,,,,,,,,,RW,24,2,ELC,Signed,Minor,0.0,RFA,925000,925000,0,0,0,0
 Samuel Poulin,PIT,,,,,,,,,,,"C, LW",22,2,ELC,Draft,Minor,0.0,RFA,863333,863333,0,0,0,0
+Pierre-Olivier Joseph,PIT,,,,,,,,,,,LD,23,2,,Trade,NHL,0.01,RFA,825000,825000,0,0,0,0
 Jordan Frasca,PIT,,,,,,,,,,,C,21,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Ty Glover,PIT,,,,,,,,,,,C,22,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Raivis Ansons,PIT,,,,,,,,,,,LW,21,3,ELC,Draft,Minor,0.0,RFA,844167,844167,844167,0,0,0
-Valtteri Puustinen,PIT,,,,,,,,,,,LW,23,1,ELC,Draft,Minor,0.0,RFA,842500,0,0,0,0,0
-Nathan Legare,PIT,,,,,,,,,,,RW,22,2,ELC,Draft,Minor,0.0,RFA,789167,789167,0,0,0,0
-Jonathan Gruden,PIT,,,,,,,,,,,LW,22,1,ELC,Trade,Minor,0.0,RFA,788333,0,0,0,0,0
-Nick Bonino,PIT,,,,,,,,,,,"C, LW",34,1,RSM-NTC,Trade,LTIR,0.012,UFA,1025000,0,0,0,0,0
-Bryan Rust,PIT,,,,,,,,,,,"RW, LW",30,6,NMC,Draft,NHL,0.062,UFA,5125000,5125000,5125000,5125000,5125000,5125000
+Xavier Ouellet,PIT,,,,,,,,,,,LD/RD,29,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Lukas Svejkovsky,PIT,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Rickard Rakell,PIT,,,,,,,,,,,"RW, LW",29,6,M-NTC,Trade,NHL,0.061,UFA,5000000,5000000,5000000,5000000,5000000,5000000
+Joel Blomqvist,PIT,,,,,,,,,,,G,21,4,ELC,Draft,Minor,0.0,RFA,0,886667,886667,886667,0,0
+Dustin Tokarski,PIT,,,,,,,,,,,G,33,1,,Signed,Minor,0.0,UFA,775000,0,0,0,0,0
+Taylor Gauthier,PIT,,,,,,,,,,,G,22,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Filip Lindberg,PIT,,,,,,,,,,,G,24,1,ELC,Signed,Minor,0.0,10.2(c),925000,0,0,0,0,0
+Isaac Belliveau,PIT,,,,,,,,,,,LD,20,4,ELC,Draft,Junior,0.0,RFA,0,875000,875000,875000,0,0
+Taylor Fedun,PIT,,,,,,,,,,,RD,34,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Colin Swoyer,PIT,,,,,,,,,,,RD,25,1,ELC,Signed,Minor,0.0,RFA,842500,0,0,0,0,0
+Joshua Maniscalco,PIT,,,,,,,,,,,RD,24,1,ELC,Signed,Minor,0.0,RFA,853333,0,0,0,0,0
+Jack St. Ivany,PIT,,,,,,,,,,,RD,23,2,ELC,Signed,Minor,0.0,RFA,857500,857500,0,0,0,0
+Ty Smith,PIT,,,,,,,,,,,LD/RD,23,1,ELC,Trade,Minor,0.0,RFA,863333,0,0,0,0,0
+Peter Diliberatore,PIT,,,,,,,,,,,LD,23,1,ELC,Trade,Minor,0.0,RFA,880833,0,0,0,0,0
+Owen Pickering,PIT,,,,,,,,,,,LD,19,3,ELC,Draft,Minor,0.0,RFA,950000,950000,950000,0,0,0
+Drake Caggiula,PIT,,,,,,,,,,,"LW, RW",28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Alexander Nylander,PIT,,,,,,,,,,,"RW, LW",25,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
+Filip Hallander,PIT,,,,,,,,,,,C,22,1,ELC,Trade,Minor,0.0,RFA,764167,0,0,0,0,0
+Jonathan Gruden,PIT,,,,,,,,,,,LW,22,1,ELC,Trade,Minor,0.0,RFA,788333,0,0,0,0,0
+Nathan Legare,PIT,,,,,,,,,,,RW,22,2,ELC,Draft,Minor,0.0,RFA,789167,789167,0,0,0,0
+Raivis Ansons,PIT,,,,,,,,,,,LW,21,3,ELC,Draft,Minor,0.0,RFA,844167,844167,844167,0,0,0
+Ty Glover,PIT,,,,,,,,,,,C,22,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Mikael Granlund,PIT,,,,,,,,,,,"C, RW",31,3,,Trade,NHL,0.061,UFA,5000000,5000000,5000000,0,0,0
+Valtteri Puustinen,PIT,,,,,,,,,,,LW,23,1,ELC,Draft,Minor,0.0,RFA,842500,0,0,0,0,0
+Jason Zucker,PIT,,,,,,,,,,,"LW, RW",31,1,M-NTC,Trade,NHL,0.067,UFA,5500000,0,0,0,0,0
 Jake Guentzel,PIT,,,,,,,,,,,"LW, RW",28,2,M-NTC,Draft,NHL,0.073,UFA,6000000,6000000,0,0,0,0
 Evgeni Malkin,PIT,,,,,,,,,,,C,36,4,35+NMC,Draft,NHL,0.07400000000000001,UFA,6100000,6100000,6100000,6100000,0,0
 Sidney Crosby,PIT,,,,,,,,,,,C,35,3,NMC,Draft,NHL,0.105,UFA,8700000,8700000,8700000,0,0,0
-Jason Zucker,PIT,,,,,,,,,,,"LW, RW",31,1,M-NTC,Trade,NHL,0.067,UFA,5500000,0,0,0,0,0
-Chris Driedger,SEA,,,,,,,,,,,G,28,2,M-NTC,Expansion,Minor,0.028999999999999998,UFA,2375000,2375000,0,0,0,0
-Shane Wright,SEA,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0
-Ville Petman,SEA,,,,,,,,,,,"C, LW",23,2,ELC,Signed,Minor,0.0,RFA,883750,883750,0,0,0,0
-Tye Kartye,SEA,,,,,,,,,,,LW,21,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Kole Lind,SEA,,,,,,,,,,,RW,24,1,,Expansion,Minor,0.0,RFA,850000,0,0,0,0,0
-Jordan Eberle,SEA,,,,,,,,,,,RW,32,2,M-NTC,Expansion,NHL,0.067,UFA,5500000,5500000,0,0,0,0
-Jacob Melanson,SEA,,,,,,,,,,,RW,19,3,ELC,Draft,Junior,0.0,RFA,843333,843333,843333,0,0,0
-Luke Henman,SEA,,,,,,,,,,,C,22,2,ELC,Signed,Minor,0.0,RFA,791667,791667,0,0,0,0
-Cameron Hughes,SEA,,,,,,,,,,,"C, LW",26,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Bryan Rust,PIT,,,,,,,,,,,"RW, LW",30,6,NMC,Draft,NHL,0.062,UFA,5125000,5125000,5125000,5125000,5125000,5125000
 Max McCormick,SEA,,,,,,,,,,,LW,30,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Andrew Poturalski,SEA,,,,,,,,,,,C,29,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Alex True,SEA,,,,,,,,,,,"C, RW",25,1,,Expansion,Minor,0.0,UFA,750000,0,0,0,0,0
@@ -1190,23 +1184,21 @@ Peetro Seppala,SEA,,,,,,,,,,,LD,22,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,
 Gustav Olofsson,SEA,,,,,,,,,,,LD,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Brogan Rafferty,SEA,,,,,,,,,,,RD,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Ville Ottavainen,SEA,,,,,,,,,,,RD,20,4,ELC,Draft,Minor,0.0,RFA,0,867500,867500,867500,0,0
-Chris Driedger,SEA,,,,,,,,,,,G,28,2,M-NTC,Expansion,Minor,0.0,UFA,3500000,3500000,0,0,0,0
-Joonas Donskoi,SEA,,,,,,,,,,,RW,30,1,,Expansion,IR,0.047,UFA,3900000,0,0,0,0,0
-Andre Burakovsky,SEA,,,,,,,,,,,"RW, LW",28,5,M-NTC,Signed,IR,0.067,UFA,5500000,5500000,5500000,5500000,5500000,0
-Philipp Grubauer,SEA,,,,,,,,,,,G,31,5,NTC,Signed,NHL,0.07200000000000001,UFA,5900000,5900000,5900000,5900000,5900000,0
-Joey Daccord,SEA,,,,,,,,,,,G,26,1,,Expansion,Minor,0.0,RFA,750000,0,0,0,0,0
-Jaden Schwartz,SEA,,,,,,,,,,,LW,30,4,NMC,Signed,NHL,0.067,UFA,5500000,5500000,5500000,5500000,0,0
-Oliver Bjorkstrand,SEA,,,,,,,,,,,"RW, LW",27,4,M-NTC,Trade,NHL,0.065,UFA,5400000,5400000,5400000,5400000,0,0
-Yanni Gourde,SEA,,,,,,,,,,,"C, LW, RW",31,3,M-NTC,Expansion,NHL,0.063,UFA,5166666,5166666,5166666,0,0,0
-Jared McCann,SEA,,,,,,,,,,,"LW, C",26,5,,Expansion,NHL,0.061,UFA,5000000,5000000,5000000,5000000,5000000,0
-Alexander Wennberg,SEA,,,,,,,,,,,C,28,2,M-NTC,Signed,NHL,0.055,UFA,4500000,4500000,0,0,0,0
-Brandon Tanev,SEA,,,,,,,,,,,"LW, RW",31,3,M-NTC,Expansion,NHL,0.042,UFA,3500000,3500000,3500000,0,0,0
-Eeli Tolvanen,SEA,,,,,,,,,,,"LW, RW",23,2,,Waivers claim,NHL,0.018000000000000002,RFA,1450000,1450000,0,0,0,0
+Christopher Gibson,SEA,,,,,,,,,,,G,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Cameron Hughes,SEA,,,,,,,,,,,"C, LW",26,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Ryan Donato,SEA,,,,,,,,,,,"LW, C",27,1,,Signed,NHL,0.015,UFA,1200000,0,0,0,0,0
 Morgan Geekie,SEA,,,,,,,,,,,"C, RW",24,1,,Expansion,NHL,0.017,RFA,1400000,0,0,0,0,0
-Ryan Donato,SEA,,,,,,,,,,,"LW, C",26,1,,Signed,NHL,0.015,UFA,1200000,0,0,0,0,0
-Matthew Beniers,SEA,,,,,,,,,,,C,20,2,ELC,Draft,NHL,0.011000000000000001,RFA,897500,897500,0,0,0,0
+Eeli Tolvanen,SEA,,,,,,,,,,,"LW, RW",23,2,,Waivers claim,NHL,0.018000000000000002,RFA,1450000,1450000,0,0,0,0
+Brandon Tanev,SEA,,,,,,,,,,,"LW, RW",31,3,M-NTC,Expansion,NHL,0.042,UFA,3500000,3500000,3500000,0,0,0
+Alexander Wennberg,SEA,,,,,,,,,,,C,28,2,M-NTC,Signed,NHL,0.055,UFA,4500000,4500000,0,0,0,0
+Jared McCann,SEA,,,,,,,,,,,"LW, C",26,5,,Expansion,NHL,0.061,UFA,5000000,5000000,5000000,5000000,5000000,0
+Yanni Gourde,SEA,,,,,,,,,,,"C, LW, RW",31,3,M-NTC,Expansion,NHL,0.063,UFA,5166666,5166666,5166666,0,0,0
+Oliver Bjorkstrand,SEA,,,,,,,,,,,"RW, LW",28,4,M-NTC,Trade,NHL,0.065,UFA,5400000,5400000,5400000,5400000,0,0
+Chris Driedger,SEA,,,,,,,,,,,G,28,2,M-NTC,Expansion,Minor,0.0,UFA,3500000,3500000,0,0,0,0
+Luke Henman,SEA,,,,,,,,,,,C,22,2,ELC,Signed,Minor,0.0,RFA,791667,791667,0,0,0,0
+Ryan Winterton,SEA,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,846667,846667,846667,0,0,0
+Jaden Schwartz,SEA,,,,,,,,,,,LW,30,4,NMC,Signed,NHL,0.067,UFA,5500000,5500000,5500000,5500000,0,0
 Jesper Froden,SEA,,,,,,,,,,,RW,28,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-John Hayden,SEA,,,,,,,,,,,"C, RW",28,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
 Daniel Sprong,SEA,,,,,,,,,,,"RW, LW",26,1,,Signed,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
 Jamie Oleksiak,SEA,,,,,,,,,,,LD/RD,30,4,NTC,Expansion,NHL,0.055999999999999994,UFA,4600000,4600000,4600000,4600000,0,0
 Vince Dunn,SEA,,,,,,,,,,,LD/RD,26,1,,Expansion,NHL,0.048,RFA,4000000,0,0,0,0,0
@@ -1216,69 +1208,73 @@ Carson Soucy,SEA,,,,,,,,,,,LD/RD,28,1,,Expansion,NHL,0.033,UFA,2750000,0,0,0,0,0
 William Borgen,SEA,,,,,,,,,,,RD,26,1,,Expansion,NHL,0.011000000000000001,RFA,900000,0,0,0,0,0
 Jaycob Megna,SEA,,,,,,,,,,,LD,30,2,,Trade,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
 Cale Fleury,SEA,,,,,,,,,,,RD,24,1,,Expansion,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
+Jacob Melanson,SEA,,,,,,,,,,,RW,19,3,ELC,Draft,Junior,0.0,RFA,843333,843333,843333,0,0,0
+Philipp Grubauer,SEA,,,,,,,,,,,G,31,5,NTC,Signed,NHL,0.07200000000000001,UFA,5900000,5900000,5900000,5900000,5900000,0
+Joey Daccord,SEA,,,,,,,,,,,G,26,1,,Expansion,Emerg. Loan,0.009000000000000001,RFA,750000,0,0,0,0,0
+Andre Burakovsky,SEA,,,,,,,,,,,"RW, LW",28,5,M-NTC,Signed,IR,0.067,UFA,5500000,5500000,5500000,5500000,5500000,0
+Joonas Donskoi,SEA,,,,,,,,,,,RW,30,1,,Expansion,IR,0.047,UFA,3900000,0,0,0,0,0
+John Hayden,SEA,,,,,,,,,,,"C, RW",28,1,,Signed,IR,0.009000000000000001,UFA,750000,0,0,0,0,0
+Chris Driedger,SEA,,,,,,,,,,,G,28,2,M-NTC,Expansion,Minor,0.028999999999999998,UFA,2375000,2375000,0,0,0,0
+Shane Wright,SEA,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0
+Ville Petman,SEA,,,,,,,,,,,"C, LW",23,2,ELC,Signed,Minor,0.0,RFA,883750,883750,0,0,0,0
+Tye Kartye,SEA,,,,,,,,,,,LW,21,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Kole Lind,SEA,,,,,,,,,,,RW,24,1,,Expansion,Minor,0.0,RFA,850000,0,0,0,0,0
 Martin Jones,SEA,,,,,,,,,,,G,33,1,M-NTC,Signed,NHL,0.024,UFA,2000000,0,0,0,0,0
-Christopher Gibson,SEA,,,,,,,,,,,G,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Ryan Winterton,SEA,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,846667,846667,846667,0,0,0
-Tomas Hertl,SJS,,,,,,,,,,,C,29,8,NMC,Draft,NHL,0.099,UFA,8137500,8137500,8137500,8137500,8137500,8137500
-Markus Nutivaara,SJS,,,,,,,,,,,LD/RD,28,1,,Signed,LTIR,0.018000000000000002,UFA,1500000,0,0,0,0,0
-William Eklund,SJS,,,,,,,,,,,"C, LW",20,3,ELC,Draft,Minor,0.0,RFA,894167,894167,894167,0,0,0
-Martin Kaut,SJS,,,,,,,,,,,RW,23,1,ELC,Trade,Minor,0.0,RFA,863333,0,0,0,0,0
-Brandon Coe,SJS,,,,,,,,,,,RW,21,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
-Mitchell Russell,SJS,,,,,,,,,,,"RW, C",22,3,ELC,Signed,Minor,0.0,RFA,836667,836667,836667,0,0,0
-Ozzy Wiesblatt,SJS,,,,,,,,,,,RW,21,3,ELC,Draft,Minor,0.0,RFA,835833,835833,835833,0,0,0
-Daniil Gushchin,SJS,,,,,,,,,,,LW,21,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
-Tristen Robins,SJS,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,797500,797500,797500,0,0,0
-Luke Kunin,SJS,,,,,,,,,,,"RW, C",25,2,,Trade,LTIR,0.033,RFA,2750000,2750000,0,0,0,0
-Dillon Hamaliuk,SJS,,,,,,,,,,,LW,22,2,ELC,Draft,Minor,0.0,RFA,789167,789167,0,0,0,0
-C.J. Suess,SJS,,,,,,,,,,,LW,29,1,,Signed,Minor,0.0,UFA,775000,0,0,0,0,0
-Kyle Criscuolo,SJS,,,,,,,,,,,C,30,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Max Veronneau,SJS,,,,,,,,,,,RW,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Shakir Mukhamadullin,SJS,,,,,,,,,,,LD,21,3,ELC,Trade,Minor,0.0,RFA,894167,894167,894167,0,0,0
-Gannon Laroque,SJS,,,,,,,,,,,RD,19,3,ELC,Draft,Junior,0.0,RFA,867500,867500,867500,0,0,0
-Nikolai Knyzhov,SJS,,,,,,,,,,,LD/RD,25,3,,Signed,Minor,0.0,UFA,850000,1250000,1250000,0,0,0
-Artemi Kniazev,SJS,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,789167,789167,0,0,0,0
-Nikita Okhotiuk,SJS,,,,,,,,,,,LD,22,2,ELC,Trade,Minor,0.0,RFA,789167,789167,0,0,0,0
-Derrick Pouliot,SJS,,,,,,,,,,,LD,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Eetu Makiniemi,SJS,,,,,,,,,,,G,23,1,ELC,Trade,Minor,0.0,RFA,867500,0,0,0,0,0
-Strauss Mann,SJS,,,,,,,,,,,G,24,1,ELC,Signed,Minor,0.0,RFA,842500,0,0,0,0,0
-Aaron Dell,SJS,,,,,,,,,,,G,33,1,,Signed,Minor,0.0,UFA,775000,0,0,0,0,0
-Andrew Agozzino,SJS,,,,,,,,,,,"C, LW",32,2,,Signed,Minor,0.0,UFA,775000,775000,0,0,0,0
-Jonah Gadjovich,SJS,,,,,,,,,,,"LW, RW",24,1,,Waivers claim,IR,0.009000000000000001,RFA,750000,0,0,0,0,0
-Nick Cicek,SJS,,,,,,,,,,,LD,22,2,ELC,Signed,Minor,0.0,RFA,835000,835000,0,0,0,0
-Kaapo Kahkonen,SJS,,,,,,,,,,,G,26,2,,Trade,NHL,0.033,UFA,2750000,2750000,0,0,0,0
-James Reimer,SJS,,,,,,,,,,,G,35,1,M-NTC,Signed,NHL,0.027000000000000003,UFA,2250000,0,0,0,0,0
-Logan Couture,SJS,,,,,,,,,,,C,34,5,M-NTC,Draft,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,8000000,8000000,0
-Kevin Labanc,SJS,,,,,,,,,,,"RW, LW",27,2,,Draft,NHL,0.057,UFA,4725000,4725000,0,0,0,0
-Andreas Johnsson,SJS,,,,,,,,,,,"LW, RW",28,1,M-NTC,Trade,NHL,0.040999999999999995,UFA,3400000,0,0,0,0,0
-Oskar Lindblom,SJS,,,,,,,,,,,LW,26,2,,Signed,NHL,0.03,UFA,2500000,2500000,0,0,0,0
-Alexander Barabanov,SJS,,,,,,,,,,,"RW, LW",28,2,M-NTC,Trade,NHL,0.03,UFA,2500000,2500000,0,0,0,0
-Steven Lorentz,SJS,,,,,,,,,,,"C, LW, RW",26,2,,Trade,NHL,0.013000000000000001,UFA,1050000,1050000,0,0,0,0
-Noah Gregor,SJS,,,,,,,,,,,"LW, RW",24,1,,Draft,NHL,0.012,RFA,950000,0,0,0,0,0
-Thomas Bordeleau,SJS,,,,,,,,,,,C,21,2,ELC,Draft,NHL,0.011000000000000001,10.2(c),916667,916667,0,0,0,0
-Adam Raska,SJS,,,,,,,,,,,"LW, RW",21,2,ELC,Draft,Emerg. Loan,0.01,RFA,848333,848333,0,0,0,0
-Nico Sturm,SJS,,,,,,,,,,,C,27,3,,Signed,NHL,0.024,UFA,2000000,2000000,2000000,0,0,0
-Jeffrey Viel,SJS,,,,,,,,,,,LW,26,1,,Signed,Emerg. Loan,0.009000000000000001,UFA,750000,0,0,0,0,0
-Jacob MacDonald,SJS,,,,,,,,,,,LD/RD,30,2,,Trade,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
+Jordan Eberle,SEA,,,,,,,,,,,RW,32,2,M-NTC,Expansion,NHL,0.067,UFA,5500000,5500000,0,0,0,0
+Matthew Beniers,SEA,,,,,,,,,,,C,20,2,ELC,Draft,NHL,0.011000000000000001,RFA,897500,897500,0,0,0,0
 Jacob Peterson,SJS,,,,,,,,,,,"LW, C",23,1,ELC,Trade,Emerg. Loan,0.01,RFA,842500,0,0,0,0,0
+Martin Kaut,SJS,,,,,,,,,,,RW,23,1,ELC,Trade,Minor,0.0,RFA,863333,0,0,0,0,0
+William Eklund,SJS,,,,,,,,,,,"C, LW",20,3,ELC,Draft,Minor,0.0,RFA,894167,894167,894167,0,0,0
+Tristen Robins,SJS,,,,,,,,,,,C,21,3,ELC,Draft,Emerg. Loan,0.01,RFA,797500,797500,797500,0,0,0
+Markus Nutivaara,SJS,,,,,,,,,,,LD/RD,28,1,,Signed,LTIR,0.018000000000000002,UFA,1500000,0,0,0,0,0
+Luke Kunin,SJS,,,,,,,,,,,"RW, C",25,2,,Trade,LTIR,0.033,RFA,2750000,2750000,0,0,0,0
+Jonah Gadjovich,SJS,,,,,,,,,,,"LW, RW",24,1,,Waivers claim,IR,0.009000000000000001,RFA,750000,0,0,0,0,0
+Brandon Coe,SJS,,,,,,,,,,,RW,21,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
+James Reimer,SJS,,,,,,,,,,,G,35,1,M-NTC,Signed,NHL,0.027000000000000003,UFA,2250000,0,0,0,0,0
+Jacob MacDonald,SJS,,,,,,,,,,,LD/RD,30,2,,Trade,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
+Nikolai Knyzhov,SJS,,,,,,,,,,,LD/RD,25,3,,Signed,Emerg. Loan,0.01,UFA,850000,1250000,1250000,0,0,0
+Henry Thrun,SJS,,,,,,,,,,,LD,22,2,ELC,Trade,NHL,0.011000000000000001,10.2(c),912500,912500,0,0,0,0
 Matthew Benning,SJS,,,,,,,,,,,RD,28,4,,Signed,NHL,0.015,UFA,1250000,1250000,1250000,1250000,0,0
 Radim Simek,SJS,,,,,,,,,,,LD/RD,30,2,,Signed,NHL,0.027000000000000003,UFA,2250000,2250000,0,0,0,0
 Mario Ferraro,SJS,,,,,,,,,,,LD,24,4,,Draft,NHL,0.039,UFA,3250000,3250000,3250000,3250000,0,0
-Henry Thrun,SJS,,,,,,,,,,,LD,22,2,ELC,Trade,NHL,0.011000000000000001,10.2(c),912500,912500,0,0,0,0
+Marc-Edouard Vlasic,SJS,,,,,,,,,,,LD/RD,36,4,NMC,Draft,NHL,0.085,UFA,7000000,7000000,7000000,7000000,0,0
 Erik Karlsson,SJS,,,,,,,,,,,RD,32,5,NMC,Trade,NHL,0.139,UFA,11500000,11500000,11500000,11500000,11500000,0
 Evgeny Svechnikov,SJS,,,,,,,,,,,"LW, RW",26,1,,Signed,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
 Fabian Zetterlund,SJS,,,,,,,,,,,RW,23,1,,Trade,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
-Marc-Edouard Vlasic,SJS,,,,,,,,,,,LD/RD,36,4,NMC,Draft,NHL,0.085,UFA,7000000,7000000,7000000,7000000,0,0
-Vadim Zherenko,STL,,,,,,,,,,,G,22,3,ELC,Draft,Emerg. Loan,0.01,RFA,846667,846667,846667,0,0,0
-Mikhail Abramov,STL,,,,,,,,,,,C,22,2,ELC,Trade,Minor,0.0,RFA,809444,809444,0,0,0,0
-Nikita Alexandrov,STL,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,816667,816667,0,0,0,0
-Keean Washkurak,STL,,,,,,,,,,,C,21,2,ELC,Draft,Minor,0.0,RFA,862500,862500,0,0,0,0
-Zach Dean,STL,,,,,,,,,,,C,20,3,ELC,Trade,Junior,0.0,RFA,883333,883333,883333,0,0,0
-Zachary Bolduc,STL,,,,,,,,,,,C,20,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
-Tanner Dickinson,STL,,,,,,,,,,,C,21,3,ELC,Draft,SOIR,,10.2(c),0,826667,826667,0,0,0
+Kaapo Kahkonen,SJS,,,,,,,,,,,G,26,2,,Trade,NHL,0.033,UFA,2750000,2750000,0,0,0,0
+Mitchell Russell,SJS,,,,,,,,,,,"RW, C",22,3,ELC,Signed,Minor,0.0,RFA,836667,836667,836667,0,0,0
+Ozzy Wiesblatt,SJS,,,,,,,,,,,RW,21,3,ELC,Draft,Minor,0.0,RFA,835833,835833,835833,0,0,0
+Daniil Gushchin,SJS,,,,,,,,,,,LW,21,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
+Nico Sturm,SJS,,,,,,,,,,,C,27,3,,Signed,NHL,0.024,UFA,2000000,2000000,2000000,0,0,0
+Alexander Barabanov,SJS,,,,,,,,,,,"RW, LW",28,2,M-NTC,Trade,NHL,0.03,UFA,2500000,2500000,0,0,0,0
+Oskar Lindblom,SJS,,,,,,,,,,,LW,26,2,,Signed,NHL,0.03,UFA,2500000,2500000,0,0,0,0
+Andreas Johnsson,SJS,,,,,,,,,,,"LW, RW",28,1,M-NTC,Trade,NHL,0.040999999999999995,UFA,3400000,0,0,0,0,0
+Kevin Labanc,SJS,,,,,,,,,,,"RW, LW",27,2,,Draft,NHL,0.057,UFA,4725000,4725000,0,0,0,0
+Logan Couture,SJS,,,,,,,,,,,C,34,5,M-NTC,Draft,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,8000000,8000000,0
+Tomas Hertl,SJS,,,,,,,,,,,C,29,8,NMC,Draft,NHL,0.099,UFA,8137500,8137500,8137500,8137500,8137500,8137500
+Thomas Bordeleau,SJS,,,,,,,,,,,C,21,2,ELC,Draft,NHL,0.011000000000000001,10.2(c),916667,916667,0,0,0,0
+Adam Raska,SJS,,,,,,,,,,,"LW, RW",21,2,ELC,Draft,Emerg. Loan,0.01,RFA,848333,848333,0,0,0,0
+Aaron Dell,SJS,,,,,,,,,,,G,33,1,,Signed,Minor,0.0,UFA,775000,0,0,0,0,0
+Strauss Mann,SJS,,,,,,,,,,,G,24,1,ELC,Signed,Minor,0.0,RFA,842500,0,0,0,0,0
+Eetu Makiniemi,SJS,,,,,,,,,,,G,23,1,ELC,Trade,Minor,0.0,RFA,867500,0,0,0,0,0
+Derrick Pouliot,SJS,,,,,,,,,,,LD,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Nikita Okhotiuk,SJS,,,,,,,,,,,LD,22,2,ELC,Trade,Minor,0.0,RFA,789167,789167,0,0,0,0
+Artemi Kniazev,SJS,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,789167,789167,0,0,0,0
+Nick Cicek,SJS,,,,,,,,,,,LD,22,2,ELC,Signed,Minor,0.0,RFA,835000,835000,0,0,0,0
+Gannon Laroque,SJS,,,,,,,,,,,RD,19,3,ELC,Draft,Junior,0.0,RFA,867500,867500,867500,0,0,0
+Shakir Mukhamadullin,SJS,,,,,,,,,,,LD,21,3,ELC,Trade,Minor,0.0,RFA,894167,894167,894167,0,0,0
+Max Veronneau,SJS,,,,,,,,,,,RW,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Kyle Criscuolo,SJS,,,,,,,,,,,C,30,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+C.J. Suess,SJS,,,,,,,,,,,LW,29,1,,Signed,Minor,0.0,UFA,775000,0,0,0,0,0
+Andrew Agozzino,SJS,,,,,,,,,,,"C, LW",32,2,,Signed,Minor,0.0,UFA,775000,775000,0,0,0,0
+Dillon Hamaliuk,SJS,,,,,,,,,,,LW,22,2,ELC,Draft,Minor,0.0,RFA,789167,789167,0,0,0,0
+Jeffrey Viel,SJS,,,,,,,,,,,LW,26,1,,Signed,Emerg. Loan,0.009000000000000001,UFA,750000,0,0,0,0,0
+Steven Lorentz,SJS,,,,,,,,,,,"C, LW, RW",26,2,,Trade,NHL,0.013000000000000001,UFA,1050000,1050000,0,0,0,0
+Noah Gregor,SJS,,,,,,,,,,,"LW, RW",24,1,,Draft,NHL,0.012,RFA,950000,0,0,0,0,0
+Colten Ellis,STL,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
 Thomas Greiss,STL,,,,,,,,,,,G,37,1,35+,Signed,NHL,0.015,UFA,1250000,0,0,0,0,0
-Alexey Toropchenko,STL,,,,,,,,,,,"LW, RW",23,1,,Draft,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
+Jordan Binnington,STL,,,,,,,,,,,G,29,5,NTC,Draft,NHL,0.073,UFA,6000000,6000000,6000000,6000000,6000000,0
 Calle Rosen,STL,,,,,,,,,,,LD,29,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
-Dmitri Samorukov,STL,,,,,,,,,,,LD,23,1,,Trade,Emerg. Loan,0.009000000000000001,RFA,775000,0,0,0,0,0
 Robert Bortuzzo,STL,,,,,,,,,,,RD,34,2,,Trade,NHL,0.012,UFA,950000,950000,0,0,0,0
 Marco Scandella,STL,,,,,,,,,,,LD,33,2,M-NTC,Trade,NHL,0.04,UFA,3275000,3275000,0,0,0,0
 Nick Leddy,STL,,,,,,,,,,,LD,32,4,NTC,Signed,NHL,0.048,UFA,4000000,4000000,4000000,4000000,0,0
@@ -1286,120 +1282,127 @@ Colton Parayko,STL,,,,,,,,,,,RD,29,8,NTC,Draft,NHL,0.079,UFA,6500000,6500000,650
 Torey Krug,STL,,,,,,,,,,,LD,31,5,NTC,Signed,NHL,0.079,UFA,6500000,6500000,6500000,6500000,6500000,0
 Justin Faulk,STL,,,,,,,,,,,RD,31,5,NTC,Trade,NHL,0.079,UFA,6500000,6500000,6500000,6500000,6500000,0
 Tyler Pitlick,STL,,,,,,,,,,,RW,31,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Mathias Laferriere,STL,,,,,,,,,,,C,22,1,ELC,Draft,Minor,0.0,10.2(c),786667,0,0,0,0,0
+Josh Leivo,STL,,,,,,,,,,,"RW, LW",29,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Alexey Toropchenko,STL,,,,,,,,,,,"LW, RW",23,1,,Draft,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
 Logan Brown,STL,,,,,,,,,,,"C, LW",25,1,,Trade,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
-Jordan Binnington,STL,,,,,,,,,,,G,29,5,NTC,Draft,NHL,0.073,UFA,6000000,6000000,6000000,6000000,6000000,0
-Will Bitten,STL,,,,,,,,,,,"RW, C",24,2,,Trade,Minor,0.0,RFA,762500,762500,0,0,0,0
-Tyler Tucker,STL,,,,,,,,,,,LD/RD,23,1,ELC,Draft,Minor,0.0,RFA,808333,0,0,0,0,0
-Luke Witkowski,STL,,,,,,,,,,,"RW, RD",32,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
 Nathan Walker,STL,,,,,,,,,,,LW,29,2,,Signed,NHL,0.009000000000000001,UFA,750000,775000,0,0,0,0
+Jake Neighbours,STL,,,,,,,,,,,LW,21,3,ELC,Draft,NHL,0.01,RFA,835833,835833,835833,0,0,0
+Samuel Blais,STL,,,,,,,,,,,"LW, RW",26,2,,Trade,NHL,0.018000000000000002,UFA,1525000,1000000,0,0,0,0
+Jakub Vrana,STL,,,,,,,,,,,LW,27,2,RS,Trade,NHL,0.032,UFA,2625000,2625000,0,0,0,0
+Robert Thomas,STL,,,,,,,,,,,"C, RW",23,9,,Draft,NHL,0.034,UFA,2800000,8125000,8125000,8125000,8125000,8125000
 Jordan Kyrou,STL,,,,,,,,,,,RW,24,9,,Draft,NHL,0.034,UFA,2800000,8125000,8125000,8125000,8125000,8125000
 Kasperi Kapanen,STL,,,,,,,,,,,RW,26,2,,Waivers claim,NHL,0.039,UFA,3200000,3200000,0,0,0,0
 Brandon Saad,STL,,,,,,,,,,,"LW, RW",30,4,NTC,Signed,NHL,0.055,UFA,4500000,4500000,4500000,4500000,0,0
 Pavel Buchnevich,STL,,,,,,,,,,,"LW, RW, C",27,3,M-NTC,Trade,NHL,0.07,UFA,5800000,5800000,5800000,0,0,0
 Brayden Schenn,STL,,,,,,,,,,,"C, LW",31,6,NTC,Trade,NHL,0.079,UFA,6500000,6500000,6500000,6500000,6500000,6500000
+Tanner Dickinson,STL,,,,,,,,,,,C,21,3,ELC,Draft,SOIR,,10.2(c),0,826667,826667,0,0,0
+Zachary Bolduc,STL,,,,,,,,,,,C,20,3,ELC,Draft,Junior,0.0,RFA,894167,894167,894167,0,0,0
 Joel Hofer,STL,,,,,,,,,,,G,22,3,ELC,Draft,Minor,0.0,RFA,795000,775000,775000,0,0,0
-Will Cranley,STL,,,,,,,,,,,G,21,3,ELC,Draft,Junior,0.0,RFA,841667,841667,841667,0,0,0
-Colten Ellis,STL,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
 Anton Malmstrom,STL,,,,,,,,,,,LD,23,3,ELC,Signed,Minor,0.0,RFA,0,910000,910000,0,0,0
-Matthew Peca,STL,,,,,,,,,,,"LW, C",29,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
 Michael Buchinger,STL,,,,,,,,,,,LD,18,4,ELC,Draft,Minor,0.0,RFA,0,870000,870000,870000,0,0
+Scott Perunovich,STL,,,,,,,,,,,LD,24,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
 Steven Santini,STL,,,,,,,,,,,RD,28,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Dmitri Samorukov,STL,,,,,,,,,,,LD,23,1,,Trade,Minor,0.0,RFA,775000,0,0,0,0,0
 Brady Lyle,STL,,,,,,,,,,,RD,23,1,ELC,Trade,Minor,0.0,RFA,800000,0,0,0,0,0
+Tyler Tucker,STL,,,,,,,,,,,LD/RD,23,1,ELC,Draft,Minor,0.0,RFA,808333,0,0,0,0,0
 Marc-Andre Gaudet,STL,,,,,,,,,,,LD,20,3,ELC,Draft,Junior,0.0,RFA,849167,849167,849167,0,0,0
 Hunter Skinner,STL,,,,,,,,,,,RD,21,2,ELC,Trade,Minor,0.0,RFA,850833,850833,0,0,0,0
 Matthew Kessel,STL,,,,,,,,,,,RD,22,2,ELC,Draft,Minor,0.0,RFA,883750,883750,0,0,0,0
+Vadim Zherenko,STL,,,,,,,,,,,G,22,3,ELC,Draft,Minor,0.0,RFA,846667,846667,846667,0,0,0
 Matthew Highmore,STL,,,,,,,,,,,"LW, RW",27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Adam Gaudette,STL,,,,,,,,,,,"C, RW",26,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
 Martin Frk,STL,,,,,,,,,,,RW,29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Nathan Todd,STL,,,,,,,,,,,C,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
 Hugh McGing,STL,,,,,,,,,,,"LW, C",24,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
-Scott Perunovich,STL,,,,,,,,,,,LD,24,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
-Jake Neighbours,STL,,,,,,,,,,,LW,21,3,ELC,Draft,NHL,0.01,RFA,835833,835833,835833,0,0,0
-Josh Leivo,STL,,,,,,,,,,,"RW, LW",29,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Jakub Vrana,STL,,,,,,,,,,,LW,27,2,RS,Trade,NHL,0.032,UFA,2625000,2625000,0,0,0,0
-Samuel Blais,STL,,,,,,,,,,,"LW, RW",26,2,,Trade,NHL,0.018000000000000002,UFA,1525000,1000000,0,0,0,0
-Robert Thomas,STL,,,,,,,,,,,"C, RW",23,9,,Draft,NHL,0.034,UFA,2800000,8125000,8125000,8125000,8125000,8125000
-Bennett MacArthur,TBL,,,,,,,,,,,LW,22,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Lucas Edmonds,TBL,,,,,,,,,,,"RW, LW",22,3,ELC,Draft,Minor,0.0,RFA,861667,861667,861667,0,0,0
-Ilya Usau,TBL,,,,,,,,,,,C,21,3,ELC,Signed,Minor,0.0,RFA,897500,897500,897500,0,0,0
-Philippe Myers,TBL,,,,,,,,,,,RD,26,2,,Trade,Minor,0.017,UFA,1425000,275000,0,0,0,0
-Brent Seabrook,TBL,,,,,,,,,,,RD,37,2,M-NTC,Trade,LTIR,0.083,UFA,6875000,6875000,0,0,0,0
-Brian Elliott,TBL,,,,,,,,,,,G,37,1,35+,Signed,NHL,0.011000000000000001,UFA,900000,0,0,0,0,0
-Andrei Vasilevskiy,TBL,,,,,,,,,,,G,28,6,NMC,Draft,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,9500000
-Darren Raddysh,TBL,,,,,,,,,,,RD,27,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
-Haydn Fleury,TBL,,,,,,,,,,,LD/RD,26,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
-Nick Perbix,TBL,,,,,,,,,,,RD,24,3,ELC,Draft,NHL,0.01,UFA,842500,1125000,1125000,0,0,0
-Zach Bogosian,TBL,,,,,,,,,,,RD,32,2,NTC,Signed,NHL,0.01,UFA,850000,850000,0,0,0,0
-Ian Cole,TBL,,,,,,,,,,,LD/RD,34,1,,Signed,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0
-Mikhail Sergachev,TBL,,,,,,,,,,,LD/RD,24,9,,Trade,NHL,0.057999999999999996,UFA,4800000,8500000,8500000,8500000,8500000,8500000
-Victor Hedman,TBL,,,,,,,,,,,LD,32,3,M-NTC,Draft,NHL,0.095,UFA,7875000,7875000,7875000,0,0,0
+Luke Witkowski,STL,,,,,,,,,,,"RW, RD",32,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Matthew Peca,STL,,,,,,,,,,,"LW, C",29,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Will Bitten,STL,,,,,,,,,,,"RW, C",24,2,,Trade,Minor,0.0,RFA,762500,762500,0,0,0,0
+Mathias Laferriere,STL,,,,,,,,,,,C,22,1,ELC,Draft,Minor,0.0,10.2(c),786667,0,0,0,0,0
+Mikhail Abramov,STL,,,,,,,,,,,C,22,2,ELC,Trade,Minor,0.0,RFA,809444,809444,0,0,0,0
+Nikita Alexandrov,STL,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,816667,816667,0,0,0,0
+Keean Washkurak,STL,,,,,,,,,,,C,21,2,ELC,Draft,Minor,0.0,RFA,862500,862500,0,0,0,0
+Zach Dean,STL,,,,,,,,,,,C,20,3,ELC,Trade,Junior,0.0,RFA,883333,883333,883333,0,0,0
+Adam Gaudette,STL,,,,,,,,,,,"C, RW",26,1,,Trade,Minor,0.0,RFA,750000,0,0,0,0,0
+Will Cranley,STL,,,,,,,,,,,G,21,3,ELC,Draft,Junior,0.0,RFA,841667,841667,841667,0,0,0
+Corey Perry,TBL,,,,,,,,,,,RW,37,1,35+NTC,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0
 Michael Eyssimont,TBL,,,,,,,,,,,"RW, C",26,1,,Trade,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Tanner Jeannot,TBL,,,,,,,,,,,"RW, LW",25,1,,Trade,NHL,0.01,RFA,800000,0,0,0,0,0
-Felix Robert,TBL,,,,,,,,,,,"C, LW",23,2,ELC,Signed,Minor,0.0,RFA,857500,857500,0,0,0,0
-Maxim Cajkovic,TBL,,,,,,,,,,,RW,22,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
-Cole Koepke,TBL,,,,,,,,,,,"LW, RW",24,1,ELC,Draft,Minor,0.0,RFA,842500,0,0,0,0,0
-Grant Mismash,TBL,,,,,,,,,,,LW,24,1,ELC,Trade,Minor,0.0,RFA,842500,0,0,0,0,0
-Maxime Lagace,TBL,,,,,,,,,,,G,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Hugo Alnefelt,TBL,,,,,,,,,,,G,21,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
-Maxwell Crozier,TBL,,,,,,,,,,,RD,22,3,ELC,Draft,Minor,0.0,RFA,0,867500,867500,0,0,0
-Trevor Carrick,TBL,,,,,,,,,,,LD,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Sean Day,TBL,,,,,,,,,,,LD,25,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Dmitri Semykin,TBL,,,,,,,,,,,LD,23,1,ELC,Draft,Minor,0.0,RFA,813333,0,0,0,0,0
-Jack Thompson,TBL,,,,,,,,,,,RD,21,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
-Roman Schmidt,TBL,,,,,,,,,,,RD,20,3,ELC,Draft,Junior,0.0,RFA,828333,828333,828333,0,0,0
-Declan Carlile,TBL,,,,,,,,,,,LD,22,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,0,0
-Patrick Maroon,TBL,,,,,,,,,,,"LW, RW",34,2,M-NTC,Signed,NHL,0.012,UFA,1000000,1000000,0,0,0,0
-Philippe Myers,TBL,,,,,,,,,,,RD,26,2,,Trade,Minor,0.0,UFA,2550000,1400000,0,0,0,0
-Daniel Walcott,TBL,,,,,,,,,,,LW,29,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Gemel Smith,TBL,,,,,,,,,,,C,28,1,,Waivers claim,Minor,0.0,UFA,750000,0,0,0,0,0
-Rudolfs Balcers,TBL,,,,,,,,,,,"LW, RW",25,1,,Waivers claim,Minor,0.0,RFA,750000,0,0,0,0,0
-Alex Barre-Boulet,TBL,,,,,,,,,,,"RW, LW",25,2,,Waivers claim,Minor,0.0,UFA,758333,758333,0,0,0,0
-Pierre-Cedric Labrie,TBL,,,,,,,,,,,LW,36,1,35+,Signed,Minor,0.0,UFA,770800,0,0,0,0,0
-Gabriel Fortier,TBL,,,,,,,,,,,LW,23,1,ELC,Draft,Minor,0.0,RFA,791667,0,0,0,0,0
-Jack Finley,TBL,,,,,,,,,,,C,20,3,ELC,Draft,Minor,0.0,RFA,797500,797500,797500,0,0,0
 Gage Goncalves,TBL,,,,,,,,,,,LW,22,2,ELC,Draft,Minor,0.0,RFA,820000,820000,0,0,0,0
+Jack Finley,TBL,,,,,,,,,,,C,20,3,ELC,Draft,Minor,0.0,RFA,797500,797500,797500,0,0,0
+Gabriel Fortier,TBL,,,,,,,,,,,LW,23,1,ELC,Draft,Minor,0.0,RFA,791667,0,0,0,0,0
+Pierre-Cedric Labrie,TBL,,,,,,,,,,,LW,36,1,35+,Signed,Minor,0.0,UFA,770800,0,0,0,0,0
+Alex Barre-Boulet,TBL,,,,,,,,,,,"RW, LW",25,2,,Waivers claim,Minor,0.0,UFA,758333,758333,0,0,0,0
+Rudolfs Balcers,TBL,,,,,,,,,,,"LW, RW",26,1,,Waivers claim,Minor,0.0,RFA,750000,0,0,0,0,0
+Gemel Smith,TBL,,,,,,,,,,,C,28,1,,Waivers claim,Minor,0.0,UFA,750000,0,0,0,0,0
+Daniel Walcott,TBL,,,,,,,,,,,LW,29,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
 Jaydon Dureau,TBL,,,,,,,,,,,LW,22,3,ELC,Draft,Minor,0.0,RFA,841667,841667,841667,0,0,0
 Simon Ryfors,TBL,,,,,,,,,,,"C, LW, RW",25,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Corey Perry,TBL,,,,,,,,,,,RW,37,1,35+NTC,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0
+Declan Carlile,TBL,,,,,,,,,,,LD,22,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,0,0
+Roman Schmidt,TBL,,,,,,,,,,,RD,20,3,ELC,Draft,Junior,0.0,RFA,828333,828333,828333,0,0,0
+Jack Thompson,TBL,,,,,,,,,,,RD,21,3,ELC,Draft,Minor,0.0,RFA,828333,828333,828333,0,0,0
+Dmitri Semykin,TBL,,,,,,,,,,,LD,23,1,ELC,Draft,Minor,0.0,RFA,813333,0,0,0,0,0
+Sean Day,TBL,,,,,,,,,,,LD,25,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Trevor Carrick,TBL,,,,,,,,,,,LD,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Maxwell Crozier,TBL,,,,,,,,,,,RD,22,3,ELC,Draft,Minor,0.0,RFA,0,867500,867500,0,0,0
+Hugo Alnefelt,TBL,,,,,,,,,,,G,21,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
+Philippe Myers,TBL,,,,,,,,,,,RD,26,2,,Trade,Minor,0.0,UFA,2550000,1400000,0,0,0,0
+Tanner Jeannot,TBL,,,,,,,,,,,"RW, LW",25,1,,Trade,NHL,0.01,RFA,800000,0,0,0,0,0
+Grant Mismash,TBL,,,,,,,,,,,LW,24,1,ELC,Trade,Minor,0.0,RFA,842500,0,0,0,0,0
+Felix Robert,TBL,,,,,,,,,,,"C, LW",23,2,ELC,Signed,Minor,0.0,RFA,857500,857500,0,0,0,0
+Victor Hedman,TBL,,,,,,,,,,,LD,32,3,M-NTC,Draft,NHL,0.095,UFA,7875000,7875000,7875000,0,0,0
+Mikhail Sergachev,TBL,,,,,,,,,,,LD/RD,24,9,,Trade,NHL,0.057999999999999996,UFA,4800000,8500000,8500000,8500000,8500000,8500000
+Ian Cole,TBL,,,,,,,,,,,LD/RD,34,1,,Signed,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0
 Erik Cernak,TBL,,,,,,,,,,,RD,25,9,,Trade,NHL,0.036000000000000004,UFA,2950000,5200000,5200000,5200000,5200000,5200000
-Ross Colton,TBL,,,,,,,,,,,"LW, C",26,1,,Draft,NHL,0.013999999999999999,RFA,1125000,0,0,0,0,0
-Nikita Kucherov,TBL,,,,,,,,,,,RW,29,5,NMC,Draft,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,0
-Brayden Point,TBL,,,,,,,,,,,"C, RW",27,8,,Draft,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,9500000
-Steven Stamkos,TBL,,,,,,,,,,,"LW, C",33,2,NMC,Draft,NHL,0.10300000000000001,UFA,8500000,8500000,0,0,0,0
+Zach Bogosian,TBL,,,,,,,,,,,RD,32,2,NTC,Signed,NHL,0.01,UFA,850000,850000,0,0,0,0
+Nick Perbix,TBL,,,,,,,,,,,RD,24,3,ELC,Draft,NHL,0.01,UFA,842500,1125000,1125000,0,0,0
+Haydn Fleury,TBL,,,,,,,,,,,LD/RD,26,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
+Darren Raddysh,TBL,,,,,,,,,,,RD,27,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
+Maxim Cajkovic,TBL,,,,,,,,,,,RW,22,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
+Andrei Vasilevskiy,TBL,,,,,,,,,,,G,28,6,NMC,Draft,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,9500000
+Brent Seabrook,TBL,,,,,,,,,,,RD,37,2,M-NTC,Trade,LTIR,0.083,UFA,6875000,6875000,0,0,0,0
+Philippe Myers,TBL,,,,,,,,,,,RD,26,2,,Trade,Minor,0.017,UFA,1425000,275000,0,0,0,0
+Ilya Usau,TBL,,,,,,,,,,,C,21,3,ELC,Signed,Minor,0.0,RFA,897500,897500,897500,0,0,0
+Lucas Edmonds,TBL,,,,,,,,,,,"RW, LW",22,3,ELC,Draft,Minor,0.0,RFA,861667,861667,861667,0,0,0
+Bennett MacArthur,TBL,,,,,,,,,,,LW,22,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Brian Elliott,TBL,,,,,,,,,,,G,38,1,35+,Signed,NHL,0.011000000000000001,UFA,900000,0,0,0,0,0
+Cole Koepke,TBL,,,,,,,,,,,"LW, RW",24,1,ELC,Draft,Minor,0.0,RFA,842500,0,0,0,0,0
+Maxime Lagace,TBL,,,,,,,,,,,G,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Patrick Maroon,TBL,,,,,,,,,,,"LW, RW",34,2,M-NTC,Signed,NHL,0.012,UFA,1000000,1000000,0,0,0,0
 Pierre-Edouard Bellemare,TBL,,,,,,,,,,,"C, LW",38,1,35+,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0
-Alex Killorn,TBL,,,,,,,,,,,"RW, LW",33,1,M-NTC,Draft,NHL,0.054000000000000006,UFA,4450000,0,0,0,0,0
-Nicholas Paul,TBL,,,,,,,,,,,"C, LW",28,7,NTC,Trade,NHL,0.038,UFA,3150000,3150000,3150000,3150000,3150000,3150000
+Ross Colton,TBL,,,,,,,,,,,"LW, C",26,1,,Draft,NHL,0.013999999999999999,RFA,1125000,0,0,0,0,0
 Brandon Hagel,TBL,,,,,,,,,,,LW,24,2,,Trade,NHL,0.018000000000000002,RFA,1500000,1500000,0,0,0,0
+Nicholas Paul,TBL,,,,,,,,,,,"C, LW",28,7,NTC,Trade,NHL,0.038,UFA,3150000,3150000,3150000,3150000,3150000,3150000
+Alex Killorn,TBL,,,,,,,,,,,"RW, LW",33,1,M-NTC,Draft,NHL,0.054000000000000006,UFA,4450000,0,0,0,0,0
 Anthony Cirelli,TBL,,,,,,,,,,,"C, LW",25,9,,Draft,NHL,0.057999999999999996,UFA,4800000,6250000,6250000,6250000,6250000,6250000
-Ty Voit,TOR,,,,,,,,,,,LW,19,3,ELC,Draft,Junior,0.0,RFA,817778,817778,817778,0,0,0
-Auston Matthews,TOR,,,,,,,,,,,C,25,2,,Draft,NHL,0.141,UFA,11640250,11640250,0,0,0,0
-Semyon Der-Arguchintsev,TOR,,,,,,,,,,,C,22,1,ELC,Draft,Minor,0.0,RFA,766667,0,0,0,0,0
-Kyle Clifford,TOR,,,,,,,,,,,LW,32,2,,Trade,Minor,0.0,UFA,762500,762500,0,0,0,0
-Radim Zohorna,TOR,,,,,,,,,,,"C, LW, RW",26,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
-Ryan Tverberg,TOR,,,,,,,,,,,C,21,4,ELC,Draft,Minor,0.0,RFA,0,851667,851667,851667,0,0
-Topi Niemela,TOR,,,,,,,,,,,RD,21,3,ELC,Draft,Minor,0.0,RFA,856667,856667,856667,0,0,0
-Sam Lafferty,TOR,,,,,,,,,,,"RW, C, LW",28,2,,Trade,NHL,0.013999999999999999,UFA,1150000,1150000,0,0,0,0
-Mikko Kokkonen,TOR,,,,,,,,,,,LD,22,3,ELC,Draft,Minor,0.0,RFA,846667,846667,846667,0,0,0
-William Villeneuve,TOR,,,,,,,,,,,RD,21,3,ELC,Draft,Minor,0.0,RFA,817778,817778,817778,0,0,0
-John Tavares,TOR,,,,,,,,,,,"C, LW",32,3,NMC,Signed,NHL,0.133,UFA,11000000,11000000,11000000,0,0,0
-Carl Dahlstrom,TOR,,,,,,,,,,,LD,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Mac Hollowell,TOR,,,,,,,,,,,RD,24,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
+Steven Stamkos,TBL,,,,,,,,,,,"LW, C",33,2,NMC,Draft,NHL,0.10300000000000001,UFA,8500000,8500000,0,0,0,0
+Brayden Point,TBL,,,,,,,,,,,"C, RW",27,8,,Draft,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,9500000
+Nikita Kucherov,TBL,,,,,,,,,,,RW,29,5,NMC,Draft,NHL,0.115,UFA,9500000,9500000,9500000,9500000,9500000,0
 Jordie Benn,TOR,,,,,,,,,,,LD/RD,35,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Braeden Kressler,TOR,,,,,,,,,,,C,20,3,ELC,Signed,Junior,0.0,RFA,821111,821111,821111,0,0,0
+Mac Hollowell,TOR,,,,,,,,,,,RD,24,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
+Filip Kral,TOR,,,,,,,,,,,LD,23,1,ELC,Draft,Minor,0.0,RFA,810000,0,0,0,0,0
+William Villeneuve,TOR,,,,,,,,,,,RD,21,3,ELC,Draft,Minor,0.0,RFA,817778,817778,817778,0,0,0
+Auston Matthews,TOR,,,,,,,,,,,C,25,2,,Draft,NHL,0.141,UFA,11640250,11640250,0,0,0,0
+Topi Niemela,TOR,,,,,,,,,,,RD,21,3,ELC,Draft,Minor,0.0,RFA,856667,856667,856667,0,0,0
+Ryan Tverberg,TOR,,,,,,,,,,,C,21,4,ELC,Draft,Minor,0.0,RFA,0,851667,851667,851667,0,0
+Carl Dahlstrom,TOR,,,,,,,,,,,LD,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Radim Zohorna,TOR,,,,,,,,,,,"C, LW, RW",26,1,,Trade,Minor,0.0,UFA,750000,0,0,0,0,0
+Mikko Kokkonen,TOR,,,,,,,,,,,LD,22,3,ELC,Draft,Minor,0.0,RFA,846667,846667,846667,0,0,0
 Dennis Hildeby,TOR,,,,,,,,,,,G,21,3,ELC,Draft,Minor,0.0,RFA,843333,843333,843333,0,0,0
-Keith Petruzzelli,TOR,,,,,,,,,,,G,24,2,ELC,Signed,Minor,0.0,RFA,817500,817500,0,0,0,0
-Erik Kallgren,TOR,,,,,,,,,,,G,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-William Nylander,TOR,,,,,,,,,,,"RW, LW",26,2,,Draft,NHL,0.084,UFA,6962366,6962366,0,0,0,0
-Alexander Kerfoot,TOR,,,,,,,,,,,"LW, RW",28,1,M-NTC,Trade,NHL,0.042,UFA,3500000,0,0,0,0,0
-Calle Jarnkrok,TOR,,,,,,,,,,,"LW, RW",31,4,M-NTC,Signed,NHL,0.025,UFA,2100000,2100000,2100000,2100000,0,0
-Ryan O'Reilly,TOR,,,,,,,,,,,C,32,1,RS,Trade,NHL,0.023,UFA,1875000,0,0,0,0,0
-David Kampf,TOR,,,,,,,,,,,C,28,1,,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
-Mitchell Marner,TOR,,,,,,,,,,,RW,25,3,,Draft,NHL,0.132,UFA,10903000,10903000,10903000,0,0,0
-Pontus Holmberg,TOR,,,,,,,,,,,C,24,1,ELC,Draft,Minor,0.0,RFA,827500,0,0,0,0,0
-Nick Abruzzese,TOR,,,,,,,,,,,"LW, C",23,1,ELC,Draft,Minor,0.0,10.2(c),850000,0,0,0,0,0
-Dmitry Ovchinnikov,TOR,,,,,,,,,,,"C, LW, RW",20,2,ELC,Draft,Minor,0.0,10.2(c),835000,835000,0,0,0,0
 Michael Bunting,TOR,,,,,,,,,,,LW,27,1,,Signed,NHL,0.012,UFA,950000,0,0,0,0,0
+Joseph Woll,TOR,,,,,,,,,,,G,24,3,,Draft,Minor,0.0,RFA,766667,766667,766667,0,0,0
+Erik Kallgren,TOR,,,,,,,,,,,G,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
+Kyle Clifford,TOR,,,,,,,,,,,LW,32,2,,Trade,Minor,0.0,UFA,762500,762500,0,0,0,0
+Sam Lafferty,TOR,,,,,,,,,,,"RW, C, LW",28,2,,Trade,NHL,0.013999999999999999,UFA,1150000,1150000,0,0,0,0
+Noel Acciari,TOR,,,,,,,,,,,"C, RW",31,1,,Trade,NHL,0.015,UFA,1250000,0,0,0,0,0
+David Kampf,TOR,,,,,,,,,,,C,28,1,,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
+Ryan O'Reilly,TOR,,,,,,,,,,,C,32,1,RS,Trade,NHL,0.023,UFA,1875000,0,0,0,0,0
+Calle Jarnkrok,TOR,,,,,,,,,,,"LW, RW",31,4,M-NTC,Signed,NHL,0.025,UFA,2100000,2100000,2100000,2100000,0,0
+Alexander Kerfoot,TOR,,,,,,,,,,,"LW, RW",28,1,M-NTC,Trade,NHL,0.042,UFA,3500000,0,0,0,0,0
+William Nylander,TOR,,,,,,,,,,,"RW, LW",26,2,,Draft,NHL,0.084,UFA,6962366,6962366,0,0,0,0
+John Tavares,TOR,,,,,,,,,,,"C, LW",32,3,NMC,Signed,NHL,0.133,UFA,11000000,11000000,11000000,0,0,0
+Keith Petruzzelli,TOR,,,,,,,,,,,G,24,2,ELC,Signed,Minor,0.0,RFA,817500,817500,0,0,0,0
+Semyon Der-Arguchintsev,TOR,,,,,,,,,,,C,22,1,ELC,Draft,Minor,0.0,RFA,766667,0,0,0,0,0
+Dmitry Ovchinnikov,TOR,,,,,,,,,,,"C, LW, RW",20,2,ELC,Draft,Minor,0.0,10.2(c),835000,835000,0,0,0,0
+Braeden Kressler,TOR,,,,,,,,,,,C,20,3,ELC,Signed,Junior,0.0,RFA,821111,821111,821111,0,0,0
+Matthew Knies,TOR,,,,,,,,,,,LW,20,3,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,925000,0,0,0
 Zach Aston-Reese,TOR,,,,,,,,,,,"LW, RW",28,1,,Signed,NHL,0.01,UFA,840630,0,0,0,0,0
 Morgan Rielly,TOR,,,,,,,,,,,LD,29,8,NMC,Draft,NHL,0.091,UFA,7500000,7500000,7500000,7500000,7500000,7500000
 TJ Brodie,TOR,,,,,,,,,,,RD,32,2,NTC,Signed,NHL,0.061,UFA,5000000,5000000,0,0,0,0
@@ -1410,9 +1413,8 @@ Luke Schenn,TOR,,,,,,,,,,,RD,33,1,,Trade,NHL,0.01,UFA,850000,0,0,0,0,0
 Conor Timmins,TOR,,,,,,,,,,,RD,24,3,,Trade,NHL,0.01,RFA,850000,1100000,1100000,0,0,0
 Mark Giordano,TOR,,,,,,,,,,,LD,39,2,35+,Trade,NHL,0.01,UFA,800000,800000,0,0,0,0
 Erik Gustafsson,TOR,,,,,,,,,,,LD,31,1,,Trade,NHL,0.01,UFA,800000,0,0,0,0,0
-Alex Steeves,TOR,,,,,,,,,,,"LW, RW",23,2,ELC,Signed,Minor,0.0,RFA,834167,834167,0,0,0,0
 Matt Murray,TOR,,,,,,,,,,,G,28,2,RSM-NTC,Trade,NHL,0.057,UFA,4687500,4687500,0,0,0,0
-Joseph Woll,TOR,,,,,,,,,,,G,24,3,,Draft,Emerg. Loan,0.009000000000000001,RFA,766667,766667,766667,0,0,0
+Ilya Samsonov,TOR,,,,,,,,,,,G,26,1,,Signed,NHL,0.022000000000000002,RFA,1800000,0,0,0,0,0
 Jake Muzzin,TOR,,,,,,,,,,,LD,34,2,NTC,Trade,LTIR,0.068,UFA,5625000,5625000,0,0,0,0
 Nicholas Robertson,TOR,,,,,,,,,,,LW,21,2,ELC,Draft,LTIR,0.01,RFA,796667,796667,0,0,0,0
 Bobby McMann,TOR,,,,,,,,,,,"LW, RW",26,2,,Signed,LTIR,0.009000000000000001,UFA,762500,762500,0,0,0,0
@@ -1421,29 +1423,43 @@ Rodion Amirov,TOR,,,,,,,,,,,LW,21,2,ELC,Draft,SOIR,,RFA,0,925000,0,0,0,0
 Wayne Simmonds,TOR,,,,,,,,,,,"RW, LW",34,1,M-NTC,Signed,Minor,0.0,UFA,900000,0,0,0,0,0
 Fraser Minten,TOR,,,,,,,,,,,"C, LW",18,3,ELC,Draft,Junior,0.0,RFA,875000,875000,875000,0,0,0
 Roni Hirvonen,TOR,,,,,,,,,,,LW,21,3,ELC,Draft,Minor,0.0,RFA,856667,856667,856667,0,0,0
+Nick Abruzzese,TOR,,,,,,,,,,,"LW, C",23,1,ELC,Draft,Minor,0.0,10.2(c),850000,0,0,0,0,0
 Max Ellis,TOR,,,,,,,,,,,RW,23,2,ELC,Signed,Minor,0.0,RFA,838750,838750,0,0,0,0
-Filip Kral,TOR,,,,,,,,,,,LD,23,1,ELC,Draft,Minor,0.0,RFA,810000,0,0,0,0,0
-Ilya Samsonov,TOR,,,,,,,,,,,G,26,1,,Signed,NHL,0.022000000000000002,RFA,1800000,0,0,0,0,0
-Noel Acciari,TOR,,,,,,,,,,,"C, RW",31,1,,Trade,NHL,0.015,UFA,1250000,0,0,0,0,0
-Filip Hronek,VAN,,,,,,,,,,,RD,25,2,,Trade,NHL,0.053,RFA,4400000,4400000,0,0,0,0
-Tanner Pearson,VAN,,,,,,,,,,,LW,30,2,M-NTC,Trade,LTIR,0.039,UFA,3250000,3250000,0,0,0,0
+Alex Steeves,TOR,,,,,,,,,,,"LW, RW",23,2,ELC,Signed,Minor,0.0,RFA,834167,834167,0,0,0,0
+Pontus Holmberg,TOR,,,,,,,,,,,C,24,1,ELC,Draft,Minor,0.0,RFA,827500,0,0,0,0,0
+Ty Voit,TOR,,,,,,,,,,,LW,19,3,ELC,Draft,Junior,0.0,RFA,817778,817778,817778,0,0,0
+Mitchell Marner,TOR,,,,,,,,,,,RW,25,3,,Draft,NHL,0.132,UFA,10903000,10903000,10903000,0,0,0
+Akito Hirose,VAN,,,,,,,,,,,LD,24,1,ELC,Signed,NHL,0.025,10.2(c),2026667,0,0,0,0,0
+Jack Rathbone,VAN,,,,,,,,,,,LD,23,2,,Draft,Minor,0.0,RFA,850000,850000,0,0,0,0
 Ilya Mikheyev,VAN,,,,,,,,,,,"LW, RW",28,4,M-NTC,Signed,LTIR,0.057999999999999996,UFA,4750000,4750000,4750000,4750000,0,0
+Micheal Ferland,VAN,,,,,,,,,,,"LW, RW",30,1,M-NTC,Signed,LTIR,0.042,UFA,3500000,0,0,0,0,0
+Tanner Pearson,VAN,,,,,,,,,,,LW,30,2,M-NTC,Trade,LTIR,0.039,UFA,3250000,3250000,0,0,0,0
+Tucker Poolman,VAN,,,,,,,,,,,RD,29,3,,Signed,LTIR,0.03,UFA,2500000,2500000,2500000,0,0,0
+Nils Hoglander,VAN,,,,,,,,,,,"LW, RW",22,1,ELC,Draft,Minor,0.0,RFA,891667,0,0,0,0,0
+Josh Bloom,VAN,,,,,,,,,,,LW,19,3,ELC,Trade,Junior,0.0,RFA,859167,859167,859167,0,0,0
+Danila Klimovich,VAN,,,,,,,,,,,RW,20,3,ELC,Draft,Minor,0.0,RFA,855833,855833,855833,0,0,0
+Karel Plasek,VAN,,,,,,,,,,,"LW, RW",22,2,ELC,Draft,Loan,0.0,RFA,846667,846667,0,0,0,0
 Travis Dermott,VAN,,,,,,,,,,,LD/RD,26,1,,Trade,IR,0.018000000000000002,RFA,1500000,0,0,0,0,0
+Aatu Raty,VAN,,,,,,,,,,,C,20,3,ELC,Trade,Minor,0.0,RFA,836667,836667,836667,0,0,0
+Arshdeep Bains,VAN,,,,,,,,,,,LW,22,3,ELC,Signed,Minor,0.0,RFA,816667,816667,816667,0,0,0
+Justin Dowling,VAN,,,,,,,,,,,"C, LW",32,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+John Stevens,VAN,,,,,,,,,,,C,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Max Sasson,VAN,,,,,,,,,,,C,22,3,ELC,Signed,Minor,0.0,RFA,0,870000,870000,0,0,0
+Filip Johansson,VAN,,,,,,,,,,,RD,23,2,ELC,Signed,Minor,0.0,RFA,883750,883750,0,0,0,0
+Jett Woo,VAN,,,,,,,,,,,RD,22,1,ELC,Draft,Minor,0.0,RFA,860833,0,0,0,0,0
+Brady Keeper,VAN,,,,,,,,,,,RD,26,1,,Signed,Minor,0.0,UFA,762500,0,0,0,0,0
+Kirill Kudryavtsev,VAN,,,,,,,,,,,LD,19,4,ELC,Draft,Junior,0.0,RFA,0,850000,850000,850000,0,0
+Arturs Silovs,VAN,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,RFA,786111,786111,0,0,0,0
+Spencer Martin,VAN,,,,,,,,,,,G,27,2,,Trade,Minor,0.0,UFA,762500,762500,0,0,0,0
+Nikita Tolopilo,VAN,,,,,,,,,,,G,23,3,ELC,Signed,Minor,0.0,RFA,0,950000,950000,0,0,0
+Carson Focht,VAN,,,,,,,,,,,C,23,1,ELC,Draft,Minor,0.0,RFA,821667,0,0,0,0,0
 Oliver Ekman-Larsson,VAN,,,,,,,,,,,LD,31,5,RSNMC,Trade,IR,0.08800000000000001,UFA,7260000,7260000,7260000,7260000,7260000,0
-Collin Delia,VAN,,,,,,,,,,,G,28,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Linus Karlsson,VAN,,,,,,,,,,,C,23,2,ELC,Trade,Minor,0.0,RFA,883750,883750,0,0,0,0
 Thatcher Demko,VAN,,,,,,,,,,,G,27,4,,Draft,NHL,0.061,UFA,5000000,5000000,5000000,5000000,0,0
-Christian Wolanin,VAN,,,,,,,,,,,LD,28,3,,Signed,NHL,0.009000000000000001,UFA,750000,775000,775000,0,0,0
-Noah Juulsen,VAN,,,,,,,,,,,RD,26,1,,Trade,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
-Guillaume Brisebois,VAN,,,,,,,,,,,LD,25,3,,Draft,NHL,0.009000000000000001,UFA,750000,775000,775000,0,0,0
-Kyle Burroughs,VAN,,,,,,,,,,,LD/RD,27,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Jack Rathbone,VAN,,,,,,,,,,,LD,23,2,,Draft,Emerg. Loan,0.01,RFA,850000,850000,0,0,0,0
-Cole McWard,VAN,,,,,,,,,,,D,21,2,ELC,Signed,NHL,0.011000000000000001,RFA,922500,922500,0,0,0,0
-Ethan Bear,VAN,,,,,,,,,,,RD,25,1,RS,Trade,NHL,0.022000000000000002,RFA,1800000,0,0,0,0,0
-Akito Hirose,VAN,,,,,,,,,,,LD,23,1,ELC,Signed,NHL,0.025,10.2(c),2026667,0,0,0,0,0
 Elias Pettersson,VAN,,,,,,,,,,,"C, LW",24,2,,Draft,NHL,0.08900000000000001,RFA,7350000,7350000,0,0,0,0
 Brock Boeser,VAN,,,,,,,,,,,RW,26,3,,Draft,NHL,0.081,UFA,6650000,6650000,6650000,0,0,0
 J.T. Miller,VAN,,,,,,,,,,,"C, LW, RW",30,8,,Trade,NHL,0.064,UFA,5250000,8000000,8000000,8000000,8000000,8000000
-Conor Garland,VAN,,,,,,,,,,,"RW, LW",27,4,,Trade,NHL,0.06,UFA,4950000,4950000,4950000,4950000,0,0
+Collin Delia,VAN,,,,,,,,,,,G,28,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
 Anthony Beauvillier,VAN,,,,,,,,,,,"RW, LW",25,2,,Trade,NHL,0.05,UFA,4150000,4150000,0,0,0,0
 Andrei Kuzmenko,VAN,,,,,,,,,,,"LW, RW",27,3,ELC,Signed,NHL,0.012,UFA,950000,5500000,5500000,0,0,0
 Aidan McDonough,VAN,,,,,,,,,,,C,23,2,ELC,Draft,NHL,0.011000000000000001,10.2(c),925000,925000,0,0,0,0
@@ -1452,181 +1468,169 @@ Nils Ã…man,VAN,,,,,,,,,,,C,23,2,ELC,Signed,NHL,0.011000000000000001,RFA,88375
 Vitali Kravtsov,VAN,,,,,,,,,,,"LW, RW",23,1,,Trade,NHL,0.011000000000000001,RFA,875000,0,0,0,0,0
 Dakota Joshua,VAN,,,,,,,,,,,"C, LW",26,2,,Signed,NHL,0.01,UFA,825000,825000,0,0,0,0
 Jack Studnicka,VAN,,,,,,,,,,,"RW, C",24,2,,Trade,NHL,0.009000000000000001,RFA,762500,762500,0,0,0,0
-Sheldon Dries,VAN,,,,,,,,,,,C,28,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
+Conor Garland,VAN,,,,,,,,,,,"RW, LW",27,4,,Trade,NHL,0.06,UFA,4950000,4950000,4950000,4950000,0,0
 Phillip Di Giuseppe,VAN,,,,,,,,,,,LW,29,3,,Signed,NHL,0.009000000000000001,UFA,750000,775000,775000,0,0,0
-Micheal Ferland,VAN,,,,,,,,,,,"LW, RW",30,1,M-NTC,Signed,LTIR,0.042,UFA,3500000,0,0,0,0,0
-Quinn Hughes,VAN,,,,,,,,,,,LD,23,5,,Draft,NHL,0.095,UFA,7850000,7850000,7850000,7850000,7850000,0
+Sheldon Dries,VAN,,,,,,,,,,,C,28,2,,Signed,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
+Christian Wolanin,VAN,,,,,,,,,,,LD,28,3,,Signed,NHL,0.009000000000000001,UFA,750000,775000,775000,0,0,0
+Noah Juulsen,VAN,,,,,,,,,,,RD,26,1,,Trade,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
+Kyle Burroughs,VAN,,,,,,,,,,,LD/RD,27,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
+Cole McWard,VAN,,,,,,,,,,,D,21,2,ELC,Signed,NHL,0.011000000000000001,RFA,922500,922500,0,0,0,0
+Guillaume Brisebois,VAN,,,,,,,,,,,LD,25,3,,Draft,NHL,0.009000000000000001,UFA,750000,775000,775000,0,0,0
+Filip Hronek,VAN,,,,,,,,,,,RD,25,2,,Trade,NHL,0.053,RFA,4400000,4400000,0,0,0,0
 Tyler Myers,VAN,,,,,,,,,,,RD,33,2,M-NTC,Signed,NHL,0.073,UFA,6000000,6000000,0,0,0,0
-Nikita Tolopilo,VAN,,,,,,,,,,,G,23,3,ELC,Signed,Minor,0.0,RFA,0,950000,950000,0,0,0
-Spencer Martin,VAN,,,,,,,,,,,G,27,2,,Trade,Minor,0.0,UFA,762500,762500,0,0,0,0
-Arturs Silovs,VAN,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,RFA,786111,786111,0,0,0,0
-Kirill Kudryavtsev,VAN,,,,,,,,,,,LD,19,4,ELC,Draft,Junior,0.0,RFA,0,850000,850000,850000,0,0
-Brady Keeper,VAN,,,,,,,,,,,RD,26,1,,Signed,Minor,0.0,UFA,762500,0,0,0,0,0
-Jett Woo,VAN,,,,,,,,,,,RD,22,1,ELC,Draft,Minor,0.0,RFA,860833,0,0,0,0,0
-Tucker Poolman,VAN,,,,,,,,,,,RD,29,3,,Signed,LTIR,0.03,UFA,2500000,2500000,2500000,0,0,0
-Max Sasson,VAN,,,,,,,,,,,C,22,3,ELC,Signed,Minor,0.0,RFA,0,870000,870000,0,0,0
-John Stevens,VAN,,,,,,,,,,,C,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Justin Dowling,VAN,,,,,,,,,,,"C, LW",32,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Filip Johansson,VAN,,,,,,,,,,,RD,23,2,ELC,Signed,Minor,0.0,RFA,883750,883750,0,0,0,0
-Carson Focht,VAN,,,,,,,,,,,C,23,1,ELC,Draft,Minor,0.0,RFA,821667,0,0,0,0,0
-Aatu Raty,VAN,,,,,,,,,,,C,20,3,ELC,Trade,Minor,0.0,RFA,836667,836667,836667,0,0,0
-Karel Plasek,VAN,,,,,,,,,,,"LW, RW",22,2,ELC,Draft,Loan,0.0,RFA,846667,846667,0,0,0,0
-Danila Klimovich,VAN,,,,,,,,,,,RW,20,3,ELC,Draft,Minor,0.0,RFA,855833,855833,855833,0,0,0
-Josh Bloom,VAN,,,,,,,,,,,LW,19,3,ELC,Trade,Junior,0.0,RFA,859167,859167,859167,0,0,0
-Linus Karlsson,VAN,,,,,,,,,,,C,23,2,ELC,Trade,Minor,0.0,RFA,883750,883750,0,0,0,0
-Nils Hoglander,VAN,,,,,,,,,,,"LW, RW",22,1,ELC,Draft,Minor,0.0,RFA,891667,0,0,0,0,0
-Arshdeep Bains,VAN,,,,,,,,,,,LW,22,3,ELC,Signed,Minor,0.0,RFA,816667,816667,816667,0,0,0
-Jiri Patera,VGK,,,,,,,,,,,G,24,1,ELC,Draft,Minor,0.0,RFA,800000,0,0,0,0,0
-Christoffer Sedoff,VGK,,,,,,,,,,,LD,21,4,ELC,Signed,Junior,0.0,RFA,0,870000,870000,870000,0,0
-Connor Corcoran,VGK,,,,,,,,,,,RD,22,1,ELC,Draft,Minor,0.0,10.2(c),813333,0,0,0,0,0
-William Karlsson,VGK,,,,,,,,,,,C,30,5,M-NTC,Expansion,NHL,0.07200000000000001,UFA,5900000,5900000,5900000,5900000,5900000,0
-Kaedan Korczak,VGK,,,,,,,,,,,RD,22,2,ELC,Draft,Minor,0.0,RFA,789167,789167,0,0,0,0
-Lukas Cormier,VGK,,,,,,,,,,,LD,21,3,ELC,Draft,Minor,0.0,RFA,793333,793333,793333,0,0,0
-Daniil Miromanov,VGK,,,,,,,,,,,RD,25,2,,Signed,Minor,0.0,RFA,762500,762500,0,0,0,0
-Jonathan Marchessault,VGK,,,,,,,,,,,"RW, LW",32,2,M-NTC,Expansion,NHL,0.061,UFA,5000000,5000000,0,0,0,0
-Isaiah Saville,VGK,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,10.2(c),849667,849667,0,0,0,0
-Daniil Chayka,VGK,,,,,,,,,,,LD,20,3,ELC,Draft,Minor,0.0,RFA,847500,847500,847500,0,0,0
-Ben Hutton,VGK,,,,,,,,,,,LD,29,2,,Signed,NHL,0.01,UFA,850000,850000,0,0,0,0
-Nicolas Hague,VGK,,,,,,,,,,,LD,24,3,,Draft,NHL,0.027999999999999997,RFA,2294150,2294150,2294150,0,0,0
-Zach Whitecloud,VGK,,,,,,,,,,,RD,26,6,,Signed,NHL,0.033,UFA,2750000,2750000,2750000,2750000,2750000,2750000
-Brayden McNabb,VGK,,,,,,,,,,,LD,32,3,M-NTC,Expansion,NHL,0.035,UFA,2850000,2850000,2850000,0,0,0
-Shea Theodore,VGK,,,,,,,,,,,LD/RD,27,3,,Trade,NHL,0.063,UFA,5200000,5200000,5200000,0,0,0
-Alec Martinez,VGK,,,,,,,,,,,LD,35,2,M-NTC,Signed,NHL,0.064,UFA,5250000,5250000,0,0,0,0
-Alex Pietrangelo,VGK,,,,,,,,,,,RD,33,5,NMC,Signed,NHL,0.107,UFA,8800000,8800000,8800000,8800000,8800000,0
-Paul Cotter,VGK,,,,,,,,,,,"LW, C",23,4,ELC,Draft,NHL,0.009000000000000001,RFA,760000,775000,775000,775000,0,0
-Pavel Dorofeyev,VGK,,,,,,,,,,,C,22,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
-Keegan Kolesar,VGK,,,,,,,,,,,RW,25,3,,Trade,NHL,0.017,UFA,1400000,1400000,1400000,0,0,0
+Quinn Hughes,VAN,,,,,,,,,,,LD,23,5,,Draft,NHL,0.095,UFA,7850000,7850000,7850000,7850000,7850000,0
+Ethan Bear,VAN,,,,,,,,,,,RD,25,1,RS,Trade,NHL,0.022000000000000002,RFA,1800000,0,0,0,0,0
 William Carrier,VGK,,,,,,,,,,,LW,28,2,,Expansion,NHL,0.017,UFA,1400000,1400000,0,0,0,0
+Keegan Kolesar,VGK,,,,,,,,,,,RW,26,3,,Trade,NHL,0.017,UFA,1400000,1400000,1400000,0,0,0
+Nicolas Roy,VGK,,,,,,,,,,,"C, RW",26,5,,Trade,NHL,0.036000000000000004,UFA,3000000,3000000,3000000,3000000,3000000,0
+Pavel Dorofeyev,VGK,,,,,,,,,,,C,22,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
 Phil Kessel,VGK,,,,,,,,,,,RW,35,1,M-NTC,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
 Brett Howden,VGK,,,,,,,,,,,"C, LW",25,1,,Signed,NHL,0.018000000000000002,RFA,1500000,0,0,0,0,0
-Reilly Smith,VGK,,,,,,,,,,,"LW, RW",32,3,M-NTC,Signed,NHL,0.061,UFA,5000000,5000000,5000000,0,0,0
-Nicolas Roy,VGK,,,,,,,,,,,"C, RW",26,5,,Trade,NHL,0.036000000000000004,UFA,3000000,3000000,3000000,3000000,3000000,0
-Chandler Stephenson,VGK,,,,,,,,,,,"C, LW",28,2,,Trade,NHL,0.033,UFA,2750000,2750000,0,0,0,0
-Ivan Barbashev,VGK,,,,,,,,,,,"LW, C",27,1,,Trade,NHL,0.027000000000000003,UFA,2250000,0,0,0,0,0
 Teddy Blueger,VGK,,,,,,,,,,,"C, LW",28,1,,Trade,NHL,0.027000000000000003,UFA,2200000,0,0,0,0,0
-Jack Eichel,VGK,,,,,,,,,,,C,26,4,NMC,Trade,NHL,0.121,UFA,10000000,10000000,10000000,10000000,0,0
-Brayden Pachal,VGK,,,,,,,,,,,RD,23,1,,Signed,Emerg. Loan,0.009000000000000001,RFA,750000,0,0,0,0,0
-Jonathan Quick,VGK,,,,,,,,,,,G,37,1,RS,Trade,NHL,0.035,UFA,2900000,0,0,0,0,0
-Michael Amadio,VGK,,,,,,,,,,,"LW, C, RW",26,2,,Waivers claim,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
-Adin Hill,VGK,,,,,,,,,,,G,26,1,,Trade,NHL,0.026000000000000002,UFA,2175000,0,0,0,0,0
-Joe Fleming,VGK,,,,,,,,,,,RD,19,3,ELC,Signed,Junior,0.0,RFA,859167,859167,859167,0,0,0
-Laurent Brossoit,VGK,,,,,,,,,,,G,30,1,,Signed,NHL,0.027999999999999997,UFA,2325000,0,0,0,0,0
-Layton Ahac,VGK,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,897500,897500,0,0,0,0
-Dysin Mayo,VGK,,,,,,,,,,,RD,26,3,,Trade,Minor,0.0,UFA,950000,950000,950000,0,0,0
-Sakari Manninen,VGK,,,,,,,,,,,"C, LW",31,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Spencer Foo,VGK,,,,,,,,,,,"RW, C",28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Ivan Barbashev,VGK,,,,,,,,,,,"LW, C",27,1,,Trade,NHL,0.027000000000000003,UFA,2250000,0,0,0,0,0
+Reilly Smith,VGK,,,,,,,,,,,"LW, RW",32,3,M-NTC,Signed,NHL,0.061,UFA,5000000,5000000,5000000,0,0,0
 Sheldon Rempal,VGK,,,,,,,,,,,"LW, RW",27,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Jonas Rondbjerg,VGK,,,,,,,,,,,RW,24,3,,Draft,Minor,0.0,RFA,766667,766667,766667,0,0,0
+Daniil Chayka,VGK,,,,,,,,,,,LD,20,3,ELC,Draft,Minor,0.0,RFA,847500,847500,847500,0,0,0
+Dysin Mayo,VGK,,,,,,,,,,,RD,26,3,,Trade,Minor,0.0,UFA,950000,950000,950000,0,0,0
+Layton Ahac,VGK,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,897500,897500,0,0,0,0
+Joe Fleming,VGK,,,,,,,,,,,RD,19,3,ELC,Signed,Junior,0.0,RFA,859167,859167,859167,0,0,0
+Connor Corcoran,VGK,,,,,,,,,,,RD,22,1,ELC,Draft,Minor,0.0,10.2(c),813333,0,0,0,0,0
+Jiri Patera,VGK,,,,,,,,,,,G,24,1,ELC,Draft,Minor,0.0,RFA,800000,0,0,0,0,0
+Brayden Pachal,VGK,,,,,,,,,,,RD,23,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
+Lukas Cormier,VGK,,,,,,,,,,,LD,21,3,ELC,Draft,Minor,0.0,RFA,793333,793333,793333,0,0,0
+Kaedan Korczak,VGK,,,,,,,,,,,RD,22,2,ELC,Draft,Minor,0.0,RFA,789167,789167,0,0,0,0
+Michael Amadio,VGK,,,,,,,,,,,"LW, C, RW",26,2,,Waivers claim,NHL,0.009000000000000001,UFA,762500,762500,0,0,0,0
+Spencer Foo,VGK,,,,,,,,,,,"RW, C",28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Paul Cotter,VGK,,,,,,,,,,,"LW, C",23,4,ELC,Draft,NHL,0.009000000000000001,RFA,760000,775000,775000,775000,0,0
+Christoffer Sedoff,VGK,,,,,,,,,,,LD,21,4,ELC,Signed,Junior,0.0,RFA,0,870000,870000,870000,0,0
+Alec Martinez,VGK,,,,,,,,,,,LD,35,2,M-NTC,Signed,NHL,0.064,UFA,5250000,5250000,0,0,0,0
 Marcus Kallionkieli,VGK,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,784722,784722,0,0,0,0
+Daniil Miromanov,VGK,,,,,,,,,,,RD,25,2,,Signed,Minor,0.0,RFA,762500,762500,0,0,0,0
 Maxim Marushev,VGK,,,,,,,,,,,C,24,1,ELC,Draft,Minor,0.0,RFA,810000,0,0,0,0,0
-Byron Froese,VGK,,,,,,,,,,,C,32,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Mason Primeau,VGK,,,,,,,,,,,C,21,2,ELC,Draft,Minor,0.0,RFA,825000,825000,0,0,0,0
 Jakub Brabenec,VGK,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,846667,846667,846667,0,0,0
 Matyas Sapovaliv,VGK,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,860000,860000,860000,0,0,0
 Ivan Morozov,VGK,,,,,,,,,,,C,22,2,ELC,Draft,Minor,0.0,RFA,925000,925000,0,0,0,0
 Brendan Brisson,VGK,,,,,,,,,,,"C, LW, RW",21,3,ELC,Draft,Minor,0.0,RFA,925000,925000,925000,0,0,0
 Nolan Patrick,VGK,,,,,,,,,,,"C, RW",24,1,,Trade,LTIR,0.015,RFA,1200000,0,0,0,0,0
 Robin Lehner,VGK,,,,,,,,,,,G,31,3,M-NTC,Trade,LTIR,0.061,UFA,5000000,5000000,5000000,0,0,0
-Mason Primeau,VGK,,,,,,,,,,,C,21,2,ELC,Draft,Minor,0.0,RFA,825000,825000,0,0,0,0
 Mark Stone,VGK,,,,,,,,,,,RW,30,5,NMC,Trade,LTIR,0.115,UFA,9500000,9500000,9500000,9500000,9500000,0
 Logan Thompson,VGK,,,,,,,,,,,G,26,3,,Signed,NHL,0.009000000000000001,UFA,766667,766667,766667,0,0,0
-Dylan DeMelo,WPG,,,,,,,,,,,RD,29,2,M-NTC,Trade,NHL,0.036000000000000004,UFA,3000000,3000000,0,0,0,0
+Adin Hill,VGK,,,,,,,,,,,G,26,1,,Trade,Conditioning,0.026000000000000002,UFA,2175000,0,0,0,0,0
+Laurent Brossoit,VGK,,,,,,,,,,,G,30,1,,Signed,NHL,0.027999999999999997,UFA,2325000,0,0,0,0,0
+Jonathan Quick,VGK,,,,,,,,,,,G,37,1,RS,Trade,NHL,0.035,UFA,2900000,0,0,0,0,0
+Ben Hutton,VGK,,,,,,,,,,,LD,29,2,,Signed,NHL,0.01,UFA,850000,850000,0,0,0,0
+Sakari Manninen,VGK,,,,,,,,,,,"C, LW",31,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Nicolas Hague,VGK,,,,,,,,,,,LD,24,3,,Draft,NHL,0.027999999999999997,RFA,2294150,2294150,2294150,0,0,0
+Zach Whitecloud,VGK,,,,,,,,,,,RD,26,6,,Signed,NHL,0.033,UFA,2750000,2750000,2750000,2750000,2750000,2750000
+Brayden McNabb,VGK,,,,,,,,,,,LD,32,3,M-NTC,Expansion,NHL,0.035,UFA,2850000,2850000,2850000,0,0,0
+Shea Theodore,VGK,,,,,,,,,,,LD/RD,27,3,,Trade,NHL,0.063,UFA,5200000,5200000,5200000,0,0,0
+Alex Pietrangelo,VGK,,,,,,,,,,,RD,33,5,NMC,Signed,NHL,0.107,UFA,8800000,8800000,8800000,8800000,8800000,0
+Jack Eichel,VGK,,,,,,,,,,,C,26,4,NMC,Trade,NHL,0.121,UFA,10000000,10000000,10000000,10000000,0,0
+Byron Froese,VGK,,,,,,,,,,,C,32,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Jonathan Marchessault,VGK,,,,,,,,,,,"RW, LW",32,2,M-NTC,Expansion,NHL,0.061,UFA,5000000,5000000,0,0,0,0
+Jonas Rondbjerg,VGK,,,,,,,,,,,RW,24,3,,Draft,Minor,0.0,RFA,766667,766667,766667,0,0,0
+William Karlsson,VGK,,,,,,,,,,,C,30,5,M-NTC,Expansion,NHL,0.07200000000000001,UFA,5900000,5900000,5900000,5900000,5900000,0
+Chandler Stephenson,VGK,,,,,,,,,,,"C, LW",28,2,,Trade,NHL,0.033,UFA,2750000,2750000,0,0,0,0
+Isaiah Saville,VGK,,,,,,,,,,,G,22,2,ELC,Draft,Minor,0.0,10.2(c),849667,849667,0,0,0,0
+Evan Cormier,WPG,,,,,,,,,,,G,25,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
+Alex Limoges,WPG,,,,,,,,,,,"C, LW",25,1,ELC,Signed,Minor,0.0,RFA,780000,0,0,0,0,0
+Kristian Reichel,WPG,,,,,,,,,,,RW,24,2,,Signed,Minor,0.0,RFA,775000,775000,0,0,0,0
+Jeff Malott,WPG,,,,,,,,,,,LW,26,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
+Dominic Toninato,WPG,,,,,,,,,,,"C, LW",29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Parker Ford,WPG,,,,,,,,,,,C,22,3,ELC,Signed,Minor,0.0,RFA,0,867500,867500,0,0,0
+Elias Salomonsson,WPG,,,,,,,,,,,RD,18,3,ELC,Draft,Junior,0.0,RFA,870000,870000,870000,0,0,0
+Ville Heinola,WPG,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,863333,863333,0,0,0,0
+Simon Lundmark,WPG,,,,,,,,,,,RD,22,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
+Declan Chisholm,WPG,,,,,,,,,,,LD/RD,23,1,ELC,Draft,Minor,0.0,RFA,815000,0,0,0,0,0
+Dmitri Kuzmin,WPG,,,,,,,,,,,LD,19,3,ELC,Draft,Junior,0.0,RFA,807778,807778,807778,0,0,0
+Leon Gawanke,WPG,,,,,,,,,,,LD/RD,23,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
+Ashton Sautner,WPG,,,,,,,,,,,LD,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Oskari Salminen,WPG,,,,,,,,,,,G,23,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,0,0
+Arvid Holm,WPG,,,,,,,,,,,G,24,1,ELC,Draft,Minor,0.0,RFA,845833,0,0,0,0,0
+Mikhail Berdin,WPG,,,,,,,,,,,G,25,1,,Draft,Loan,0.0,UFA,750000,0,0,0,0,0
+Jansen Harkins,WPG,,,,,,,,,,,"LW, C",25,2,,Draft,Minor,0.0,UFA,850000,850000,0,0,0,0
+Tyrel Bauer,WPG,,,,,,,,,,,RD,21,3,ELC,Draft,Minor,0.0,RFA,850000,850000,850000,0,0,0
+Henri Nikkanen,WPG,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Daniel Torgersson,WPG,,,,,,,,,,,"LW, RW",21,3,ELC,Draft,Minor,0.0,RFA,867500,867500,867500,0,0,0
+Morgan Barron,WPG,,,,,,,,,,,"LW, C, RW",24,1,ELC,Trade,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
+Karson Kuhlman,WPG,,,,,,,,,,,RW,27,1,,Waivers claim,NHL,0.01,UFA,825000,0,0,0,0,0
+David Gustafsson,WPG,,,,,,,,,,,"LW, C",22,2,,Draft,NHL,0.009000000000000001,RFA,775000,775000,0,0,0,0
+Axel Jonsson-Fjallby,WPG,,,,,,,,,,,LW,25,1,,Waivers claim,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
 Saku Maenalanen,WPG,,,,,,,,,,,"RW, LW",28,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
 Sam Gagner,WPG,,,,,,,,,,,"RW, C",33,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
-Brenden Dillon,WPG,,,,,,,,,,,LD,32,2,,Trade,NHL,0.047,UFA,3900000,3900000,0,0,0,0
-Nate Schmidt,WPG,,,,,,,,,,,LD/RD,31,3,M-NTC,Trade,NHL,0.07200000000000001,UFA,5950000,5950000,5950000,0,0,0
-Neal Pionk,WPG,,,,,,,,,,,RD,27,3,,Trade,NHL,0.071,UFA,5875000,5875000,5875000,0,0,0
-Axel Jonsson-Fjallby,WPG,,,,,,,,,,,LW,25,1,,Waivers claim,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
+Kevin Stenlund,WPG,,,,,,,,,,,"C, RW",26,1,,Signed,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
 Joshua Morrissey,WPG,,,,,,,,,,,LD,28,6,NMC,Draft,NHL,0.076,UFA,6250000,6250000,6250000,6250000,6250000,6250000
-David Gustafsson,WPG,,,,,,,,,,,"LW, C",22,2,,Draft,NHL,0.009000000000000001,RFA,775000,775000,0,0,0,0
-Kyle Connor,WPG,,,,,,,,,,,LW,26,4,,Draft,NHL,0.087,UFA,7142857,7142857,7142857,7142857,0,0
-Morgan Barron,WPG,,,,,,,,,,,"LW, C, RW",24,1,ELC,Trade,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
+Nate Schmidt,WPG,,,,,,,,,,,LD/RD,31,3,M-NTC,Trade,NHL,0.07200000000000001,UFA,5950000,5950000,5950000,0,0,0
+Danny Zhilkin,WPG,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,860000,860000,860000,0,0,0
+Neal Pionk,WPG,,,,,,,,,,,RD,27,3,,Trade,NHL,0.071,UFA,5875000,5875000,5875000,0,0,0
+Dylan DeMelo,WPG,,,,,,,,,,,RD,29,2,M-NTC,Trade,NHL,0.036000000000000004,UFA,3000000,3000000,0,0,0,0
+Dylan Samberg,WPG,,,,,,,,,,,LD,24,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
+Logan Stanley,WPG,,,,,,,,,,,LD,24,1,,Draft,NHL,0.011000000000000001,RFA,900000,0,0,0,0,0
+Kyle Capobianco,WPG,,,,,,,,,,,LD,25,2,,Signed,NHL,0.009000000000000001,RFA,762500,762500,0,0,0,0
+Connor Hellebuyck,WPG,,,,,,,,,,,G,29,2,,Draft,NHL,0.075,UFA,6166666,6166666,0,0,0,0
+David Rittich,WPG,,,,,,,,,,,G,30,1,,Signed,NHL,0.011000000000000001,UFA,900000,0,0,0,0,0
+Cole Perfetti,WPG,,,,,,,,,,,"LW, C",21,2,ELC,Draft,IR,0.011000000000000001,RFA,894167,894167,0,0,0,0
+Brad Lambert,WPG,,,,,,,,,,,"C, RW",19,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0
+Chaz Lucius,WPG,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,925000,925000,925000,0,0,0
+Brenden Dillon,WPG,,,,,,,,,,,LD,32,2,,Trade,NHL,0.047,UFA,3900000,3900000,0,0,0,0
+Wyatt Bongiovanni,WPG,,,,,,,,,,,C,23,2,ELC,Signed,Minor,0.0,RFA,802500,802500,0,0,0,0
 Vladislav Namestnikov,WPG,,,,,,,,,,,"LW, RW, C",30,1,RSM-NTC,Trade,NHL,0.015,UFA,1250000,0,0,0,0,0
-Mason Appleton,WPG,,,,,,,,,,,RW,27,3,,Trade,NHL,0.026000000000000002,UFA,2166667,2166667,2166667,0,0,0
 Adam Lowry,WPG,,,,,,,,,,,C,30,4,M-NTC,Draft,NHL,0.039,UFA,3250000,3250000,3250000,3250000,0,0
 Nino Niederreiter,WPG,,,,,,,,,,,"LW, RW",30,2,,Trade,NHL,0.048,UFA,4000000,4000000,0,0,0,0
 Pierre-Luc Dubois,WPG,,,,,,,,,,,C,24,1,,Trade,NHL,0.073,RFA,6000000,0,0,0,0,0
 Nikolaj Ehlers,WPG,,,,,,,,,,,"RW, LW",27,3,M-NTC,Draft,NHL,0.073,UFA,6000000,6000000,6000000,0,0,0
 Mark Scheifele,WPG,,,,,,,,,,,C,30,2,M-NTC,Draft,NHL,0.07400000000000001,UFA,6125000,6125000,0,0,0,0
+Kyle Connor,WPG,,,,,,,,,,,LW,26,4,,Draft,NHL,0.087,UFA,7142857,7142857,7142857,7142857,0,0
 Blake Wheeler,WPG,,,,,,,,,,,"RW, C",36,2,"M-NTC, NMC",Trade,NHL,0.1,UFA,8250000,8250000,0,0,0,0
-Dylan Samberg,WPG,,,,,,,,,,,LD,24,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0
-Karson Kuhlman,WPG,,,,,,,,,,,RW,27,1,,Waivers claim,NHL,0.01,UFA,825000,0,0,0,0,0
-Logan Stanley,WPG,,,,,,,,,,,LD,24,1,,Draft,NHL,0.011000000000000001,RFA,900000,0,0,0,0,0
-Kevin Stenlund,WPG,,,,,,,,,,,"C, RW",26,1,,Signed,NHL,0.009000000000000001,RFA,750000,0,0,0,0,0
-Connor Hellebuyck,WPG,,,,,,,,,,,G,29,2,,Draft,NHL,0.075,UFA,6166666,6166666,0,0,0,0
-Evan Cormier,WPG,,,,,,,,,,,G,25,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Kyle Capobianco,WPG,,,,,,,,,,,LD,25,2,,Signed,NHL,0.009000000000000001,RFA,762500,762500,0,0,0,0
-Mikhail Berdin,WPG,,,,,,,,,,,G,25,1,,Draft,Loan,0.0,UFA,750000,0,0,0,0,0
-Arvid Holm,WPG,,,,,,,,,,,G,24,1,ELC,Draft,Minor,0.0,RFA,845833,0,0,0,0,0
-Oskari Salminen,WPG,,,,,,,,,,,G,23,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,0,0
-Leon Gawanke,WPG,,,,,,,,,,,LD/RD,23,1,,Draft,Minor,0.0,RFA,750000,0,0,0,0,0
-Dmitri Kuzmin,WPG,,,,,,,,,,,LD,19,3,ELC,Draft,Junior,0.0,RFA,807778,807778,807778,0,0,0
-Declan Chisholm,WPG,,,,,,,,,,,LD/RD,23,1,ELC,Draft,Minor,0.0,RFA,815000,0,0,0,0,0
-Tyrel Bauer,WPG,,,,,,,,,,,RD,21,3,ELC,Draft,Minor,0.0,RFA,850000,850000,850000,0,0,0
-Simon Lundmark,WPG,,,,,,,,,,,RD,22,2,ELC,Draft,Minor,0.0,RFA,850833,850833,0,0,0,0
-Ville Heinola,WPG,,,,,,,,,,,LD,22,2,ELC,Draft,Minor,0.0,RFA,863333,863333,0,0,0,0
-Elias Salomonsson,WPG,,,,,,,,,,,RD,18,3,ELC,Draft,Junior,0.0,RFA,870000,870000,870000,0,0,0
-Parker Ford,WPG,,,,,,,,,,,C,22,3,ELC,Signed,Minor,0.0,RFA,0,867500,867500,0,0,0
-Ashton Sautner,WPG,,,,,,,,,,,LD,28,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Jeff Malott,WPG,,,,,,,,,,,LW,26,2,,Signed,Minor,0.0,UFA,762500,762500,0,0,0,0
-Dominic Toninato,WPG,,,,,,,,,,,"C, LW",29,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Cole Perfetti,WPG,,,,,,,,,,,"LW, C",21,2,ELC,Draft,IR,0.011000000000000001,RFA,894167,894167,0,0,0,0
-Brad Lambert,WPG,,,,,,,,,,,"C, RW",19,3,ELC,Draft,Junior,0.0,RFA,950000,950000,950000,0,0,0
-David Rittich,WPG,,,,,,,,,,,G,30,1,,Signed,NHL,0.011000000000000001,UFA,900000,0,0,0,0,0
-Daniel Torgersson,WPG,,,,,,,,,,,"LW, RW",21,3,ELC,Draft,Minor,0.0,RFA,867500,867500,867500,0,0,0
-Chaz Lucius,WPG,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,925000,925000,925000,0,0,0
-Henri Nikkanen,WPG,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Jansen Harkins,WPG,,,,,,,,,,,"LW, C",25,2,,Draft,Minor,0.0,UFA,850000,850000,0,0,0,0
-Wyatt Bongiovanni,WPG,,,,,,,,,,,C,23,2,ELC,Signed,Minor,0.0,RFA,802500,802500,0,0,0,0
-Alex Limoges,WPG,,,,,,,,,,,"C, LW",25,1,ELC,Signed,Minor,0.0,RFA,780000,0,0,0,0,0
-Kristian Reichel,WPG,,,,,,,,,,,RW,24,2,,Signed,Minor,0.0,RFA,775000,775000,0,0,0,0
-Danny Zhilkin,WPG,,,,,,,,,,,C,19,3,ELC,Draft,Junior,0.0,RFA,860000,860000,860000,0,0,0
-Garrett Pilon,WSH,,,,,,,,,,,C,24,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
-Henrik Borgstrom,WSH,,,,,,,,,,,C,25,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Beck Malenstyn,WSH,,,,,,,,,,,"C, LW",25,2,,Draft,Minor,0.0,RFA,762500,762500,0,0,0,0
-Riley Sutter,WSH,,,,,,,,,,,RW,23,1,ELC,Draft,Minor,0.0,RFA,764167,0,0,0,0,0
-Connor McMichael,WSH,,,,,,,,,,,"LW, C",22,2,ELC,Draft,Minor,0.0,RFA,863333,863333,0,0,0,0
-Bogdan Trineyev,WSH,,,,,,,,,,,RW,21,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Henry Rybinski,WSH,,,,,,,,,,,RW,21,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
-Hendrix Lapierre,WSH,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,863333,863333,863333,0,0,0
-Joe Snively,WSH,,,,,,,,,,,LW,27,2,,Signed,Minor,0.0,UFA,800000,800000,0,0,0,0
-Michael Sgarbossa,WSH,,,,,,,,,,,C,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Lucas Johansen,WSH,,,,,,,,,,,LD,25,2,,Draft,Minor,0.0,RFA,762500,762500,0,0,0,0
-Ethen Frank,WSH,,,,,,,,,,,C,25,2,,Signed,Minor,0.0,RFA,0,775000,0,0,0,0
-Ryan Hofer,WSH,,,,,,,,,,,C,20,4,ELC,Draft,Minor,0.0,RFA,0,851667,851667,851667,0,0
-Vincent Iorio,WSH,,,,,,,,,,,RD,20,3,ELC,Draft,Minor,0.0,RFA,845000,845000,845000,0,0,0
-Alexander Suzdalev,WSH,,,,,,,,,,,LW,19,3,ELC,Draft,Junior,0.0,RFA,878333,878333,878333,0,0,0
-Dylan McIlrath,WSH,,,,,,,,,,,RD,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Bobby Nardella,WSH,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Hunter Shepard,WSH,,,,,,,,,,,G,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Zachary Fucale,WSH,,,,,,,,,,,G,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Garin Bjorklund,WSH,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,843333,843333,843333,0,0,0
-Clay Stevenson,WSH,,,,,,,,,,,G,24,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,0,0
-Gabriel Carlsson,WSH,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
-Michael Vecchione,WSH,,,,,,,,,,,"C, RW",30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
-Ludwig Persson,WSH,,,,,,,,,,,"LW, C",19,3,ELC,Draft,Minor,0.0,RFA,878333,878333,878333,0,0,0
-Mitchell Gibson,WSH,,,,,,,,,,,G,23,2,ELC,Draft,NHL,,RFA,0,867500,0,0,0,0
-Alex Ovechkin,WSH,,,,,,,,,,,LW,37,4,"35+M-NTC, NMC",Draft,NHL,0.115,UFA,9500000,9500000,9500000,9500000,0,0
-Nicklas Backstrom,WSH,,,,,,,,,,,C,35,3,NMC,Draft,NHL,0.11199999999999999,UFA,9200000,9200000,9200000,0,0,0
-Evgeny Kuznetsov,WSH,,,,,,,,,,,C,30,3,M-NTC,Draft,NHL,0.095,UFA,7800000,7800000,7800000,0,0,0
-T.J. Oshie,WSH,,,,,,,,,,,RW,36,3,M-NTC,Trade,NHL,0.07,UFA,5750000,5750000,5750000,0,0,0
-Anthony Mantha,WSH,,,,,,,,,,,"LW, RW",28,2,,Trade,NHL,0.069,UFA,5700000,5700000,0,0,0,0
-Tom Wilson,WSH,,,,,,,,,,,RW,29,2,M-NTC,Draft,NHL,0.063,UFA,5166667,5166667,0,0,0,0
-Dylan Strome,WSH,,,,,,,,,,,C,26,6,,Signed,NHL,0.042,UFA,3500000,5000000,5000000,5000000,5000000,5000000
-Craig Smith,WSH,,,,,,,,,,,"RW, C",33,1,,Trade,NHL,0.038,UFA,3100000,0,0,0,0,0
-Conor Sheary,WSH,,,,,,,,,,,"LW, RW",30,1,,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
-Nic Dowd,WSH,,,,,,,,,,,C,32,3,,Signed,NHL,0.016,UFA,1300000,1300000,1300000,0,0,0
-Nicolas Aube-Kubel,WSH,,,,,,,,,,,RW,26,2,,Waivers claim,NHL,0.012,UFA,1000000,1225000,0,0,0,0
-Aliaksei Protas,WSH,,,,,,,,,,,"RW, LW, C",22,2,ELC,Draft,NHL,0.01,RFA,789167,789167,0,0,0,0
-John Carlson,WSH,,,,,,,,,,,RD,33,4,M-NTC,Draft,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,8000000,0,0
+Mason Appleton,WPG,,,,,,,,,,,RW,27,3,,Trade,NHL,0.026000000000000002,UFA,2166667,2166667,2166667,0,0,0
+Beck Malenstyn,WSH,,,,,,,,,,,"C, LW",25,2,,Draft,Emerg. Loan,0.009000000000000001,RFA,762500,762500,0,0,0,0
+Sonny Milano,WSH,,,,,,,,,,,"LW, RW",26,4,,Signed,NHL,0.009000000000000001,UFA,750000,1900000,1900000,1900000,0,0
+Nick Jensen,WSH,,,,,,,,,,,RD,32,4,,Trade,NHL,0.03,UFA,2500000,4050000,4050000,4050000,0,0
 Rasmus Sandin,WSH,,,,,,,,,,,LD,23,2,,Trade,NHL,0.017,RFA,1400000,1400000,0,0,0,0
 Trevor van Riemsdyk,WSH,,,,,,,,,,,RD,31,4,,Signed,NHL,0.012,UFA,950000,3000000,3000000,3000000,0,0
 Alexander Alexeyev,WSH,,,,,,,,,,,LD/RD,23,1,ELC,Draft,NHL,0.01,RFA,863333,0,0,0,0,0
 Martin Fehervary,WSH,,,,,,,,,,,LD/RD,23,1,ELC,Draft,NHL,0.01,RFA,791667,0,0,0,0,0
 Matt Irwin,WSH,,,,,,,,,,,LD/RD,35,1,,Signed,NHL,0.009000000000000001,UFA,750000,0,0,0,0,0
 Darcy Kuemper,WSH,,,,,,,,,,,G,32,5,M-NTC,Signed,NHL,0.064,UFA,5250000,5250000,5250000,5250000,5250000,0
+John Carlson,WSH,,,,,,,,,,,RD,33,4,M-NTC,Draft,NHL,0.09699999999999999,UFA,8000000,8000000,8000000,8000000,0,0
+Aliaksei Protas,WSH,,,,,,,,,,,"RW, LW, C",22,2,ELC,Draft,NHL,0.01,RFA,789167,789167,0,0,0,0
+Gabriel Carlsson,WSH,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
+Nic Dowd,WSH,,,,,,,,,,,C,32,3,,Signed,NHL,0.016,UFA,1300000,1300000,1300000,0,0,0
 Charlie Lindgren,WSH,,,,,,,,,,,G,29,3,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,1100000,0,0,0
-Connor Brown,WSH,,,,,,,,,,,"RW, LW",29,1,,Trade,LTIR,0.044000000000000004,UFA,3600000,0,0,0,0,0
+Conor Sheary,WSH,,,,,,,,,,,"LW, RW",30,1,,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0
+Craig Smith,WSH,,,,,,,,,,,"RW, C",33,1,,Trade,NHL,0.038,UFA,3100000,0,0,0,0,0
+Dylan Strome,WSH,,,,,,,,,,,C,26,6,,Signed,NHL,0.042,UFA,3500000,5000000,5000000,5000000,5000000,5000000
+Tom Wilson,WSH,,,,,,,,,,,RW,29,2,M-NTC,Draft,NHL,0.063,UFA,5166667,5166667,0,0,0,0
+Anthony Mantha,WSH,,,,,,,,,,,"LW, RW",28,2,,Trade,NHL,0.069,UFA,5700000,5700000,0,0,0,0
+T.J. Oshie,WSH,,,,,,,,,,,RW,36,3,M-NTC,Trade,NHL,0.07,UFA,5750000,5750000,5750000,0,0,0
+Evgeny Kuznetsov,WSH,,,,,,,,,,,C,30,3,M-NTC,Draft,NHL,0.095,UFA,7800000,7800000,7800000,0,0,0
+Nicklas Backstrom,WSH,,,,,,,,,,,C,35,3,NMC,Draft,NHL,0.11199999999999999,UFA,9200000,9200000,9200000,0,0,0
+Alex Ovechkin,WSH,,,,,,,,,,,LW,37,4,"35+M-NTC, NMC",Draft,NHL,0.115,UFA,9500000,9500000,9500000,9500000,0,0
+Nicolas Aube-Kubel,WSH,,,,,,,,,,,RW,26,2,,Waivers claim,NHL,0.012,UFA,1000000,1225000,0,0,0,0
+Mitchell Gibson,WSH,,,,,,,,,,,G,23,2,ELC,Draft,NHL,,RFA,0,867500,0,0,0,0
 Carl Hagelin,WSH,,,,,,,,,,,LW,34,1,,Trade,LTIR,0.033,UFA,2750000,0,0,0,0,0
+Hunter Shepard,WSH,,,,,,,,,,,G,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Zachary Fucale,WSH,,,,,,,,,,,G,27,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Garin Bjorklund,WSH,,,,,,,,,,,G,20,3,ELC,Draft,Minor,0.0,RFA,843333,843333,843333,0,0,0
+Bobby Nardella,WSH,,,,,,,,,,,LD,26,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Dylan McIlrath,WSH,,,,,,,,,,,RD,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Lucas Johansen,WSH,,,,,,,,,,,LD,25,2,,Draft,Minor,0.0,RFA,762500,762500,0,0,0,0
+Vincent Iorio,WSH,,,,,,,,,,,RD,20,3,ELC,Draft,Minor,0.0,RFA,845000,845000,845000,0,0,0
+Ryan Hofer,WSH,,,,,,,,,,,C,20,4,ELC,Draft,Minor,0.0,RFA,0,851667,851667,851667,0,0
+Michael Vecchione,WSH,,,,,,,,,,,"C, RW",30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Michael Sgarbossa,WSH,,,,,,,,,,,C,30,1,,Signed,Minor,0.0,UFA,750000,0,0,0,0,0
+Garrett Pilon,WSH,,,,,,,,,,,C,24,1,,Draft,Minor,0.0,UFA,750000,0,0,0,0,0
+Henrik Borgstrom,WSH,,,,,,,,,,,C,25,1,,Signed,Minor,0.0,RFA,750000,0,0,0,0,0
+Riley Sutter,WSH,,,,,,,,,,,RW,23,1,ELC,Draft,Minor,0.0,RFA,764167,0,0,0,0,0
+Joe Snively,WSH,,,,,,,,,,,LW,27,2,,Signed,Minor,0.0,UFA,800000,800000,0,0,0,0
+Bogdan Trineyev,WSH,,,,,,,,,,,RW,21,3,ELC,Draft,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Henry Rybinski,WSH,,,,,,,,,,,RW,21,3,ELC,Signed,Minor,0.0,RFA,859167,859167,859167,0,0,0
+Connor McMichael,WSH,,,,,,,,,,,"LW, C",22,2,ELC,Draft,Minor,0.0,RFA,863333,863333,0,0,0,0
+Hendrix Lapierre,WSH,,,,,,,,,,,C,21,3,ELC,Draft,Minor,0.0,RFA,863333,863333,863333,0,0,0
+Alexander Suzdalev,WSH,,,,,,,,,,,LW,19,3,ELC,Draft,Junior,0.0,RFA,878333,878333,878333,0,0,0
+Ludwig Persson,WSH,,,,,,,,,,,"LW, C",19,3,ELC,Draft,Minor,0.0,RFA,878333,878333,878333,0,0,0
+Clay Stevenson,WSH,,,,,,,,,,,G,24,2,ELC,Signed,Minor,0.0,RFA,855000,855000,0,0,0,0
 Kody Clark,WSH,,,,,,,,,,,RW,23,1,ELC,Draft,SOIR,,RFA,0,0,0,0,0,0
-Sonny Milano,WSH,,,,,,,,,,,"LW, RW",26,4,,Signed,NHL,0.009000000000000001,UFA,750000,1900000,1900000,1900000,0,0
-Nick Jensen,WSH,,,,,,,,,,,RD,32,4,,Trade,NHL,0.03,UFA,2500000,4050000,4050000,4050000,0,0
+Connor Brown,WSH,,,,,,,,,,,"RW, LW",29,1,,Trade,LTIR,0.044000000000000004,UFA,3600000,0,0,0,0,0
+Ethen Frank,WSH,,,,,,,,,,,C,25,2,,Signed,Minor,0.0,RFA,0,775000,0,0,0,0
