@@ -1,12 +1,18 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
-"Apr. 9, 2023",MIN,Brock Faber,RD,19,Entry-Level,2-way,3,925000,3025000,,,
+"Apr. 11, 2023",SEA,Logan Morrison,C,20,Entry-Level,2-way,3,950000,2850000,,,
+"Apr. 11, 2023",CHI,Drew Commesso,G,20,Entry-Level,2-way,3,925000,2775000,,,
+"Apr. 10, 2023",VGK,Jesper Vikman,G,21,Entry-Level,2-way,3,925000,2775000,,,
+"Apr. 10, 2023",ANA,Jackson LaCombe,LD/RD,21,Entry-Level,2-way,2,925000,2775000,,,
+"Apr. 10, 2023",SEA,David Goyette,C,19,Entry-Level,2-way,3,923333,2850000,,,
+"Apr. 10, 2023",SJS,Magnus Chrona,G,22,Entry-Level,2-way,2,867500,1850000,,,
+"Apr. 9, 2023",MIN,Brock Faber,RD,19,Entry-Level,2-way,3,925000,3025000,1.0,0.0,0.6013493208154127
 "Apr. 9, 2023",LAK,Alex Laferriere,RW,20,Entry-Level,2-way,3,875000,2625000,,,
-"Apr. 9, 2023",TOR,Matthew Knies,LW,19,Entry-Level,2-way,3,925000,2775000,,,
-"Apr. 8, 2023",NJD,Luke Hughes,LD/RD,18,Entry-Level,2-way,3,925000,5550000,,,
+"Apr. 9, 2023",TOR,Matthew Knies,LW,19,Entry-Level,2-way,3,925000,2775000,1.0,0.0,0.3676135153891548
+"Apr. 8, 2023",NJD,Luke Hughes,LD/RD,18,Entry-Level,2-way,3,925000,5550000,76.0,76.0,0.5762740007394563
 "Apr. 7, 2023",WSH,Mitchell Gibson,G,24,Entry-Level,2-way,1,867500,925000,,,
 "Apr. 5, 2023",PIT,Joel Blomqvist,G,21,Entry-Level,2-way,3,886667,2775000,,,
-"Apr. 4, 2023",VAN,Cole McWard,D,21,Entry-Level,2-way,2,922500,1900000,,,
-"Apr. 4, 2023",CBJ,Yegor Chinakhov,"RW, LW",22,Standard,1-way,1,800000,800000,,,
+"Apr. 4, 2023",VAN,Cole McWard,D,21,Entry-Level,2-way,2,922500,1900000,4.0,2.0,0.303515059453825
+"Apr. 4, 2023",CBJ,Yegor Chinakhov,"RW, LW",22,Standard,1-way,1,800000,800000,30.0,8.0,0.4126838450389566
 "Apr. 3, 2023",FLA,Ryan McAllister,C,21,Entry-Level,2-way,3,896667,2850000,,,
 "Apr. 3, 2023",CHI,Gavin Hayes,LW,19,Entry-Level,2-way,3,896667,2850000,,,
 "Apr. 2, 2023",ANA,Judd Caulfield,RW,22,Entry-Level,2-way,2,837500,1675000,,,
@@ -14,38 +20,32 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Mar. 31, 2023",MTL,Jakub Dobes,G,22,Entry-Level,2-way,2,925000,1850000,,,
 "Mar. 31, 2023",NYI,Travis Mitchell,LD,23,Entry-Level,2-way,2,882500,1900000,,,
 "Mar. 31, 2023",NYI,Aidan Fulp,RD,23,Entry-Level,2-way,2,870000,1900000,,,
-"Mar. 31, 2023",VAN,Nikita Tolopilo,G,23,Entry-Level,2-way,2,950000,1900000,,,
+"Mar. 31, 2023",VAN,Mikita Talapila,G,23,Entry-Level,2-way,2,950000,1900000,,,
 "Mar. 30, 2023",COL,Ondrej Pavel,"C, LW, RW",22,Entry-Level,2-way,2,870000,1900000,,,
 "Mar. 30, 2023",COL,Sam Malinski,RD,24,Standard,2-way,2,850000,1700000,,,
 "Mar. 29, 2023",CGY,William Stromgren,LW,20,Entry-Level,2-way,3,900833,2775000,,,
-"Mar. 29, 2023",CHI,Brett Seney,"C, LW",27,Standard,2-way,1,775000,775000,,,
+"Mar. 29, 2023",CHI,Brett Seney,"C, LW",27,Standard,2-way,1,775000,775000,7.0,1.0,0.4747005323250012
 "Mar. 29, 2023",DAL,Matthew Seminoff,RW,19,Entry-Level,2-way,3,850000,2550000,,,
 "Mar. 29, 2023",BOS,Trevor Kuntar,C,22,Entry-Level,2-way,2,867500,1850000,,,
-"Mar. 29, 2023",NYR,Filip Chytil,"C, LW",23,Standard,1-way,4,4437500,17750000,,,
-"Mar. 29, 2023",SJS,Nikolai Knyzhov,LD/RD,25,Standard,1-way,2,1250000,2500000,,,
-"Mar. 29, 2023",NSH,Jake Livingstone,RD,23,Entry-Level,2-way,1,2001667,950000,,,
-"Mar. 29, 2023",VAN,Akito Hirose,LD,23,Entry-Level,2-way,1,2026667,950000,,,
+"Mar. 29, 2023",NYR,Filip Chytil,"C, LW",23,Standard,1-way,4,4437500,17750000,72.0,38.0,0.4854412852639271
+"Mar. 29, 2023",SJS,Nikolai Knyzhov,LD/RD,25,Standard,1-way,2,1250000,2500000,10.0,1.0,0.3819003365826092
+"Mar. 29, 2023",NSH,Jake Livingstone,RD,23,Entry-Level,2-way,1,2001667,950000,3.0,0.0,0.4235379117432828
+"Mar. 29, 2023",VAN,Akito Hirose,LD,23,Entry-Level,2-way,1,2026667,950000,6.0,0.0,0.3537196918640597
 "Mar. 29, 2023",COL,Jason Polin,RW,24,Entry-Level,2-way,1,870000,950000,,,
 "Mar. 28, 2023",CHI,Antti Saarela,C,22,Entry-Level,2-way,2,896250,1850000,,,
 "Mar. 28, 2023",DET,Carter Mazur,LW,21,Entry-Level,2-way,3,905833,2775000,,,
 "Mar. 27, 2023",DET,William Wallinder,LD,20,Entry-Level,2-way,3,925000,2775000,,,
 "Mar. 27, 2023",PHI,Emil Andrae,LD,21,Entry-Level,2-way,3,903333,2775000,,,
-"Mar. 27, 2023",FLA,Zac Dalpe,C,33,Standard,2-way,2,775000,1550000,,,
+"Mar. 27, 2023",FLA,Zac Dalpe,C,33,Standard,2-way,2,775000,1550000,14.0,3.0,0.3428843801954752
 "Mar. 26, 2023",CGY,Matthew Coronato,RW,19,Entry-Level,2-way,3,925000,4475000,,,
-"Mar. 26, 2023",MTL,Sean Farrell,"LW, C",20,Entry-Level,2-way,3,897500,3775000,,,
+"Mar. 26, 2023",MTL,Sean Farrell,"LW, C",20,Entry-Level,2-way,3,897500,3775000,4.0,1.0,0.2561407392587857
 "Mar. 26, 2023",VAN,Max Sasson,C,22,Entry-Level,2-way,2,870000,1900000,,,
-"Mar. 25, 2023",SJS,Henry Thrun,LD,21,Entry-Level,2-way,2,912500,2062500,,,
+"Mar. 25, 2023",SJS,Henry Thrun,LD,21,Entry-Level,2-way,2,912500,2062500,6.0,1.0,0.4600735675485645
 "Mar. 25, 2023",WPG,Parker Ford,C,22,Entry-Level,2-way,2,867500,1850000,,,
 "Mar. 25, 2023",LAK,Cole Krygier,LD,23,Entry-Level,2-way,2,837500,1675000,,,
 "Mar. 25, 2023",CHI,Paul Ludwinski,C,19,Entry-Level,2-way,3,931667,2850000,,,
-"Mar. 23, 2023",OTT,Tyler Kleven,LD,20,Entry-Level,2-way,3,916667,3375000,,,
+"Mar. 23, 2023",OTT,Tyler Kleven,LD,20,Entry-Level,2-way,3,916667,3375000,7.0,1.0,0.6250929800835883
 "Mar. 23, 2023",NYR,Bryce McConnell-Barker,C,19,Entry-Level,2-way,3,870000,2850000,,,
-"Mar. 23, 2023",VAN,Christian Wolanin,LD,28,Standard,2-way,2,775000,1550000,,,
+"Mar. 23, 2023",VAN,Christian Wolanin,LD,28,Standard,2-way,2,775000,1550000,16.0,1.0,0.4837318720916581
 "Mar. 22, 2023",EDM,Carl Berglund,"C, RW",23,Entry-Level,2-way,2,950000,1900000,,,
 "Mar. 21, 2023",NYR,Brett Berard,LW,20,Entry-Level,2-way,3,867500,2775000,,,
-"Mar. 21, 2023",TBL,Maxwell Crozier,RD,23,Entry-Level,2-way,2,867500,1850000,,,
-"Mar. 20, 2023",CBJ,Hunter McKown,C,19,Entry-Level,2-way,3,950000,4100000,,,
-"Mar. 20, 2023",SEA,Ville Ottavainen,RD,20,Entry-Level,2-way,3,867500,2775000,,,
-"Mar. 19, 2023",DET,Antti Tuomisto,RD,22,Entry-Level,2-way,2,867500,1850000,,,
-"Mar. 18, 2023",DAL,Chase Wheatcroft,LW,21,Entry-Level,2-way,3,862500,2747500,,,
-"Mar. 18, 2023",EDM,Jake Chiasson,C,20,Entry-Level,2-way,3,843333,2530000,,,
