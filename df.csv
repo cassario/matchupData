@@ -1,4 +1,16 @@
 game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022021295,MTL@NYI,NYI,04-12-2023,7:00 PM,91,41,31,9,east,metro,wc,4.0,MTL,68,31,43,6,east,atlantic,none,7.0
-2022021296,DAL@STL,STL,04-12-2023,7:30 PM,81,37,36,7,west,central,none,6.0,DAL,104,45,21,14,west,central,top3,2.0
-2022021297,SJS@CGY,CGY,04-12-2023,10:00 PM,91,37,27,17,west,pacific,none,5.0,SJS,60,22,42,16,west,pacific,none,7.0
+2022021298,BOS@MTL,MTL,04-13-2023,7:00 PM,68,31,44,6,east,atlantic,none,7.0,BOS,-123,64,12,5,east,atlantic,none,8.0
+2022021299,CAR@FLA,FLA,04-13-2023,7:00 PM,92,42,31,8,east,atlantic,top3,3.0,CAR,111,51,21,9,east,metro,top3,1.0
+2022021300,DET@TBL,TBL,04-13-2023,7:00 PM,96,45,30,6,east,atlantic,top3,2.0,DET,80,35,36,10,east,atlantic,none,6.0
+2022021301,NJD@WSH,WSH,04-13-2023,7:00 PM,79,35,37,9,east,metro,none,6.0,NJD,110,51,22,8,east,metro,top3,2.0
+2022021302,OTT@BUF,BUF,04-13-2023,7:00 PM,87,40,33,7,east,atlantic,none,4.0,OTT,85,39,35,7,east,atlantic,none,5.0
+2022021303,PIT@CBJ,CBJ,04-13-2023,7:00 PM,57,24,47,9,east,metro,none,8.0,PIT,90,40,31,10,east,metro,wc,5.0
+2022021304,TOR@NYR,NYR,04-13-2023,7:00 PM,107,47,21,13,east,metro,top3,3.0,TOR,109,49,21,11,east,atlantic,top3,1.0
+2022021305,MIN@NSH,NSH,04-13-2023,8:00 PM,90,41,31,8,west,central,none,5.0,MIN,102,46,25,10,west,central,top3,3.0
+2022021306,PHI@CHI,CHI,04-13-2023,8:30 PM,58,26,49,6,west,central,none,8.0,PHI,73,30,38,13,east,metro,none,7.0
+2022021307,STL@DAL,DAL,04-13-2023,8:00 PM,106,46,21,14,west,central,top3,1.0,STL,81,37,37,7,west,central,none,6.0
+2022021308,SJS@EDM,EDM,04-13-2023,9:00 PM,107,49,23,9,west,pacific,top3,2.0,SJS,60,22,43,16,west,pacific,none,7.0
+2022021309,WPG@COL,COL,04-13-2023,9:00 PM,105,49,24,7,west,central,top3,2.0,WPG,95,46,32,3,west,central,wc,4.0
+2022021310,LAK@ANA,ANA,04-13-2023,10:00 PM,58,23,46,12,west,pacific,none,8.0,LAK,102,46,25,10,west,pacific,top3,3.0
+2022021311,VAN@ARI,ARI,04-13-2023,10:00 PM,69,28,40,13,west,central,none,7.0,VAN,81,37,37,7,west,pacific,none,6.0
+2022021312,VGK@SEA,SEA,04-13-2023,10:30 PM,100,46,27,8,west,pacific,wc,4.0,VGK,109,50,22,9,west,pacific,top3,1.0
