@@ -1,11 +1,15 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
+"Apr. 16, 2023",NJD,Tyler Brennan,G,19,Entry-Level,2-way,3,870000,2850000,,,
+"Apr. 16, 2023",EDM,Cam Dineen,LD,25,Standard,2-way,1,775000,775000,,,
+"Apr. 16, 2023",NSH,Kiefer Sherwood,"LW, RW",28,Standard,1-way,1,775000,775000,32.0,10.0,0.4800164354038107
+"Apr. 16, 2023",NSH,Michael McCarron,"RW, C",28,Standard,1-way,1,775000,775000,32.0,3.0,0.4881505574669366
 "Apr. 15, 2023",CAR,Domenick Fensore,LD,21,Entry-Level,2-way,2,925000,1850000,,,
 "Apr. 14, 2023",SJS,Ethan Cardwell,RW,20,Entry-Level,2-way,3,867500,2775000,,,
 "Apr. 14, 2023",SJS,Artem Guryev,LD,20,Entry-Level,2-way,3,860000,2580000,,,
 "Apr. 13, 2023",MIN,Frederick Gaudreau,"C, LW",30,Standard,1-way,5,2100000,10500000,82.0,30.0,0.4786570871585459
+"Apr. 12, 2023",FLA,Michael Benning,RD,20,Entry-Level,2-way,3,916667,2775000,,,
 "Apr. 12, 2023",CAR,Yaniv Perets,G,23,Entry-Level,2-way,2,805000,1610000,,,
 "Apr. 12, 2023",COL,Callahan Burke,"C, RW",26,Standard,2-way,1,775000,775000,2.0,0.0,0.3548582191990586
-"Apr. 12, 2023",FLA,Michael Benning,RD,20,Entry-Level,2-way,3,916667,2775000,,,
 "Apr. 11, 2023",CHI,Drew Commesso,G,20,Entry-Level,2-way,3,925000,3625000,,,
 "Apr. 11, 2023",CHI,Jarred Tinordi,LD,31,Standard,1-way,1,1250000,1250000,44.0,4.0,0.4032751162053741
 "Apr. 11, 2023",SEA,Logan Morrison,C,20,Entry-Level,2-way,3,870000,2850000,,,
@@ -46,7 +50,3 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Mar. 27, 2023",DET,William Wallinder,LD,20,Entry-Level,2-way,3,925000,2775000,,,
 "Mar. 27, 2023",PHI,Emil Andrae,LD,21,Entry-Level,2-way,3,903333,2775000,,,
 "Mar. 27, 2023",FLA,Zac Dalpe,C,33,Standard,2-way,2,775000,1550000,14.0,3.0,0.3428843801954752
-"Mar. 26, 2023",CGY,Matthew Coronato,RW,19,Entry-Level,2-way,3,925000,4475000,1.0,0.0,0.7298876647734063
-"Mar. 26, 2023",MTL,Sean Farrell,"LW, C",20,Entry-Level,2-way,3,897500,3775000,6.0,1.0,0.3401053012827932
-"Mar. 26, 2023",VAN,Max Sasson,C,22,Entry-Level,2-way,2,870000,1900000,,,
-"Mar. 25, 2023",SJS,Henry Thrun,LD,21,Entry-Level,2-way,2,912500,2062500,8.0,1.0,0.4608885244669413
