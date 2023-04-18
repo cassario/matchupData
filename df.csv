@@ -1,1 +1,5 @@
-game_id,matchup,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,home,division_place_home,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,away,division_place_away
+game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
+2022030111,FLA@BOS,BOS,2023-04-17,23:30:00,-121,65,12,5,east,atlantic,none,8.0,FLA,92,42,32,8,east,atlantic,top3,3.0
+2022030131,NYI@CAR,CAR,2023-04-17,23:00:00,113,52,21,9,east,metro,top3,1.0,NYI,93,42,31,9,east,metro,wc,4.0
+2022030161,MIN@DAL,DAL,2023-04-17,01:30:00,108,47,21,14,west,central,top3,2.0,MIN,103,46,25,11,west,central,top3,3.0
+2022030181,LAK@EDM,EDM,2023-04-17,02:00:00,109,50,23,9,west,pacific,top3,2.0,LAK,104,47,25,10,west,pacific,top3,3.0
