@@ -1,51 +1,52 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
-"May 19, 2023",NYI,Kyle MacLean,LW,24,Entry-Level,2-way,1,775000,775000,,,
-"May 19, 2023",NYI,Daylan Kuefler,LW,21,Entry-Level,2-way,3,950000,2850000,,,
-"May 15, 2023",TOR,Vyacheslav Peksa,G,20,Entry-Level,2-way,3,851667,2555000,,,
-"May 11, 2023",SEA,Ty Nelson,RD,19,Entry-Level,2-way,3,867500,2775000,,,
-"May 10, 2023",BOS,Mason Lohrei,LD,22,Entry-Level,2-way,2,925000,2100000,,,
-"May 10, 2023",TBL,Matt Tomkins,G,29,Standard,2-way,2,775000,1550000,,,
-"May 10, 2023",CHI,Arvid Soderblom,G,23,Standard,1-way,2,962500,1925000,,,
-"May 10, 2023",STL,Mathias Laferriere,C,23,Standard,2-way,1,775000,775000,,,
-"May 8, 2023",FLA,Mackie Samoskevich,RW,19,Entry-Level,2-way,3,925000,2775000,,,
-"May 8, 2023",STL,Andre Heim,"C, RW, LW",25,Entry-Level,2-way,1,950000,950000,,,
-"May 8, 2023",SEA,Niklas Kokko,G,19,Entry-Level,2-way,3,923333,2850000,,,
-"May 6, 2023",DAL,Lian Bichsel,LD,19,Entry-Level,2-way,3,950000,4350000,,,
-"May 6, 2023",VAN,Jonathan Lekkerimaki,"RW, C",18,Entry-Level,2-way,3,950000,4275000,,,
-"May 5, 2023",WSH,Michael Sgarbossa,C,30,Standard,2-way,2,775000,1550000,,,
-"May 5, 2023",TBL,Michael Eyssimont,"RW, C",26,Standard,1-way,2,800000,1600000,54.0,10.0,0.5685398349887907
-"May 5, 2023",OTT,Jiri Smejkal,"LW, C",26,Entry-Level,2-way,1,870000,950000,,,
-"May 5, 2023",NSH,Fedor Svechkov,C,20,Entry-Level,2-way,3,925000,3200000,,,
-"May 5, 2023",BOS,Matthew Poitras,C,19,Entry-Level,2-way,3,870000,2850000,,,
-"May 4, 2023",CBJ,Dmitri Voronkov,LW,22,Entry-Level,2-way,2,925000,1850000,,,
-"May 3, 2023",ARI,Aku Raty,C,22,Entry-Level,2-way,2,896250,1850000,,,
-"May 3, 2023",SJS,Georgi Romanov,G,23,Entry-Level,2-way,2,910000,1900000,,,
-"May 3, 2023",SJS,Valtteri Pulli,LD,22,Entry-Level,2-way,2,950000,1900000,,,
-"May 2, 2023",SEA,Ales Stezka,G,26,Entry-Level,2-way,1,870000,950000,,,
-"May 2, 2023",BUF,Viktor Neuchev,LW,19,Entry-Level,2-way,3,870000,2850000,,,
-"May 2, 2023",PHI,Yegor Zamula,LD/RD,23,Standard,1-way,1,775000,775000,14.0,2.0,0.4622246109891362
-"May 2, 2023",MIN,Marcus Johansson,"LW, RW",32,Standard,1-way,2,2000000,4000000,80.0,36.0,0.5006932545105869
-"May 2, 2023",WSH,Alexander Alexeyev,LD/RD,23,Standard,1-way,2,825000,1650000,32.0,2.0,0.4461396729424088
-"May 1, 2023",WSH,Ivan Miroshnichenko,LW,19,Entry-Level,2-way,3,950000,5100000,,,
-"May 1, 2023",WPG,Nikita Chibrikov,RW,20,Entry-Level,2-way,3,875833,2775000,,,
-"May 1, 2023",TBL,Maxim Groshev,"RW, LW",21,Entry-Level,2-way,3,867500,2775000,,,
-"May 1, 2023",ARI,Maksymilian Szuber,LD,20,Entry-Level,2-way,3,859167,2577500,,,
-"May 1, 2023",NJD,Daniil Misyul,LD,22,Entry-Level,2-way,2,867500,1850000,,,
-"May 1, 2023",NYI,Matthew Maggio,RW,20,Entry-Level,2-way,3,870000,2850000,,,
-"May 1, 2023",NYI,Hudson Fasching,RW,27,Standard,1-way,2,775000,1550000,49.0,17.0,0.5091927250347563
-"Apr. 29, 2023",PIT,Alexander Nylander,"RW, LW",25,Standard,1-way,1,775000,775000,9.0,1.0,0.650276701198816
-"Apr. 28, 2023",SEA,Jagger Firkus,RW,19,Entry-Level,2-way,3,923333,2850000,,,
-"Apr. 28, 2023",STL,Leo Loof,LD,21,Entry-Level,2-way,3,867500,2775000,,,
-"Apr. 27, 2023",WSH,Hardy Haman Aktell,LD,24,Entry-Level,2-way,1,870000,950000,,,
-"Apr. 24, 2023",CGY,Walker Duehr,RW,25,Standard,1-way,2,825000,1650000,27.0,11.0,0.5234927785554061
-"Apr. 22, 2023",LAK,Erik Portillo,G,21,Entry-Level,2-way,2,875000,1750000,,,
-"Apr. 19, 2023",WPG,Dominic Toninato,"C, LW",29,Standard,2-way,2,775000,1550000,5.0,0.0,0.3623814099919024
-"Apr. 19, 2023",VAN,Elias Pettersson,LD,19,Entry-Level,2-way,3,870000,2850000,80.0,76.0,0.5308088138355316
-"Apr. 18, 2023",FLA,Uvis Balinskis,LD,26,Entry-Level,2-way,1,870000,950000,,,
-"Apr. 16, 2023",NJD,Tyler Brennan,G,19,Entry-Level,2-way,3,870000,2850000,,,
-"Apr. 16, 2023",EDM,Cam Dineen,LD,25,Standard,2-way,1,775000,775000,,,
-"Apr. 16, 2023",NSH,Kiefer Sherwood,"LW, RW",28,Standard,1-way,1,775000,775000,32.0,10.0,0.4800164354038107
-"Apr. 16, 2023",NSH,Michael McCarron,"RW, C",28,Standard,1-way,1,775000,775000,32.0,3.0,0.4881505574669366
-"Apr. 15, 2023",CAR,Domenick Fensore,LD,21,Entry-Level,2-way,2,925000,1850000,,,
-"Apr. 14, 2023",SJS,Ethan Cardwell,RW,20,Entry-Level,2-way,3,867500,2775000,,,
-"Apr. 14, 2023",SJS,Artem Guryev,LD,20,Entry-Level,2-way,3,860000,2580000,,,
+"Jun. 25, 2023",ARI,Connor Ingram,G,26,Standard,1-way,3,1950000,5850000,,,
+"Jun. 25, 2023",CAR,Jordan Staal,"C, LW",34,Standard,1-way,4,2900000,11600000,81.0,24.0,0.5744471083164309
+"Jun. 24, 2023",STL,Scott Perunovich,LD,24,Standard,1-way,1,775000,775000,,,
+"Jun. 24, 2023",PHI,Louis Belpedio,RD,27,Standard,2-way,2,775000,1550000,,,
+"Jun. 23, 2023",BUF,Joseph Cecconi,RD,26,Standard,2-way,1,775000,775000,,,
+"Jun. 23, 2023",WPG,Ashton Sautner,LD,29,Standard,2-way,1,775000,775000,,,
+"Jun. 23, 2023",MIN,Hunter Jones,G,22,Standard,2-way,1,787500,787500,,,
+"Jun. 23, 2023",CBJ,Carson Meyer,RW,25,Standard,2-way,1,775000,775000,14.0,1.0,0.474212863424285
+"Jun. 23, 2023",NJD,Erik Haula,"C, LW",32,Standard,1-way,3,3150000,9450000,80.0,28.0,0.5678594926157399
+"Jun. 22, 2023",CHI,Joey Anderson,RW,25,Standard,2-way,1,800000,800000,38.0,9.0,0.4589335882194738
+"Jun. 21, 2023",TBL,Gabriel Fortier,LW,23,Standard,2-way,1,775000,775000,1.0,0.0,0.0595614011351947
+"Jun. 21, 2023",STL,Adam Gaudette,"C, RW",26,Standard,2-way,1,775000,775000,,,
+"Jun. 21, 2023",ARI,Michael Carcone,"LW, C",27,Standard,1-way,2,775000,1550000,9.0,2.0,0.5361556269659155
+"Jun. 21, 2023",CBJ,Mathieu Olivier,RW,26,Standard,1-way,2,1100000,2200000,66.0,12.0,0.452380313615461
+"Jun. 20, 2023",BUF,Lukas Rousek,RW,24,Standard,2-way,2,775000,1550000,2.0,1.0,0.7474132551275088
+"Jun. 20, 2023",PIT,Valtteri Puustinen,LW,24,Standard,2-way,1,775000,775000,,,
+"Jun. 20, 2023",ARI,Steven Kampfer,RD,34,Standard,2-way,1,775000,775000,,,
+"Jun. 20, 2023",BUF,Zemgus Girgensons,"LW, C",29,Standard,1-way,1,2500000,2500000,80.0,14.0,0.5014460336191573
+"Jun. 20, 2023",NYI,Samuel Bolduc,LD,22,Standard,1-way,2,800000,1600000,17.0,3.0,0.4700614339764626
+"Jun. 20, 2023",MTL,Sean Monahan,"C, LW, RW",28,Standard,1-way,1,1985000,2000000,25.0,13.0,0.3992227069449909
+"Jun. 19, 2023",BOS,Brandon Bussi,G,25,Standard,2-way,1,775000,775000,,,
+"Jun. 16, 2023",NYR,Zachary Jones,LD,22,Standard,1-way,2,812500,1625000,16.0,1.0,0.4332064282971467
+"Jun. 15, 2023",WPG,Fabian Wagner,C,19,Entry-Level,2-way,3,858333,2575000,,,
+"Jun. 15, 2023",OTT,Oskar Pettersson,RW,19,Entry-Level,2-way,3,865000,2700000,,,
+"Jun. 15, 2023",DAL,Matt Murray,G,25,Standard,2-way,1,775000,775000,,,
+"Jun. 15, 2023",NJD,Jesper Bratt,"RW, LW",24,Standard,1-way,8,7875000,63000000,82.0,54.0,0.5885628506856289
+"Jun. 15, 2023",NJD,Jesper Bratt,"RW, LW",24,Standard,1-way,8,7875000,63000000,70.0,14.0,0.5370429715976598
+"Jun. 15, 2023",COL,Fredrik Olofsson,LW,27,Standard,2-way,1,775000,775000,,,
+"Jun. 14, 2023",TBL,Cole Koepke,"LW, RW",25,Standard,2-way,1,775000,775000,17.0,1.0,0.4614075199683916
+"Jun. 14, 2023",CBJ,Joshua Dunne,C,24,Standard,2-way,1,775000,775000,8.0,0.0,0.2321725137994395
+"Jun. 14, 2023",CGY,Clark Bishop,"C, LW",27,Standard,2-way,2,775000,1550000,,,
+"Jun. 13, 2023",EDM,Derek Ryan,"C, RW",36,35+,1-way,2,900000,1800000,80.0,17.0,0.5844004182055696
+"Jun. 12, 2023",SJS,Filip Bystedt,C,19,Entry-Level,2-way,3,950000,3100000,,,
+"Jun. 12, 2023",FLA,Ludovic Waeber,G,26,Entry-Level,2-way,1,950000,950000,,,
+"Jun. 11, 2023",SEA,Jani Nyman,"LW, RW",18,Entry-Level,2-way,3,923333,2850000,,,
+"Jun. 9, 2023",NJD,Damon Severson,RD,28,Standard,1-way,8,6250000,50000000,81.0,19.0,0.6140426192884373
+"Jun. 7, 2023",CHI,Andreas Athanasiou,"LW, RW",28,Standard,1-way,2,4250000,8500000,81.0,31.0,0.4201745526351712
+"Jun. 7, 2023",NYI,Eetu Liukas,LW,20,Entry-Level,2-way,3,867500,2775000,,,
+"Jun. 7, 2023",NYR,Anton Blidh,"LW, RW",28,Standard,2-way,2,775000,1550000,,,
+"Jun. 7, 2023",DAL,Alex Petrovic,RD,31,Standard,2-way,1,775000,775000,,,
+"Jun. 7, 2023",LAK,Vladislav Gavrikov,LD,27,Standard,1-way,2,5875000,11750000,72.0,12.0,0.4820468822325114
+"Jun. 6, 2023",DAL,Fredrik Karlstrom,C,25,Standard,2-way,1,775000,775000,5.0,0.0,0.7591215934645148
+"Jun. 6, 2023",CGY,Oscar Dansk,G,29,Standard,2-way,1,775000,775000,,,
+"Jun. 6, 2023",COL,Wyatt Aamodt,LD,25,Standard,2-way,1,775000,775000,,,
+"Jun. 5, 2023",TBL,Emil Martinsen Lilleberg,LD,22,Entry-Level,2-way,2,870000,1900000,,,
+"Jun. 5, 2023",TBL,Waltteri Merela,RW,24,Entry-Level,2-way,1,870000,950000,,,
+"Jun. 5, 2023",ARI,Patrik Koch,D,26,Entry-Level,2-way,1,847500,847500,,,
+"Jun. 5, 2023",TBL,Sean Day,LD,25,Standard,2-way,1,775000,775000,,,
+"Jun. 5, 2023",CBJ,Jacob Christiansen,LD/RD,23,Standard,2-way,1,775000,775000,24.0,2.0,0.4707741355335397
+"Jun. 5, 2023",MTL,Cole Caufield,LW,22,Standard,1-way,8,7850000,62800000,46.0,28.0,0.4076259166175908
+"Jun. 2, 2023",MTL,Michael Pezzetta,"LW, RW",25,Standard,1-way,2,812500,1625000,63.0,15.0,0.4748370590576317
