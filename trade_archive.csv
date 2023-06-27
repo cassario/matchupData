@@ -1,54 +1,64 @@
 date,full_team,details,team
-06-26-2023,Boston Bruins,Boston Bruins Acquire:Reilly Walsh       New Jersey Devils Acquire:Shane Bowers     ,BOS
-06-26-2023,New Jersey Devils,Boston Bruins Acquire:Reilly Walsh       New Jersey Devils Acquire:Shane Bowers     ,NJD
+06-27-2023,New Jersey Devils,New Jersey Devils Acquire: Sixth round pick SJS - #   San Jose Sharks Acquire:Mackenzie Blackwood    ,NJD
+06-27-2023,San Jose Sharks,New Jersey Devils Acquire: Sixth round pick SJS - #   San Jose Sharks Acquire:Mackenzie Blackwood    ,SJS
+06-27-2023,San Jose Sharks, San Jose Sharks Acquire:Andrej Sustr     -: - Anaheim Ducks Acquire:Andrew Agozzino    ,SJS
+06-27-2023,St. Louis Blues, St. Louis Blues Acquire:Kevin Hayes  retained - %    Philadelphia Flyers Acquire: Sixth round pick STL -: -: -,STL
+06-27-2023,Montreal Canadiens, Montreal Canadiens Acquire:Alex Newhook    -: - Colorado Avalanche Acquire:Gianni Fairbrother    First round pick FLA - # Second round pick MTL - # ,MTL
+06-27-2023,Los Angeles Kings, Los Angeles Kings Acquire:Pierre-Luc Dubois    Winnipeg Jets Acquire:Gabriel Vilardi   Alex Iafallo  Rasmus Kupari    Second round pick MTL -: -: -,LAK
+06-27-2023,Winnipeg Jets, Los Angeles Kings Acquire:Pierre-Luc Dubois    Winnipeg Jets Acquire:Gabriel Vilardi   Alex Iafallo  Rasmus Kupari    Second round pick MTL -: -: -,WPG
+06-27-2023,Colorado Avalanche, Montreal Canadiens Acquire:Alex Newhook    -: - Colorado Avalanche Acquire:Gianni Fairbrother    First round pick FLA - # Second round pick MTL - # ,COL
+06-27-2023,Philadelphia Flyers, St. Louis Blues Acquire:Kevin Hayes  retained - %    Philadelphia Flyers Acquire: Sixth round pick STL -: -: -,PHI
+06-27-2023,Anaheim Ducks, San Jose Sharks Acquire:Andrej Sustr     -: - Anaheim Ducks Acquire:Andrew Agozzino    ,ANA
 06-26-2023,Boston Bruins, Chicago Blackhawks Acquire:Taylor Hall  Nick Foligno     Boston Bruins Acquire:Ian Mitchell   Alec Regula     -: -: -,BOS
 06-26-2023,Chicago Blackhawks, Chicago Blackhawks Acquire:Taylor Hall  Nick Foligno     Boston Bruins Acquire:Ian Mitchell   Alec Regula     -: -: -,CHI
+06-26-2023,New Jersey Devils,Boston Bruins Acquire:Reilly Walsh       New Jersey Devils Acquire:Shane Bowers     ,NJD
+06-26-2023,Boston Bruins,Boston Bruins Acquire:Reilly Walsh       New Jersey Devils Acquire:Shane Bowers     ,BOS
 06-24-2023,Nashville Predators, Nashville Predators Acquire:Alex Galchenyuk     -: -: - Colorado Avalanche Acquire:Ryan Johansen  retained - %   ,NSH
-06-24-2023,Colorado Avalanche, Nashville Predators Acquire:Alex Galchenyuk     -: -: - Colorado Avalanche Acquire:Ryan Johansen  retained - %   ,COL
 06-24-2023,Los Angeles Kings, Arizona Coyotes Acquire:Sean Durzi    Los Angeles Kings Acquire: Second round pick MTL -: -: -,LAK
+06-24-2023,Colorado Avalanche, Nashville Predators Acquire:Alex Galchenyuk     -: -: - Colorado Avalanche Acquire:Ryan Johansen  retained - %   ,COL
 06-24-2023,Arizona Coyotes, Arizona Coyotes Acquire:Sean Durzi    Los Angeles Kings Acquire: Second round pick MTL -: -: -,ARI
 06-15-2023,Dallas Stars,Colorado Avalanche Acquire:Fredrik Olofsson      Dallas Stars Acquire:Future Considerations ,DAL
 06-15-2023,Colorado Avalanche,Colorado Avalanche Acquire:Fredrik Olofsson      Dallas Stars Acquire:Future Considerations ,COL
 06-09-2023,New Jersey Devils, Columbus Blue Jackets Acquire:Damon Severson    New Jersey Devils Acquire: Third round pick CGY - # -: -: -,NJD
 06-09-2023,Columbus Blue Jackets, Columbus Blue Jackets Acquire:Damon Severson    New Jersey Devils Acquire: Third round pick CGY - # -: -: -,CBJ
-06-06-2023,Los Angeles Kings, Columbus Blue Jackets Acquire:From LAK:Ivan Provorov  retained - %    Philadelphia Flyers Acquire:From LAK:Cal Petersen  Sean Walker  Helge Grans    Second round pick LAKFrom CBJ: First round pick LAK - # Second round pick CBJ [Conditional]**Conditions: Columbus must decide after the  first round is complete if they’re sending a  Second round pick or the  Second round pick to Philadelphia. - Los Angeles Kings Acquire:From PHI:Kevin Connauton   Ivan Provorov  Hayden Hodgson    -: -: -,LAK
 06-06-2023,Philadelphia Flyers, Columbus Blue Jackets Acquire:From LAK:Ivan Provorov  retained - %    Philadelphia Flyers Acquire:From LAK:Cal Petersen  Sean Walker  Helge Grans    Second round pick LAKFrom CBJ: First round pick LAK - # Second round pick CBJ [Conditional]**Conditions: Columbus must decide after the  first round is complete if they’re sending a  Second round pick or the  Second round pick to Philadelphia. - Los Angeles Kings Acquire:From PHI:Kevin Connauton   Ivan Provorov  Hayden Hodgson    -: -: -,PHI
+06-06-2023,Los Angeles Kings, Columbus Blue Jackets Acquire:From LAK:Ivan Provorov  retained - %    Philadelphia Flyers Acquire:From LAK:Cal Petersen  Sean Walker  Helge Grans    Second round pick LAKFrom CBJ: First round pick LAK - # Second round pick CBJ [Conditional]**Conditions: Columbus must decide after the  first round is complete if they’re sending a  Second round pick or the  Second round pick to Philadelphia. - Los Angeles Kings Acquire:From PHI:Kevin Connauton   Ivan Provorov  Hayden Hodgson    -: -: -,LAK
 06-06-2023,Columbus Blue Jackets, Columbus Blue Jackets Acquire:From LAK:Ivan Provorov  retained - %    Philadelphia Flyers Acquire:From LAK:Cal Petersen  Sean Walker  Helge Grans    Second round pick LAKFrom CBJ: First round pick LAK - # Second round pick CBJ [Conditional]**Conditions: Columbus must decide after the  first round is complete if they’re sending a  Second round pick or the  Second round pick to Philadelphia. - Los Angeles Kings Acquire:From PHI:Kevin Connauton   Ivan Provorov  Hayden Hodgson    -: -: -,CBJ
 05-31-2023,Edmonton Oilers, New York Rangers Acquire: Fifth round pick EDM - #  Edmonton Oilers Acquire:Jayden Grubbe     ,EDM
 05-31-2023,New York Rangers, New York Rangers Acquire: Fifth round pick EDM - #  Edmonton Oilers Acquire:Jayden Grubbe     ,NYR
-03-31-2023,Pittsburgh Penguins , Pittsburgh Penguins Acquire:Thimo Nickl      Anaheim Ducks Acquire:Judd Caulfield     ,PIT
 03-31-2023,Pittsburgh Penguins, Pittsburgh Penguins Acquire:Thimo Nickl      Anaheim Ducks Acquire:Judd Caulfield     ,PIT
+03-31-2023,Pittsburgh Penguins , Pittsburgh Penguins Acquire:Thimo Nickl      Anaheim Ducks Acquire:Judd Caulfield     ,PIT
 03-31-2023,Anaheim Ducks, Pittsburgh Penguins Acquire:Thimo Nickl      Anaheim Ducks Acquire:Judd Caulfield     ,ANA
 03-20-2023,Los Angeles Kings, Florida Panthers Acquire:Future Considerations  Los Angeles Kings Acquire:Cole Krygier     ,LAK
 03-20-2023,Florida Panthers, Florida Panthers Acquire:Future Considerations  Los Angeles Kings Acquire:Cole Krygier     ,FLA
+03-10-2023,New Jersey Devils, New Jersey Devils Acquire:Zackary Hayes    - Carolina Hurricanes Acquire:Jack Dugan    -: ,NJD
 03-10-2023,Ottawa Senators, New Jersey Devils Acquire:Jayce Hawryluk     Ottawa Senators Acquire:Future Considerations -: -,OTT
 03-10-2023,Ottawa Senators, Calgary Flames Acquire:Kristians Rubins     Ottawa Senators Acquire:Future Considerations -: -,OTT
-03-10-2023,New Jersey Devils, New Jersey Devils Acquire:Zackary Hayes    - Carolina Hurricanes Acquire:Jack Dugan    -: ,NJD
-03-10-2023,Calgary Flames, Calgary Flames Acquire:Kristians Rubins     Ottawa Senators Acquire:Future Considerations -: -,CGY
 03-10-2023,Carolina Hurricanes, New Jersey Devils Acquire:Zackary Hayes    - Carolina Hurricanes Acquire:Jack Dugan    -: ,CAR
 03-10-2023,New Jersey Devils, New Jersey Devils Acquire:Jayce Hawryluk     Ottawa Senators Acquire:Future Considerations -: -,NJD
-03-09-2023,Arizona Coyotes, Detroit Red Wings Acquire:Future Considerations -: - Arizona Coyotes Acquire:Steven Kampfer    ,ARI
+03-10-2023,Calgary Flames, Calgary Flames Acquire:Kristians Rubins     Ottawa Senators Acquire:Future Considerations -: -,CGY
 03-09-2023,Detroit Red Wings, Detroit Red Wings Acquire:Future Considerations -: - Arizona Coyotes Acquire:Steven Kampfer    ,DET
+03-09-2023,Arizona Coyotes, Detroit Red Wings Acquire:Future Considerations -: - Arizona Coyotes Acquire:Steven Kampfer    ,ARI
 03-08-2023,Nashville Predators, Nashville Predators Acquire:Anthony Angello     St. Louis Blues Acquire:Future Considerations -: -,NSH
 03-08-2023,St. Louis Blues, Nashville Predators Acquire:Anthony Angello     St. Louis Blues Acquire:Future Considerations -: -,STL
-03-03-2023,Anaheim Ducks, Pittsburgh Penguins Acquire:Dmitry Kulikov  retained - %   -: -: - Anaheim Ducks Acquire:Brock McGinn    Third round pick PIT ,ANA
-03-03-2023,Nashville Predators, Nashville Predators Acquire:Rasmus Asplund    Buffalo Sabres Acquire: Seventh round pick NSH -: -: -,NSH
-03-03-2023,Pittsburgh Penguins, Pittsburgh Penguins Acquire:Dmitry Kulikov  retained - %   -: -: - Anaheim Ducks Acquire:Brock McGinn    Third round pick PIT ,PIT
+03-03-2023,New York Rangers, Vancouver Canucks Acquire:Future Considerations -: - New York Rangers Acquire:Wyatt Kalynuk    ,NYR
+03-03-2023,Chicago Blackhawks, Chicago Blackhawks Acquire:Austin Wagner     Los Angeles Kings Acquire:Future Considerations -: -: -,CHI
+03-03-2023,Arizona Coyotes, Arizona Coyotes Acquire:Brett Ritchie  Connor Mackey   -: -: - Calgary Flames Acquire:Nick Ritchie  Troy Stecher   ,ARI
 03-03-2023,Minnesota Wild, Anaheim Ducks Acquire:Andrej Sustr   Nikita Nesterenko     Fourth round pick MIN -: -: - Minnesota Wild Acquire:John Klingberg  retained - %   ,MIN
 03-03-2023,Calgary Flames, Arizona Coyotes Acquire:Brett Ritchie  Connor Mackey   -: -: - Calgary Flames Acquire:Nick Ritchie  Troy Stecher   ,CGY
-03-03-2023,Philadelphia Flyers, Ottawa Senators Acquire:Patrick Brown    Philadelphia Flyers Acquire: Sixth round pick OTT - # -: -: -,PHI
-03-03-2023,Minnesota Wild,Detroit Red Wings Acquire: Fourth round pick MIN - # -: -: -  Minnesota Wild Acquire:Oskar Sundqvist   ,MIN
-03-03-2023,New York Rangers,Colorado Avalanche Acquire:Gustav Rydahl      New York Rangers Acquire:Anton Blidh    -,NYR
 03-03-2023,Los Angeles Kings, Chicago Blackhawks Acquire:Austin Wagner     Los Angeles Kings Acquire:Future Considerations -: -: -,LAK
 03-03-2023,Vancouver Canucks, Vancouver Canucks Acquire:Future Considerations -: - New York Rangers Acquire:Wyatt Kalynuk    ,VAN
 03-03-2023,Anaheim Ducks, Anaheim Ducks Acquire:Andrej Sustr   Nikita Nesterenko     Fourth round pick MIN -: -: - Minnesota Wild Acquire:John Klingberg  retained - %   ,ANA
-03-03-2023,Chicago Blackhawks, Chicago Blackhawks Acquire:Austin Wagner     Los Angeles Kings Acquire:Future Considerations -: -: -,CHI
-03-03-2023,New York Rangers, Vancouver Canucks Acquire:Future Considerations -: - New York Rangers Acquire:Wyatt Kalynuk    ,NYR
+03-03-2023,Anaheim Ducks, Pittsburgh Penguins Acquire:Dmitry Kulikov  retained - %   -: -: - Anaheim Ducks Acquire:Brock McGinn    Third round pick PIT ,ANA
+03-03-2023,Nashville Predators, Nashville Predators Acquire:Rasmus Asplund    Buffalo Sabres Acquire: Seventh round pick NSH -: -: -,NSH
+03-03-2023,Pittsburgh Penguins, Pittsburgh Penguins Acquire:Dmitry Kulikov  retained - %   -: -: - Anaheim Ducks Acquire:Brock McGinn    Third round pick PIT ,PIT
+03-03-2023,Philadelphia Flyers, Ottawa Senators Acquire:Patrick Brown    Philadelphia Flyers Acquire: Sixth round pick OTT - # -: -: -,PHI
+03-03-2023,Minnesota Wild,Detroit Red Wings Acquire: Fourth round pick MIN - # -: -: -  Minnesota Wild Acquire:Oskar Sundqvist   ,MIN
+03-03-2023,New York Rangers,Colorado Avalanche Acquire:Gustav Rydahl      New York Rangers Acquire:Anton Blidh    -,NYR
 03-03-2023,Buffalo Sabres, Nashville Predators Acquire:Rasmus Asplund    Buffalo Sabres Acquire: Seventh round pick NSH -: -: -,BUF
 03-03-2023,Colorado Avalanche,Colorado Avalanche Acquire:Gustav Rydahl      New York Rangers Acquire:Anton Blidh    -,COL
 03-03-2023,Detroit Red Wings,Detroit Red Wings Acquire: Fourth round pick MIN - # -: -: -  Minnesota Wild Acquire:Oskar Sundqvist   ,DET
 03-03-2023,Ottawa Senators, Ottawa Senators Acquire:Patrick Brown    Philadelphia Flyers Acquire: Sixth round pick OTT - # -: -: -,OTT
-03-03-2023,Arizona Coyotes, Arizona Coyotes Acquire:Brett Ritchie  Connor Mackey   -: -: - Calgary Flames Acquire:Nick Ritchie  Troy Stecher   ,ARI
 03-03-2023,Pittsburgh Penguins , Pittsburgh Penguins Acquire:Dmitry Kulikov  retained - %   -: -: - Anaheim Ducks Acquire:Brock McGinn    Third round pick PIT ,PIT
 03-03-2023,Calgary Flames, Toronto Maple Leafs Acquire:Radim Zohorna    -: - Calgary Flames Acquire:Dryden Hunt    ,CGY
 03-03-2023,Toronto Maple Leafs, Toronto Maple Leafs Acquire:Radim Zohorna    -: - Calgary Flames Acquire:Dryden Hunt    ,TOR
