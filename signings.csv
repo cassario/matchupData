@@ -1,8 +1,11 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
+"Jun. 29, 2023",NJD,Shane Bowers,C,23,Standard,2-way,1,775000,775000,,,
+"Jun. 29, 2023",OTT,Jacob Larsson,LD,26,Standard,2-way,1,775000,775000,7.0,0.0,0.5151316796022842
+"Jun. 29, 2023",VGK,Brayden Pachal,RD,23,Standard,2-way,2,775000,1550000,10.0,0.0,0.5657236016372122
+"Jun. 28, 2023",TOR,David Kampf,C,28,Standard,1-way,4,2400000,9600000,82.0,17.0,0.4790073305527065
 "Jun. 28, 2023",TOR,Pontus Holmberg,C,24,Standard,1-way,2,800000,1600000,37.0,11.0,0.5031675829444993
 "Jun. 28, 2023",VGK,Ivan Barbashev,"LW, C",27,Standard,1-way,5,5000000,25000000,82.0,32.0,0.478365033169445
 "Jun. 28, 2023",NJD,Timo Meier,"LW, RW",26,Standard,1-way,8,8800000,70400000,78.0,57.0,0.5428811099685347
-"Jun. 28, 2023",TOR,David Kampf,C,28,Standard,1-way,4,2400000,9600000,82.0,17.0,0.4790073305527065
 "Jun. 28, 2023",CGY,Yegor Sharangovich,"LW, RW, C",25,Standard,1-way,2,3100000,6200000,,,
 "Jun. 27, 2023",ARI,Ryan McGregor,C,24,Standard,2-way,1,775000,775000,,,
 "Jun. 27, 2023",CBJ,Trey Fix-Wolansky,RW,24,Standard,2-way,2,775000,1550000,9.0,1.0,0.3840710629139973
@@ -47,6 +50,3 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Jun. 12, 2023",SJS,Filip Bystedt,C,19,Entry-Level,2-way,3,950000,3100000,,,
 "Jun. 12, 2023",FLA,Ludovic Waeber,G,26,Entry-Level,2-way,1,950000,950000,,,
 "Jun. 11, 2023",SEA,Jani Nyman,"LW, RW",18,Entry-Level,2-way,3,923333,2850000,,,
-"Jun. 9, 2023",NJD,Damon Severson,RD,28,Standard,1-way,8,6250000,50000000,81.0,19.0,0.6140426192884373
-"Jun. 7, 2023",CHI,Andreas Athanasiou,"LW, RW",28,Standard,1-way,2,4250000,8500000,81.0,31.0,0.4201745526351712
-"Jun. 7, 2023",NYI,Eetu Liukas,LW,20,Entry-Level,2-way,3,867500,2775000,,,
