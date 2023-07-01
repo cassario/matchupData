@@ -251,13 +251,13 @@ GP:37 | W:0 | L:0
 Sv%: 0.915 | GSAX:0.08
 
 ****",Vegas Golden Knights
-CAR,G,52,Pyotr Kochetkov,G,24,L,"6'3""",205,,0,0,24.0,0.909,4.920000000000002,"**52 Pyotr Kochetkov**
+CAR,G,31,Frederik Andersen,G,33,L,"6'4""",238,,0,0,34.0,0.903,-3.450000000000003,"**31 Frederik Andersen**
 
 
 
-GP:24 | W:0 | L:0
+GP:34 | W:0 | L:0
 
-Sv%: 0.909 | GSAX:4.92
+Sv%: 0.903 | GSAX:-3.45
 
 ****",Carolina Hurricanes
 CAR,G,32,Antti Raanta,G,34,L,"6'0""",195,,0,0,27.0,0.91,1.3200000000000005,"**32 Antti Raanta**
@@ -305,13 +305,13 @@ GP:37 | W:0 | L:0
 Sv%: 0.903 | GSAX:4.7
 
 ****",Los Angeles Kings
-LAK,G,1,Erik Portillo,G,22,L,"6'6""",198,,0,0,0.0,0.0,0.0,"**1 Erik Portillo**
+LAK,G,0,Cam Talbot,G,35,L,"6'4""",196,,0,0,36.0,0.898,-0.730000000000004,"**0 Cam Talbot**
 
 
 
-GP:0 | W:0 | L:0
+GP:36 | W:0 | L:0
 
-Sv%: 0.0 | GSAX:0.0
+Sv%: 0.898 | GSAX:-0.73
 
 ****",Los Angeles Kings
 SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,,0,0,39.0,0.895,-0.6800000000000068,"**31 Philipp Grubauer**
@@ -458,13 +458,13 @@ GP:58 | W:0 | L:0
 Sv%: 0.916 | GSAX:28.05
 
 ****",New York Rangers
-NYR,G,70,Louis Domingue,G,31,R,"6'3""",208,,0,0,0.0,0.0,0.0,"**70 Louis Domingue**
+NYR,G,0,Jonathan Quick,G,37,L,"6'1""",216,,0,0,41.0,0.882,-17.17,"**0 Jonathan Quick**
 
 
 
-GP:0 | W:0 | L:0
+GP:41 | W:0 | L:0
 
-Sv%: 0.0 | GSAX:0.0
+Sv%: 0.882 | GSAX:-17.17
 
 ****",New York Rangers
 DET,G,35,Ville Husso,G,28,L,"6'2""",205,,0,0,56.0,0.896,-14.689999999999998,"**35 Ville Husso**
@@ -503,6 +503,15 @@ GP:19 | W:0 | L:0
 Sv%: 0.886 | GSAX:-6.86
 
 ****",Buffalo Sabres
+OTT,G,0,Joonas Korpisalo,G,29,L,"6'3""",191,,0,0,39.0,0.914,12.739999999999997,"**0 Joonas Korpisalo**
+
+
+
+GP:39 | W:0 | L:0
+
+Sv%: 0.914 | GSAX:12.74
+
+****",Ottawa Senators
 OTT,G,31,Anton Forsberg,G,30,L,"6'3""",192,,0,0,28.0,0.902,8.079999999999998,"**31 Anton Forsberg**
 
 
@@ -510,15 +519,6 @@ OTT,G,31,Anton Forsberg,G,30,L,"6'3""",192,,0,0,28.0,0.902,8.079999999999998,"**
 GP:28 | W:0 | L:0
 
 Sv%: 0.902 | GSAX:8.08
-
-****",Ottawa Senators
-OTT,G,40,Mads Sogaard,G,22,L,"6'8""",199,,0,0,19.0,0.889,-4.829999999999998,"**40 Mads Sogaard**
-
-
-
-GP:19 | W:0 | L:0
-
-Sv%: 0.889 | GSAX:-4.83
 
 ****",Ottawa Senators
 SJS,G,36,Kaapo Kahkonen,G,26,L,"6'2""",215,,0,0,37.0,0.883,-24.58,"**36 Kaapo Kahkonen**
@@ -530,13 +530,13 @@ GP:37 | W:0 | L:0
 Sv%: 0.883 | GSAX:-24.58
 
 ****",San Jose Sharks
-SJS,G,32,Eetu Makiniemi,G,24,L,"6'2""",176,,0,0,2.0,0.906,0.4300000000000001,"**32 Eetu Makiniemi**
+SJS,G,0,Mackenzie Blackwood,G,26,L,"6'4""",225,,0,0,22.0,0.893,-0.8599999999999994,"**0 Mackenzie Blackwood**
 
 
 
-GP:2 | W:0 | L:0
+GP:22 | W:0 | L:0
 
-Sv%: 0.906 | GSAX:0.43
+Sv%: 0.893 | GSAX:-0.86
 
 ****",San Jose Sharks
 DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,,0,0,62.0,0.919,11.819999999999991,"**29 Jake Oettinger**
