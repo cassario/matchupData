@@ -832,23 +832,6 @@ iXG: 1.54337918
 iFW: 10.0
 
 XG%: 0.563987758026526"
-DAL,Sam Steel,scratch,F,,L,65.0,14.96076923076923,17.0,10.0,7.0,11.0,10.62522891,119.0,0.5002606705941564,33.125228910000004,100.34699152,-98.31024542,25.0,NHL,1.0,RFA,850000,Dallas Stars,"Sam Steel
-
-GP: 65.0
-
-TOI per game: 14.96076923076923
-
-G: 10.0
-
-A: 18.0
-
-Primary PTS: 17.0
-
-iXG: 10.62522891
-
-iFW: 119.0
-
-XG%: 0.5002606705941564"
 VGK,Ben Hutton,scratch,D,17.0,L,31.0,15.19731182795699,5.0,3.0,2.0,3.0,2.63788147,66.0,0.4983471683051808,9.13788147,41.10624838,-36.523398400000005,30.0,NHL,1.0,UFA,850000,Vegas Golden Knights,"Ben Hutton
 
 GP: 31.0
@@ -866,6 +849,23 @@ iXG: 2.63788147
 iFW: 66.0
 
 XG%: 0.4983471683051808"
+DAL,Sam Steel,scratch,F,,L,65.0,14.96076923076923,17.0,10.0,7.0,11.0,10.62522891,119.0,0.5002606705941564,33.125228910000004,100.34699152,-98.31024542,25.0,NHL,1.0,RFA,850000,Dallas Stars,"Sam Steel
+
+GP: 65.0
+
+TOI per game: 14.96076923076923
+
+G: 10.0
+
+A: 18.0
+
+Primary PTS: 17.0
+
+iXG: 10.62522891
+
+iFW: 119.0
+
+XG%: 0.5002606705941564"
 TOR,Alex Steeves,scratch,F,46.0,L,3.0,7.844444444444444,0.0,0.0,0.0,0.0,0.35811848,5.0,0.4344276573245014,0.35811848,0.93669741,-3.2194669,23.0,Minor,1.0,RFA,834167,Toronto Maple Leafs,"Alex Steeves
 
 GP: 3.0
@@ -917,23 +917,6 @@ iXG: 1.60120894
 iFW: 19.0
 
 XG%: 0.3148362221486055"
-NYR,Zachary Jones,scratch,D,6.0,L,,,,,,,,,,,,,22.0,Minor,2.0,RFA,812500,New York Rangers,"Zachary Jones
-
-GP: nan
-
-TOI per game: nan
-
-G: nan
-
-A: nan
-
-Primary PTS: nan
-
-iXG: nan
-
-iFW: nan
-
-XG%: nan"
 MTL,Michael Pezzetta,scratch,F,55.0,L,63.0,9.335185185185184,15.0,7.0,8.0,0.0,7.03141177,88.0,0.4748370590576317,22.03141177,49.7555295,-60.18273922,25.0,NHL,2.0,UFA,812500,Montreal Canadiens,"Michael Pezzetta
 
 GP: 63.0
@@ -951,23 +934,23 @@ iXG: 7.03141177
 iFW: 88.0
 
 XG%: 0.4748370590576317"
-NYI,Samuel Bolduc,scratch,D,4.0,L,17.0,14.400980392156862,3.0,2.0,1.0,0.0,0.42329799,29.0,0.4700614339764626,3.42329799,21.58444728,-17.43445788,22.0,NHL,2.0,RFA,800000,New York Islanders,"Samuel Bolduc
+NYR,Zachary Jones,scratch,D,6.0,L,,,,,,,,,,,,,22.0,Minor,2.0,RFA,812500,New York Rangers,"Zachary Jones
 
-GP: 17.0
+GP: nan
 
-TOI per game: 14.400980392156862
+TOI per game: nan
 
-G: 2.0
+G: nan
 
-A: 1.0
+A: nan
 
-Primary PTS: 3.0
+Primary PTS: nan
 
-iXG: 0.42329799
+iXG: nan
 
-iFW: 29.0
+iFW: nan
 
-XG%: 0.4700614339764626"
+XG%: nan"
 PIT,Chad Ruhwedel,scratch,D,2.0,R,47.0,14.568439716312058,2.0,1.0,1.0,3.0,1.86909767,59.0,0.5266272706258398,5.36909767,54.69828098,-75.139572,33.0,NHL,1.0,UFA,800000,Pittsburgh Penguins,"Chad Ruhwedel
 
 GP: 47.0
@@ -1002,6 +985,23 @@ iXG: 0.41348514
 iFW: 27.0
 
 XG%: 0.467785276465422"
+NYI,Samuel Bolduc,scratch,D,4.0,L,17.0,14.400980392156862,3.0,2.0,1.0,0.0,0.42329799,29.0,0.4700614339764626,3.42329799,21.58444728,-17.43445788,22.0,NHL,2.0,RFA,800000,New York Islanders,"Samuel Bolduc
+
+GP: 17.0
+
+TOI per game: 14.400980392156862
+
+G: 2.0
+
+A: 1.0
+
+Primary PTS: 3.0
+
+iXG: 0.42329799
+
+iFW: 29.0
+
+XG%: 0.4700614339764626"
 CAR,Vasili Ponomarev,scratch,F,92.0,L,,,,,,,,,,,,,21.0,NHL,2.0,RFA,795000,Carolina Hurricanes,"Vasili Ponomarev
 
 GP: nan
@@ -1308,23 +1308,6 @@ iXG: nan
 iFW: nan
 
 XG%: nan"
-FLA,Zac Dalpe,scratch,F,22.0,R,14.0,8.401190476190477,3.0,2.0,1.0,1.0,1.00057911,21.0,0.3428843801954752,4.50057911,9.13851431,-17.01074175,33.0,NHL,2.0,UFA,775000,Florida Panthers,"Zac Dalpe
-
-GP: 14.0
-
-TOI per game: 8.401190476190477
-
-G: 2.0
-
-A: 2.0
-
-Primary PTS: 3.0
-
-iXG: 1.00057911
-
-iFW: 21.0
-
-XG%: 0.3428843801954752"
 ANA,Trevor Carrick,scratch,D,,L,,,,,,,,,,,,,28.0,Minor,1.0,UFA,775000,Anaheim Ducks,"Trevor Carrick
 
 GP: nan
