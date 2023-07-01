@@ -233,6 +233,15 @@ GP:10 | W:0 | L:0
 Sv%: 0.868 | GSAX:-9.29
 
 ****",Philadelphia Flyers
+VGK,G,33,Adin Hill,G,27,L,"6'6""",202,,0,0,27.0,0.914,0.8699999999999974,"**33 Adin Hill**
+
+
+
+GP:27 | W:0 | L:0
+
+Sv%: 0.914 | GSAX:0.87
+
+****",Vegas Golden Knights
 VGK,G,36,Logan Thompson,G,26,R,"6'4""",190,,0,0,37.0,0.915,0.0799999999999983,"**36 Logan Thompson**
 
 
@@ -240,15 +249,6 @@ VGK,G,36,Logan Thompson,G,26,R,"6'4""",190,,0,0,37.0,0.915,0.0799999999999983,"*
 GP:37 | W:0 | L:0
 
 Sv%: 0.915 | GSAX:0.08
-
-****",Vegas Golden Knights
-VGK,G,30,Jiri Patera,G,24,L,"6'2""",209,,0,0,2.0,0.929,2.0,"**30 Jiri Patera**
-
-
-
-GP:2 | W:0 | L:0
-
-Sv%: 0.929 | GSAX:2.0
 
 ****",Vegas Golden Knights
 CAR,G,52,Pyotr Kochetkov,G,24,L,"6'3""",205,,0,0,24.0,0.909,4.920000000000002,"**52 Pyotr Kochetkov**
@@ -260,13 +260,13 @@ GP:24 | W:0 | L:0
 Sv%: 0.909 | GSAX:4.92
 
 ****",Carolina Hurricanes
-CAR,G,0,Yaniv Perets,G,23,L,"6'1""",180,,0,0,0.0,0.0,0.0,"**0 Yaniv Perets**
+CAR,G,32,Antti Raanta,G,34,L,"6'0""",195,,0,0,27.0,0.91,1.3200000000000005,"**32 Antti Raanta**
 
 
 
-GP:0 | W:0 | L:0
+GP:27 | W:0 | L:0
 
-Sv%: 0.0 | GSAX:0.0
+Sv%: 0.91 | GSAX:1.32
 
 ****",Carolina Hurricanes
 NYI,G,30,Ilya Sorokin,G,27,L,"6'2""",172,,0,0,62.0,0.924,38.650000000000006,"**30 Ilya Sorokin**
@@ -296,15 +296,6 @@ GP:64 | W:0 | L:0
 Sv%: 0.92 | GSAX:30.77
 
 ****",Winnipeg Jets
-WPG,G,75,Arvid Holm,G,24,L,"6'4""",214,,0,0,0.0,0.0,0.0,"**75 Arvid Holm**
-
-
-
-GP:0 | W:0 | L:0
-
-Sv%: 0.0 | GSAX:0.0
-
-****",Winnipeg Jets
 LAK,G,29,Pheonix Copley,G,31,L,"6'4""",200,,0,0,37.0,0.903,4.700000000000003,"**29 Pheonix Copley**
 
 
@@ -314,7 +305,7 @@ GP:37 | W:0 | L:0
 Sv%: 0.903 | GSAX:4.7
 
 ****",Los Angeles Kings
-LAK,G,31,Matt Villalta,G,24,L,"6'2""",170,,0,0,0.0,0.0,0.0,"**31 Matt Villalta**
+LAK,G,1,Erik Portillo,G,22,L,"6'6""",198,,0,0,0.0,0.0,0.0,"**1 Erik Portillo**
 
 
 
@@ -332,13 +323,13 @@ GP:39 | W:0 | L:0
 Sv%: 0.895 | GSAX:-0.68
 
 ****",Seattle Kraken
-SEA,G,60,Chris Driedger,G,29,L,"6'4""",205,,0,0,0.0,0.0,0.0,"**60 Chris Driedger**
+SEA,G,35,Joey Daccord,G,26,L,"6'2""",197,,0,0,5.0,0.9,-0.5600000000000005,"**35 Joey Daccord**
 
 
 
-GP:0 | W:0 | L:0
+GP:5 | W:0 | L:0
 
-Sv%: 0.0 | GSAX:0.0
+Sv%: 0.9 | GSAX:-0.56
 
 ****",Seattle Kraken
 TBL,G,88,Andrei Vasilevskiy,G,28,L,"6'3""",216,,0,0,60.0,0.915,25.340000000000003,"**88 Andrei Vasilevskiy**
@@ -539,13 +530,13 @@ GP:37 | W:0 | L:0
 Sv%: 0.883 | GSAX:-24.58
 
 ****",San Jose Sharks
-SJS,G,0,Mackenzie Blackwood,G,26,L,"6'4""",225,,0,0,22.0,0.893,-0.8599999999999994,"**0 Mackenzie Blackwood**
+SJS,G,32,Eetu Makiniemi,G,24,L,"6'2""",176,,0,0,2.0,0.906,0.4300000000000001,"**32 Eetu Makiniemi**
 
 
 
-GP:22 | W:0 | L:0
+GP:2 | W:0 | L:0
 
-Sv%: 0.893 | GSAX:-0.86
+Sv%: 0.906 | GSAX:0.43
 
 ****",San Jose Sharks
 DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,,0,0,62.0,0.919,11.819999999999991,"**29 Jake Oettinger**
