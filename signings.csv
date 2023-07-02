@@ -1,4 +1,38 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
+"Jul. 1, 2023",PHI,Garnet Hathaway,"RW, LW",31,Stnd (UFA),1-way,2,2375000,4750000,,,
+"Jul. 1, 2023",NJD,Justin Dowling,"C, LW",32,Stnd (UFA),2-way,2,775000,1550000,,,
+"Jul. 1, 2023",NJD,Erik Kallgren,G,26,Stnd (UFA),2-way,1,775000,775000,,,
+"Jul. 1, 2023",NJD,Kyle Criscuolo,C,31,Stnd (UFA),2-way,1,775000,775000,,,
+"Jul. 1, 2023",NJD,Michael McLeod,C,25,Stnd (UFA),1-way,1,1400000,1400000,80.0,16.0,0.4848480770255401
+"Jul. 1, 2023",MTL,Brady Keeper,RD,27,Stnd (UFA),2-way,1,775000,775000,,,
+"Jul. 1, 2023",NYR,Connor Mackey,LD,26,Stnd (UFA),2-way,1,775000,775000,,,
+"Jul. 1, 2023",OTT,Rourke Chartier,C,27,Stnd (UFA),2-way,1,775000,775000,6.0,0.0,0.4909616952988812
+"Jul. 1, 2023",LAK,Trevor Lewis,"RW, C",36,35+ (UFA),1-way,1,775000,775000,,,
+"Jul. 1, 2023",OTT,Josh Currie,"RW, C",30,Stnd (UFA),2-way,1,775000,775000,8.0,2.0,0.5832446804651723
+"Jul. 1, 2023",OTT,Matthew Highmore,"LW, RW",27,Stnd (UFA),2-way,1,775000,775000,,,
+"Jul. 1, 2023",OTT,Garrett Pilon,C,25,Stnd (UFA),2-way,1,775000,775000,,,
+"Jul. 1, 2023",PHI,Rhett Gardner,"C, LW",27,Stnd (UFA),2-way,2,775000,1550000,,,
+"Jul. 1, 2023",PHI,Ryan Poehling,"LW, C",24,Stnd (UFA),1-way,1,1400000,1400000,,,
+"Jul. 1, 2023",CAR,Antti Raanta,G,34,Stnd (UFA),1-way,1,1500000,1500000,,,
+"Jul. 1, 2023",CAR,Dmitry Orlov,LD,31,Stnd (UFA),1-way,2,7750000,15500000,,,
+"Jul. 1, 2023",SJS,Kyle Burroughs,LD/RD,27,Stnd (UFA),1-way,3,1100000,3300000,,,
+"Jul. 1, 2023",SJS,Ryan Carpenter,"RW, C",32,Stnd (UFA),2-way,1,775000,775000,,,
+"Jul. 1, 2023",BUF,Justin Richards,"C, RW",25,Stnd (UFA),2-way,1,775000,775000,,,
+"Jul. 1, 2023",STL,Josh Jacobs,RD,27,Stnd (UFA),2-way,1,775000,775000,,,
+"Jul. 1, 2023",STL,Wyatt Kalynuk,LD,26,Stnd (UFA),2-way,1,775000,775000,,,
+"Jul. 1, 2023",BUF,Connor Clifton,RD,28,Stnd (UFA),1-way,3,3333333,9999999,,,
+"Jul. 1, 2023",STL,Mackenzie MacEachern,"LW, RW",29,Stnd (UFA),1-way,2,775000,1550000,,,
+"Jul. 1, 2023",BOS,Kevin Shattenkirk,RD,34,Stnd (UFA),1-way,1,1050000,1050000,,,
+"Jul. 1, 2023",BOS,Morgan Geekie,"C, RW",24,Stnd (UFA),1-way,2,2000000,4000000,,,
+"Jul. 1, 2023",BOS,Luke Toporowski,LW,22,ELC,2-way,2,870000,1900000,,,
+"Jul. 1, 2023",BOS,Patrick Brown,"C, RW",31,Stnd (UFA),1-way,2,800000,1600000,78.0,43.0,0.621867920746312
+"Jul. 1, 2023",OTT,Joonas Korpisalo,G,29,Stnd (UFA),1-way,5,4000000,20000000,,,
+"Jul. 1, 2023",ANA,Alex Killorn,"RW, LW",33,Stnd (UFA),1-way,4,6250000,25000000,,,
+"Jul. 1, 2023",NYR,Blake Wheeler,"RW, C",36,35+ (UFA),1-way,1,800000,1100000,,,
+"Jul. 1, 2023",BOS,Milan Lucic,"LW, RW",35,35+ (UFA),1-way,1,1000000,1500000,,,
+"Jul. 1, 2023",CAR,Jesper Fast,RW,31,Stnd (UFA),1-way,2,2400000,4800000,80.0,16.0,0.5793917473430013
+"Jul. 1, 2023",LAK,Cam Talbot,G,35,35+ (UFA),1-way,1,1000000,2000000,,,
+"Jul. 1, 2023",NYR,Jonathan Quick,G,37,35+ (UFA),1-way,1,825000,925000,,,
 "Jul. 1, 2023",ANA,Trevor Carrick,LD,28,Stnd (UFA),2-way,1,775000,775000,,,
 "Jul. 1, 2023",FLA,Anthony Stolarz,G,29,Stnd (UFA),1-way,1,1100000,1100000,20.0,7.0,0.5467454468689422
 "Jul. 1, 2023",PIT,Ryan Shea,LD,26,Stnd (UFA),2-way,1,775000,775000,,,
@@ -14,38 +48,4 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Jul. 1, 2023",PIT,Joona Koppanen,"LW, C",25,Stnd (UFA),2-way,2,775000,1550000,,,
 "Jul. 1, 2023",SEA,Jimmy Schuldt,LD,28,Stnd (UFA),2-way,1,775000,775000,,,
 "Jul. 1, 2023",COL,Arvid Holm,G,24,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 1, 2023",NYR,Connor Mackey,LD,26,Stnd (UFA),2-way,1,775000,775000,,,
 "Jul. 1, 2023",COL,Chris Wagner,"RW, C",32,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 1, 2023",NYR,Nikolas Brouillard,D,28,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 1, 2023",COL,Riley Tufte,LW,25,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 1, 2023",NYR,Nick Bonino,"C, LW",35,35+ (UFA),1-way,1,800000,800000,,,
-"Jul. 1, 2023",LAK,David Rittich,G,30,Stnd (UFA),1-way,1,875000,875000,,,
-"Jul. 1, 2023",COL,Jack Ahcan,LD,26,Stnd (UFA),2-way,2,775000,1550000,,,
-"Jul. 1, 2023",FLA,Lucas Carlsson,LD,25,Stnd (UFA),2-way,1,775000,775000,2.0,0.0,0.5222216395421354
-"Jul. 1, 2023",EDM,Noel Hoefenmayer,LD,24,ELC,2-way,1,845000,845000,,,
-"Jul. 1, 2023",ARI,Alexander Kerfoot,"LW, RW",28,Stnd (UFA),1-way,2,3500000,7000000,,,
-"Jul. 1, 2023",ARI,Travis Barron,LW,24,Stnd (UFA),2-way,1,775000,775000,82.0,24.0,0.4006518378981006
-"Jul. 1, 2023",TOR,Artur Akhtiamov,G,21,ELC,2-way,3,851667,2555000,,,
-"Jul. 1, 2023",NSH,Alexandre Carrier,RD,26,Stnd (RFA),1-way,1,2500000,2500000,43.0,6.0,0.5259797793051547
-"Jul. 1, 2023",OTT,Bokondji Imama,LW,26,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 1, 2023",LAK,Mikhail Maltsev,"C, LW",25,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 1, 2023",FLA,Oliver Ekman-Larsson,LD,31,Stnd (UFA),1-way,1,2250000,2250000,,,
-"Jul. 1, 2023",OTT,Jacob Bernard-Docker,RD,23,Stnd (RFA),1-way,2,805000,1610000,19.0,0.0,0.4983133705537543
-"Jul. 1, 2023",NSH,Cody Glass,C,24,Stnd (RFA),1-way,2,2500000,5000000,72.0,24.0,0.5154923995075735
-"Jul. 1, 2023",PIT,Ryan Graves,LD,28,Stnd (UFA),1-way,6,4500000,27000000,,,
-"Jul. 1, 2023",SJS,Fabian Zetterlund,RW,23,Stnd (RFA),1-way,2,1450000,2900000,67.0,19.0,0.5004038762562183
-"Jul. 1, 2023",NYR,Erik Gustafsson,LD,31,Stnd (UFA),1-way,1,825000,825000,,,
-"Jul. 1, 2023",CAR,Frederik Andersen,G,33,Stnd (UFA),1-way,2,3400000,6800000,,,
-"Jul. 1, 2023",NYI,Pierre Engvall,"RW, LW",27,Stnd (UFA),1-way,7,3000000,21000000,76.0,25.0,0.5717826255630544
-"Jul. 1, 2023",FLA,Alex True,"C, RW",25,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 1, 2023",TBL,Mitchell Chaffee,RW,25,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 1, 2023",SJS,Scott Sabourin,RW,30,Stnd (UFA),2-way,2,775000,1550000,,,
-"Jul. 1, 2023",TOR,John Klingberg,RD,30,Stnd (UFA),1-way,1,4150000,4150000,,,
-"Jul. 1, 2023",LAK,Steven Santini,RD,28,Stnd (UFA),2-way,1,800000,800000,,,
-"Jul. 1, 2023",TOR,Marshall Rifai,LD,25,Stnd (UFA),2-way,2,775000,1550000,,,
-"Jul. 1, 2023",TOR,Maxime Lajoie,LD,25,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 1, 2023",NYI,Semyon Varlamov,G,35,35+ (UFA),1-way,4,2750000,11000000,,,
-"Jul. 1, 2023",VAN,Ian Cole,LD/RD,34,Stnd (UFA),1-way,1,3000000,3000000,,,
-"Jul. 1, 2023",DET,J.T. Compher,"C, RW",28,Stnd (UFA),1-way,5,5100000,25500000,,,
-"Jul. 1, 2023",ANA,Radko Gudas,RD,33,Stnd (UFA),1-way,3,4000000,12000000,,,
-"Jul. 1, 2023",NYI,Scott Mayfield,RD,30,Stnd (UFA),1-way,7,3500000,24500000,82.0,15.0,0.4996863595976474
