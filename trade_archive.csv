@@ -1,90 +1,100 @@
 date,full_team,details,team
 07-02-2023,Minnesota Wild, Tampa Bay Lightning Acquire: Seventh round pick MIN -: -: - Minnesota Wild Acquire:Patrick Maroon  retained - %  Maxim Cajkovic    ,MIN
 07-02-2023,Tampa Bay Lightning, Tampa Bay Lightning Acquire: Seventh round pick MIN -: -: - Minnesota Wild Acquire:Patrick Maroon  retained - %  Maxim Cajkovic    ,TBL
-07-02-2023,San Jose Sharks, Winnipeg Jets Acquire:Artemi Kniazev     San Jose Sharks Acquire:Leon Gawanke     -: -,SJS
-07-02-2023,Winnipeg Jets, Winnipeg Jets Acquire:Artemi Kniazev     San Jose Sharks Acquire:Leon Gawanke     -: -,WPG
+07-02-2023,San Jose Sharks, San Jose Sharks Acquire:Leon Gawanke     -: - Winnipeg Jets Acquire:Artemi Kniazev    ,SJS
+07-02-2023,Winnipeg Jets, San Jose Sharks Acquire:Leon Gawanke     -: - Winnipeg Jets Acquire:Artemi Kniazev    ,WPG
 07-01-2023,Montreal Canadiens, Washington Capitals Acquire:Joel Edmundson  retained - %    Montreal Canadiens Acquire: Third round pick MIN Seventh round pick WSH -: -: -,MTL
 07-01-2023,Dallas Stars, Dallas Stars Acquire: Fifth round pick NJD -: -: - New Jersey Devils Acquire:Colin Miller   ,DAL
 07-01-2023,Washington Capitals, Washington Capitals Acquire:Joel Edmundson  retained - %    Montreal Canadiens Acquire: Third round pick MIN Seventh round pick WSH -: -: -,WSH
-07-01-2023,San Jose Sharks,Florida Panthers Acquire:Steven Lorentz   Fifth round pick SJS -: -: -  San Jose Sharks Acquire:Anthony Duclair   ,SJS
-07-01-2023,Florida Panthers,Florida Panthers Acquire:Steven Lorentz   Fifth round pick SJS -: -: -  San Jose Sharks Acquire:Anthony Duclair   ,FLA
+07-01-2023,San Jose Sharks, Florida Panthers Acquire:Steven Lorentz   Fifth round pick SJS -: -: - San Jose Sharks Acquire:Anthony Duclair   ,SJS
+07-01-2023,Florida Panthers, Florida Panthers Acquire:Steven Lorentz   Fifth round pick SJS -: -: - San Jose Sharks Acquire:Anthony Duclair   ,FLA
 07-01-2023,New Jersey Devils, Dallas Stars Acquire: Fifth round pick NJD -: -: - New Jersey Devils Acquire:Colin Miller   ,NJD
-06-29-2023,Chicago Blackhawks, Philadelphia Flyers Acquire: Second round pick TBL - # - Carson Bjarnason  Chicago Blackhawks Acquire: Sixth round pick PHI - # - Milton Oscarson Second round pick LAK ,CHI
+06-29-2023,Chicago Blackhawks,Chicago Blackhawks Acquire: Sixth round pick PHI - # - Milton Oscarson Second round pick LAK   Philadelphia Flyers Acquire: Second round pick TBL - # - Carson Bjarnason ,CHI
 06-29-2023,Carolina Hurricanes, San Jose Sharks Acquire: Third round pick PHI - # - Brandon Svoboda  Carolina Hurricanes Acquire: Third round pick CAR - # - Jayden Perron Fourth round pick SJS - # - Alexander Rykov ,CAR
 06-29-2023,Pittsburgh Penguins , New York Rangers Acquire: Third round pick NJD - # - Drew Fortescue  Pittsburgh Penguins Acquire: Third round pick COL - # - Emil Pieniniemi Seventh round pick NYR ,PIT
-06-29-2023,Vegas Golden Knights, Columbus Blue Jackets Acquire: Seventh round pick VGK - # - Tyler Peddle  Vegas Golden Knights Acquire: Seventh round pick CBJ ,VGK
+06-29-2023,Vegas Golden Knights, Vegas Golden Knights Acquire: Seventh round pick CBJ  Columbus Blue Jackets Acquire: Seventh round pick VGK - # - Tyler Peddle ,VGK
 06-29-2023,New Jersey Devils, Nashville Predators Acquire: Seventh round pick NJD - # - Aiden Fink  New Jersey Devils Acquire: Seventh round pick NSH ,NJD
-06-29-2023,Washington Capitals,San Jose Sharks Acquire: Seventh round pick WSH   Washington Capitals Acquire: Seventh round pick PIT - # - Antoine Keller ,WSH
+06-29-2023,Washington Capitals, San Jose Sharks Acquire: Seventh round pick WSH  Washington Capitals Acquire: Seventh round pick PIT - # - Antoine Keller ,WSH
 06-29-2023,Tampa Bay Lightning, Tampa Bay Lightning Acquire: Fourth round pick TBL - # - Jayson Shaugabay  Nashville Predators Acquire: Fourth round pick CHI ,TBL
-06-29-2023,Tampa Bay Lightning,Chicago Blackhawks Acquire:Corey Perry      Tampa Bay Lightning Acquire: Seventh round pick CHI ,TBL
-06-29-2023,Nashville Predators, Nashville Predators Acquire: Third round pick DAL Sixth round pick DAL  Dallas Stars Acquire: Third round pick NSH - # - Brad Gardiner ,NSH
-06-29-2023,Philadelphia Flyers, Philadelphia Flyers Acquire: Second round pick TBL - # - Carson Bjarnason  Chicago Blackhawks Acquire: Sixth round pick PHI - # - Milton Oscarson Second round pick LAK ,PHI
+06-29-2023,Tampa Bay Lightning, Tampa Bay Lightning Acquire: Seventh round pick CHI  Chicago Blackhawks Acquire:Corey Perry    ,TBL
+06-29-2023,Nashville Predators, Dallas Stars Acquire: Third round pick NSH - # - Brad Gardiner  Nashville Predators Acquire: Third round pick DAL Sixth round pick DAL ,NSH
+06-29-2023,Philadelphia Flyers,Chicago Blackhawks Acquire: Sixth round pick PHI - # - Milton Oscarson Second round pick LAK   Philadelphia Flyers Acquire: Second round pick TBL - # - Carson Bjarnason ,PHI
 06-29-2023,Edmonton Oilers, Edmonton Oilers Acquire:Future Considerations -: -: - Detroit Red Wings Acquire:Kailer Yamamoto  Klim Kostin    ,EDM
 06-29-2023,Nashville Predators, Nashville Predators Acquire: Second round pick VAN - # - Felix Nilsson  Detroit Red Wings Acquire: Second round pick NSH - # - Brady Cleveland Fifth round pick TBL - # - Kevin Bicker ,NSH
 06-29-2023,New York Islanders, Chicago Blackhawks Acquire:Josh Bailey   Second round pick NYI  New York Islanders Acquire:Future Considerations -: -: -,NYI
-06-29-2023,Dallas Stars, Nashville Predators Acquire: Third round pick DAL Sixth round pick DAL  Dallas Stars Acquire: Third round pick NSH - # - Brad Gardiner ,DAL
+06-29-2023,Dallas Stars, Dallas Stars Acquire: Third round pick NSH - # - Brad Gardiner  Nashville Predators Acquire: Third round pick DAL Sixth round pick DAL ,DAL
 06-29-2023,San Jose Sharks, San Jose Sharks Acquire: Third round pick PHI - # - Brandon Svoboda  Carolina Hurricanes Acquire: Third round pick CAR - # - Jayden Perron Fourth round pick SJS - # - Alexander Rykov ,SJS
 06-29-2023,New York Rangers, New York Rangers Acquire: Third round pick NJD - # - Drew Fortescue  Pittsburgh Penguins Acquire: Third round pick COL - # - Emil Pieniniemi Seventh round pick NYR ,NYR
 06-29-2023,Pittsburgh Penguins, New York Rangers Acquire: Third round pick NJD - # - Drew Fortescue  Pittsburgh Penguins Acquire: Third round pick COL - # - Emil Pieniniemi Seventh round pick NYR ,PIT
 06-29-2023,Chicago Blackhawks, Chicago Blackhawks Acquire:Josh Bailey   Second round pick NYI  New York Islanders Acquire:Future Considerations -: -: -,CHI
-06-29-2023,Columbus Blue Jackets, Columbus Blue Jackets Acquire: Seventh round pick VGK - # - Tyler Peddle  Vegas Golden Knights Acquire: Seventh round pick CBJ ,CBJ
-06-29-2023,Chicago Blackhawks,Chicago Blackhawks Acquire:Corey Perry      Tampa Bay Lightning Acquire: Seventh round pick CHI ,CHI
+06-29-2023,Columbus Blue Jackets, Vegas Golden Knights Acquire: Seventh round pick CBJ  Columbus Blue Jackets Acquire: Seventh round pick VGK - # - Tyler Peddle ,CBJ
+06-29-2023,Chicago Blackhawks, Tampa Bay Lightning Acquire: Seventh round pick CHI  Chicago Blackhawks Acquire:Corey Perry    ,CHI
 06-29-2023,Nashville Predators, Tampa Bay Lightning Acquire: Fourth round pick TBL - # - Jayson Shaugabay  Nashville Predators Acquire: Fourth round pick CHI ,NSH
-06-29-2023,San Jose Sharks,San Jose Sharks Acquire: Seventh round pick WSH   Washington Capitals Acquire: Seventh round pick PIT - # - Antoine Keller ,SJS
+06-29-2023,San Jose Sharks, San Jose Sharks Acquire: Seventh round pick WSH  Washington Capitals Acquire: Seventh round pick PIT - # - Antoine Keller ,SJS
 06-29-2023,Detroit Red Wings, Nashville Predators Acquire: Second round pick VAN - # - Felix Nilsson  Detroit Red Wings Acquire: Second round pick NSH - # - Brady Cleveland Fifth round pick TBL - # - Kevin Bicker ,DET
 06-29-2023,Nashville Predators, Nashville Predators Acquire: Seventh round pick NJD - # - Aiden Fink  New Jersey Devils Acquire: Seventh round pick NSH ,NSH
 06-29-2023,Detroit Red Wings, Edmonton Oilers Acquire:Future Considerations -: -: - Detroit Red Wings Acquire:Kailer Yamamoto  Klim Kostin    ,DET
+06-28-2023,Pittsburgh Penguins, Pittsburgh Penguins Acquire:Reilly Smith    Vegas Golden Knights Acquire: Third round pick VGK -: -: -,PIT
+06-28-2023,Colorado Avalanche, Colorado Avalanche Acquire:Ross Colton     Tampa Bay Lightning Acquire: Second round pick MTL - # - Ethan Gauthier ,COL
+06-28-2023,Tampa Bay Lightning, Colorado Avalanche Acquire:Ross Colton     Tampa Bay Lightning Acquire: Second round pick MTL - # - Ethan Gauthier ,TBL
+06-28-2023,Vegas Golden Knights, Pittsburgh Penguins Acquire:Reilly Smith    Vegas Golden Knights Acquire: Third round pick VGK -: -: -,VGK
+06-28-2023,Pittsburgh Penguins , Pittsburgh Penguins Acquire:Reilly Smith    Vegas Golden Knights Acquire: Third round pick VGK -: -: -,PIT
+06-27-2023,Calgary Flames, Calgary Flames Acquire:Yegor Sharangovich    Third round pick CGY - # - Aydar Suniev -: -: - New Jersey Devils Acquire:Tyler Toffoli   ,CGY
+06-27-2023,New Jersey Devils, San Jose Sharks Acquire:Mackenzie Blackwood     New Jersey Devils Acquire: Sixth round pick SJS - # - Cole Brown ,NJD
+06-27-2023,Anaheim Ducks, Anaheim Ducks Acquire:Andrew Agozzino     San Jose Sharks Acquire:Andrej Sustr     -: -,ANA
+06-27-2023,Los Angeles Kings,Los Angeles Kings Acquire:Pierre-Luc Dubois     Winnipeg Jets Acquire:Gabriel Vilardi   Alex Iafallo  Rasmus Kupari    Second round pick MTL -: -: -,LAK
+06-27-2023,Colorado Avalanche, Montreal Canadiens Acquire:Alex Newhook    -: - Colorado Avalanche Acquire:Gianni Fairbrother    First round pick FLA - # - Mikhail Gulyayev Second round pick MTL - # - Ethan Gauthier ,COL
+06-27-2023,New Jersey Devils, Calgary Flames Acquire:Yegor Sharangovich    Third round pick CGY - # - Aydar Suniev -: -: - New Jersey Devils Acquire:Tyler Toffoli   ,NJD
+06-27-2023,San Jose Sharks, San Jose Sharks Acquire:Mackenzie Blackwood     New Jersey Devils Acquire: Sixth round pick SJS - # - Cole Brown ,SJS
+06-27-2023,San Jose Sharks, Anaheim Ducks Acquire:Andrew Agozzino     San Jose Sharks Acquire:Andrej Sustr     -: -,SJS
+06-27-2023,Winnipeg Jets,Los Angeles Kings Acquire:Pierre-Luc Dubois     Winnipeg Jets Acquire:Gabriel Vilardi   Alex Iafallo  Rasmus Kupari    Second round pick MTL -: -: -,WPG
+06-27-2023,Montreal Canadiens, Montreal Canadiens Acquire:Alex Newhook    -: - Colorado Avalanche Acquire:Gianni Fairbrother    First round pick FLA - # - Mikhail Gulyayev Second round pick MTL - # - Ethan Gauthier ,MTL
+07-02-2023,San Jose Sharks, Winnipeg Jets Acquire:Artemi Kniazev     San Jose Sharks Acquire:Leon Gawanke     -: -,SJS
+07-02-2023,Winnipeg Jets, Winnipeg Jets Acquire:Artemi Kniazev     San Jose Sharks Acquire:Leon Gawanke     -: -,WPG
+07-01-2023,San Jose Sharks,Florida Panthers Acquire:Steven Lorentz   Fifth round pick SJS -: -: -  San Jose Sharks Acquire:Anthony Duclair   ,SJS
+07-01-2023,Florida Panthers,Florida Panthers Acquire:Steven Lorentz   Fifth round pick SJS -: -: -  San Jose Sharks Acquire:Anthony Duclair   ,FLA
+06-29-2023,Chicago Blackhawks, Philadelphia Flyers Acquire: Second round pick TBL - # - Carson Bjarnason  Chicago Blackhawks Acquire: Sixth round pick PHI - # - Milton Oscarson Second round pick LAK ,CHI
+06-29-2023,Vegas Golden Knights, Columbus Blue Jackets Acquire: Seventh round pick VGK - # - Tyler Peddle  Vegas Golden Knights Acquire: Seventh round pick CBJ ,VGK
+06-29-2023,Washington Capitals,San Jose Sharks Acquire: Seventh round pick WSH   Washington Capitals Acquire: Seventh round pick PIT - # - Antoine Keller ,WSH
+06-29-2023,Tampa Bay Lightning,Chicago Blackhawks Acquire:Corey Perry      Tampa Bay Lightning Acquire: Seventh round pick CHI ,TBL
+06-29-2023,Nashville Predators, Nashville Predators Acquire: Third round pick DAL Sixth round pick DAL  Dallas Stars Acquire: Third round pick NSH - # - Brad Gardiner ,NSH
+06-29-2023,Philadelphia Flyers, Philadelphia Flyers Acquire: Second round pick TBL - # - Carson Bjarnason  Chicago Blackhawks Acquire: Sixth round pick PHI - # - Milton Oscarson Second round pick LAK ,PHI
+06-29-2023,Dallas Stars, Nashville Predators Acquire: Third round pick DAL Sixth round pick DAL  Dallas Stars Acquire: Third round pick NSH - # - Brad Gardiner ,DAL
+06-29-2023,Columbus Blue Jackets, Columbus Blue Jackets Acquire: Seventh round pick VGK - # - Tyler Peddle  Vegas Golden Knights Acquire: Seventh round pick CBJ ,CBJ
+06-29-2023,Chicago Blackhawks,Chicago Blackhawks Acquire:Corey Perry      Tampa Bay Lightning Acquire: Seventh round pick CHI ,CHI
+06-29-2023,San Jose Sharks,San Jose Sharks Acquire: Seventh round pick WSH   Washington Capitals Acquire: Seventh round pick PIT - # - Antoine Keller ,SJS
 06-28-2023,Pittsburgh Penguins, Vegas Golden Knights Acquire: Third round pick VGK -: -: - Pittsburgh Penguins Acquire:Reilly Smith   ,PIT
 06-28-2023,Colorado Avalanche, Tampa Bay Lightning Acquire: Second round pick MTL - # - Ethan Gauthier  Colorado Avalanche Acquire:Ross Colton    ,COL
 06-28-2023,Tampa Bay Lightning, Tampa Bay Lightning Acquire: Second round pick MTL - # - Ethan Gauthier  Colorado Avalanche Acquire:Ross Colton    ,TBL
 06-28-2023,Vegas Golden Knights, Vegas Golden Knights Acquire: Third round pick VGK -: -: - Pittsburgh Penguins Acquire:Reilly Smith   ,VGK
 06-28-2023,Pittsburgh Penguins , Vegas Golden Knights Acquire: Third round pick VGK -: -: - Pittsburgh Penguins Acquire:Reilly Smith   ,PIT
-06-27-2023,Calgary Flames, Calgary Flames Acquire:Yegor Sharangovich    Third round pick CGY - # - Aydar Suniev -: -: - New Jersey Devils Acquire:Tyler Toffoli   ,CGY
 06-27-2023,New Jersey Devils,New Jersey Devils Acquire: Sixth round pick SJS - # - Cole Brown   San Jose Sharks Acquire:Mackenzie Blackwood    ,NJD
-06-27-2023,Anaheim Ducks, Anaheim Ducks Acquire:Andrew Agozzino     San Jose Sharks Acquire:Andrej Sustr     -: -,ANA
 06-27-2023,Los Angeles Kings, Winnipeg Jets Acquire:Gabriel Vilardi   Alex Iafallo  Rasmus Kupari    Second round pick MTL -: -: - Los Angeles Kings Acquire:Pierre-Luc Dubois   ,LAK
-06-27-2023,Colorado Avalanche, Montreal Canadiens Acquire:Alex Newhook    -: - Colorado Avalanche Acquire:Gianni Fairbrother    First round pick FLA - # - Mikhail Gulyayev Second round pick MTL - # - Ethan Gauthier ,COL
-06-27-2023,New Jersey Devils, Calgary Flames Acquire:Yegor Sharangovich    Third round pick CGY - # - Aydar Suniev -: -: - New Jersey Devils Acquire:Tyler Toffoli   ,NJD
 06-27-2023,San Jose Sharks,New Jersey Devils Acquire: Sixth round pick SJS - # - Cole Brown   San Jose Sharks Acquire:Mackenzie Blackwood    ,SJS
-06-27-2023,San Jose Sharks, Anaheim Ducks Acquire:Andrew Agozzino     San Jose Sharks Acquire:Andrej Sustr     -: -,SJS
 06-27-2023,Winnipeg Jets, Winnipeg Jets Acquire:Gabriel Vilardi   Alex Iafallo  Rasmus Kupari    Second round pick MTL -: -: - Los Angeles Kings Acquire:Pierre-Luc Dubois   ,WPG
-06-27-2023,Montreal Canadiens, Montreal Canadiens Acquire:Alex Newhook    -: - Colorado Avalanche Acquire:Gianni Fairbrother    First round pick FLA - # - Mikhail Gulyayev Second round pick MTL - # - Ethan Gauthier ,MTL
 06-27-2023,Philadelphia Flyers, St. Louis Blues Acquire:Kevin Hayes  retained - %    Philadelphia Flyers Acquire: Sixth round pick STL -: -: -,PHI
 06-27-2023,St. Louis Blues, St. Louis Blues Acquire:Kevin Hayes  retained - %    Philadelphia Flyers Acquire: Sixth round pick STL -: -: -,STL
 06-26-2023,New Jersey Devils, New Jersey Devils Acquire:Shane Bowers      Boston Bruins Acquire:Reilly Walsh     ,NJD
 06-26-2023,Boston Bruins, New Jersey Devils Acquire:Shane Bowers      Boston Bruins Acquire:Reilly Walsh     ,BOS
-07-01-2023,Florida Panthers, Florida Panthers Acquire:Steven Lorentz   Fifth round pick SJS -: -: - San Jose Sharks Acquire:Anthony Duclair   ,FLA
-07-01-2023,San Jose Sharks, Florida Panthers Acquire:Steven Lorentz   Fifth round pick SJS -: -: - San Jose Sharks Acquire:Anthony Duclair   ,SJS
 07-01-2023,Montreal Canadiens, Montreal Canadiens Acquire: Third round pick MIN Seventh round pick WSH -: -: - Washington Capitals Acquire:Joel Edmundson  retained - %   ,MTL
 07-01-2023,Washington Capitals, Montreal Canadiens Acquire: Third round pick MIN Seventh round pick WSH -: -: - Washington Capitals Acquire:Joel Edmundson  retained - %   ,WSH
 06-29-2023,Nashville Predators, Detroit Red Wings Acquire: Second round pick NSH - # - Brady Cleveland Fifth round pick TBL - # - Kevin Bicker  Nashville Predators Acquire: Second round pick VAN - # - Felix Nilsson ,NSH
 06-29-2023,Pittsburgh Penguins,New York Rangers Acquire: Third round pick NJD - # - Drew Fortescue   Pittsburgh Penguins Acquire: Third round pick COL - # - Emil Pieniniemi Seventh round pick NYR ,PIT
 06-29-2023,Philadelphia Flyers, Chicago Blackhawks Acquire: Sixth round pick PHI - # - Milton Oscarson Second round pick LAK  Philadelphia Flyers Acquire: Second round pick TBL - # - Carson Bjarnason ,PHI
 06-29-2023,New York Rangers,New York Rangers Acquire: Third round pick NJD - # - Drew Fortescue   Pittsburgh Penguins Acquire: Third round pick COL - # - Emil Pieniniemi Seventh round pick NYR ,NYR
-06-29-2023,Tampa Bay Lightning, Tampa Bay Lightning Acquire: Seventh round pick CHI  Chicago Blackhawks Acquire:Corey Perry    ,TBL
 06-29-2023,Tampa Bay Lightning, Nashville Predators Acquire: Fourth round pick CHI  Tampa Bay Lightning Acquire: Fourth round pick TBL - # - Jayson Shaugabay ,TBL
-06-29-2023,Washington Capitals, San Jose Sharks Acquire: Seventh round pick WSH  Washington Capitals Acquire: Seventh round pick PIT - # - Antoine Keller ,WSH
 06-29-2023,New Jersey Devils, New Jersey Devils Acquire: Seventh round pick NSH  Nashville Predators Acquire: Seventh round pick NJD - # - Aiden Fink ,NJD
-06-29-2023,Vegas Golden Knights, Vegas Golden Knights Acquire: Seventh round pick CBJ  Columbus Blue Jackets Acquire: Seventh round pick VGK - # - Tyler Peddle ,VGK
 06-29-2023,Pittsburgh Penguins ,New York Rangers Acquire: Third round pick NJD - # - Drew Fortescue   Pittsburgh Penguins Acquire: Third round pick COL - # - Emil Pieniniemi Seventh round pick NYR ,PIT
 06-29-2023,Carolina Hurricanes, Carolina Hurricanes Acquire: Third round pick CAR - # - Jayden Perron Fourth round pick SJS - # - Alexander Rykov  San Jose Sharks Acquire: Third round pick PHI - # - Brandon Svoboda ,CAR
 06-29-2023,San Jose Sharks, Carolina Hurricanes Acquire: Third round pick CAR - # - Jayden Perron Fourth round pick SJS - # - Alexander Rykov  San Jose Sharks Acquire: Third round pick PHI - # - Brandon Svoboda ,SJS
-06-29-2023,Chicago Blackhawks, Tampa Bay Lightning Acquire: Seventh round pick CHI  Chicago Blackhawks Acquire:Corey Perry    ,CHI
 06-29-2023,Nashville Predators, New Jersey Devils Acquire: Seventh round pick NSH  Nashville Predators Acquire: Seventh round pick NJD - # - Aiden Fink ,NSH
 06-29-2023,Chicago Blackhawks, Chicago Blackhawks Acquire: Sixth round pick PHI - # - Milton Oscarson Second round pick LAK  Philadelphia Flyers Acquire: Second round pick TBL - # - Carson Bjarnason ,CHI
 06-29-2023,Detroit Red Wings, Detroit Red Wings Acquire: Second round pick NSH - # - Brady Cleveland Fifth round pick TBL - # - Kevin Bicker  Nashville Predators Acquire: Second round pick VAN - # - Felix Nilsson ,DET
 06-29-2023,Nashville Predators, Nashville Predators Acquire: Fourth round pick CHI  Tampa Bay Lightning Acquire: Fourth round pick TBL - # - Jayson Shaugabay ,NSH
-06-29-2023,San Jose Sharks, San Jose Sharks Acquire: Seventh round pick WSH  Washington Capitals Acquire: Seventh round pick PIT - # - Antoine Keller ,SJS
-06-29-2023,Columbus Blue Jackets, Vegas Golden Knights Acquire: Seventh round pick CBJ  Columbus Blue Jackets Acquire: Seventh round pick VGK - # - Tyler Peddle ,CBJ
-06-28-2023,Vegas Golden Knights, Pittsburgh Penguins Acquire:Reilly Smith    Vegas Golden Knights Acquire: Third round pick VGK -: -: -,VGK
 06-28-2023,Tampa Bay Lightning,Colorado Avalanche Acquire:Ross Colton      Tampa Bay Lightning Acquire: Second round pick MTL - # - Ethan Gauthier ,TBL
-06-28-2023,Pittsburgh Penguins , Pittsburgh Penguins Acquire:Reilly Smith    Vegas Golden Knights Acquire: Third round pick VGK -: -: -,PIT
 06-28-2023,Colorado Avalanche,Colorado Avalanche Acquire:Ross Colton      Tampa Bay Lightning Acquire: Second round pick MTL - # - Ethan Gauthier ,COL
-06-28-2023,Pittsburgh Penguins, Pittsburgh Penguins Acquire:Reilly Smith    Vegas Golden Knights Acquire: Third round pick VGK -: -: -,PIT
 06-27-2023,Philadelphia Flyers, Philadelphia Flyers Acquire: Sixth round pick STL -: -: - St. Louis Blues Acquire:Kevin Hayes  retained - %   ,PHI
-06-27-2023,New Jersey Devils, San Jose Sharks Acquire:Mackenzie Blackwood     New Jersey Devils Acquire: Sixth round pick SJS - # - Cole Brown ,NJD
 06-27-2023,Anaheim Ducks, San Jose Sharks Acquire:Andrej Sustr     -: - Anaheim Ducks Acquire:Andrew Agozzino    ,ANA
-06-27-2023,San Jose Sharks, San Jose Sharks Acquire:Mackenzie Blackwood     New Jersey Devils Acquire: Sixth round pick SJS - # - Cole Brown ,SJS
 06-27-2023,San Jose Sharks, San Jose Sharks Acquire:Andrej Sustr     -: - Anaheim Ducks Acquire:Andrew Agozzino    ,SJS
 06-27-2023,Montreal Canadiens, Colorado Avalanche Acquire:Gianni Fairbrother    First round pick FLA - # - Mikhail Gulyayev Second round pick MTL - # - Ethan Gauthier  Montreal Canadiens Acquire:Alex Newhook    -: -,MTL
 06-27-2023,St. Louis Blues, Philadelphia Flyers Acquire: Sixth round pick STL -: -: - St. Louis Blues Acquire:Kevin Hayes  retained - %   ,STL
