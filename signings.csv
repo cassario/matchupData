@@ -1,4 +1,9 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
+"Jul. 11, 2023",MTL,Alex Newhook,"LW, C",22,Stnd (RFA),1-way,4,2900000,11600000,,,
+"Jul. 10, 2023",BOS,Ian Mitchell,RD,24,Stnd (RFA),1-way,1,775000,775000,,,
+"Jul. 10, 2023",PHI,Cam York,LD/RD,22,Stnd (RFA),1-way,2,1600000,3200000,54.0,12.0,0.5125857211703803
+"Jul. 10, 2023",SJS,Filip Zadina,"RW, LW",23,Stnd (UFA),1-way,1,1100000,1100000,,,
+"Jul. 10, 2023",PHI,Noah Cates,"C, LW",24,Stnd (RFA),1-way,2,2625000,5250000,82.0,27.0,0.4685189442729214
 "Jul. 9, 2023",DET,Alex DeBrincat,"LW, RW",25,Stnd (RFA),1-way,4,7875000,31500000,,,
 "Jul. 9, 2023",SEA,Cale Fleury,RD,24,Stnd (RFA),1-way,2,800000,1600000,12.0,0.0,0.5525066637020347
 "Jul. 9, 2023",VAN,Nils Hoglander,"LW, RW",22,Stnd (RFA),1-way,2,1100000,2200000,25.0,7.0,0.4482484097013371
@@ -6,12 +11,12 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Jul. 8, 2023",DET,John Lethemon,G,26,Stnd (RFA),2-way,1,787500,787500,,,
 "Jul. 8, 2023",LAK,Akil Thomas,C,23,Stnd (RFA),2-way,1,775000,775000,,,
 "Jul. 8, 2023",PHI,Aleksei Kolosov,G,21,ELC,2-way,3,925000,2775000,,,
+"Jul. 7, 2023",SEA,William Borgen,RD,26,Stnd (RFA),1-way,2,2700000,5400000,82.0,13.0,0.494453013236893
 "Jul. 7, 2023",SEA,Pierre-Edouard Bellemare,"C, LW",38,35+ (UFA),1-way,1,775000,775000,,,
 "Jul. 7, 2023",PIT,Andreas Johnsson,"LW, RW",28,Stnd (UFA),1-way,1,800000,800000,,,
 "Jul. 7, 2023",PIT,Vinnie Hinostroza,"RW, LW",29,Stnd (UFA),1-way,1,775000,775000,,,
 "Jul. 7, 2023",ARI,Nathan Smith,C,24,Stnd (RFA),2-way,1,775000,775000,4.0,0.0,0.1727584212662719
 "Jul. 7, 2023",LAK,Tobias Bjornfot,LD,22,Stnd (RFA),1-way,2,775000,1550000,10.0,0.0,0.4921860763225601
-"Jul. 7, 2023",SEA,William Borgen,RD,26,Stnd (RFA),1-way,2,2700000,5400000,82.0,13.0,0.494453013236893
 "Jul. 6, 2023",NSH,Kalan Lind,LW,18,ELC,2-way,3,870000,2850000,,,
 "Jul. 6, 2023",NSH,Tanner Molendyk,LD,18,ELC,2-way,3,950000,2850000,,,
 "Jul. 6, 2023",OTT,Zack MacEwen,"RW, C",26,Stnd (UFA),1-way,3,775000,2325000,,,
@@ -44,8 +49,3 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Jul. 4, 2023",MTL,Mitchell Stephens,C,26,Stnd (RFA),2-way,1,775000,775000,,,
 "Jul. 4, 2023",WSH,Martin Fehervary,LD/RD,23,Stnd (RFA),1-way,3,2675000,8025000,67.0,11.0,0.4647360664273631
 "Jul. 4, 2023",DAL,Derrick Pouliot,LD,29,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 4, 2023",OTT,Travis Hamonic,RD,32,Stnd (UFA),1-way,2,1100000,2200000,75.0,14.0,0.4837330726821943
-"Jul. 3, 2023",SEA,Connor Carrick,RD,29,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 3, 2023",CAR,Griffin Mendel,LD,24,ELC,2-way,1,790000,790000,,,
-"Jul. 3, 2023",PIT,Will Butcher,LD,28,Stnd (UFA),2-way,1,775000,775000,,,
-"Jul. 3, 2023",WPG,Axel Jonsson-Fjallby,LW,25,Stnd (UFA),2-way,2,775000,1550000,50.0,10.0,0.5074769486878139
