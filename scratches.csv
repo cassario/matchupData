@@ -1,33 +1,33 @@
 team,player,pos,line,status
-CHI,Colin Blackwell,F,scratch,scratch-injured
-NSH,Jeremy Lauzon,D,scratch,scratch-injured
 CGY,Oliver Kylington,D,scratch,scratch-injured
+NSH,Jeremy Lauzon,D,scratch,scratch-injured
 STL,Robert Bortuzzo,D,scratch,scratch-injured
 EDM,Lane Pederson,F,scratch,scratch-injured
-NJD,Brendan Smith,D,scratch,scratch-healthy
-NSH,Denis Gurianov,F,scratch,scratch-healthy
+CHI,Colin Blackwell,F,scratch,scratch-injured
+NYR,Alex Belzile,F,scratch,scratch-injured
+MTL,Rafael Harvey-Pinard,F,scratch,scratch-healthy
+OTT,Egor Sokolov,F,scratch,scratch-healthy
 PIT,Alex Nedeljkovic,G,scratch,scratch-healthy
-MTL,Chris Wideman,D,scratch,scratch-healthy
 PIT,Chad Ruhwedel,D,scratch,scratch-healthy
 PIT,Vinnie Hinostroza,F,scratch,scratch-healthy
 PHI,Egor Zamula,D,scratch,scratch-healthy
 PHI,Olle Lycksell,F,scratch,scratch-healthy
 PHI,Tanner Laczynski,F,scratch,scratch-healthy
-NJD,Curtis Lazar,F,scratch,scratch-healthy
 OTT,Jacob Bernard-Docker,D,scratch,scratch-healthy
-OTT,Rourke Chartier,F,scratch,scratch-healthy
-OTT,Zack MacEwen,F,scratch,scratch-healthy
-NYR,Zac Jones,D,scratch,scratch-healthy
-SEA,Jaycob Megna,D,scratch,scratch-healthy
-NYR,Alex Belzile,F,scratch,scratch-healthy
 NYI,Samuel Bolduc,D,scratch,scratch-healthy
+NYR,Zac Jones,D,scratch,scratch-healthy
 NYI,Ross Johnston,F,scratch,scratch-healthy
 NYI,Simon Holmstrom,F,scratch,scratch-healthy
-NJD,Chris Tierney,F,scratch,scratch-healthy
 NSH,Mark Jankowski,F,scratch,scratch-healthy
+NSH,Denis Gurianov,F,scratch,scratch-healthy
+NJD,Brendan Smith,D,scratch,scratch-healthy
+NJD,Chris Tierney,F,scratch,scratch-healthy
+NJD,Curtis Lazar,F,scratch,scratch-healthy
+MTL,Chris Wideman,D,scratch,scratch-healthy
+MTL,Rem Pitlick,F,scratch,scratch-healthy
 SEA,Pierre-Edouard Bellemare,F,scratch,scratch-healthy
-ANA,Brett Leason,F,scratch,scratch-healthy
-MTL,Rafael Harvey-Pinard,F,scratch,scratch-healthy
+SEA,Jaycob Megna,D,scratch,scratch-healthy
+MIN,Alex Goligoski,D,scratch,scratch-healthy
 SEA,Chris Driedger,G,scratch,scratch-healthy
 WSH,Connor McMichael,F,scratch,scratch-healthy
 WSH,Beck Malenstyn,F,scratch,scratch-healthy
@@ -50,21 +50,19 @@ STL,Oskar Sundqvist,F,scratch,scratch-healthy
 SJS,Jacob MacDonald,D,scratch,scratch-healthy
 SJS,Ryan Carpenter,F,scratch,scratch-healthy
 SJS,Givani Smith,F,scratch,scratch-healthy
-ANA,Andrew Agozzino,F,scratch,scratch-healthy
-MTL,Rem Pitlick,F,scratch,scratch-healthy
-CGY,Dryden Hunt,F,scratch,scratch-healthy
-CAR,Brendan Lemieux,F,scratch,scratch-healthy
-CHI,Filip Roos,D,scratch,scratch-healthy
+ANA,Pavol Regenda,F,scratch,scratch-healthy
+WSH,Alexander Alexeyev,D,scratch,scratch-healthy
+MIN,Samuel Walker,F,scratch,scratch-healthy
+COL,Jean-Luc Foudy,F,scratch,scratch-healthy
 CHI,Boris Katchouk,F,scratch,scratch-healthy
 CGY,Kevin Rooney,F,scratch,scratch-healthy
-MIN,Alex Goligoski,D,scratch,scratch-healthy
-CBJ,Andrew Peeke,D,scratch,scratch-healthy
+CGY,Dryden Hunt,F,scratch,scratch-healthy
 CBJ,Mathieu Olivier,F,scratch,scratch-healthy
 CBJ,Emil Bemstrom,F,scratch,scratch-healthy
 CAR,Dylan Coghlan,D,scratch,scratch-healthy
 CAR,Jalen Chatfield,D,scratch,scratch-healthy
+CAR,Brendan Lemieux,F,scratch,scratch-healthy
 BUF,Jacob Bryson,D,scratch,scratch-healthy
-COL,Brad Hunt,D,scratch,scratch-healthy
 BUF,Ilya Lyubushkin,D,scratch,scratch-healthy
 BUF,Lukas Rousek,F,scratch,scratch-healthy
 BOS,Jakub Zboril,D,scratch,scratch-healthy
@@ -72,41 +70,43 @@ BOS,Jayson Megna,F,scratch,scratch-healthy
 BOS,Jesper Boqvist,F,scratch,scratch-healthy
 ARI,Travis Dermott,D,scratch,scratch-healthy
 ARI,Michael Carcone,F,scratch,scratch-healthy
-ARI,Zachary Sanford,F,scratch,scratch-healthy
+ARI,Liam O'Brien,F,scratch,scratch-healthy
 ANA,Trevor Carrick,D,scratch,scratch-healthy
-COL,Jean-Luc Foudy,F,scratch,scratch-healthy
-WSH,Alexander Alexeyev,D,scratch,scratch-healthy
-COL,Kurtis MacDermid,D,scratch,scratch-healthy
-EDM,Philip Broberg,D,scratch,scratch-healthy
-MIN,Samuel Walker,F,scratch,scratch-healthy
-MIN,Nic Petan,F,scratch,scratch-healthy
-LAK,Andreas Englund,D,scratch,scratch-healthy
-LAK,Samuel Fagemo,F,scratch,scratch-healthy
-LAK,Jaret Anderson-Dolan,F,scratch,scratch-healthy
-FLA,Mike Reilly,D,scratch,scratch-healthy
-FLA,Rasmus Asplund,F,scratch,scratch-healthy
-EDM,Markus Niemelainen,D,scratch,scratch-healthy
-FLA,Kevin Stenlund,F,scratch,scratch-healthy
-DET,Jonatan Berggren,F,scratch,scratch-healthy
-DAL,Sam Steel,F,scratch,scratch-healthy
-DAL,Fredrik Karlstrom,F,scratch,scratch-healthy
-DAL,Joel Hanley,D,scratch,scratch-healthy
+ANA,Andrew Agozzino,F,scratch,scratch-healthy
+CHI,Filip Roos,D,scratch,scratch-healthy
+CBJ,Andrew Peeke,D,scratch,scratch-healthy
+COL,Brad Hunt,D,scratch,scratch-healthy
 DET,Elmer Soderblom,F,scratch,scratch-healthy
+FLA,Mike Reilly,D,scratch,scratch-healthy
+LAK,Jaret Anderson-Dolan,F,scratch,scratch-healthy
+LAK,Samuel Fagemo,F,scratch,scratch-healthy
+EDM,Markus Niemelainen,D,scratch,scratch-healthy
+EDM,Philip Broberg,D,scratch,scratch-healthy
 DET,Gustav Lindstrom,D,scratch,scratch-healthy
-DET,Simon Edvinsson,D,injured reserve,injured reserve
-ARI,Jakub Voracek,F,injured reserve,injured reserve
+FLA,Kevin Stenlund,F,scratch,scratch-healthy
+FLA,Rasmus Asplund,F,scratch,scratch-healthy
+DET,Jonatan Berggren,F,scratch,scratch-healthy
+DAL,Joel Hanley,D,scratch,scratch-healthy
+LAK,Andreas Englund,D,scratch,scratch-healthy
+MIN,Nic Petan,F,scratch,scratch-healthy
+DAL,Fredrik Karlstrom,F,scratch,scratch-healthy
+DAL,Sam Steel,F,scratch,scratch-healthy
+COL,Kurtis MacDermid,D,scratch,scratch-healthy
 WSH,Max Pacioretty,F,injured reserve,injured reserve
 ARI,Bryan Little,F,injured reserve,injured reserve
 ARI,Shea Weber,D,injured reserve,injured reserve
-PHI,Ryan Ellis,D,injured reserve,injured reserve
-TBL,Brent Seabrook,D,injured reserve,injured reserve
 VGK,Robin Lehner,G,injured reserve,injured reserve
-BUF,Jack Quinn,F,injured reserve,injured reserve
+ARI,Jakub Voracek,F,injured reserve,injured reserve
+FLA,Aaron Ekblad,D,injured reserve,injured reserve
+FLA,Brandon Montour,D,injured reserve,injured reserve
 VAN,Tucker Poolman,D,injured reserve,injured reserve
 VAN,Tanner Pearson,F,injured reserve,injured reserve
+BUF,Jack Quinn,F,injured reserve,injured reserve
 COL,Gabriel Landeskog,F,injured reserve,injured reserve
-FLA,Brandon Montour,D,injured reserve,injured reserve
-FLA,Aaron Ekblad,D,injured reserve,injured reserve
 TOR,Matt Murray,G,injured reserve,injured reserve
 TOR,Jake Muzzin,D,injured reserve,injured reserve
+TBL,Brent Seabrook,D,injured reserve,injured reserve
+DET,Simon Edvinsson,D,injured reserve,injured reserve
 MTL,Carey Price,G,injured reserve,injured reserve
+PHI,Ryan Ellis,D,injured reserve,injured reserve
+ANA,Isac Lundestrom,F,injured reserve,injured reserve

@@ -1,4 +1,18 @@
 date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
+"Aug. 2, 2023",WPG,Rasmus Kupari,"C, LW, RW",23,Stnd (RFA),1-way,2,1000000,2000000,,,
+"Aug. 2, 2023",ANA,Troy Terry,RW,25,Stnd (RFA),1-way,7,7000000,49000000,70.0,45.0,0.4668265899198767
+"Aug. 2, 2023",PIT,Drew O'Connor,LW,25,Stnd (RFA),1-way,2,925000,1850000,46.0,8.0,0.5114095115581885
+"Aug. 1, 2023",EDM,Ryan McLeod,C,23,Stnd (RFA),1-way,2,2100000,4200000,57.0,20.0,0.5789829171066123
+"Aug. 1, 2023",BOS,Jeremy Swayman,G,24,Stnd (RFA),1-way,1,3475000,3475000,,,
+"Aug. 1, 2023",NYR,Brandon Scanlin,LD,24,Stnd (RFA),2-way,1,775000,775000,,,
+"Aug. 1, 2023",BOS,Trent Frederic,"LW, RW",25,Stnd (RFA),1-way,2,2300000,4600000,79.0,23.0,0.5498172789639731
+"Jul. 31, 2023",MIN,Filip Gustavsson,G,25,Stnd (RFA),1-way,3,3750000,11250000,,,
+"Jul. 31, 2023",TOR,Nick Abruzzese,"LW, C",24,Stnd (RFA),2-way,2,775000,1550000,2.0,2.0,0.5328346654187808
+"Jul. 31, 2023",MTL,Jesse Ylonen,"RW, LW",23,Stnd (RFA),2-way,1,775000,775000,37.0,9.0,0.4020301344906214
+"Jul. 31, 2023",NJD,Kevin Bahl,LD,23,Stnd (RFA),1-way,2,1050000,2100000,42.0,4.0,0.5676252713378508
+"Jul. 30, 2023",ARI,Jack McBain,"C, LW",23,Stnd (RFA),1-way,2,1599999,3199998,82.0,21.0,0.4239957383993168
+"Jul. 28, 2023",BUF,Zach Benson,LW,18,ELC,2-way,3,950000,4800000,,,
+"Jul. 27, 2023",OTT,Vladimir Tarasenko,RW,31,Stnd (UFA),1-way,1,5000000,5000000,,,
 "Jul. 27, 2023",ARI,Logan Cooley,C,19,ELC,2-way,3,950000,13350000,,,
 "Jul. 26, 2023",CGY,Samuel Honzek,LW,18,ELC,2-way,3,950000,4350000,,,
 "Jul. 26, 2023",CAR,Sebastian Aho,C,26,Stnd (UFA),1-way,8,9750000,78000000,75.0,60.0,0.5837826195672745
@@ -35,17 +49,3 @@ date,team,player,pos,age,type,structure,length,cap_hit,value,gp,ppts,xg_perc
 "Jul. 16, 2023",STL,Alexey Toropchenko,"LW, RW",24,Stnd (RFA),1-way,2,1250000,2500000,,,
 "Jul. 15, 2023",ARI,Justin Kirkland,"LW, RW",26,Stnd (UFA),2-way,1,775000,775000,,,
 "Jul. 15, 2023",CAR,Felix Unger Sorum,RW,17,ELC,2-way,3,860000,2580000,,,
-"Jul. 15, 2023",VGK,David Edstrom,C,18,ELC,2-way,3,950000,2850000,,,
-"Jul. 15, 2023",PIT,Ty Smith,LD/RD,23,Stnd (RFA),1-way,1,775000,775000,9.0,3.0,0.5527637231830934
-"Jul. 15, 2023",SEA,Eduard Sale,"LW, RW",18,ELC,2-way,3,950000,2850000,,,
-"Jul. 15, 2023",TBL,Tanner Jeannot,"RW, LW",26,Stnd (RFA),1-way,2,2665000,5330000,76.0,12.0,0.5160129188895713
-"Jul. 15, 2023",DET,Jared McIsaac,LD,23,Stnd (RFA),2-way,1,787500,787500,,,
-"Jul. 14, 2023",STL,Dalibor Dvorsky,C,18,ELC,2-way,3,950000,5200000,,,
-"Jul. 14, 2023",LAK,Jakub Dvorak,LD,18,ELC,2-way,3,900000,2700000,,,
-"Jul. 14, 2023",PIT,Jonathan Gruden,LW,23,Stnd (RFA),2-way,1,775000,775000,3.0,0.0,0.30760382100927
-"Jul. 14, 2023",EDM,Raphael Lavoie,"RW, C",22,Stnd (RFA),2-way,1,874125,874125,,,
-"Jul. 14, 2023",DET,Wyatt Newpower,RD,25,Stnd (RFA),2-way,1,787500,787500,,,
-"Jul. 14, 2023",BUF,Brett Murray,LW,24,Stnd (RFA),2-way,1,775000,775000,,,
-"Jul. 14, 2023",ARI,Zachary Sanford,"LW, RW",28,Stnd (UFA),2-way,1,800000,800000,,,
-"Jul. 14, 2023",ANA,Benoit-Olivier Groulx,C,23,Stnd (RFA),2-way,1,775000,775000,2.0,0.0,0.3247016719854688
-"Jul. 14, 2023",DAL,Riley Damiani,C,23,Stnd (RFA),2-way,1,775000,775000,,,
