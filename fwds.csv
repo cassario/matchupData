@@ -1,7 +1,7 @@
 team,line,LW,player_id_LW,num_LW,C,player_id_C,num_C,RW,player_id_RW,num_RW,full
 ANA,1st line,14 Adam Henrique,8474641.0,14,11 Trevor Zegras,8481533.0,11,19 Troy Terry,8478873.0,19,Anaheim Ducks
 ANA,2nd line,77 Frank Vatrano,8478366.0,77,16 Ryan Strome,8476458.0,16,17 Alex Killorn,8473986.0,17,Anaheim Ducks
-ANA,3rd line,49 Max Jones,8479368.0,49,37 Mason McTavish,8482745.0,37,33 Jakob Silfverberg,8475164.0,33,Anaheim Ducks
+ANA,3rd line,49 Max Jones,8479368.0,49,23 Mason McTavish,8482745.0,23,33 Jakob Silfverberg,8475164.0,33,Anaheim Ducks
 ANA,4th line,26 Brock McGinn,8476934.0,26,37 Leo Carlsson,0.0,37,20 Brett Leason,8481517.0,20,Anaheim Ducks
 ARI,1st line,9 Clayton Keller,8479343.0,9,29 Barrett Hayton,8480849.0,29,8 Nick Schmaltz,8477951.0,8,Arizona Coyotes
 ARI,2nd line,16 Jason Zucker,8475722.0,16,92 Logan Cooley,0.0,92,15 Alexander Kerfoot,8477021.0,15,Arizona Coyotes
@@ -61,8 +61,8 @@ MIN,3rd line,26 Connor Dewar,8480980.0,26,89 Frederick Gaudreau,8477919.0,89,17 
 MIN,4th line,20 Pat Maroon,8474034.0,20,23 Marco Rossi,8482079.0,23,21 Brandon Duhaime,8479520.0,21,Minnesota Wild
 MTL,1st line,22 Cole Caufield,8481540.0,22,14 Nick Suzuki,8480018.0,14,17 Josh Anderson,8476981.0,17,Montreal Canadiens
 MTL,2nd line,91 Sean Monahan,8477497.0,91,77 Kirby Dach,8481523.0,77,11 Brendan Gallagher,8475848.0,11,Montreal Canadiens
-MTL,3rd line,15 Alex Newhook,8481618.0,15,28 Christian Dvorak,8477989.0,28,40 Joel Armia,8476469.0,40,Montreal Canadiens
-MTL,4th line,49 Rafael Harvey-Pinard,8481093.0,49,71 Jake Evans,8478133.0,71,20 Juraj Slafkovsky,8483515.0,20,Montreal Canadiens
+MTL,3rd line,49 Rafael Harvey-Pinard,8481093.0,49,15 Alex Newhook,8481618.0,15,40 Joel Armia,8476469.0,40,Montreal Canadiens
+MTL,4th line,55 Michael Pezzetta,8479543.0,55,71 Jake Evans,8478133.0,71,20 Juraj Slafkovsky,8483515.0,20,Montreal Canadiens
 NJD,1st line,63 Jesper Bratt,8479407.0,63,86 Jack Hughes,8481559.0,86,73 Tyler Toffoli,8475726.0,73,New Jersey Devils
 NJD,2nd line,96 Timo Meier,8478414.0,96,13 Nico Hischier,8480002.0,13,91 Dawson Mercer,8482110.0,91,New Jersey Devils
 NJD,3rd line,18 Ondrej Palat,8476292.0,18,56 Erik Haula,8475287.0,56,10 Alexander Holtz,8482125.0,10,New Jersey Devils
@@ -106,7 +106,7 @@ STL,4th line,79 Sammy Blais,8478104.0,79,59 Nikita Alexandrov,8481543.0,59,13 Al
 TBL,1st line,91 Steven Stamkos,8474564.0,91,21 Brayden Point,8478010.0,21,86 Nikita Kucherov,8476453.0,86,Tampa Bay Lightning
 TBL,2nd line,38 Brandon Hagel,8479542.0,38,71 Anthony Cirelli,8478519.0,71,84 Tanner Jeannot,8479661.0,84,Tampa Bay Lightning
 TBL,3rd line,73 Conor Sheary,8477839.0,73,20 Nick Paul,8477426.0,20,23 Michael Eyssimont,8479591.0,23,Tampa Bay Lightning
-TBL,4th line,22 Logan Brown,8479366.0,22,11 Luke Glendening,8476822.0,11,15 Josh Archibald,8476326.0,15,Tampa Bay Lightning
+TBL,4th line,22 Logan Brown,8479366.0,22,11 Luke Glendening,8476822.0,11,,,,Tampa Bay Lightning
 TOR,1st line,59 Tyler Bertuzzi,8477479.0,59,34 Auston Matthews,8479318.0,34,16 Mitchell Marner,8478483.0,16,Toronto Maple Leafs
 TOR,2nd line,11 Max Domi,8477503.0,11,91 John Tavares,8475166.0,91,88 William Nylander,8477939.0,88,Toronto Maple Leafs
 TOR,3rd line,19 Calle Jarnkrok,8475714.0,19,64 David Kampf,8480144.0,64,28 Sam Lafferty,8478043.0,28,Toronto Maple Leafs
