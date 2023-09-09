@@ -10,10 +10,10 @@ ANA,Alex Killorn,2nd line,RW,17,L,"6'1""",197,8473986.0,Anaheim Ducks
 ANA,Robert Hagg,2nd pair,LD,18,L,"6'2""",204,8477462.0,Anaheim Ducks
 ANA,Radko Gudas,2nd pair,RD,7,R,"6'0""",205,8475462.0,Anaheim Ducks
 ANA,Max Jones,3rd line,LW,49,L,"6'3""",220,8479368.0,Anaheim Ducks
-ANA,Mason McTavish,3rd line,C,37,L,"6'0""",208,8482745.0,Anaheim Ducks
+ANA,Mason McTavish,3rd line,C,23,L,"6'0""",208,8482745.0,Anaheim Ducks
 ANA,Jakob Silfverberg,3rd line,RW,33,R,"6'1""",209,8475164.0,Anaheim Ducks
 ANA,Urho Vaakanainen,3rd pair,LD,5,L,"6'2""",196,8480001.0,Anaheim Ducks
-ANA,Ilya Lyubushkin,3rd pair,RD,,R,"6'2""",201,8480950.0,Anaheim Ducks
+ANA,Ilya Lyubushkin,3rd pair,RD,46,R,"6'2""",201,8480950.0,Anaheim Ducks
 ANA,Brock McGinn,4th line,LW,26,L,"6'0""",187,8476934.0,Anaheim Ducks
 ANA,Leo Carlsson,4th line,C,37,L,"6'3""",198,0.0,Anaheim Ducks
 ANA,Brett Leason,4th line,RW,20,R,"6'4""",210,8481517.0,Anaheim Ducks
@@ -363,14 +363,15 @@ MTL,Kirby Dach,2nd line,C,77,R,"6'4""",212,8481523.0,Montreal Canadiens
 MTL,Brendan Gallagher,2nd line,RW,11,R,"5'9""",186,8475848.0,Montreal Canadiens
 MTL,Kaiden Guhle,2nd pair,LD,21,L,"6'2""",205,8482087.0,Montreal Canadiens
 MTL,Johnathan Kovacevic,2nd pair,RD,26,R,"6'4""",208,8480192.0,Montreal Canadiens
-MTL,Alex Newhook,3rd line,LW,15,L,"5'10""",192,8481618.0,Montreal Canadiens
-MTL,Christian Dvorak,3rd line,C,28,L,"6'1""",200,8477989.0,Montreal Canadiens
+MTL,Rafael Harvey-Pinard,3rd line,LW,49,L,"5'9""",174,8481093.0,Montreal Canadiens
+MTL,Alex Newhook,3rd line,C,15,L,"5'10""",192,8481618.0,Montreal Canadiens
 MTL,Joel Armia,3rd line,RW,40,R,"6'4""",218,8476469.0,Montreal Canadiens
 MTL,Jordan Harris,3rd pair,LD,54,L,"5'11""",189,8480887.0,Montreal Canadiens
 MTL,Arber Xhekaj,3rd pair,RD,72,L,"6'4""",238,8482964.0,Montreal Canadiens
-MTL,Rafael Harvey-Pinard,4th line,LW,49,L,"5'9""",174,8481093.0,Montreal Canadiens
+MTL,Michael Pezzetta,4th line,LW,55,L,"6'1""",216,8479543.0,Montreal Canadiens
 MTL,Jake Evans,4th line,C,71,R,"6'0""",190,8478133.0,Montreal Canadiens
 MTL,Juraj Slafkovsky,4th line,RW,20,L,"6'3""",238,8483515.0,Montreal Canadiens
+MTL,Christian Dvorak,injured reserve,F,28.0,L,"6'1""",200.0,8477989.0,Montreal Canadiens
 MTL,Carey Price,injured reserve,G,31.0,L,"6'3""",217.0,8471679.0,Montreal Canadiens
 MTL,Chris Wideman,scratch,D,6.0,R,"5'10""",183.0,8475227.0,Montreal Canadiens
 MTL,Gustav Lindstrom,scratch,D,,R,"6'2""",187.0,8480184.0,Montreal Canadiens
@@ -623,7 +624,6 @@ TBL,Haydn Fleury,3rd pair,LD,7,L,"6'3""",208,8477938.0,Tampa Bay Lightning
 TBL,Zach Bogosian,3rd pair,RD,24,R,"6'3""",226,8474567.0,Tampa Bay Lightning
 TBL,Logan Brown,4th line,LW,22,L,"6'6""",220,8479366.0,Tampa Bay Lightning
 TBL,Luke Glendening,4th line,C,11,R,"5'11""",191,8476822.0,Tampa Bay Lightning
-TBL,Josh Archibald,4th line,RW,15,R,"5'10""",176,8476326.0,Tampa Bay Lightning
 TBL,Brent Seabrook,injured reserve,D,,R,"6'3""",220.0,8470607.0,Tampa Bay Lightning
 TBL,Darren Raddysh,scratch,D,43.0,R,"6'0""",201.0,8478178.0,Tampa Bay Lightning
 TBL,Calvin de Haan,scratch,D,44.0,L,"6'1""",195.0,8475177.0,Tampa Bay Lightning

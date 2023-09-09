@@ -1,6 +1,6 @@
 team,player,line,pos,num,handedness,ht,wt,player_id,full
 ANA,Isac Lundestrom,injured reserve,F,21,L,"6'0""",191,8480806.0,Anaheim Ducks
-ANA,Pavol Regenda,scratch,F,40.0,L,"6'3""",219.0,8483630.0,Anaheim Ducks
+ANA,Sam Carrick,scratch,F,39.0,R,"6'0""",200.0,8475842.0,Anaheim Ducks
 ANA,Andrew Agozzino,scratch,F,,L,"5'10""",187.0,8475461.0,Anaheim Ducks
 ANA,Colton White,scratch,D,45.0,L,"6'1""",190.0,8478841.0,Anaheim Ducks
 ARI,Jakub Voracek,injured reserve,F,,L,"6'2""",214.0,8474161.0,Arizona Coyotes
@@ -53,6 +53,7 @@ LAK,Andreas Englund,scratch,D,,L,"6'3""",189.0,8477971.0,Los Angeles Kings
 MIN,Nic Petan,scratch,F,19.0,L,"5'9""",175.0,8477464.0,Minnesota Wild
 MIN,Samuel Walker,scratch,F,74.0,R,"5'11""",180.0,8480267.0,Minnesota Wild
 MIN,Alex Goligoski,scratch,D,33.0,L,"5'11""",185.0,8471274.0,Minnesota Wild
+MTL,Christian Dvorak,injured reserve,F,28.0,L,"6'1""",200.0,8477989.0,Montreal Canadiens
 MTL,Carey Price,injured reserve,G,31.0,L,"6'3""",217.0,8471679.0,Montreal Canadiens
 MTL,Chris Wideman,scratch,D,6.0,R,"5'10""",183.0,8475227.0,Montreal Canadiens
 MTL,Gustav Lindstrom,scratch,D,,R,"6'2""",187.0,8480184.0,Montreal Canadiens
