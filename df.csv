@@ -1,9 +1,1 @@
-game_id,matchup,home,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,division_place_home,away,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,division_place_away
-2022020510,CBJ@PHI,PHI,2022-12-20,7:00 PM,77,32,38,13,east,metro,none,7.0,CBJ,59,25,48,9,east,metro,none,8.0
-2022020511,NYR@PIT,PIT,2022-12-20,7:00 PM,91,40,31,11,east,metro,none,5.0,NYR,107,47,22,13,east,metro,top3,3.0
-2022020512,NJD@CAR,CAR,2022-12-20,7:00 PM,113,52,21,9,east,metro,top3,1.0,NJD,112,52,22,8,east,metro,top3,2.0
-2022020513,TBL@TOR,TOR,2022-12-20,7:00 PM,111,50,21,11,east,atlantic,top3,2.0,TBL,98,46,30,6,east,atlantic,top3,3.0
-2022020514,OTT@WPG,WPG,2022-12-20,8:00 PM,95,46,33,3,west,central,none,4.0,OTT,86,39,35,8,east,atlantic,none,6.0
-2022020515,STL@SEA,SEA,2022-12-20,10:00 PM,100,46,28,8,west,pacific,none,4.0,STL,81,37,38,7,west,central,none,6.0
-2022020516,ANA@LAK,LAK,2022-12-20,10:30 PM,104,47,25,10,west,pacific,top3,3.0,ANA,58,23,47,12,west,pacific,none,8.0
-2022020517,CGY@SJS,SJS,2022-12-20,10:30 PM,60,22,44,16,west,pacific,none,7.0,CGY,93,38,27,17,west,pacific,none,5.0
+game_id,matchup,date,time,PTS_home,W_home,L_home,OTL_home,Conference_home,Division_home,playoffs_home,home,division_place_home,PTS_away,W_away,L_away,OTL_away,Conference_away,Division_away,playoffs_away,away,division_place_away
