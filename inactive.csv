@@ -3,7 +3,7 @@ ANA,Alex Killorn,injured reserve,F,17.0,L,"6'1""",199.0,8473986.0,Anaheim Ducks
 ANA,Isac Lundestrom,injured reserve,F,21.0,L,"6'0""",191.0,8480806.0,Anaheim Ducks
 ANA,Leo Carlsson,injured reserve,F,91.0,L,"6'3""",193.0,0.0,Anaheim Ducks
 ANA,Chase De Leo,injured reserve,F,69.0,L,"5'9""",183.0,8478029.0,Anaheim Ducks
-ANA,Ross Johnston,scratch,F,,L,"6'5""",235.0,8477527.0,Anaheim Ducks
+ANA,Ross Johnston,scratch,F,44.0,L,"6'5""",235.0,8477527.0,Anaheim Ducks
 ANA,Jackson LaCombe,scratch,D,60.0,L,"6'2""",201.0,8481605.0,Anaheim Ducks
 ANA,Tristan Luneau,scratch,D,67.0,R,"6'2""",189.0,0.0,Anaheim Ducks
 ARI,Jakub Voracek,injured reserve,F,,L,"6'2""",214.0,8474161.0,Arizona Coyotes
@@ -16,7 +16,7 @@ BOS,Patrick Brown,scratch,F,38.0,R,"5'11""",214.0,8477887.0,Boston Bruins
 BOS,Ian Mitchell,scratch,D,14.0,R,"5'11""",175.0,8480070.0,Boston Bruins
 BUF,Jack Quinn,injured reserve,F,22.0,R,"6'0""",176.0,8482097.0,Buffalo Sabres
 BUF,Matthew Savoie,injured reserve,F,93.0,R,"5'9""",175.0,0.0,Buffalo Sabres
-BUF,Casey Mittelstadt,scratch,F,37.0,L,"6'1""",199.0,8479999.0,Buffalo Sabres
+BUF,Tyson Jost,scratch,F,17.0,L,"5'11""",187.0,8479370.0,Buffalo Sabres
 BUF,Jacob Bryson,scratch,D,78.0,L,"5'9""",185.0,8480196.0,Buffalo Sabres
 BUF,Ukko-Pekka Luukkonen,scratch,G,1.0,L,"6'4""",190.0,8480045.0,Buffalo Sabres
 CAR,Andrei Svechnikov,injured reserve,F,37.0,L,"6'2""",195.0,8480830.0,Carolina Hurricanes
@@ -66,8 +66,10 @@ EDM,Markus Niemelainen,scratch,D,80.0,L,"6'6""",190.0,8479338.0,Edmonton Oilers
 FLA,Aaron Ekblad,injured reserve,D,5.0,R,"6'4""",215.0,8477932.0,Florida Panthers
 FLA,Brandon Montour,injured reserve,D,62.0,R,"6'0""",189.0,8477986.0,Florida Panthers
 FLA,Sam Bennett,scratch,F,9.0,L,"6'1""",195.0,8477935.0,Florida Panthers
+FLA,Justin Sourdif,scratch,F,24.0,R,"5'11""",173.0,0.0,Florida Panthers
 FLA,Uvis Balinskis,scratch,D,26.0,L,"6'0""",187.0,0.0,Florida Panthers
 LAK,Andre Lee,injured reserve,F,47.0,L,"6'5""",205.0,0.0,Los Angeles Kings
+LAK,Viktor Arvidsson,scratch,F,33.0,R,"5'9""",180.0,8478042.0,Los Angeles Kings
 MIN,Caedan Bankier,injured reserve,F,76.0,L,"6'2""",190.0,0.0,Minnesota Wild
 MIN,Michael Milne,injured reserve,F,60.0,L,"5'11""",185.0,0.0,Minnesota Wild
 MIN,Sam Hentges,injured reserve,F,54.0,R,"6'0""",175.0,0.0,Minnesota Wild
@@ -82,7 +84,7 @@ NJD,Nolan Foote,injured reserve,F,25.0,L,"6'3""",195.0,8481518.0,New Jersey Devi
 NJD,Brian Halonen,injured reserve,F,48.0,R,"6'0""",205.0,0.0,New Jersey Devils
 NJD,Keith Kinkaid,injured reserve,G,1.0,L,"6'3""",186.0,8476234.0,New Jersey Devils
 NJD,Nico Daws,injured reserve,G,50.0,L,"6'4""",205.0,8482076.0,New Jersey Devils
-NJD,Nathan Bastian,scratch,F,14.0,R,"6'4""",205.0,8479414.0,New Jersey Devils
+NJD,Curtis Lazar,scratch,F,42.0,R,"6'0""",211.0,8477508.0,New Jersey Devils
 NJD,Chris Tierney,scratch,F,11.0,L,"6'1""",195.0,8476919.0,New Jersey Devils
 NJD,Colin Miller,scratch,D,24.0,R,"6'1""",193.0,8476525.0,New Jersey Devils
 NSH,Michael McCarron,scratch,F,47.0,R,"6'5""",237.0,8477446.0,Nashville Predators
@@ -93,6 +95,7 @@ NYI,Samuel Bolduc,scratch,D,4.0,L,"6'4""",210.0,8481541.0,New York Islanders
 NYR,Jimmy Vesey,scratch,F,26.0,L,"6'3""",202.0,8476918.0,New York Rangers
 NYR,Zac Jones,scratch,D,6.0,L,"5'11""",175.0,8481708.0,New York Rangers
 OTT,Josh Norris,injured reserve,F,9.0,L,"6'1""",199.0,8480064.0,Ottawa Senators
+OTT,Zack MacEwen,scratch,F,17.0,R,"6'3""",205.0,8479772.0,Ottawa Senators
 PHI,Jon-Randall Avon,injured reserve,F,85.0,L,"6'0""",180.0,0.0,Philadelphia Flyers
 PHI,Rasmus Ristolainen,injured reserve,D,55.0,R,"6'4""",220.0,8477499.0,Philadelphia Flyers
 PHI,Ryan Ellis,injured reserve,D,94.0,R,"5'10""",180.0,8475176.0,Philadelphia Flyers
@@ -123,7 +126,8 @@ TBL,Jack Finley,injured reserve,F,62.0,R,"6'6""",213.0,0.0,Tampa Bay Lightning
 TBL,Brent Seabrook,injured reserve,D,,R,"6'3""",220.0,8470607.0,Tampa Bay Lightning
 TBL,Roman Schmidt,injured reserve,D,76.0,R,"6'5""",210.0,0.0,Tampa Bay Lightning
 TBL,Andrei Vasilevskiy,injured reserve,G,88.0,L,"6'3""",216.0,8476883.0,Tampa Bay Lightning
-TBL,Austin Watson,scratch,F,51.0,R,"6'4""",204.0,8475766.0,Tampa Bay Lightning
+TBL,Alex Barre-Boulet,scratch,F,12.0,L,"5'9""",168.0,8479718.0,Tampa Bay Lightning
+TBL,Tyler Motte,scratch,F,64.0,L,"5'10""",192.0,8477353.0,Tampa Bay Lightning
 TBL,Haydn Fleury,scratch,D,7.0,L,"6'3""",208.0,8477938.0,Tampa Bay Lightning
 TOR,Conor Timmins,injured reserve,D,25.0,R,"6'2""",185.0,8479982.0,Toronto Maple Leafs
 TOR,Jake Muzzin,injured reserve,D,8.0,L,"6'3""",217.0,8474162.0,Toronto Maple Leafs
@@ -131,7 +135,8 @@ TOR,Matt Murray,injured reserve,G,30.0,L,"6'4""",178.0,8476899.0,Toronto Maple L
 TOR,Bobby McMann,scratch,F,74.0,L,"6'2""",220.0,8482259.0,Toronto Maple Leafs
 VAN,Ilya Mikheyev,injured reserve,F,65.0,L,"6'3""",195.0,8481624.0,Vancouver Canucks
 VAN,Tucker Poolman,injured reserve,D,5.0,R,"6'2""",199.0,8477359.0,Vancouver Canucks
-VAN,Vasily Podkolzin,scratch,F,92.0,L,"6'1""",190.0,8481617.0,Vancouver Canucks
+VAN,Teddy Blueger,scratch,F,53.0,L,"6'0""",185.0,8476927.0,Vancouver Canucks
+VAN,Guillaume Brisebois,scratch,D,55.0,L,"6'2""",175.0,8478465.0,Vancouver Canucks
 VAN,Carson Soucy,scratch,D,7.0,L,"6'5""",210.0,8477369.0,Vancouver Canucks
 VGK,Alec Martinez,injured reserve,D,23.0,L,"6'1""",209.0,8474166.0,Vegas Golden Knights
 VGK,Zach Whitecloud,injured reserve,D,2.0,R,"6'2""",209.0,8480727.0,Vegas Golden Knights
@@ -147,5 +152,5 @@ WPG,Logan Stanley,scratch,D,64.0,L,"6'6""",216.0,8479378.0,Winnipeg Jets
 WPG,Declan Chisholm,scratch,D,47.0,L,"6'1""",185.0,8480990.0,Winnipeg Jets
 WSH,Max Pacioretty,injured reserve,F,67.0,L,"6'2""",215.0,8474157.0,Washington Capitals
 WSH,Joel Edmundson,injured reserve,D,6.0,L,"6'5""",224.0,8476441.0,Washington Capitals
-WSH,Ivan Miroshnichenko,scratch,F,63.0,R,"6'1""",185.0,0.0,Washington Capitals
+WSH,Matthew Phillips,scratch,F,45.0,R,"5'7""",140.0,8479547.0,Washington Capitals
 WSH,Alexander Alexeyev,scratch,D,27.0,L,"6'4""",196.0,8480823.0,Washington Capitals
