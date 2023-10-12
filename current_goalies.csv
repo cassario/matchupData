@@ -1,5 +1,5 @@
 team,pos,num,cf_name,positions_played,age,handedness,ht,wt,player_id,player,dupe_names,drop,confirmed,w,l,starter,gp,sv%,gsax,info
-COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,8480382.0,Alexandar Georgiev,0,0,,0,0,starter,0.0,0.0,0.0,"**40 Alexandar Georgiev**
+COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,8480382.0,Alexandar Georgiev,0,0,,0,0,0,0.0,0.0,0.0,"**40 Alexandar Georgiev**
 
 
 
@@ -26,16 +26,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-CHI,G,40,Arvid Soderblom,G,24,L,"6'3""",180,8482821.0,Arvid Soderblom,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**40 Arvid Soderblom**
-
-
-
-GP:0 | W:0 | L:0
-
-Sv%: 0.0 | GSAX:0.0
-
-**Confirmed Starter**"
-CBJ,G,90,Elvis Merzlikins,G,29,L,"6'3""",181,8478007.0,Elvis Merzlikins,0,0,,0,0,0,0.0,0.0,0.0,"**90 Elvis Merzlikins**
+CHI,G,40,Arvid Soderblom,G,24,L,"6'3""",180,8482821.0,Arvid Soderblom,0,0,,0,0,0,0.0,0.0,0.0,"**40 Arvid Soderblom**
 
 
 
@@ -44,6 +35,15 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
+CBJ,G,90,Elvis Merzlikins,G,29,L,"6'3""",181,8478007.0,Elvis Merzlikins,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**90 Elvis Merzlikins**
+
+
+
+GP:0 | W:0 | L:0
+
+Sv%: 0.0 | GSAX:0.0
+
+**Confirmed Starter**"
 CBJ,G,30,Spencer Martin,G,28,L,"6'3""",205,8477484.0,Spencer Martin,0,0,,0,0,0,0.0,0.0,0.0,"**30 Spencer Martin**
 
 
@@ -71,7 +71,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-BOS,G,35,Linus Ullmark,G,30,L,"6'4""",215,8476999.0,Linus Ullmark,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**35 Linus Ullmark**
+BOS,G,35,Linus Ullmark,G,30,L,"6'4""",215,8476999.0,Linus Ullmark,0,0,,0,0,0,0.0,0.0,0.0,"**35 Linus Ullmark**
 
 
 
@@ -79,7 +79,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-**Confirmed Starter**"
+****"
 BOS,G,1,Jeremy Swayman,G,24,L,"6'2""",187,8480280.0,Jeremy Swayman,0,0,,0,0,0,0.0,0.0,0.0,"**1 Jeremy Swayman**
 
 
@@ -89,7 +89,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-MTL,G,34,Jake Allen,G,33,L,"6'2""",195,8474596.0,Jake Allen,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**34 Jake Allen**
+MTL,G,34,Jake Allen,G,33,L,"6'2""",195,8474596.0,Jake Allen,0,0,,0,0,0,0.0,0.0,0.0,"**34 Jake Allen**
 
 
 
@@ -97,7 +97,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-**Confirmed Starter**"
+****"
 MTL,G,35,Samuel Montembeault,G,26,L,"6'3""",214,8478470.0,Sam Montembeault,0,0,,0,0,0,0.0,0.0,0.0,"**35 Sam Montembeault**
 
 
@@ -107,7 +107,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-VAN,G,35,Thatcher Demko,G,27,L,"6'4""",192,8477967.0,Thatcher Demko,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**35 Thatcher Demko**
+VAN,G,35,Thatcher Demko,G,27,L,"6'4""",192,8477967.0,Thatcher Demko,0,0,,0,0,0,0.0,0.0,0.0,"**35 Thatcher Demko**
 
 
 
@@ -115,7 +115,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-**Confirmed Starter**"
+****"
 VAN,G,29,Casey DeSmith,G,32,L,"6'0""",181,8479193.0,Casey DeSmith,0,0,,0,0,0,0.0,0.0,0.0,"**29 Casey DeSmith**
 
 
@@ -197,7 +197,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-CGY,G,25,Jacob Markstrom,G,33,L,"6'6""",206,8474593.0,Jacob Markstrom,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**25 Jacob Markstrom**
+CGY,G,25,Jacob Markstrom,G,33,L,"6'6""",206,8474593.0,Jacob Markstrom,0,0,,0,0,0,0.0,0.0,0.0,"**25 Jacob Markstrom**
 
 
 
@@ -205,7 +205,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-**Confirmed Starter**"
+****"
 CGY,G,80,Daniel Vladar,G,26,L,"6'5""",185,8478435.0,Dan Vladar,0,0,,0,0,0,0.0,0.0,0.0,"**80 Dan Vladar**
 
 
@@ -215,7 +215,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-PHI,G,79,Carter Hart,G,25,L,"6'2""",181,8479394.0,Carter Hart,0,0,,0,0,0,0.0,0.0,0.0,"**79 Carter Hart**
+PHI,G,79,Carter Hart,G,25,L,"6'2""",181,8479394.0,Carter Hart,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**79 Carter Hart**
 
 
 
@@ -223,7 +223,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-****"
+**Confirmed Starter**"
 PHI,G,33,Samuel Ersson,G,23,L,"6'2""",176,8481035.0,Samuel Ersson,0,0,,0,0,0,0.0,0.0,0.0,"**33 Samuel Ersson**
 
 
@@ -233,7 +233,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-VGK,G,33,Adin Hill,G,27,L,"6'6""",202,8478499.0,Adin Hill,0,0,,0,0,0,0.0,0.0,0.0,"**33 Adin Hill**
+VGK,G,36,Logan Thompson,G,26,R,"6'4""",190,8480313.0,Logan Thompson,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**36 Logan Thompson**
 
 
 
@@ -241,8 +241,8 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-****"
-VGK,G,36,Logan Thompson,G,26,R,"6'4""",190,8480313.0,Logan Thompson,0,0,,0,0,0,0.0,0.0,0.0,"**36 Logan Thompson**
+**Confirmed Starter**"
+VGK,G,33,Adin Hill,G,27,L,"6'6""",202,8478499.0,Adin Hill,0,0,,0,0,0,0.0,0.0,0.0,"**33 Adin Hill**
 
 
 
@@ -287,16 +287,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-WPG,G,37,Connor Hellebuyck,G,30,L,"6'4""",207,8476945.0,Connor Hellebuyck,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**37 Connor Hellebuyck**
-
-
-
-GP:0 | W:0 | L:0
-
-Sv%: 0.0 | GSAX:0.0
-
-**Confirmed Starter**"
-WPG,G,39,Laurent Brossoit,G,30,L,"6'3""",204,8476316.0,Laurent Brossoit,0,0,,0,0,0,0.0,0.0,0.0,"**39 Laurent Brossoit**
+WPG,G,37,Connor Hellebuyck,G,30,L,"6'4""",207,8476945.0,Connor Hellebuyck,0,0,,0,0,0,0.0,0.0,0.0,"**37 Connor Hellebuyck**
 
 
 
@@ -305,7 +296,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-LAK,G,29,Pheonix Copley,G,31,L,"6'4""",200,8477831.0,Pheonix Copley,0,0,,0,0,0,0.0,0.0,0.0,"**29 Pheonix Copley**
+WPG,G,39,Laurent Brossoit,G,30,L,"6'3""",204,8476316.0,Laurent Brossoit,0,0,,0,0,0,0.0,0.0,0.0,"**39 Laurent Brossoit**
 
 
 
@@ -323,7 +314,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,8475831.0,Philipp Grubauer,0,0,,0,0,0,0.0,0.0,0.0,"**31 Philipp Grubauer**
+LAK,G,29,Pheonix Copley,G,31,L,"6'4""",200,8477831.0,Pheonix Copley,0,0,,0,0,0,0.0,0.0,0.0,"**29 Pheonix Copley**
 
 
 
@@ -332,6 +323,15 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
+SEA,G,31,Philipp Grubauer,G,31,L,"6'1""",188,8475831.0,Philipp Grubauer,0,0,Confirmed Starter,0,1,starter,0.0,0.0,0.0,"**31 Philipp Grubauer**
+
+
+
+GP:0 | W:0 | L:1
+
+Sv%: 0.0 | GSAX:0.0
+
+**Confirmed Starter**"
 SEA,G,35,Joey Daccord,G,27,L,"6'2""",197,8478916.0,Joey Daccord,0,0,,0,0,0,0.0,0.0,0.0,"**35 Joey Daccord**
 
 
@@ -359,7 +359,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-TOR,G,35,Ilya Samsonov,G,26,L,"6'3""",208,8478492.0,Ilya Samsonov,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**35 Ilya Samsonov**
+TOR,G,35,Ilya Samsonov,G,26,L,"6'3""",208,8478492.0,Ilya Samsonov,0,0,,0,0,0,0.0,0.0,0.0,"**35 Ilya Samsonov**
 
 
 
@@ -367,7 +367,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-**Confirmed Starter**"
+****"
 TOR,G,60,Joseph Woll,G,25,L,"6'2""",198,8479361.0,Joseph Woll,0,0,,0,0,0,0.0,0.0,0.0,"**60 Joseph Woll**
 
 
@@ -395,7 +395,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-FLA,G,72,Sergei Bobrovsky,G,35,L,"6'2""",187,8475683.0,Sergei Bobrovsky,0,0,,0,0,0,0.0,0.0,0.0,"**72 Sergei Bobrovsky**
+FLA,G,72,Sergei Bobrovsky,G,35,L,"6'2""",187,8475683.0,Sergei Bobrovsky,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**72 Sergei Bobrovsky**
 
 
 
@@ -403,7 +403,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-****"
+**Confirmed Starter**"
 FLA,G,41,Anthony Stolarz,G,29,L,"6'6""",240,8476932.0,Anthony Stolarz,0,0,,0,0,0,0.0,0.0,0.0,"**41 Anthony Stolarz**
 
 
@@ -431,11 +431,11 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-NSH,G,74,Juuse Saros,G,28,L,"5'11""",180,8477424.0,Juuse Saros,0,0,,0,0,0,0.0,0.0,0.0,"**74 Juuse Saros**
+NSH,G,74,Juuse Saros,G,28,L,"5'11""",180,8477424.0,Juuse Saros,0,0,,0,1,starter,0.0,0.0,0.0,"**74 Juuse Saros**
 
 
 
-GP:0 | W:0 | L:0
+GP:0 | W:0 | L:1
 
 Sv%: 0.0 | GSAX:0.0
 
@@ -449,7 +449,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-NYR,G,31,Igor Shesterkin,G,27,L,"6'2""",192,8478048.0,Igor Shesterkin,0,0,,0,0,0,0.0,0.0,0.0,"**31 Igor Shesterkin**
+NYR,G,31,Igor Shesterkin,G,27,L,"6'2""",192,8478048.0,Igor Shesterkin,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**31 Igor Shesterkin**
 
 
 
@@ -457,7 +457,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-****"
+**Confirmed Starter**"
 NYR,G,32,Jonathan Quick,G,37,L,"6'1""",216,8471734.0,Jonathan Quick,0,0,,0,0,0,0.0,0.0,0.0,"**32 Jonathan Quick**
 
 
@@ -467,7 +467,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-DET,G,35,Ville Husso,G,28,L,"6'2""",205,8478024.0,Ville Husso,0,0,,0,0,0,0.0,0.0,0.0,"**35 Ville Husso**
+DET,G,35,Ville Husso,G,28,L,"6'2""",205,8478024.0,Ville Husso,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**35 Ville Husso**
 
 
 
@@ -475,7 +475,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-****"
+**Confirmed Starter**"
 DET,G,47,James Reimer,G,35,L,"6'2""",220,8473503.0,James Reimer,0,0,,0,0,0,0.0,0.0,0.0,"**47 James Reimer**
 
 
@@ -503,7 +503,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-OTT,G,70,Joonas Korpisalo,G,29,L,"6'3""",191,8476914.0,Joonas Korpisalo,0,0,,0,0,starter,0.0,0.0,0.0,"**70 Joonas Korpisalo**
+OTT,G,70,Joonas Korpisalo,G,29,L,"6'3""",191,8476914.0,Joonas Korpisalo,0,0,,0,0,0,0.0,0.0,0.0,"**70 Joonas Korpisalo**
 
 
 
@@ -521,7 +521,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-SJS,G,36,Kaapo Kahkonen,G,27,L,"6'2""",215,8478039.0,Kaapo Kahkonen,0,0,,0,0,0,0.0,0.0,0.0,"**36 Kaapo Kahkonen**
+SJS,G,36,Kaapo Kahkonen,G,27,L,"6'2""",215,8478039.0,Kaapo Kahkonen,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**36 Kaapo Kahkonen**
 
 
 
@@ -529,7 +529,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-****"
+**Confirmed Starter**"
 SJS,G,29,Mackenzie Blackwood,G,26,L,"6'4""",225,8478406.0,Mackenzie Blackwood,0,0,,0,0,0,0.0,0.0,0.0,"**29 Mackenzie Blackwood**
 
 
@@ -539,7 +539,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,8479979.0,Jake Oettinger,0,0,,0,0,0,0.0,0.0,0.0,"**29 Jake Oettinger**
+DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,8479979.0,Jake Oettinger,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**29 Jake Oettinger**
 
 
 
@@ -547,7 +547,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-****"
+**Confirmed Starter**"
 DAL,G,41,Scott Wedgewood,G,31,L,"6'0""",194,8475809.0,Scott Wedgewood,0,0,,0,0,0,0.0,0.0,0.0,"**41 Scott Wedgewood**
 
 
@@ -557,7 +557,7 @@ GP:0 | W:0 | L:0
 Sv%: 0.0 | GSAX:0.0
 
 ****"
-MIN,G,32,Filip Gustavsson,G,25,L,"6'2""",185,8479406.0,Filip Gustavsson,0,0,,0,0,0,0.0,0.0,0.0,"**32 Filip Gustavsson**
+MIN,G,32,Filip Gustavsson,G,25,L,"6'2""",185,8479406.0,Filip Gustavsson,0,0,Confirmed Starter,0,0,starter,0.0,0.0,0.0,"**32 Filip Gustavsson**
 
 
 
@@ -565,7 +565,7 @@ GP:0 | W:0 | L:0
 
 Sv%: 0.0 | GSAX:0.0
 
-****"
+**Confirmed Starter**"
 MIN,G,29,Marc-Andre Fleury,G,38,L,"6'2""",185,8470594.0,Marc-Andre Fleury,0,0,,0,0,0,0.0,0.0,0.0,"**29 Marc-Andre Fleury**
 
 
