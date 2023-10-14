@@ -20,8 +20,8 @@ ANA,Brett Leason,4th line,RW,20,R,"6'5""",215,8481517.0,Anaheim Ducks
 ANA,Alex Killorn,injured reserve,F,17.0,L,"6'1""",199.0,8473986.0,Anaheim Ducks
 ANA,Isac Lundestrom,injured reserve,F,21.0,L,"6'0""",191.0,8480806.0,Anaheim Ducks
 ANA,Leo Carlsson,injured reserve,F,91.0,L,"6'3""",193.0,0.0,Anaheim Ducks
+ANA,Brock McGinn,injured reserve,F,26.0,L,"6'0""",190.0,8476934.0,Anaheim Ducks
 ANA,Chase De Leo,injured reserve,F,69.0,L,"5'9""",183.0,8478029.0,Anaheim Ducks
-ANA,Brock McGinn,scratch,F,26.0,L,"6'0""",190.0,8476934.0,Anaheim Ducks
 ANA,Urho Vaakanainen,scratch,D,5.0,L,"6'2""",196.0,8480001.0,Anaheim Ducks
 ANA,Tristan Luneau,scratch,D,67.0,R,"6'2""",189.0,0.0,Anaheim Ducks
 ANA,John Gibson,error,G,36,L,"6'2""",215,8476434.0,Anaheim Ducks
@@ -35,7 +35,7 @@ ARI,Jason Zucker,2nd line,LW,16,L,"5'11""",192,8475722.0,Arizona Coyotes
 ARI,Logan Cooley,2nd line,C,92,L,"5'11""",180,0.0,Arizona Coyotes
 ARI,Alexander Kerfoot,2nd line,RW,15,L,"5'10""",185,8477021.0,Arizona Coyotes
 ARI,Juuso Valimaki,2nd pair,LD,4,L,"6'2""",212,8479976.0,Arizona Coyotes
-ARI,Troy Stecher,2nd pair,RD,51,R,"5'10""",186,8479442.0,Arizona Coyotes
+ARI,Travis Dermott,2nd pair,RD,33,L,"6'0""",205,8478408.0,Arizona Coyotes
 ARI,Matias Maccelli,3rd line,LW,63,L,"5'11""",165,8481711.0,Arizona Coyotes
 ARI,Nick Bjugstad,3rd line,C,17,R,"6'6""",215,8475760.0,Arizona Coyotes
 ARI,Lawson Crouse,3rd line,RW,67,L,"6'4""",220,8478474.0,Arizona Coyotes
@@ -49,7 +49,7 @@ ARI,Bryan Little,injured reserve,F,,R,"6'0""",191.0,8473412.0,Arizona Coyotes
 ARI,Shea Weber,injured reserve,D,,R,"6'4""",230.0,8470642.0,Arizona Coyotes
 ARI,Anson Thornton,injured reserve,G,34.0,R,"6'3""",180.0,0.0,Arizona Coyotes
 ARI,Travis Boyd,scratch,F,72.0,R,"6'0""",190.0,8476329.0,Arizona Coyotes
-ARI,Travis Dermott,scratch,D,33.0,L,"6'0""",205.0,8478408.0,Arizona Coyotes
+ARI,Troy Stecher,scratch,D,51.0,R,"5'10""",186.0,8479442.0,Arizona Coyotes
 ARI,Karel Vejmelka,error,G,70,R,"6'3""",203,8478872.0,Arizona Coyotes
 ARI,Connor Ingram,error,G,39,L,"6'0""",212,8478971.0,Arizona Coyotes
 BOS,James van Riemsdyk,1st line,LW,21,L,"6'3""",217,8474037.0,Boston Bruins
@@ -72,8 +72,8 @@ BOS,John Beecher,4th line,C,19,L,"6'3""",210,8481556.0,Boston Bruins
 BOS,Jakub Lauko,4th line,RW,94,L,"6'0""",179,8480880.0,Boston Bruins
 BOS,Patrick Brown,scratch,F,38.0,R,"5'11""",214.0,8477887.0,Boston Bruins
 BOS,Ian Mitchell,scratch,D,14.0,R,"5'11""",175.0,8480070.0,Boston Bruins
-BOS,Linus Ullmark,error,G,35,L,"6'4""",215,8476999.0,Boston Bruins
 BOS,Jeremy Swayman,error,G,1,L,"6'2""",187,8480280.0,Boston Bruins
+BOS,Linus Ullmark,error,G,35,L,"6'4""",215,8476999.0,Boston Bruins
 BUF,Jeff Skinner,1st line,LW,53,L,"5'11""",195,8475784.0,Buffalo Sabres
 BUF,Tage Thompson,1st line,C,72,R,"6'6""",215,8479420.0,Buffalo Sabres
 BUF,Alex Tuch,1st line,RW,89,R,"6'4""",220,8477949.0,Buffalo Sabres
@@ -159,17 +159,17 @@ CGY,Noah Hanifin,1st pair,LD,55,L,"6'3""",215,8478396.0,Calgary Flames
 CGY,Rasmus Andersson,1st pair,RD,4,R,"6'1""",214,8478397.0,Calgary Flames
 CGY,Adam Ruzicka,2nd line,LW,63,L,"6'4""",220,8480008.0,Calgary Flames
 CGY,Nazem Kadri,2nd line,C,91,L,"6'0""",192,8475172.0,Calgary Flames
-CGY,Matt Coronato,2nd line,RW,27,R,"5'10""",183,8482679.0,Calgary Flames
+CGY,Dillon Dube,2nd line,RW,29,L,"5'11""",187,8479346.0,Calgary Flames
 CGY,Nikita Zadorov,2nd pair,LD,16,L,"6'6""",235,8477507.0,Calgary Flames
 CGY,MacKenzie Weegar,2nd pair,RD,52,R,"6'0""",200,8477346.0,Calgary Flames
-CGY,Dillon Dube,3rd line,LW,29,L,"5'11""",187,8479346.0,Calgary Flames
+CGY,Blake Coleman,3rd line,LW,20,L,"5'11""",207,8476399.0,Calgary Flames
 CGY,Mikael Backlund,3rd line,C,11,L,"6'0""",200,8474150.0,Calgary Flames
-CGY,Blake Coleman,3rd line,RW,20,L,"5'11""",207,8476399.0,Calgary Flames
+CGY,Matt Coronato,3rd line,RW,27,R,"5'10""",183,8482679.0,Calgary Flames
 CGY,Dennis Gilbert,3rd pair,LD,48,L,"6'2""",216,8478502.0,Calgary Flames
 CGY,Chris Tanev,3rd pair,RD,8,R,"6'2""",197,8475690.0,Calgary Flames
 CGY,A.J. Greer,4th line,LW,18,L,"6'3""",210,8478421.0,Calgary Flames
-CGY,Walker Duehr,4th line,C,71,R,"6'2""",210,8482652.0,Calgary Flames
-CGY,Yegor Sharangovich,4th line,RW,17,L,"6'2""",195,8481068.0,Calgary Flames
+CGY,Yegor Sharangovich,4th line,C,17,L,"6'2""",195,8481068.0,Calgary Flames
+CGY,Walker Duehr,4th line,RW,71,R,"6'2""",210,8482652.0,Calgary Flames
 CGY,Kevin Rooney,injured reserve,F,21.0,L,"6'2""",201.0,8479291.0,Calgary Flames
 CGY,Jakob Pelletier,injured reserve,F,22.0,L,"5'9""",165.0,8481592.0,Calgary Flames
 CGY,Oliver Kylington,injured reserve,D,58.0,L,"6'0""",183.0,8478430.0,Calgary Flames
@@ -515,13 +515,13 @@ OTT,Erik Brannstrom,3rd pair,LD,26,L,"5'10""",185,8480073.0,Ottawa Senators
 OTT,Travis Hamonic,3rd pair,RD,23,R,"6'2""",205,8474612.0,Ottawa Senators
 OTT,Parker Kelly,4th line,LW,27,L,"6'0""",188,8480448.0,Ottawa Senators
 OTT,Mark Kastelic,4th line,C,12,R,"6'4""",223,8480355.0,Ottawa Senators
+OTT,Zack MacEwen,4th line,RW,17,R,"6'3""",205,8479772.0,Ottawa Senators
 OTT,Josh Norris,injured reserve,F,9.0,L,"6'1""",199.0,8480064.0,Ottawa Senators
-OTT,Zack MacEwen,scratch,F,17.0,R,"6'3""",205.0,8479772.0,Ottawa Senators
 OTT,Joonas Korpisalo,error,G,70,L,"6'3""",191,8476914.0,Ottawa Senators
 OTT,Anton Forsberg,error,G,31,L,"6'3""",192,8476341.0,Ottawa Senators
 PHI,Joel Farabee,1st line,LW,86,L,"6'0""",164,8480797.0,Philadelphia Flyers
 PHI,Sean Couturier,1st line,C,14,L,"6'3""",211,8476461.0,Philadelphia Flyers
-PHI,Bobby Brink,1st line,RW,10,R,"5'8""",165,8481553.0,Philadelphia Flyers
+PHI,Tyson Foerster,1st line,RW,71,R,"6'2""",194,8482159.0,Philadelphia Flyers
 PHI,Cam York,1st pair,LD,8,L,"5'11""",172,8481546.0,Philadelphia Flyers
 PHI,Travis Sanheim,1st pair,RD,6,L,"6'3""",181,8477948.0,Philadelphia Flyers
 PHI,Owen Tippett,2nd line,LW,74,R,"6'0""",183,8480015.0,Philadelphia Flyers
@@ -533,15 +533,15 @@ PHI,Scott Laughton,3rd line,LW,21,L,"6'1""",190,8476872.0,Philadelphia Flyers
 PHI,Noah Cates,3rd line,C,27,L,"6'1""",170,8480220.0,Philadelphia Flyers
 PHI,Travis Konecny,3rd line,RW,11,R,"5'10""",175,8478439.0,Philadelphia Flyers
 PHI,Nick Seeler,3rd pair,LD,24,L,"6'2""",201,8476372.0,Philadelphia Flyers
-PHI,Egor Zamula,3rd pair,RD,5,L,"6'3""",170,8481178.0,Philadelphia Flyers
+PHI,Emil Andrae,3rd pair,RD,36,L,"5'9""",181,0.0,Philadelphia Flyers
 PHI,Nicolas Deslauriers,4th line,LW,44,L,"6'3""",219,8475235.0,Philadelphia Flyers
 PHI,Ryan Poehling,4th line,C,25,L,"6'2""",204,8480068.0,Philadelphia Flyers
 PHI,Garnet Hathaway,4th line,RW,19,R,"6'3""",210,8477903.0,Philadelphia Flyers
 PHI,Jon-Randall Avon,injured reserve,F,85.0,L,"6'0""",180.0,0.0,Philadelphia Flyers
 PHI,Rasmus Ristolainen,injured reserve,D,55.0,R,"6'4""",220.0,8477499.0,Philadelphia Flyers
 PHI,Ryan Ellis,injured reserve,D,94.0,R,"5'10""",180.0,8475176.0,Philadelphia Flyers
-PHI,Tyson Foerster,scratch,F,71.0,R,"6'2""",194.0,8482159.0,Philadelphia Flyers
-PHI,Emil Andrae,scratch,D,36.0,L,"5'9""",181.0,0.0,Philadelphia Flyers
+PHI,Bobby Brink,scratch,F,10.0,R,"5'8""",165.0,8481553.0,Philadelphia Flyers
+PHI,Egor Zamula,scratch,D,5.0,L,"6'3""",170.0,8481178.0,Philadelphia Flyers
 PHI,Felix Sandstrom,scratch,G,32.0,L,"6'2""",192.0,8478433.0,Philadelphia Flyers
 PHI,Carter Hart,error,G,79,L,"6'2""",181,8479394.0,Philadelphia Flyers
 PHI,Samuel Ersson,error,G,33,L,"6'2""",176,8481035.0,Philadelphia Flyers
@@ -694,6 +694,7 @@ TOR,Ryan Reaves,4th line,RW,75,R,"6'2""",225,8471817.0,Toronto Maple Leafs
 TOR,Conor Timmins,injured reserve,D,25.0,R,"6'2""",185.0,8479982.0,Toronto Maple Leafs
 TOR,Jake Muzzin,injured reserve,D,8.0,L,"6'3""",217.0,8474162.0,Toronto Maple Leafs
 TOR,Matt Murray,injured reserve,G,30.0,L,"6'4""",178.0,8476899.0,Toronto Maple Leafs
+TOR,Simon Benoit,scratch,D,2.0,L,"6'3""",208.0,8481122.0,Toronto Maple Leafs
 TOR,Ilya Samsonov,error,G,35,L,"6'3""",208,8478492.0,Toronto Maple Leafs
 TOR,Joseph Woll,error,G,60,L,"6'2""",198,8479361.0,Toronto Maple Leafs
 VAN,Andrei Kuzmenko,1st line,LW,96,R,"5'11""",194,8483808.0,Vancouver Canucks
