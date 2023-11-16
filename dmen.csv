@@ -9,9 +9,8 @@ BOS,1st pair,6 Mason Lohrei,8482511.0,6,73 Charlie McAvoy,8479325.0,73,Boston Br
 BOS,2nd pair,27 Hampus Lindholm,8476854.0,27,25 Brandon Carlo,8478443.0,25,Boston Bruins
 BOS,3rd pair,28 Derek Forbort,8475762.0,28,12 Kevin Shattenkirk,8474031.0,12,Boston Bruins
 BUF,1st pair,26 Rasmus Dahlin,8480839.0,26,23 Mattias Samuelsson,8480807.0,23,Buffalo Sabres
-BUF,2nd pair,25 Owen Power,8482671.0,25,75 Connor Clifton,8477365.0,75,Buffalo Sabres
-BUF,3rd pair,33 Ryan Johnson,8481564.0,33,6 Erik Johnson,8473446.0,6,Buffalo Sabres
-BUF,3rd pair,78 Jacob Bryson,8480196.0,78,6 Erik Johnson,8473446.0,6,Buffalo Sabres
+BUF,2nd pair,33 Ryan Johnson,8481564.0,33,25 Owen Power,8482671.0,25,Buffalo Sabres
+BUF,3rd pair,75 Connor Clifton,8477365.0,75,6 Erik Johnson,8473446.0,6,Buffalo Sabres
 CAR,1st pair,74 Jaccob Slavin,8476958.0,74,8 Brent Burns,8470613.0,8,Carolina Hurricanes
 CAR,2nd pair,76 Brady Skjei,8476869.0,76,22 Brett Pesce,8477488.0,22,Carolina Hurricanes
 CAR,3rd pair,7 Dmitry Orlov,8475200.0,7,77 Tony DeAngelo,8477950.0,77,Carolina Hurricanes
@@ -25,14 +24,14 @@ CHI,1st pair,72 Alex Vlasic,8481568.0,72,4 Seth Jones,8477495.0,4,Chicago Blackh
 CHI,2nd pair,55 Kevin Korchinski,8483466.0,55,5 Connor Murphy,8476473.0,5,Chicago Blackhawks
 CHI,3rd pair,44 Wyatt Kaiser,8482176.0,44,41 Isaak Phillips,8482192.0,41,Chicago Blackhawks
 COL,1st pair,7 Devon Toews,8478038.0,7,8 Cale Makar,8480069.0,8,Colorado Avalanche
-COL,2nd pair,3 Jack Johnson,8471677.0,3,4 Bowen Byram,8481524.0,4,Colorado Avalanche
-COL,3rd pair,49 Samuel Girard,8479398.0,49,82 Caleb Jones,8478452.0,82,Colorado Avalanche
+COL,2nd pair,49 Samuel Girard,8479398.0,49,4 Bowen Byram,8481524.0,4,Colorado Avalanche
+COL,3rd pair,82 Caleb Jones,8478452.0,82,3 Jack Johnson,8471677.0,3,Colorado Avalanche
 DAL,1st pair,20 Ryan Suter,8470600.0,20,4 Miro Heiskanen,8480036.0,4,Dallas Stars
 DAL,2nd pair,23 Esa Lindell,8476902.0,23,5 Nils Lundkvist,8480878.0,5,Dallas Stars
 DAL,3rd pair,44 Joel Hanley,8477810.0,44,2 Jani Hakanpaa,8475825.0,2,Dallas Stars
 DET,1st pair,96 Jake Walman,8478013.0,96,53 Moritz Seider,8481542.0,53,Detroit Red Wings
 DET,2nd pair,8 Ben Chiarot,8475279.0,8,46 Jeff Petry,8473507.0,46,Detroit Red Wings
-DET,3rd pair,41 Shayne Gostisbehere,8476906.0,41,3 Justin Holl,8475718.0,3,Detroit Red Wings
+DET,3rd pair,41 Shayne Gostisbehere,8476906.0,41,2 Olli Maatta,8476874.0,2,Detroit Red Wings
 EDM,1st pair,25 Darnell Nurse,8477498.0,25,5 Cody Ceci,8476879.0,5,Edmonton Oilers
 EDM,2nd pair,14 Mattias Ekholm,8475218.0,14,2 Evan Bouchard,8480803.0,2,Edmonton Oilers
 EDM,3rd pair,27 Brett Kulak,8476967.0,27,73 Vincent Desharnais,8479576.0,73,Edmonton Oilers
@@ -48,9 +47,9 @@ MIN,3rd pair,4 Jon Merrill,8475750.0,4,24 Zach Bogosian,8474567.0,24,Minnesota W
 MTL,1st pair,8 Mike Matheson,8476875.0,8,52 Justin Barron,8482111.0,52,Montreal Canadiens
 MTL,2nd pair,21 Kaiden Guhle,8482087.0,21,26 Johnathan Kovacevic,8480192.0,26,Montreal Canadiens
 MTL,3rd pair,72 Arber Xhekaj,8482964.0,72,27 Gustav Lindstrom,8480184.0,27,Montreal Canadiens
-NJD,1st pair,43 Luke Hughes,8482684.0,43,7 Dougie Hamilton,8476462.0,7,New Jersey Devils
-NJD,2nd pair,71 Jonas Siegenthaler,8478399.0,71,6 John Marino,8478507.0,6,New Jersey Devils
-NJD,3rd pair,88 Kevin Bahl,8480860.0,88,2 Brendan Smith,8474090.0,2,New Jersey Devils
+NJD,1st pair,71 Jonas Siegenthaler,8478399.0,71,7 Dougie Hamilton,8476462.0,7,New Jersey Devils
+NJD,2nd pair,88 Kevin Bahl,8480860.0,88,6 John Marino,8478507.0,6,New Jersey Devils
+NJD,3rd pair,43 Luke Hughes,8482684.0,43,2 Brendan Smith,8474090.0,2,New Jersey Devils
 NSH,1st pair,59 Roman Josi,8474600.0,59,57 Dante Fabbro,8479371.0,57,Nashville Predators
 NSH,2nd pair,3 Jeremy Lauzon,8478468.0,3,45 Alexandre Carrier,8478851.0,45,Nashville Predators
 NSH,3rd pair,7 Marc Del Gaizo,8481743.0,7,22 Tyson Barrie,8475197.0,22,Nashville Predators
@@ -60,7 +59,7 @@ NYI,3rd pair,25 Sebastian Aho,8480222.0,25,24 Scott Mayfield,8476429.0,24,New Yo
 NYR,1st pair,79 K'Andre Miller,8480817.0,79,8 Jacob Trouba,8476885.0,8,New York Rangers
 NYR,2nd pair,56 Erik Gustafsson,8476979.0,56,55 Ryan Lindgren,8479324.0,55,New York Rangers
 NYR,3rd pair,6 Zac Jones,8481708.0,6,4 Braden Schneider,8482073.0,4,New York Rangers
-OTT,1st pair,85 Jake Sanderson,8482105.0,85,32 Jacob Larsson,8478491.0,32,Ottawa Senators
+OTT,1st pair,85 Jake Sanderson,8482105.0,85,2 Artem Zub,8482245.0,2,Ottawa Senators
 OTT,2nd pair,6 Jakob Chychrun,8479345.0,6,24 Jacob Bernard-Docker,8480879.0,24,Ottawa Senators
 OTT,3rd pair,26 Erik Brannstrom,8480073.0,26,23 Travis Hamonic,8474612.0,23,Ottawa Senators
 PHI,1st pair,8 Cam York,8481546.0,8,6 Travis Sanheim,8477948.0,6,Philadelphia Flyers
@@ -78,14 +77,14 @@ SJS,3rd pair,83 Nikita Okhotiuk,8481537.0,83,84 Jan Rutta,8480172.0,84,San Jose 
 STL,1st pair,4 Nick Leddy,8475181.0,4,55 Colton Parayko,8476892.0,55,St. Louis Blues
 STL,2nd pair,47 Torey Krug,8476792.0,47,72 Justin Faulk,8475753.0,72,St. Louis Blues
 STL,3rd pair,6 Marco Scandella,8474618.0,6,48 Scott Perunovich,8481059.0,48,St. Louis Blues
-TBL,1st pair,77 Victor Hedman,8475167.0,77,48 Nick Perbix,8480246.0,48,Tampa Bay Lightning
+TBL,1st pair,77 Victor Hedman,8475167.0,77,81 Erik Cernak,8478416.0,81,Tampa Bay Lightning
 TBL,2nd pair,98 Mikhail Sergachev,8479410.0,98,43 Darren Raddysh,8478178.0,43,Tampa Bay Lightning
-TBL,3rd pair,44 Calvin de Haan,8475177.0,44,,,,Tampa Bay Lightning
+TBL,3rd pair,44 Calvin de Haan,8475177.0,44,48 Nick Perbix,8480246.0,48,Tampa Bay Lightning
 TOR,1st pair,44 Morgan Rielly,8476853.0,44,78 TJ Brodie,8474673.0,78,Toronto Maple Leafs
 TOR,2nd pair,55 Mark Giordano,8470966.0,55,22 Jake McCabe,8476931.0,22,Toronto Maple Leafs
 TOR,3rd pair,85 William Lagesson,8478021.0,85,3 John Klingberg,8475906.0,3,Toronto Maple Leafs
-VAN,1st pair,43 Quinn Hughes,8480800.0,43,17 Filip Hronek,8479425.0,17,Vancouver Canucks
-VAN,2nd pair,82 Ian Cole,8474013.0,82,47 Noah Juulsen,8478454.0,47,Vancouver Canucks
+VAN,1st pair,43 Quinn Hughes,8480800.0,43,47 Noah Juulsen,8478454.0,47,Vancouver Canucks
+VAN,2nd pair,82 Ian Cole,8474013.0,82,17 Filip Hronek,8479425.0,17,Vancouver Canucks
 VAN,3rd pair,51 Mark Friedman,8478017.0,51,57 Tyler Myers,8474574.0,57,Vancouver Canucks
 VGK,1st pair,3 Brayden McNabb,8475188.0,3,27 Shea Theodore,8477447.0,27,Vegas Golden Knights
 VGK,2nd pair,23 Alec Martinez,8474166.0,23,7 Alex Pietrangelo,8474565.0,7,Vegas Golden Knights
@@ -93,7 +92,6 @@ VGK,3rd pair,17 Ben Hutton,8477018.0,17,2 Zach Whitecloud,8480727.0,2,Vegas Gold
 WPG,1st pair,44 Josh Morrissey,8477504.0,44,2 Dylan DeMelo,8476331.0,2,Winnipeg Jets
 WPG,2nd pair,5 Brenden Dillon,8475455.0,5,4 Neal Pionk,8480145.0,4,Winnipeg Jets
 WPG,3rd pair,54 Dylan Samberg,8480049.0,54,88 Nate Schmidt,8477220.0,88,Winnipeg Jets
-WPG,3rd pair,64 Logan Stanley,8479378.0,64,88 Nate Schmidt,8477220.0,88,Winnipeg Jets
 WSH,1st pair,46 Lucas Johansen,8479321.0,46,74 John Carlson,8474590.0,74,Washington Capitals
 WSH,2nd pair,38 Rasmus Sandin,8480873.0,38,3 Nick Jensen,8475324.0,3,Washington Capitals
 WSH,3rd pair,27 Alexander Alexeyev,8480823.0,27,25 Dylan McIlrath,8475795.0,25,Washington Capitals
