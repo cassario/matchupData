@@ -1,810 +1,753 @@
-team,player,line,pos,num,handedness,ht,wt,player_id,full
-ANA,Alex Killorn,1st line,LW,17,L,"6'1""",199,8473986.0,Anaheim Ducks
-ANA,Adam Henrique,1st line,C,14,L,"6'0""",195,8474641.0,Anaheim Ducks
-ANA,Troy Terry,1st line,RW,19,R,"6'0""",185,8478873.0,Anaheim Ducks
-ANA,Cam Fowler,1st pair,LD,4,L,"6'2""",214,8475764.0,Anaheim Ducks
-ANA,Jackson LaCombe,1st pair,RD,60,L,"6'2""",201,8481605.0,Anaheim Ducks
-ANA,Frank Vatrano,2nd line,LW,77,L,"5'11""",204,8478366.0,Anaheim Ducks
-ANA,Mason McTavish,2nd line,C,23,L,"6'0""",215,8482745.0,Anaheim Ducks
-ANA,Ryan Strome,2nd line,RW,16,R,"6'1""",196,8476458.0,Anaheim Ducks
-ANA,Pavel Mintyukov,2nd pair,LD,34,L,"6'2""",194,8483490.0,Anaheim Ducks
-ANA,Ilya Lyubushkin,2nd pair,RD,46,R,"6'2""",201,8480950.0,Anaheim Ducks
-ANA,Max Jones,3rd line,LW,49,L,"6'3""",220,8479368.0,Anaheim Ducks
-ANA,Benoit-Olivier Groulx,3rd line,C,24,L,"6'2""",198,8480870.0,Anaheim Ducks
-ANA,Jakob Silfverberg,3rd line,RW,33,R,"6'1""",210,8475164.0,Anaheim Ducks
-ANA,Urho Vaakanainen,3rd pair,LD,5,L,"6'2""",196,8480001.0,Anaheim Ducks
-ANA,Tristan Luneau,3rd pair,RD,67,R,"6'2""",189,8483482.0,Anaheim Ducks
-ANA,Ross Johnston,4th line,LW,44,L,"6'5""",235,8477527.0,Anaheim Ducks
-ANA,Sam Carrick,4th line,C,39,R,"6'0""",197,8475842.0,Anaheim Ducks
-ANA,Brock McGinn,4th line,RW,26,L,"6'0""",190,8476934.0,Anaheim Ducks
-ANA,Trevor Zegras,injured reserve,F,11.0,L,"6'0""",185.0,8481533.0,Anaheim Ducks
-ANA,Isac Lundestrom,injured reserve,F,21.0,L,"6'0""",191.0,8480806.0,Anaheim Ducks
-ANA,Jamie Drysdale,injured reserve,D,6.0,R,"5'11""",187.0,8482142.0,Anaheim Ducks
-ANA,Brett Leason,scratch,F,20.0,R,"6'5""",215.0,8481517.0,Anaheim Ducks
-ANA,Leo Carlsson,scratch,F,91.0,L,"6'3""",193.0,8484153.0,Anaheim Ducks
-ANA,Radko Gudas,scratch,D,7.0,R,"6'0""",205.0,8475462.0,Anaheim Ducks
-ANA,John Gibson,error,G,36,L,"6'2""",215,8476434.0,Anaheim Ducks
-ANA,Lukas Dostal,error,G,1,L,"6'2""",191,8480843.0,Anaheim Ducks
-ARI,Clayton Keller,1st line,LW,9,L,"5'10""",170,8479343.0,Arizona Coyotes
-ARI,Logan Cooley,1st line,C,92,L,"5'11""",180,8483431.0,Arizona Coyotes
-ARI,Nick Schmaltz,1st line,RW,8,R,"6'0""",177,8477951.0,Arizona Coyotes
-ARI,J.J. Moser,1st pair,LD,90,L,"6'0""",172,8482655.0,Arizona Coyotes
-ARI,Sean Durzi,1st pair,RD,50,R,"6'0""",188,8480434.0,Arizona Coyotes
-ARI,Matias Maccelli,2nd line,LW,63,L,"5'11""",165,8481711.0,Arizona Coyotes
-ARI,Nick Bjugstad,2nd line,C,17,R,"6'6""",215,8475760.0,Arizona Coyotes
-ARI,Lawson Crouse,2nd line,RW,67,L,"6'4""",220,8478474.0,Arizona Coyotes
-ARI,Josh Brown,2nd pair,LD,3,R,"6'5""",217,8477384.0,Arizona Coyotes
-ARI,Matt Dumba,2nd pair,RD,24,R,"6'0""",180,8476856.0,Arizona Coyotes
-ARI,Michael Carcone,3rd line,LW,53,L,"5'10""",170,8479619.0,Arizona Coyotes
-ARI,Alexander Kerfoot,3rd line,C,15,L,"5'10""",185,8477021.0,Arizona Coyotes
-ARI,Jason Zucker,3rd line,RW,16,L,"5'11""",192,8475722.0,Arizona Coyotes
-ARI,Troy Stecher,3rd pair,LD,51,R,"5'10""",186,8479442.0,Arizona Coyotes
-ARI,Michael Kesselring,3rd pair,RD,5,R,"6'4""",190,8480891.0,Arizona Coyotes
-ARI,Milos Kelemen,4th line,LW,21,L,"6'1""",163,8483597.0,Arizona Coyotes
-ARI,Travis Boyd,4th line,C,72,R,"6'0""",190,8476329.0,Arizona Coyotes
-ARI,Liam O'Brien,4th line,RW,38,L,"6'1""",215,8477070.0,Arizona Coyotes
-ARI,Barrett Hayton,injured reserve,F,29.0,L,"6'1""",190.0,8480849.0,Arizona Coyotes
-ARI,Jack McBain,injured reserve,F,22.0,L,"6'4""",218.0,8480855.0,Arizona Coyotes
-ARI,Jakub Voracek,injured reserve,F,,L,"6'2""",214.0,8474161.0,Arizona Coyotes
-ARI,Bryan Little,injured reserve,F,,R,"6'0""",191.0,8473412.0,Arizona Coyotes
-ARI,Travis Dermott,injured reserve,D,33.0,L,"6'0""",205.0,8478408.0,Arizona Coyotes
-ARI,Shea Weber,injured reserve,D,,R,"6'4""",230.0,8470642.0,Arizona Coyotes
-ARI,Juuso Valimaki,scratch,D,4.0,L,"6'2""",212.0,8479976.0,Arizona Coyotes
-ARI,Vladislav Kolyachonok,scratch,D,52.0,L,"6'1""",189.0,8481609.0,Arizona Coyotes
-ARI,Connor Ingram,error,G,39,L,"6'0""",212,8478971.0,Arizona Coyotes
-ARI,Karel Vejmelka,error,G,70,R,"6'3""",203,8478872.0,Arizona Coyotes
-BOS,Jake DeBrusk,1st line,LW,74,L,"6'0""",188,8478498.0,Boston Bruins
-BOS,Pavel Zacha,1st line,C,18,L,"6'3""",210,8478401.0,Boston Bruins
-BOS,David Pastrnak,1st line,RW,88,R,"6'0""",194,8477956.0,Boston Bruins
-BOS,Matt Grzelcyk,1st pair,LD,48,L,"5'9""",174,8476891.0,Boston Bruins
-BOS,Charlie McAvoy,1st pair,RD,73,R,"6'0""",208,8479325.0,Boston Bruins
-BOS,Brad Marchand,2nd line,LW,63,L,"5'9""",181,8473419.0,Boston Bruins
-BOS,Matthew Poitras,2nd line,C,51,R,"5'11""",177,8483505.0,Boston Bruins
-BOS,Danton Heinen,2nd line,RW,43,L,"6'1""",188,8478046.0,Boston Bruins
-BOS,Hampus Lindholm,2nd pair,LD,27,L,"6'3""",208,8476854.0,Boston Bruins
-BOS,Brandon Carlo,2nd pair,RD,25,R,"6'5""",212,8478443.0,Boston Bruins
-BOS,James van Riemsdyk,3rd line,LW,21,L,"6'3""",217,8474037.0,Boston Bruins
-BOS,Charlie Coyle,3rd line,C,13,R,"6'3""",220,8475745.0,Boston Bruins
-BOS,Trent Frederic,3rd line,RW,11,L,"6'2""",203,8479365.0,Boston Bruins
-BOS,Derek Forbort,3rd pair,LD,28,L,"6'4""",219,8475762.0,Boston Bruins
-BOS,Kevin Shattenkirk,3rd pair,RD,12,R,"6'0""",207,8474031.0,Boston Bruins
-BOS,Jakub Lauko,4th line,LW,94,L,"6'0""",179,8480880.0,Boston Bruins
-BOS,John Beecher,4th line,C,19,L,"6'3""",210,8481556.0,Boston Bruins
-BOS,Morgan Geekie,4th line,RW,39,R,"6'2""",168,8479987.0,Boston Bruins
-BOS,Milan Lucic,injured reserve,F,17.0,L,"6'3""",231.0,8473473.0,Boston Bruins
-BOS,Oskar Steen,scratch,F,62.0,R,"5'9""",187.0,8479546.0,Boston Bruins
-BOS,Patrick Brown,scratch,F,38.0,R,"5'11""",214.0,8477887.0,Boston Bruins
-BOS,Ian Mitchell,scratch,D,14.0,R,"5'11""",175.0,8480070.0,Boston Bruins
-BOS,Jeremy Swayman,error,G,1,L,"6'2""",187,8480280.0,Boston Bruins
-BOS,Linus Ullmark,error,G,35,L,"6'4""",215,8476999.0,Boston Bruins
-BUF,Jeff Skinner,1st line,LW,53,L,"5'11""",195,8475784.0,Buffalo Sabres
-BUF,Casey Mittelstadt,1st line,C,37,L,"6'1""",199,8479999.0,Buffalo Sabres
-BUF,Alex Tuch,1st line,RW,89,R,"6'4""",220,8477949.0,Buffalo Sabres
-BUF,Rasmus Dahlin,1st pair,LD,26,L,"6'3""",193,8480839.0,Buffalo Sabres
-BUF,Mattias Samuelsson,1st pair,RD,23,L,"6'4""",218,8480807.0,Buffalo Sabres
-BUF,Zach Benson,2nd line,LW,9,L,"5'10""",170,8484145.0,Buffalo Sabres
-BUF,Dylan Cozens,2nd line,C,24,R,"6'3""",183,8481528.0,Buffalo Sabres
-BUF,JJ Peterka,2nd line,RW,77,L,"5'11""",192,8482175.0,Buffalo Sabres
-BUF,Owen Power,2nd pair,LD,25,L,"6'6""",214,8482671.0,Buffalo Sabres
-BUF,Ryan Johnson,2nd pair,RD,33,L,"6'0""",170,8481564.0,Buffalo Sabres
-BUF,Victor Olofsson,3rd line,LW,71,L,"5'11""",183,8478109.0,Buffalo Sabres
-BUF,Tyson Jost,3rd line,C,17,L,"5'11""",187,8479370.0,Buffalo Sabres
-BUF,Isak Rosen,3rd line,RW,63,L,"5'11""",156,8482765.0,Buffalo Sabres
-BUF,Connor Clifton,3rd pair,LD,75,R,"5'11""",175,8477365.0,Buffalo Sabres
-BUF,Erik Johnson,3rd pair,RD,6,R,"6'4""",225,8473446.0,Buffalo Sabres
-BUF,Jordan Greenway,4th line,LW,12,L,"6'6""",225,8478413.0,Buffalo Sabres
-BUF,Peyton Krebs,4th line,C,19,L,"5'11""",180,8481522.0,Buffalo Sabres
-BUF,Kyle Okposo,4th line,RW,21,R,"6'0""",216,8473449.0,Buffalo Sabres
-BUF,Tage Thompson,injured reserve,F,72.0,R,"6'6""",215.0,8479420.0,Buffalo Sabres
-BUF,Zemgus Girgensons,injured reserve,F,28.0,L,"6'2""",211.0,8476878.0,Buffalo Sabres
-BUF,Jack Quinn,injured reserve,F,22.0,R,"6'0""",176.0,8482097.0,Buffalo Sabres
-BUF,Brandon Biro,scratch,F,15.0,L,"5'11""",161.0,8482061.0,Buffalo Sabres
-BUF,Henri Jokiharju,scratch,D,10.0,R,"6'0""",195.0,8480035.0,Buffalo Sabres
-BUF,Jacob Bryson,scratch,D,78.0,L,"5'9""",185.0,8480196.0,Buffalo Sabres
-BUF,Ukko-Pekka Luukkonen,error,G,1,L,"6'4""",190,8480045.0,Buffalo Sabres
-BUF,Eric Comrie,error,G,31,L,"6'1""",175,8477480.0,Buffalo Sabres
-CAR,Michael Bunting,1st line,LW,58,L,"5'11""",197,8478047.0,Carolina Hurricanes
-CAR,Sebastian Aho,1st line,C,20,L,"6'0""",176,8478427.0,Carolina Hurricanes
-CAR,Seth Jarvis,1st line,RW,24,R,"5'10""",175,8482093.0,Carolina Hurricanes
-CAR,Jaccob Slavin,1st pair,LD,74,L,"6'3""",207,8476958.0,Carolina Hurricanes
-CAR,Brent Burns,1st pair,RD,8,R,"6'5""",230,8470613.0,Carolina Hurricanes
-CAR,Teuvo Teravainen,2nd line,LW,86,L,"5'11""",191,8476882.0,Carolina Hurricanes
-CAR,Jesperi Kotkaniemi,2nd line,C,82,L,"6'2""",198,8480829.0,Carolina Hurricanes
-CAR,Martin Necas,2nd line,RW,88,R,"6'2""",189,8480039.0,Carolina Hurricanes
-CAR,Brady Skjei,2nd pair,LD,76,L,"6'3""",210,8476869.0,Carolina Hurricanes
-CAR,Brett Pesce,2nd pair,RD,22,R,"6'3""",206,8477488.0,Carolina Hurricanes
-CAR,Jordan Martinook,3rd line,LW,48,L,"6'0""",196,8476921.0,Carolina Hurricanes
-CAR,Jordan Staal,3rd line,C,11,L,"6'4""",220,8473533.0,Carolina Hurricanes
-CAR,Jesper Fast,3rd line,RW,71,R,"6'1""",191,8475855.0,Carolina Hurricanes
-CAR,Dmitry Orlov,3rd pair,LD,7,L,"5'11""",208,8475200.0,Carolina Hurricanes
-CAR,Jalen Chatfield,3rd pair,RD,5,R,"6'1""",188,8478970.0,Carolina Hurricanes
-CAR,Brendan Lemieux,4th line,LW,28,L,"6'1""",213,8477962.0,Carolina Hurricanes
-CAR,Jack Drury,4th line,C,18,L,"5'11""",174,8480835.0,Carolina Hurricanes
-CAR,Stefan Noesen,4th line,RW,23,R,"6'1""",205,8476474.0,Carolina Hurricanes
-CAR,Frederik Andersen,injured reserve,G,31.0,L,"6'4""",238.0,8475883.0,Carolina Hurricanes
-CAR,Andrei Svechnikov,scratch,F,37.0,L,"6'2""",195.0,8480830.0,Carolina Hurricanes
-CAR,Tony DeAngelo,scratch,D,77.0,R,"5'11""",180.0,8477950.0,Carolina Hurricanes
-CAR,Pyotr Kochetkov,error,G,52,L,"6'3""",205,8481611.0,Carolina Hurricanes
-CAR,Antti Raanta,error,G,32,L,"6'0""",195,8477293.0,Carolina Hurricanes
-CBJ,Johnny Gaudreau,1st line,LW,13,L,"5'9""",165,8476346.0,Columbus Blue Jackets
-CBJ,Boone Jenner,1st line,C,38,L,"6'2""",208,8476432.0,Columbus Blue Jackets
-CBJ,Kirill Marchenko,1st line,RW,86,R,"6'3""",187,8480893.0,Columbus Blue Jackets
-CBJ,Zach Werenski,1st pair,LD,8,L,"6'2""",212,8478460.0,Columbus Blue Jackets
-CBJ,Adam Boqvist,1st pair,RD,27,R,"5'11""",179,8480871.0,Columbus Blue Jackets
-CBJ,Alexandre Texier,2nd line,LW,42,L,"6'1""",192,8480074.0,Columbus Blue Jackets
-CBJ,Adam Fantilli,2nd line,C,11,L,"6'2""",195,8484166.0,Columbus Blue Jackets
-CBJ,Patrik Laine,2nd line,RW,29,R,"6'5""",206,8479339.0,Columbus Blue Jackets
-CBJ,Ivan Provorov,2nd pair,LD,9,L,"6'1""",201,8478500.0,Columbus Blue Jackets
-CBJ,David Jiricek,2nd pair,RD,55,R,"6'3""",189,8483460.0,Columbus Blue Jackets
-CBJ,Dmitri Voronkov,3rd line,LW,10,L,"6'4""",190,8481716.0,Columbus Blue Jackets
-CBJ,Cole Sillinger,3rd line,C,4,L,"6'0""",197,8482705.0,Columbus Blue Jackets
-CBJ,Yegor Chinakhov,3rd line,RW,59,L,"6'0""",178,8482475.0,Columbus Blue Jackets
-CBJ,Jake Bean,3rd pair,LD,22,L,"6'1""",186,8479402.0,Columbus Blue Jackets
-CBJ,Erik Gudbranson,3rd pair,RD,44,R,"6'5""",217,8475790.0,Columbus Blue Jackets
-CBJ,Eric Robinson,4th line,LW,50,L,"6'2""",197,8480762.0,Columbus Blue Jackets
-CBJ,Sean Kuraly,4th line,C,7,L,"6'2""",213,8476374.0,Columbus Blue Jackets
-CBJ,Justin Danforth,4th line,RW,17,R,"5'9""",185,8479941.0,Columbus Blue Jackets
-CBJ,Jack Roslovic,injured reserve,F,96.0,R,"6'1""",187.0,8478458.0,Columbus Blue Jackets
-CBJ,Daniil Tarasov,injured reserve,G,40.0,L,"6'3""",154.0,8480193.0,Columbus Blue Jackets
-CBJ,Mathieu Olivier,scratch,F,24.0,R,"6'2""",210.0,8479671.0,Columbus Blue Jackets
-CBJ,Andrew Peeke,scratch,D,2.0,R,"6'3""",194.0,8479369.0,Columbus Blue Jackets
-CBJ,Damon Severson,scratch,D,78.0,R,"6'2""",205.0,8476923.0,Columbus Blue Jackets
-CBJ,Elvis Merzlikins,error,G,90,L,"6'3""",181,8478007.0,Columbus Blue Jackets
-CBJ,Spencer Martin,error,G,30,L,"6'3""",205,8477484.0,Columbus Blue Jackets
-CGY,Andrew Mangiapane,1st line,LW,88,L,"5'10""",184,8478233.0,Calgary Flames
-CGY,Elias Lindholm,1st line,C,28,R,"6'1""",195,8477496.0,Calgary Flames
-CGY,Yegor Sharangovich,1st line,RW,17,L,"6'2""",195,8481068.0,Calgary Flames
-CGY,MacKenzie Weegar,1st pair,LD,52,R,"6'0""",200,8477346.0,Calgary Flames
-CGY,Rasmus Andersson,1st pair,RD,4,R,"6'1""",214,8478397.0,Calgary Flames
-CGY,Jonathan Huberdeau,2nd line,LW,10,L,"6'1""",202,8476456.0,Calgary Flames
-CGY,Mikael Backlund,2nd line,C,11,L,"6'0""",200,8474150.0,Calgary Flames
-CGY,Blake Coleman,2nd line,RW,20,L,"5'11""",207,8476399.0,Calgary Flames
-CGY,Noah Hanifin,2nd pair,LD,55,L,"6'3""",215,8478396.0,Calgary Flames
-CGY,Chris Tanev,2nd pair,RD,8,R,"6'2""",197,8475690.0,Calgary Flames
-CGY,Connor Zary,3rd line,LW,47,L,"6'0""",178,8482074.0,Calgary Flames
-CGY,Nazem Kadri,3rd line,C,91,L,"6'0""",192,8475172.0,Calgary Flames
-CGY,Martin Pospisil,3rd line,RW,76,L,"6'2""",181,8481028.0,Calgary Flames
-CGY,Dennis Gilbert,3rd pair,LD,48,L,"6'2""",216,8478502.0,Calgary Flames
-CGY,Nikita Zadorov,3rd pair,RD,16,L,"6'6""",235,8477507.0,Calgary Flames
-CGY,A.J. Greer,4th line,LW,18,L,"6'3""",210,8478421.0,Calgary Flames
-CGY,Adam Ruzicka,4th line,C,63,L,"6'4""",220,8480008.0,Calgary Flames
-CGY,Dillon Dube,4th line,RW,29,L,"5'11""",187,8479346.0,Calgary Flames
-CGY,Kevin Rooney,injured reserve,F,21.0,L,"6'2""",201.0,8479291.0,Calgary Flames
-CGY,Jakob Pelletier,injured reserve,F,22.0,L,"5'9""",165.0,8481592.0,Calgary Flames
-CGY,Oliver Kylington,injured reserve,D,58.0,L,"6'0""",183.0,8478430.0,Calgary Flames
-CGY,Walker Duehr,scratch,F,71.0,R,"6'2""",210.0,8482652.0,Calgary Flames
-CGY,Nick DeSimone,scratch,D,57.0,R,"6'2""",190.0,8480084.0,Calgary Flames
-CGY,Jordan Oesterle,scratch,D,82.0,L,"6'0""",182.0,8477851.0,Calgary Flames
-CGY,Dan Vladar,error,G,80,L,"6'5""",185,8478435.0,Calgary Flames
-CGY,Jacob Markstrom,error,G,25,L,"6'6""",206,8474593.0,Calgary Flames
-CHI,Nick Foligno,1st line,LW,17,L,"6'0""",208,8473422.0,Chicago Blackhawks
-CHI,Connor Bedard,1st line,C,98,R,"5'10""",185,8484144.0,Chicago Blackhawks
-CHI,Philipp Kurashev,1st line,RW,23,L,"6'0""",190,8480798.0,Chicago Blackhawks
-CHI,Alex Vlasic,1st pair,LD,72,L,"6'6""",200,8481568.0,Chicago Blackhawks
-CHI,Seth Jones,1st pair,RD,4,R,"6'4""",209,8477495.0,Chicago Blackhawks
-CHI,Lukas Reichel,2nd line,LW,27,L,"6'0""",170,8482117.0,Chicago Blackhawks
-CHI,Cole Guttman,2nd line,C,70,R,"5'10""",163,8480252.0,Chicago Blackhawks
-CHI,Taylor Raddysh,2nd line,RW,11,R,"6'2""",198,8479390.0,Chicago Blackhawks
-CHI,Kevin Korchinski,2nd pair,LD,55,L,"6'2""",185,8483466.0,Chicago Blackhawks
-CHI,Connor Murphy,2nd pair,RD,5,R,"6'4""",212,8476473.0,Chicago Blackhawks
-CHI,Tyler Johnson,3rd line,LW,90,R,"5'8""",182,8474870.0,Chicago Blackhawks
-CHI,Jason Dickinson,3rd line,C,16,L,"6'2""",200,8477450.0,Chicago Blackhawks
-CHI,Joey Anderson,3rd line,RW,15,R,"5'11""",190,8479315.0,Chicago Blackhawks
-CHI,Wyatt Kaiser,3rd pair,LD,44,L,"6'0""",173,8482176.0,Chicago Blackhawks
-CHI,Isaak Phillips,3rd pair,RD,41,L,"6'2""",193,8482192.0,Chicago Blackhawks
-CHI,Boris Katchouk,4th line,LW,14,L,"6'1""",179,8479383.0,Chicago Blackhawks
-CHI,Ryan Donato,4th line,C,8,L,"6'0""",192,8477987.0,Chicago Blackhawks
-CHI,Reese Johnson,4th line,RW,52,R,"6'1""",192,8481147.0,Chicago Blackhawks
-CHI,Taylor Hall,injured reserve,F,71.0,L,"6'1""",205.0,8475791.0,Chicago Blackhawks
-CHI,Andreas Athanasiou,injured reserve,F,89.0,L,"6'2""",188.0,8476960.0,Chicago Blackhawks
-CHI,Colin Blackwell,injured reserve,F,43.0,R,"5'9""",190.0,8476278.0,Chicago Blackhawks
-CHI,Luke Philp,injured reserve,F,39.0,R,"5'10""",180.0,8478224.0,Chicago Blackhawks
-CHI,Samuel Savoie,injured reserve,F,67.0,L,"5'10""",189.0,0.0,Chicago Blackhawks
-CHI,Jarred Tinordi,injured reserve,D,25.0,L,"6'6""",225.0,8475797.0,Chicago Blackhawks
-CHI,MacKenzie Entwistle,scratch,F,58.0,R,"6'3""",181.0,8480025.0,Chicago Blackhawks
-CHI,Anthony Beauvillier,scratch,F,91.0,L,"5'11""",182.0,8478463.0,Chicago Blackhawks
-CHI,Nikita Zaitsev,scratch,D,22.0,R,"6'2""",195.0,8479458.0,Chicago Blackhawks
-CHI,Petr Mrazek,error,G,34,L,"6'1""",190,8475852.0,Chicago Blackhawks
-CHI,Arvid Soderblom,error,G,40,L,"6'3""",180,8482821.0,Chicago Blackhawks
-COL,Valeri Nichushkin,1st line,LW,13,L,"6'4""",210,8477501.0,Colorado Avalanche
-COL,Nathan MacKinnon,1st line,C,29,R,"6'0""",200,8477492.0,Colorado Avalanche
-COL,Mikko Rantanen,1st line,RW,96,L,"6'4""",215,8478420.0,Colorado Avalanche
-COL,Devon Toews,1st pair,LD,7,L,"6'1""",191,8478038.0,Colorado Avalanche
-COL,Cale Makar,1st pair,RD,8,R,"5'11""",187,8480069.0,Colorado Avalanche
-COL,Jonathan Drouin,2nd line,LW,27,L,"6'0""",203,8477494.0,Colorado Avalanche
-COL,Ryan Johansen,2nd line,C,12,R,"6'3""",218,8475793.0,Colorado Avalanche
-COL,Tomas Tatar,2nd line,RW,90,L,"5'10""",183,8475193.0,Colorado Avalanche
-COL,Bowen Byram,2nd pair,LD,4,L,"6'0""",195,8481524.0,Colorado Avalanche
-COL,Josh Manson,2nd pair,RD,42,R,"6'3""",218,8476312.0,Colorado Avalanche
-COL,Miles Wood,3rd line,LW,28,L,"6'2""",195,8477425.0,Colorado Avalanche
-COL,Ross Colton,3rd line,C,20,L,"6'0""",190,8479525.0,Colorado Avalanche
-COL,Logan O'Connor,3rd line,RW,25,R,"6'0""",175,8481186.0,Colorado Avalanche
-COL,Jack Johnson,3rd pair,LD,3,L,"6'1""",227,8471677.0,Colorado Avalanche
-COL,Caleb Jones,3rd pair,RD,82,L,"6'1""",194,8478452.0,Colorado Avalanche
-COL,Andrew Cogliano,4th line,LW,11,L,"5'10""",175,8471699.0,Colorado Avalanche
-COL,Fredrik Olofsson,4th line,C,22,L,"6'2""",196,8478028.0,Colorado Avalanche
-COL,Joel Kiviranta,4th line,RW,94,L,"5'10""",175,8481641.0,Colorado Avalanche
-COL,Artturi Lehkonen,injured reserve,F,62.0,L,"6'0""",180.0,8477476.0,Colorado Avalanche
-COL,Gabriel Landeskog,injured reserve,F,92.0,L,"6'1""",215.0,8476455.0,Colorado Avalanche
-COL,Chris Wagner,injured reserve,F,14.0,R,"6'0""",198.0,8475780.0,Colorado Avalanche
-COL,Jean-Luc Foudy,injured reserve,F,93.0,R,"5'11""",177.0,8482147.0,Colorado Avalanche
-COL,Pavel Francouz,injured reserve,G,39.0,R,"6'0""",179.0,8480925.0,Colorado Avalanche
-COL,Kurtis MacDermid,scratch,F,56.0,L,"6'5""",233.0,8477073.0,Colorado Avalanche
-COL,Alexandar Georgiev,error,G,40,L,"6'1""",178,8480382.0,Colorado Avalanche
-COL,Ivan Prosvetov,error,G,50,L,"6'3""",161,8481031.0,Colorado Avalanche
-DAL,Jason Robertson,1st line,LW,21,L,"6'2""",194,8480027.0,Dallas Stars
-DAL,Roope Hintz,1st line,C,24,L,"6'3""",220,8478449.0,Dallas Stars
-DAL,Joe Pavelski,1st line,RW,16,R,"5'11""",195,8470794.0,Dallas Stars
-DAL,Ryan Suter,1st pair,LD,20,L,"6'2""",206,8470600.0,Dallas Stars
-DAL,Miro Heiskanen,1st pair,RD,4,L,"6'1""",190,8480036.0,Dallas Stars
-DAL,Mason Marchment,2nd line,LW,27,L,"6'4""",201,8478975.0,Dallas Stars
-DAL,Matt Duchene,2nd line,C,95,L,"5'11""",195,8475168.0,Dallas Stars
-DAL,Tyler Seguin,2nd line,RW,91,R,"6'1""",200,8475794.0,Dallas Stars
-DAL,Esa Lindell,2nd pair,LD,23,L,"6'3""",215,8476902.0,Dallas Stars
-DAL,Jani Hakanpaa,2nd pair,RD,2,R,"6'5""",218,8475825.0,Dallas Stars
-DAL,Jamie Benn,3rd line,LW,14,L,"6'2""",210,8473994.0,Dallas Stars
-DAL,Wyatt Johnston,3rd line,C,53,R,"6'1""",178,8482740.0,Dallas Stars
-DAL,Evgenii Dadonov,3rd line,RW,63,L,"5'11""",189,8474149.0,Dallas Stars
-DAL,Thomas Harley,3rd pair,LD,55,L,"6'3""",188,8481581.0,Dallas Stars
-DAL,Nils Lundkvist,3rd pair,RD,5,R,"5'11""",187,8480878.0,Dallas Stars
-DAL,Sam Steel,4th line,LW,18,L,"5'11""",189,8479351.0,Dallas Stars
-DAL,Radek Faksa,4th line,C,12,L,"6'3""",220,8476889.0,Dallas Stars
-DAL,Craig Smith,4th line,RW,15,R,"6'1""",208,8475225.0,Dallas Stars
-DAL,Jerad Rosburg,injured reserve,D,39.0,L,"6'1""",200.0,0.0,Dallas Stars
-DAL,Ty Dellandrea,scratch,F,10.0,R,"6'0""",184.0,8480848.0,Dallas Stars
-DAL,Joel Hanley,scratch,D,44.0,L,"5'11""",190.0,8477810.0,Dallas Stars
-DAL,Jake Oettinger,error,G,29,L,"6'4""",205,8479979.0,Dallas Stars
-DAL,Scott Wedgewood,error,G,41,L,"6'0""",194,8475809.0,Dallas Stars
-DET,Alex DeBrincat,1st line,LW,93,R,"5'7""",165,8479337.0,Detroit Red Wings
-DET,J.T. Compher,1st line,C,37,R,"6'0""",190,8477456.0,Detroit Red Wings
-DET,Michael Rasmussen,1st line,RW,27,L,"6'6""",221,8479992.0,Detroit Red Wings
-DET,Jake Walman,1st pair,LD,96,L,"6'1""",170,8478013.0,Detroit Red Wings
-DET,Moritz Seider,1st pair,RD,53,R,"6'3""",208,8481542.0,Detroit Red Wings
-DET,Robby Fabbri,2nd line,LW,14,L,"5'10""",190,8477952.0,Detroit Red Wings
-DET,Andrew Copp,2nd line,C,18,L,"6'1""",206,8477429.0,Detroit Red Wings
-DET,David Perron,2nd line,RW,57,R,"6'0""",200,8474102.0,Detroit Red Wings
-DET,Ben Chiarot,2nd pair,LD,8,L,"6'3""",234,8475279.0,Detroit Red Wings
-DET,Jeff Petry,2nd pair,RD,46,R,"6'3""",209,8473507.0,Detroit Red Wings
-DET,Jonatan Berggren,3rd line,LW,48,L,"5'10""",183,8481013.0,Detroit Red Wings
-DET,Joe Veleno,3rd line,C,90,L,"6'1""",191,8480813.0,Detroit Red Wings
-DET,Lucas Raymond,3rd line,RW,23,R,"5'11""",170,8482078.0,Detroit Red Wings
-DET,Olli Maatta,3rd pair,LD,2,L,"6'2""",206,8476874.0,Detroit Red Wings
-DET,Shayne Gostisbehere,3rd pair,RD,41,L,"5'11""",180,8476906.0,Detroit Red Wings
-DET,Klim Kostin,4th line,LW,24,L,"6'3""",212,8480011.0,Detroit Red Wings
-DET,Christian Fischer,4th line,C,36,R,"6'2""",214,8478432.0,Detroit Red Wings
-DET,Daniel Sprong,4th line,RW,17,R,"6'0""",180,8478466.0,Detroit Red Wings
-DET,Matt Luff,injured reserve,F,22.0,R,"6'2""",196.0,8479644.0,Detroit Red Wings
-DET,Dylan Larkin,scratch,F,71.0,L,"6'1""",198.0,8477946.0,Detroit Red Wings
-DET,Justin Holl,scratch,D,3.0,R,"6'4""",210.0,8475718.0,Detroit Red Wings
-DET,Alex Lyon,scratch,G,34.0,L,"6'1""",201.0,8479312.0,Detroit Red Wings
-DET,Ville Husso,error,G,35,L,"6'2""",205,8478024.0,Detroit Red Wings
-DET,James Reimer,error,G,47,L,"6'2""",220,8473503.0,Detroit Red Wings
-EDM,Ryan Nugent-Hopkins,1st line,LW,93,L,"6'0""",184,8476454.0,Edmonton Oilers
-EDM,Connor McDavid,1st line,C,97,L,"6'1""",193,8478402.0,Edmonton Oilers
-EDM,Mattias Janmark,1st line,RW,13,L,"6'1""",195,8477406.0,Edmonton Oilers
-EDM,Darnell Nurse,1st pair,LD,25,L,"6'4""",221,8477498.0,Edmonton Oilers
-EDM,Cody Ceci,1st pair,RD,5,R,"6'2""",210,8476879.0,Edmonton Oilers
-EDM,Evander Kane,2nd line,LW,91,L,"6'2""",210,8475169.0,Edmonton Oilers
-EDM,Leon Draisaitl,2nd line,C,29,L,"6'2""",208,8477934.0,Edmonton Oilers
-EDM,Connor Brown,2nd line,RW,28,R,"6'0""",186,8477015.0,Edmonton Oilers
-EDM,Mattias Ekholm,2nd pair,LD,14,L,"6'4""",215,8475218.0,Edmonton Oilers
-EDM,Evan Bouchard,2nd pair,RD,2,R,"6'3""",194,8480803.0,Edmonton Oilers
-EDM,Warren Foegele,3rd line,LW,37,L,"6'2""",198,8477998.0,Edmonton Oilers
-EDM,Ryan McLeod,3rd line,C,71,L,"6'3""",201,8480802.0,Edmonton Oilers
-EDM,Derek Ryan,3rd line,RW,10,R,"5'10""",185,8478585.0,Edmonton Oilers
-EDM,Brett Kulak,3rd pair,LD,27,L,"6'2""",197,8476967.0,Edmonton Oilers
-EDM,Vincent Desharnais,3rd pair,RD,73,R,"6'6""",209,8479576.0,Edmonton Oilers
-EDM,Adam Erne,4th line,LW,21,L,"6'1""",212,8477454.0,Edmonton Oilers
-EDM,James Hamblin,4th line,C,57,L,"5'9""",175,8480468.0,Edmonton Oilers
-EDM,Sam Gagner,4th line,RW,89,R,"5'11""",200,8474040.0,Edmonton Oilers
-EDM,Dylan Holloway,injured reserve,F,55.0,L,"6'1""",203.0,8482077.0,Edmonton Oilers
-EDM,Ryan Fanti,injured reserve,G,50.0,L,"6'3""",195.0,0.0,Edmonton Oilers
-EDM,Zach Hyman,scratch,F,18.0,R,"6'1""",211.0,8475786.0,Edmonton Oilers
-EDM,Philip Broberg,scratch,D,86.0,L,"6'3""",200.0,8481598.0,Edmonton Oilers
-EDM,Stuart Skinner,error,G,74,L,"6'4""",207,8479973.0,Edmonton Oilers
-EDM,Calvin Pickard,error,G,30,L,"6'1""",210,8475717.0,Edmonton Oilers
-FLA,Evan Rodrigues,1st line,LW,17,R,"5'11""",184,8478542.0,Florida Panthers
-FLA,Aleksander Barkov,1st line,C,16,L,"6'3""",210,8477493.0,Florida Panthers
-FLA,Sam Reinhart,1st line,RW,13,R,"6'1""",194,8477933.0,Florida Panthers
-FLA,Gustav Forsling,1st pair,LD,42,L,"6'0""",186,8478055.0,Florida Panthers
-FLA,Aaron Ekblad,1st pair,RD,5,R,"6'4""",215,8477932.0,Florida Panthers
-FLA,Carter Verhaeghe,2nd line,LW,23,L,"6'1""",177,8477409.0,Florida Panthers
-FLA,Sam Bennett,2nd line,C,9,L,"6'1""",195,8477935.0,Florida Panthers
-FLA,Matthew Tkachuk,2nd line,RW,19,L,"6'2""",202,8479314.0,Florida Panthers
-FLA,Niko Mikkola,2nd pair,LD,77,L,"6'4""",185,8478859.0,Florida Panthers
-FLA,Brandon Montour,2nd pair,RD,62,R,"6'0""",189,8477986.0,Florida Panthers
-FLA,Eetu Luostarinen,3rd line,LW,27,L,"6'3""",184,8480185.0,Florida Panthers
-FLA,Anton Lundell,3rd line,C,15,L,"6'1""",185,8482113.0,Florida Panthers
-FLA,Nick Cousins,3rd line,RW,21,L,"5'11""",183,8476393.0,Florida Panthers
-FLA,Oliver Ekman-Larsson,3rd pair,LD,91,L,"6'2""",200,8475171.0,Florida Panthers
-FLA,Dmitry Kulikov,3rd pair,RD,7,L,"6'1""",199,8475179.0,Florida Panthers
-FLA,Jonah Gadjovich,4th line,LW,12,L,"6'2""",200,8479981.0,Florida Panthers
-FLA,Kevin Stenlund,4th line,C,82,R,"6'4""",210,8478831.0,Florida Panthers
-FLA,Ryan Lomberg,4th line,RW,94,L,"5'9""",187,8479066.0,Florida Panthers
-FLA,Josh Mahura,injured reserve,D,28.0,L,"6'0""",190.0,8479372.0,Florida Panthers
-FLA,Steven Lorentz,scratch,F,18.0,L,"6'3""",192.0,8478904.0,Florida Panthers
-FLA,Uvis Balinskis,scratch,D,26.0,L,"6'0""",187.0,8484304.0,Florida Panthers
-FLA,Anthony Stolarz,error,G,41,L,"6'6""",240,8476932.0,Florida Panthers
-FLA,Sergei Bobrovsky,error,G,72,L,"6'2""",187,8475683.0,Florida Panthers
-LAK,Quinton Byfield,1st line,LW,55,L,"6'4""",215,8482124.0,Los Angeles Kings
-LAK,Anze Kopitar,1st line,C,11,L,"6'3""",225,8471685.0,Los Angeles Kings
-LAK,Adrian Kempe,1st line,RW,9,L,"6'2""",201,8477960.0,Los Angeles Kings
-LAK,Mikey Anderson,1st pair,LD,44,L,"5'11""",194,8479998.0,Los Angeles Kings
-LAK,Drew Doughty,1st pair,RD,8,R,"6'1""",202,8474563.0,Los Angeles Kings
-LAK,Kevin Fiala,2nd line,LW,22,L,"5'10""",193,8477942.0,Los Angeles Kings
-LAK,Phillip Danault,2nd line,C,24,L,"6'1""",201,8476479.0,Los Angeles Kings
-LAK,Trevor Moore,2nd line,RW,12,L,"5'10""",185,8479675.0,Los Angeles Kings
-LAK,Vladislav Gavrikov,2nd pair,LD,84,L,"6'3""",213,8478882.0,Los Angeles Kings
-LAK,Matt Roy,2nd pair,RD,3,R,"6'1""",200,8478911.0,Los Angeles Kings
-LAK,Carl Grundstrom,3rd line,LW,91,L,"6'0""",201,8479336.0,Los Angeles Kings
-LAK,Pierre-Luc Dubois,3rd line,C,80,L,"6'3""",218,8479400.0,Los Angeles Kings
-LAK,Alex Laferriere,3rd line,RW,78,R,"6'0""",173,8482155.0,Los Angeles Kings
-LAK,Andreas Englund,3rd pair,LD,5,L,"6'3""",189,8477971.0,Los Angeles Kings
-LAK,Jordan Spence,3rd pair,RD,21,R,"5'10""",175,8481606.0,Los Angeles Kings
-LAK,Jaret Anderson-Dolan,4th line,LW,28,L,"5'11""",188,8479994.0,Los Angeles Kings
-LAK,Trevor Lewis,4th line,C,61,R,"6'1""",202,8473453.0,Los Angeles Kings
-LAK,Arthur Kaliyev,4th line,RW,34,L,"6'2""",190,8481560.0,Los Angeles Kings
-LAK,Viktor Arvidsson,injured reserve,F,33.0,R,"5'9""",180.0,8478042.0,Los Angeles Kings
-LAK,Tobias Bjornfot,injured reserve,D,7.0,L,"6'0""",202.0,8481600.0,Los Angeles Kings
-LAK,Blake Lizotte,scratch,F,46.0,L,"5'7""",175.0,8481481.0,Los Angeles Kings
-LAK,Cam Talbot,error,G,39,L,"6'4""",196,8475660.0,Los Angeles Kings
-LAK,Pheonix Copley,error,G,29,L,"6'4""",200,8477831.0,Los Angeles Kings
-MIN,Kirill Kaprizov,1st line,LW,97,L,"5'10""",192,8478864.0,Minnesota Wild
-MIN,Marco Rossi,1st line,C,23,L,"5'9""",183,8482079.0,Minnesota Wild
-MIN,Mats Zuccarello,1st line,RW,36,L,"5'8""",178,8475692.0,Minnesota Wild
-MIN,Jonas Brodin,1st pair,LD,25,L,"6'1""",194,8476463.0,Minnesota Wild
-MIN,Brock Faber,1st pair,RD,7,R,"6'0""",190,8482122.0,Minnesota Wild
-MIN,Marcus Johansson,2nd line,LW,90,L,"6'1""",205,8475149.0,Minnesota Wild
-MIN,Joel Eriksson Ek,2nd line,C,14,L,"6'1""",210,8478493.0,Minnesota Wild
-MIN,Matt Boldy,2nd line,RW,12,L,"6'2""",196,8481557.0,Minnesota Wild
-MIN,Jake Middleton,2nd pair,LD,5,L,"6'3""",210,0.0,Minnesota Wild
-MIN,Jared Spurgeon,2nd pair,RD,46,R,"5'9""",167,8474716.0,Minnesota Wild
-MIN,Marcus Foligno,3rd line,LW,17,L,"6'3""",224,8475220.0,Minnesota Wild
-MIN,Frederick Gaudreau,3rd line,C,89,R,"6'0""",179,8477919.0,Minnesota Wild
-MIN,Pat Maroon,3rd line,RW,20,L,"6'2""",236,8474034.0,Minnesota Wild
-MIN,Alex Goligoski,3rd pair,LD,33,L,"5'11""",185,8471274.0,Minnesota Wild
-MIN,Zach Bogosian,3rd pair,RD,24,R,"6'3""",226,8474567.0,Minnesota Wild
-MIN,Brandon Duhaime,4th line,LW,21,L,"6'2""",200,8479520.0,Minnesota Wild
-MIN,Connor Dewar,4th line,C,26,L,"5'10""",170,8480980.0,Minnesota Wild
-MIN,Vinni Lettieri,4th line,RW,10,R,"5'11""",191,8479968.0,Minnesota Wild
-MIN,Caedan Bankier,injured reserve,F,76.0,L,"6'2""",190.0,0.0,Minnesota Wild
-MIN,Michael Milne,injured reserve,F,60.0,L,"5'11""",185.0,0.0,Minnesota Wild
-MIN,Sam Hentges,injured reserve,F,54.0,R,"6'0""",175.0,0.0,Minnesota Wild
-MIN,Jon Merrill,scratch,D,4.0,L,"6'3""",195.0,8475750.0,Minnesota Wild
-MIN,Filip Gustavsson,error,G,32,L,"6'2""",185,8479406.0,Minnesota Wild
-MIN,Marc-Andre Fleury,error,G,29,L,"6'2""",185,8470594.0,Minnesota Wild
-MTL,Alex Newhook,1st line,LW,15,L,"5'11""",199,8481618.0,Montreal Canadiens
-MTL,Nick Suzuki,1st line,C,14,R,"5'11""",212,8480018.0,Montreal Canadiens
-MTL,Brendan Gallagher,1st line,RW,11,R,"5'9""",186,8475848.0,Montreal Canadiens
-MTL,Mike Matheson,1st pair,LD,8,L,"6'2""",196,8476875.0,Montreal Canadiens
-MTL,Justin Barron,1st pair,RD,52,R,"6'2""",203,8482111.0,Montreal Canadiens
-MTL,Cole Caufield,2nd line,LW,22,R,"5'8""",176,8481540.0,Montreal Canadiens
-MTL,Christian Dvorak,2nd line,C,28,L,"6'1""",200,8477989.0,Montreal Canadiens
-MTL,Juraj Slafkovsky,2nd line,RW,20,L,"6'3""",238,8483515.0,Montreal Canadiens
-MTL,Kaiden Guhle,2nd pair,LD,21,L,"6'3""",205,8482087.0,Montreal Canadiens
-MTL,Gustav Lindstrom,2nd pair,RD,27,R,"6'2""",194,8480184.0,Montreal Canadiens
-MTL,Tanner Pearson,3rd line,LW,70,L,"6'1""",207,8476871.0,Montreal Canadiens
-MTL,Sean Monahan,3rd line,C,91,L,"6'2""",202,8477497.0,Montreal Canadiens
-MTL,Josh Anderson,3rd line,RW,17,R,"6'3""",227,8476981.0,Montreal Canadiens
-MTL,Jayden Struble,3rd pair,LD,47,L,"6'0""",205,8481593.0,Montreal Canadiens
-MTL,Johnathan Kovacevic,3rd pair,RD,26,R,"6'5""",223,8480192.0,Montreal Canadiens
-MTL,Joel Armia,4th line,LW,40,R,"6'4""",218,8476469.0,Montreal Canadiens
-MTL,Jake Evans,4th line,C,71,R,"6'1""",190,8478133.0,Montreal Canadiens
-MTL,Jesse Ylonen,4th line,RW,56,R,"6'1""",201,8481058.0,Montreal Canadiens
-MTL,Rafael Harvey-Pinard,injured reserve,F,49.0,L,"5'9""",184.0,8481093.0,Montreal Canadiens
-MTL,Kirby Dach,injured reserve,F,77.0,R,"6'4""",218.0,8481523.0,Montreal Canadiens
-MTL,Arber Xhekaj,injured reserve,D,72.0,L,"6'4""",238.0,8482964.0,Montreal Canadiens
-MTL,Jordan Harris,injured reserve,D,54.0,L,"5'11""",189.0,8480887.0,Montreal Canadiens
-MTL,David Savard,injured reserve,D,58.0,R,"6'2""",234.0,8475233.0,Montreal Canadiens
-MTL,Chris Wideman,injured reserve,D,6.0,R,"5'10""",183.0,8475227.0,Montreal Canadiens
-MTL,Carey Price,injured reserve,G,31.0,L,"6'3""",217.0,8471679.0,Montreal Canadiens
-MTL,Michael Pezzetta,scratch,F,55.0,L,"6'1""",218.0,8479543.0,Montreal Canadiens
-MTL,Mattias Norlinder,scratch,D,59.0,L,"6'0""",185.0,8481555.0,Montreal Canadiens
-MTL,Cayden Primeau,scratch,G,30.0,L,"6'3""",200.0,8480051.0,Montreal Canadiens
-MTL,Sam Montembeault,error,G,35,L,"6'3""",214,8478470.0,Montreal Canadiens
-MTL,Jake Allen,error,G,34,L,"6'2""",195,8474596.0,Montreal Canadiens
-NJD,Tyler Toffoli,1st line,LW,73,R,"6'0""",197,8475726.0,New Jersey Devils
-NJD,Jack Hughes,1st line,C,86,L,"5'11""",170,8481559.0,New Jersey Devils
-NJD,Dawson Mercer,1st line,RW,91,R,"6'0""",180,8482110.0,New Jersey Devils
-NJD,Jonas Siegenthaler,1st pair,LD,71,L,"6'3""",210,8478399.0,New Jersey Devils
-NJD,Dougie Hamilton,1st pair,RD,7,R,"6'6""",229,8476462.0,New Jersey Devils
-NJD,Ondrej Palat,2nd line,LW,18,L,"5'11""",194,8476292.0,New Jersey Devils
-NJD,Nico Hischier,2nd line,C,13,L,"6'1""",175,8480002.0,New Jersey Devils
-NJD,Jesper Bratt,2nd line,RW,63,L,"5'10""",175,8479407.0,New Jersey Devils
-NJD,Kevin Bahl,2nd pair,LD,88,L,"6'6""",216,8480860.0,New Jersey Devils
-NJD,John Marino,2nd pair,RD,6,R,"6'1""",181,8478507.0,New Jersey Devils
-NJD,Alexander Holtz,3rd line,LW,10,R,"6'0""",192,8482125.0,New Jersey Devils
-NJD,Michael McLeod,3rd line,C,20,R,"6'2""",188,8479415.0,New Jersey Devils
-NJD,Curtis Lazar,3rd line,RW,42,R,"6'0""",211,8477508.0,New Jersey Devils
-NJD,Luke Hughes,3rd pair,LD,43,L,"6'2""",184,8482684.0,New Jersey Devils
-NJD,Colin Miller,3rd pair,RD,24,R,"6'1""",193,8476525.0,New Jersey Devils
-NJD,Brendan Smith,4th line,LW,2,L,"6'2""",200,8474090.0,New Jersey Devils
-NJD,Chris Tierney,4th line,C,11,L,"6'1""",195,8476919.0,New Jersey Devils
-NJD,Nathan Bastian,4th line,RW,14,R,"6'4""",205,8479414.0,New Jersey Devils
-NJD,Tomas Nosek,injured reserve,F,92.0,L,"6'2""",205.0,8477931.0,New Jersey Devils
-NJD,Nolan Foote,injured reserve,F,25.0,L,"6'3""",195.0,8481518.0,New Jersey Devils
-NJD,Brian Halonen,injured reserve,F,48.0,R,"6'0""",205.0,0.0,New Jersey Devils
-NJD,Nico Daws,injured reserve,G,50.0,L,"6'4""",205.0,8482076.0,New Jersey Devils
-NJD,Samuel Laberge,scratch,F,79.0,L,"6'2""",205.0,0.0,New Jersey Devils
-NJD,Erik Haula,scratch,F,56.0,L,"6'0""",193.0,8475287.0,New Jersey Devils
-NJD,Timo Meier,scratch,F,28.0,L,"6'0""",210.0,8478414.0,New Jersey Devils
-NJD,Vitek Vanecek,error,G,41,L,"6'1""",180,8477970.0,New Jersey Devils
-NJD,Akira Schmid,error,G,40,L,"6'5""",205,8481033.0,New Jersey Devils
-NSH,Filip Forsberg,1st line,LW,9,R,"6'1""",205,8476887.0,Nashville Predators
-NSH,Ryan O'Reilly,1st line,C,90,L,"6'1""",216,8475158.0,Nashville Predators
-NSH,Gustav Nyquist,1st line,RW,14,L,"5'11""",179,8474679.0,Nashville Predators
-NSH,Ryan McDonagh,1st pair,LD,27,L,"6'1""",214,8474151.0,Nashville Predators
-NSH,Roman Josi,1st pair,RD,59,L,"6'1""",201,8474600.0,Nashville Predators
-NSH,Kiefer Sherwood,2nd line,LW,44,R,"6'0""",194,8480748.0,Nashville Predators
-NSH,Juuso Parssinen,2nd line,C,75,L,"6'2""",203,8481704.0,Nashville Predators
-NSH,Luke Evangelista,2nd line,RW,77,R,"5'11""",166,8482146.0,Nashville Predators
-NSH,Jeremy Lauzon,2nd pair,LD,3,L,"6'1""",204,8478468.0,Nashville Predators
-NSH,Alexandre Carrier,2nd pair,RD,45,R,"5'11""",174,8478851.0,Nashville Predators
-NSH,Yakov Trenin,3rd line,LW,13,L,"6'2""",201,8478508.0,Nashville Predators
-NSH,Colton Sissons,3rd line,C,10,R,"6'1""",200,8476925.0,Nashville Predators
-NSH,Cole Smith,3rd line,LW,36,L,"6'3""",195,8482062.0,Nashville Predators
-NSH,Dante Fabbro,3rd pair,LD,57,R,"6'0""",189,8479371.0,Nashville Predators
-NSH,Tyson Barrie,3rd pair,RD,22,R,"5'11""",197,8475197.0,Nashville Predators
-NSH,Luke Schenn,3rd pair,LD,2,R,"6'2""",227,8474568.0,Nashville Predators
-NSH,Michael McCarron,4th line,C,47,R,"6'5""",237,8477446.0,Nashville Predators
-NSH,Philip Tomasino,4th line,RW,26,R,"6'0""",180,8481577.0,Nashville Predators
-NSH,Cody Glass,injured reserve,F,8.0,R,"6'2""",192.0,8479996.0,Nashville Predators
-NSH,Tommy Novak,injured reserve,F,82.0,L,"6'1""",179.0,8478438.0,Nashville Predators
-NSH,Liam Foudy,scratch,F,18.0,L,"6'0""",174.0,8480853.0,Nashville Predators
-NSH,Juuse Saros,error,G,74,L,"5'11""",180,8477424.0,Nashville Predators
-NSH,Kevin Lankinen,error,G,32,L,"6'2""",185,8480947.0,Nashville Predators
-NYI,Anders Lee,1st line,LW,27,L,"6'3""",231,8475314.0,New York Islanders
-NYI,Bo Horvat,1st line,C,14,L,"6'0""",215,8477500.0,New York Islanders
-NYI,Mathew Barzal,1st line,RW,13,R,"6'0""",187,8478445.0,New York Islanders
-NYI,Alexander Romanov,1st pair,LD,28,L,"6'1""",209,8481014.0,New York Islanders
-NYI,Ryan Pulock,1st pair,RD,6,R,"6'2""",217,8477506.0,New York Islanders
-NYI,Pierre Engvall,2nd line,LW,18,L,"6'5""",214,8478115.0,New York Islanders
-NYI,Brock Nelson,2nd line,C,29,L,"6'3""",212,8475754.0,New York Islanders
-NYI,Kyle Palmieri,2nd line,RW,21,R,"5'11""",185,8475151.0,New York Islanders
-NYI,Scott Mayfield,2nd pair,LD,24,R,"6'5""",223,8476429.0,New York Islanders
-NYI,Noah Dobson,2nd pair,RD,8,R,"6'4""",184,8480865.0,New York Islanders
-NYI,Simon Holmstrom,3rd line,LW,10,L,"6'0""",193,8481601.0,New York Islanders
-NYI,Jean-Gabriel Pageau,3rd line,C,44,R,"5'10""",180,8476419.0,New York Islanders
-NYI,Oliver Wahlstrom,3rd line,RW,26,R,"6'2""",211,8480789.0,New York Islanders
-NYI,Mike Reilly,3rd pair,LD,2,L,"6'1""",200,8476422.0,New York Islanders
-NYI,Grant Hutton,3rd pair,RD,7,R,"6'3""",205,8480306.0,New York Islanders
-NYI,Julien Gauthier,4th line,LW,16,R,"6'4""",227,8479328.0,New York Islanders
-NYI,Casey Cizikas,4th line,C,53,L,"5'11""",195,8475231.0,New York Islanders
-NYI,Cal Clutterbuck,4th line,RW,15,R,"5'11""",216,8473504.0,New York Islanders
-NYI,Adam Pelech,injured reserve,D,3.0,L,"6'3""",218.0,8476917.0,New York Islanders
-NYI,Sebastian Aho,injured reserve,D,25.0,L,"5'10""",176.0,8480222.0,New York Islanders
-NYI,Matt Martin,scratch,F,17.0,L,"6'3""",220.0,8474709.0,New York Islanders
-NYI,Hudson Fasching,scratch,F,20.0,R,"6'2""",209.0,8477392.0,New York Islanders
-NYI,Samuel Bolduc,scratch,D,4.0,L,"6'4""",210.0,8481541.0,New York Islanders
-NYI,Ilya Sorokin,error,G,30,L,"6'2""",172,8478009.0,New York Islanders
-NYI,Semyon Varlamov,error,G,40,L,"6'2""",205,8473575.0,New York Islanders
-NYR,Chris Kreider,1st line,LW,20,L,"6'3""",217,8475184.0,New York Rangers
-NYR,Mika Zibanejad,1st line,C,93,R,"6'2""",208,8476459.0,New York Rangers
-NYR,Blake Wheeler,1st line,RW,17,R,"6'5""",225,8471218.0,New York Rangers
-NYR,K'Andre Miller,1st pair,LD,79,L,"6'5""",210,8480817.0,New York Rangers
-NYR,Jacob Trouba,1st pair,RD,8,R,"6'3""",209,8476885.0,New York Rangers
-NYR,Artemi Panarin,2nd line,LW,10,R,"5'11""",170,8478550.0,New York Rangers
-NYR,Vincent Trocheck,2nd line,C,16,R,"5'10""",183,8476389.0,New York Rangers
-NYR,Alexis Lafreniere,2nd line,RW,13,L,"6'1""",193,8482109.0,New York Rangers
-NYR,Ryan Lindgren,2nd pair,LD,55,L,"6'0""",191,8479324.0,New York Rangers
-NYR,Adam Fox,2nd pair,RD,23,R,"5'11""",181,8479323.0,New York Rangers
-NYR,Will Cuylle,3rd line,LW,50,L,"6'3""",204,8482157.0,New York Rangers
-NYR,Nick Bonino,3rd line,C,12,L,"6'1""",196,8474009.0,New York Rangers
-NYR,Jonny Brodzinski,3rd line,RW,22,R,"6'1""",215,8477380.0,New York Rangers
-NYR,Erik Gustafsson,3rd pair,LD,56,L,"6'0""",197,8476979.0,New York Rangers
-NYR,Braden Schneider,3rd pair,RD,4,R,"6'2""",202,8482073.0,New York Rangers
-NYR,Jimmy Vesey,4th line,LW,26,L,"6'3""",202,8476918.0,New York Rangers
-NYR,Barclay Goodrow,4th line,C,21,L,"6'2""",215,8476624.0,New York Rangers
-NYR,Tyler Pitlick,4th line,RW,71,R,"6'2""",200,8475752.0,New York Rangers
-NYR,Kaapo Kakko,injured reserve,F,24.0,L,"6'3""",199.0,8481554.0,New York Rangers
-NYR,Filip Chytil,injured reserve,F,72.0,L,"6'2""",206.0,8480078.0,New York Rangers
-NYR,Zac Jones,scratch,D,6.0,L,"5'11""",175.0,8481708.0,New York Rangers
-NYR,Igor Shesterkin,error,G,31,L,"6'2""",192,8478048.0,New York Rangers
-NYR,Jonathan Quick,error,G,32,L,"6'1""",216,8471734.0,New York Rangers
-OTT,Brady Tkachuk,1st line,LW,7,L,"6'4""",212,8480801.0,Ottawa Senators
-OTT,Tim Stutzle,1st line,C,18,L,"6'0""",190,8482116.0,Ottawa Senators
-OTT,Claude Giroux,1st line,RW,28,R,"5'11""",185,8473512.0,Ottawa Senators
-OTT,Jake Sanderson,1st pair,LD,85,L,"6'3""",195,8482105.0,Ottawa Senators
-OTT,Artem Zub,1st pair,RD,2,R,"6'2""",202,8482245.0,Ottawa Senators
-OTT,Mathieu Joseph,2nd line,LW,21,L,"6'1""",190,8478472.0,Ottawa Senators
-OTT,Josh Norris,2nd line,C,9,L,"6'1""",199,8480064.0,Ottawa Senators
-OTT,Drake Batherson,2nd line,RW,19,R,"6'3""",203,8480208.0,Ottawa Senators
-OTT,Jakob Chychrun,2nd pair,LD,6,L,"6'2""",210,8479345.0,Ottawa Senators
-OTT,Jacob Bernard-Docker,2nd pair,RD,24,R,"6'1""",190,8480879.0,Ottawa Senators
-OTT,Dominik Kubalik,3rd line,LW,81,L,"6'2""",179,8477330.0,Ottawa Senators
-OTT,Rourke Chartier,3rd line,C,49,L,"6'0""",203,8478078.0,Ottawa Senators
-OTT,Vladimir Tarasenko,3rd line,RW,91,L,"6'0""",225,8475765.0,Ottawa Senators
-OTT,Erik Brannstrom,3rd pair,LD,26,L,"5'10""",185,8480073.0,Ottawa Senators
-OTT,Travis Hamonic,3rd pair,RD,23,R,"6'2""",205,8474612.0,Ottawa Senators
-OTT,Parker Kelly,4th line,LW,27,L,"6'0""",188,8480448.0,Ottawa Senators
-OTT,Matthew Highmore,4th line,C,15,L,"5'11""",188,8478146.0,Ottawa Senators
-OTT,Zack MacEwen,4th line,RW,17,R,"6'3""",205,8479772.0,Ottawa Senators
-OTT,Ridly Greig,injured reserve,F,71.0,L,"6'0""",181.0,8482092.0,Ottawa Senators
-OTT,Mark Kastelic,injured reserve,F,12.0,R,"6'4""",223.0,8480355.0,Ottawa Senators
-OTT,Thomas Chabot,injured reserve,D,72.0,L,"6'2""",196.0,8478469.0,Ottawa Senators
-OTT,Joonas Korpisalo,error,G,70,L,"6'3""",191,8476914.0,Ottawa Senators
-OTT,Anton Forsberg,error,G,31,L,"6'3""",192,8476341.0,Ottawa Senators
-PHI,Tyson Foerster,1st line,LW,71,R,"6'2""",194,8482159.0,Philadelphia Flyers
-PHI,Sean Couturier,1st line,C,14,L,"6'3""",211,8476461.0,Philadelphia Flyers
-PHI,Travis Konecny,1st line,RW,11,R,"5'10""",175,8478439.0,Philadelphia Flyers
-PHI,Cam York,1st pair,LD,8,L,"5'11""",172,8481546.0,Philadelphia Flyers
-PHI,Travis Sanheim,1st pair,RD,6,L,"6'3""",181,8477948.0,Philadelphia Flyers
-PHI,Joel Farabee,2nd line,LW,86,L,"6'0""",164,8480797.0,Philadelphia Flyers
-PHI,Scott Laughton,2nd line,C,21,L,"6'1""",190,8476872.0,Philadelphia Flyers
-PHI,Cam Atkinson,2nd line,RW,89,R,"5'8""",175,8474715.0,Philadelphia Flyers
-PHI,Nick Seeler,2nd pair,LD,24,L,"6'2""",201,8476372.0,Philadelphia Flyers
-PHI,Sean Walker,2nd pair,RD,26,R,"5'11""",196,8480336.0,Philadelphia Flyers
-PHI,Owen Tippett,3rd line,LW,74,R,"6'0""",183,8480015.0,Philadelphia Flyers
-PHI,Morgan Frost,3rd line,C,48,L,"5'11""",170,8480028.0,Philadelphia Flyers
-PHI,Bobby Brink,3rd line,RW,10,R,"5'8""",165,8481553.0,Philadelphia Flyers
-PHI,Egor Zamula,3rd pair,LD,5,L,"6'3""",170,8481178.0,Philadelphia Flyers
-PHI,Rasmus Ristolainen,3rd pair,RD,55,R,"6'4""",220,8477499.0,Philadelphia Flyers
-PHI,Nicolas Deslauriers,4th line,LW,44,L,"6'3""",219,8475235.0,Philadelphia Flyers
-PHI,Ryan Poehling,4th line,C,25,L,"6'2""",204,8480068.0,Philadelphia Flyers
-PHI,Garnet Hathaway,4th line,RW,19,R,"6'3""",210,8477903.0,Philadelphia Flyers
-PHI,Ryan Ellis,injured reserve,D,94.0,R,"5'10""",180.0,8475176.0,Philadelphia Flyers
-PHI,Noah Cates,scratch,F,27.0,L,"6'1""",170.0,8480220.0,Philadelphia Flyers
-PHI,Marc Staal,scratch,D,18.0,L,"6'4""",209.0,8471686.0,Philadelphia Flyers
-PHI,Louis Belpedio,scratch,D,37.0,R,"5'11""",196.0,0.0,Philadelphia Flyers
-PHI,Carter Hart,error,G,79,L,"6'2""",181,8479394.0,Philadelphia Flyers
-PHI,Samuel Ersson,error,G,33,L,"6'2""",176,8481035.0,Philadelphia Flyers
-PIT,Jake Guentzel,1st line,LW,59,L,"5'11""",180,8477404.0,Pittsburgh Penguins
-PIT,Sidney Crosby,1st line,C,87,L,"5'11""",200,8471675.0,Pittsburgh Penguins
-PIT,Bryan Rust,1st line,RW,17,R,"5'11""",192,8475810.0,Pittsburgh Penguins
-PIT,Ryan Graves,1st pair,LD,27,L,"6'5""",220,8477435.0,Pittsburgh Penguins
-PIT,Kris Letang,1st pair,RD,58,R,"6'0""",201,8471724.0,Pittsburgh Penguins
-PIT,Reilly Smith,2nd line,LW,19,L,"6'1""",183,8475191.0,Pittsburgh Penguins
-PIT,Evgeni Malkin,2nd line,C,71,L,"6'3""",195,8471215.0,Pittsburgh Penguins
-PIT,Drew O'Connor,2nd line,RW,10,L,"6'3""",205,8482055.0,Pittsburgh Penguins
-PIT,Marcus Pettersson,2nd pair,LD,28,L,"6'3""",177,8477969.0,Pittsburgh Penguins
-PIT,Erik Karlsson,2nd pair,RD,65,R,"6'0""",190,8474578.0,Pittsburgh Penguins
-PIT,Jansen Harkins,3rd line,LW,43,L,"6'1""",183,8478424.0,Pittsburgh Penguins
-PIT,Lars Eller,3rd line,C,20,L,"6'2""",205,8474189.0,Pittsburgh Penguins
-PIT,Radim Zohorna,3rd line,RW,63,L,"6'6""",220,8482241.0,Pittsburgh Penguins
-PIT,Ryan Shea,3rd pair,LD,5,L,"6'1""",176,8478854.0,Pittsburgh Penguins
-PIT,John Ludvig,3rd pair,RD,7,L,"6'1""",201,8481206.0,Pittsburgh Penguins
-PIT,Matt Nieto,4th line,LW,83,L,"5'11""",185,8476442.0,Pittsburgh Penguins
-PIT,Noel Acciari,4th line,C,55,R,"5'10""",203,8478569.0,Pittsburgh Penguins
-PIT,Jeff Carter,4th line,RW,77,R,"6'3""",219,8470604.0,Pittsburgh Penguins
-PIT,Rickard Rakell,injured reserve,F,67.0,R,"6'0""",196.0,8476483.0,Pittsburgh Penguins
-PIT,Chad Ruhwedel,injured reserve,D,2.0,R,"5'11""",191.0,8477244.0,Pittsburgh Penguins
-PIT,Pierre-Olivier Joseph,injured reserve,D,73.0,L,"6'2""",185.0,8480058.0,Pittsburgh Penguins
-PIT,Will Butcher,injured reserve,D,8.0,L,"5'10""",190.0,8477355.0,Pittsburgh Penguins
-PIT,Vinnie Hinostroza,scratch,F,13.0,R,"5'9""",173.0,8476994.0,Pittsburgh Penguins
-PIT,Dmitri Samorukov,scratch,D,53.0,L,"6'2""",181.0,8480041.0,Pittsburgh Penguins
-PIT,Tristan Jarry,error,G,35,L,"6'2""",194,8477465.0,Pittsburgh Penguins
-PIT,Alex Nedeljkovic,error,G,39,L,"6'0""",189,8477968.0,Pittsburgh Penguins
-SEA,Jared McCann,1st line,LW,19,L,"6'1""",185,8477955.0,Seattle Kraken
-SEA,Matty Beniers,1st line,C,10,L,"6'2""",175,8482665.0,Seattle Kraken
-SEA,Jordan Eberle,1st line,RW,7,R,"5'11""",187,8474586.0,Seattle Kraken
-SEA,Vince Dunn,1st pair,LD,29,L,"6'0""",203,8478407.0,Seattle Kraken
-SEA,Adam Larsson,1st pair,RD,6,R,"6'3""",208,8476457.0,Seattle Kraken
-SEA,Jaden Schwartz,2nd line,LW,17,L,"5'10""",190,8475768.0,Seattle Kraken
-SEA,Alexander Wennberg,2nd line,C,21,L,"6'2""",197,8477505.0,Seattle Kraken
-SEA,Andrew Poturalski,2nd line,RW,12,R,"5'10""",190,8479249.0,Seattle Kraken
-SEA,Jamie Oleksiak,2nd pair,LD,24,L,"6'7""",255,8476467.0,Seattle Kraken
-SEA,Will Borgen,2nd pair,RD,3,R,"6'3""",196,8478840.0,Seattle Kraken
-SEA,Eeli Tolvanen,3rd line,LW,20,L,"5'10""",191,8480009.0,Seattle Kraken
-SEA,Yanni Gourde,3rd line,C,37,L,"5'9""",173,8476826.0,Seattle Kraken
-SEA,Oliver Bjorkstrand,3rd line,RW,22,R,"6'0""",177,8477416.0,Seattle Kraken
-SEA,Brian Dumoulin,3rd pair,LD,8,L,"6'4""",207,8475208.0,Seattle Kraken
-SEA,Justin Schultz,3rd pair,RD,4,R,"6'2""",193,8474602.0,Seattle Kraken
-SEA,Tye Kartye,4th line,LW,52,L,"5'11""",202,8481789.0,Seattle Kraken
-SEA,Pierre-Edouard Bellemare,4th line,C,41,L,"6'0""",198,8477930.0,Seattle Kraken
-SEA,Kailer Yamamoto,4th line,RW,56,R,"5'8""",153,8479977.0,Seattle Kraken
-SEA,Andre Burakovsky,injured reserve,F,95.0,L,"6'3""",201.0,8477444.0,Seattle Kraken
-SEA,Marian Studenic,scratch,F,43.0,L,"6'0""",165.0,8480226.0,Seattle Kraken
-SEA,Brandon Tanev,scratch,F,13.0,L,"6'0""",180.0,8479293.0,Seattle Kraken
-SEA,Jaycob Megna,scratch,D,44.0,L,"6'6""",221.0,8477034.0,Seattle Kraken
-SEA,Philipp Grubauer,error,G,31,L,"6'1""",188,8475831.0,Seattle Kraken
-SEA,Joey Daccord,error,G,35,L,"6'2""",197,8478916.0,Seattle Kraken
-SJS,William Eklund,1st line,LW,72,L,"5'10""",176,8482667.0,San Jose Sharks
-SJS,Luke Kunin,1st line,C,11,R,"6'0""",197,8479316.0,San Jose Sharks
-SJS,Mike Hoffman,1st line,RW,68,L,"6'0""",190,8474884.0,San Jose Sharks
-SJS,Mario Ferraro,1st pair,LD,38,L,"5'11""",185,8479983.0,San Jose Sharks
-SJS,Ty Emberson,1st pair,RD,6,R,"6'1""",195,8480834.0,San Jose Sharks
-SJS,Anthony Duclair,2nd line,LW,10,L,"5'11""",198,8477407.0,San Jose Sharks
-SJS,Mikael Granlund,2nd line,C,64,L,"5'10""",185,8475798.0,San Jose Sharks
-SJS,Fabian Zetterlund,2nd line,RW,20,R,"5'11""",196,8480188.0,San Jose Sharks
-SJS,Calen Addison,2nd pair,LD,33,R,"5'10""",178,8480884.0,San Jose Sharks
-SJS,Matt Benning,2nd pair,RD,5,R,"6'1""",203,8476988.0,San Jose Sharks
-SJS,Jacob MacDonald,3rd line,LW,9,L,"6'0""",204,8479439.0,San Jose Sharks
-SJS,Nico Sturm,3rd line,C,7,L,"6'3""",207,8481477.0,San Jose Sharks
-SJS,Kevin Labanc,3rd line,RW,62,R,"5'11""",185,8478099.0,San Jose Sharks
-SJS,Nikita Okhotiuk,3rd pair,LD,83,L,"6'0""",198,8481537.0,San Jose Sharks
-SJS,Kyle Burroughs,3rd pair,RD,4,R,"6'0""",198,8477335.0,San Jose Sharks
-SJS,Givani Smith,4th line,LW,54,L,"6'2""",210,8479379.0,San Jose Sharks
-SJS,Ryan Carpenter,4th line,C,22,R,"6'0""",200,8477846.0,San Jose Sharks
-SJS,Justin Bailey,4th line,RW,90,R,"6'4""",214,8477473.0,San Jose Sharks
-SJS,Filip Zadina,injured reserve,F,18.0,L,"6'0""",189.0,8480821.0,San Jose Sharks
-SJS,Oskar Lindblom,injured reserve,F,23.0,L,"6'1""",191.0,8478067.0,San Jose Sharks
-SJS,Alexander Barabanov,injured reserve,F,94.0,L,"5'10""",192.0,8482222.0,San Jose Sharks
-SJS,Logan Couture,injured reserve,F,39.0,L,"6'1""",200.0,8474053.0,San Jose Sharks
-SJS,Mitchell Russell,injured reserve,F,58.0,R,"6'0""",194.0,0.0,San Jose Sharks
-SJS,Jan Rutta,injured reserve,D,84.0,R,"6'2""",204.0,8480172.0,San Jose Sharks
-SJS,Tomas Hertl,scratch,F,48.0,L,"6'2""",215.0,8476881.0,San Jose Sharks
-SJS,Marc-Edouard Vlasic,scratch,D,44.0,L,"6'1""",205.0,8471709.0,San Jose Sharks
-SJS,Nikolai Knyzhov,scratch,D,71.0,L,"6'2""",195.0,8481812.0,San Jose Sharks
-SJS,Mackenzie Blackwood,error,G,29,L,"6'4""",225,8478406.0,San Jose Sharks
-SJS,Kaapo Kahkonen,error,G,36,L,"6'2""",215,8478039.0,San Jose Sharks
-STL,Pavel Buchnevich,1st line,LW,89,L,"6'3""",197,8477402.0,St. Louis Blues
-STL,Robert Thomas,1st line,C,18,R,"6'0""",188,8480023.0,St. Louis Blues
-STL,Jake Neighbours,1st line,RW,63,L,"6'0""",195,8482089.0,St. Louis Blues
-STL,Nick Leddy,1st pair,LD,4,L,"6'0""",207,8475181.0,St. Louis Blues
-STL,Colton Parayko,1st pair,RD,55,R,"6'6""",230,8476892.0,St. Louis Blues
-STL,Jakub Vrana,2nd line,LW,15,L,"6'0""",195,8477944.0,St. Louis Blues
-STL,Brayden Schenn,2nd line,C,10,L,"6'1""",200,8475170.0,St. Louis Blues
-STL,Kasperi Kapanen,2nd line,RW,42,R,"6'1""",194,8477953.0,St. Louis Blues
-STL,Torey Krug,2nd pair,LD,47,L,"5'9""",186,8476792.0,St. Louis Blues
-STL,Justin Faulk,2nd pair,RD,72,R,"6'0""",217,8475753.0,St. Louis Blues
-STL,Brandon Saad,3rd line,LW,20,L,"6'1""",206,8476438.0,St. Louis Blues
-STL,Kevin Hayes,3rd line,C,12,L,"6'5""",216,8475763.0,St. Louis Blues
-STL,Jordan Kyrou,3rd line,RW,25,R,"6'0""",175,8479385.0,St. Louis Blues
-STL,Marco Scandella,3rd pair,LD,6,L,"6'3""",212,8474618.0,St. Louis Blues
-STL,Scott Perunovich,3rd pair,RD,48,L,"5'9""",172,8481059.0,St. Louis Blues
-STL,Alexei Toropchenko,4th line,LW,13,L,"6'3""",187,8480281.0,St. Louis Blues
-STL,Oskar Sundqvist,4th line,C,70,R,"6'3""",209,8476897.0,St. Louis Blues
-STL,Sammy Blais,4th line,RW,79,L,"6'2""",205,8478104.0,St. Louis Blues
-STL,Anton Malmstrom,injured reserve,D,,L,"6'4""",205.0,0.0,St. Louis Blues
-STL,Josh Jacobs,injured reserve,D,,R,"6'2""",200.0,8477972.0,St. Louis Blues
-STL,Nikita Alexandrov,scratch,F,59.0,L,"6'0""",190.0,8481543.0,St. Louis Blues
-STL,Tyler Tucker,scratch,D,75.0,L,"6'1""",205.0,8481006.0,St. Louis Blues
-STL,Robert Bortuzzo,scratch,D,41.0,R,"6'4""",216.0,8474145.0,St. Louis Blues
-STL,Jordan Binnington,error,G,50,L,"6'1""",174,8476412.0,St. Louis Blues
-STL,Joel Hofer,error,G,30,L,"6'3""",161,8480981.0,St. Louis Blues
-TBL,Brandon Hagel,1st line,LW,38,L,"6'0""",175,8479542.0,Tampa Bay Lightning
-TBL,Brayden Point,1st line,C,21,R,"5'10""",166,8478010.0,Tampa Bay Lightning
-TBL,Nikita Kucherov,1st line,RW,86,L,"5'11""",180,8476453.0,Tampa Bay Lightning
-TBL,Victor Hedman,1st pair,LD,77,L,"6'6""",229,8475167.0,Tampa Bay Lightning
-TBL,Nick Perbix,1st pair,RD,48,R,"6'4""",200,8480246.0,Tampa Bay Lightning
-TBL,Steven Stamkos,2nd line,LW,91,R,"6'1""",194,8474564.0,Tampa Bay Lightning
-TBL,Anthony Cirelli,2nd line,C,71,L,"6'0""",193,8478519.0,Tampa Bay Lightning
-TBL,Michael Eyssimont,2nd line,RW,23,L,"6'0""",192,8479591.0,Tampa Bay Lightning
-TBL,Mikhail Sergachev,2nd pair,LD,98,L,"6'2""",217,8479410.0,Tampa Bay Lightning
-TBL,Erik Cernak,2nd pair,RD,81,R,"6'3""",233,8478416.0,Tampa Bay Lightning
-TBL,Cole Koepke,3rd line,LW,45,L,"6'1""",195,8481043.0,Tampa Bay Lightning
-TBL,Nick Paul,3rd line,C,20,L,"6'3""",219,8477426.0,Tampa Bay Lightning
-TBL,Alex Barre-Boulet,3rd line,RW,12,L,"5'9""",168,8479718.0,Tampa Bay Lightning
-TBL,Haydn Fleury,3rd pair,LD,7,L,"6'3""",208,8477938.0,Tampa Bay Lightning
-TBL,Darren Raddysh,3rd pair,RD,43,R,"6'0""",201,8478178.0,Tampa Bay Lightning
-TBL,Tyler Motte,4th line,LW,64,L,"5'10""",192,8477353.0,Tampa Bay Lightning
-TBL,Luke Glendening,4th line,C,11,R,"5'11""",191,8476822.0,Tampa Bay Lightning
-TBL,Tanner Jeannot,4th line,RW,84,L,"6'2""",207,8479661.0,Tampa Bay Lightning
-TBL,Conor Sheary,injured reserve,F,73.0,L,"5'8""",179.0,8477839.0,Tampa Bay Lightning
-TBL,Logan Brown,injured reserve,F,22.0,L,"6'6""",220.0,8479366.0,Tampa Bay Lightning
-TBL,Brent Seabrook,injured reserve,D,,R,"6'3""",220.0,8470607.0,Tampa Bay Lightning
-TBL,Austin Watson,scratch,F,51.0,R,"6'4""",204.0,8475766.0,Tampa Bay Lightning
-TBL,Calvin de Haan,scratch,D,44.0,L,"6'1""",195.0,8475177.0,Tampa Bay Lightning
-TBL,Jonas Johansson,error,G,31,L,"6'4""",205,8477992.0,Tampa Bay Lightning
-TBL,Andrei Vasilevskiy,error,G,88,L,"6'3""",216,8476883.0,Tampa Bay Lightning
-TOR,Matthew Knies,1st line,LW,23,L,"6'3""",217,8482720.0,Toronto Maple Leafs
-TOR,Auston Matthews,1st line,C,34,L,"6'3""",215,8479318.0,Toronto Maple Leafs
-TOR,William Nylander,1st line,RW,88,R,"6'0""",202,8477939.0,Toronto Maple Leafs
-TOR,Morgan Rielly,1st pair,LD,44,L,"6'1""",219,8476853.0,Toronto Maple Leafs
-TOR,TJ Brodie,1st pair,RD,78,L,"6'1""",185,8474673.0,Toronto Maple Leafs
-TOR,Tyler Bertuzzi,2nd line,LW,59,L,"6'2""",200,8477479.0,Toronto Maple Leafs
-TOR,John Tavares,2nd line,C,91,L,"6'1""",215,8475166.0,Toronto Maple Leafs
-TOR,Mitchell Marner,2nd line,RW,16,R,"6'0""",180,8478483.0,Toronto Maple Leafs
-TOR,Simon Benoit,2nd pair,LD,2,L,"6'3""",208,8481122.0,Toronto Maple Leafs
-TOR,Jake McCabe,2nd pair,RD,22,L,"6'1""",204,8476931.0,Toronto Maple Leafs
-TOR,Nicholas Robertson,3rd line,LW,89,L,"5'9""",178,8481582.0,Toronto Maple Leafs
-TOR,Max Domi,3rd line,C,11,L,"5'10""",208,8477503.0,Toronto Maple Leafs
-TOR,Calle Jarnkrok,3rd line,RW,19,R,"6'0""",190,8475714.0,Toronto Maple Leafs
-TOR,William Lagesson,3rd pair,LD,85,L,"6'2""",196,8478021.0,Toronto Maple Leafs
-TOR,Conor Timmins,3rd pair,RD,25,R,"6'2""",185,8479982.0,Toronto Maple Leafs
-TOR,Noah Gregor,4th line,LW,18,L,"6'0""",190,8479393.0,Toronto Maple Leafs
-TOR,David Kampf,4th line,C,64,L,"6'2""",190,8480144.0,Toronto Maple Leafs
-TOR,Ryan Reaves,4th line,RW,75,R,"6'2""",225,8471817.0,Toronto Maple Leafs
-TOR,John Klingberg,injured reserve,D,3.0,R,"6'3""",185.0,8475906.0,Toronto Maple Leafs
-TOR,Timothy Liljegren,injured reserve,D,37.0,R,"6'0""",190.0,8480043.0,Toronto Maple Leafs
-TOR,Jake Muzzin,injured reserve,D,8.0,L,"6'3""",217.0,8474162.0,Toronto Maple Leafs
-TOR,Matt Murray,injured reserve,G,30.0,L,"6'4""",178.0,8476899.0,Toronto Maple Leafs
-TOR,Bobby McMann,scratch,F,74.0,L,"6'2""",220.0,8482259.0,Toronto Maple Leafs
-TOR,Mark Giordano,scratch,D,55.0,L,"6'1""",200.0,8470966.0,Toronto Maple Leafs
-TOR,Joseph Woll,error,G,60,L,"6'2""",198,8479361.0,Toronto Maple Leafs
-TOR,Ilya Samsonov,error,G,35,L,"6'3""",208,8478492.0,Toronto Maple Leafs
-VAN,Phillip Di Giuseppe,1st line,LW,34,L,"6'0""",192,8476858.0,Vancouver Canucks
-VAN,J.T. Miller,1st line,C,9,L,"6'1""",218,8476468.0,Vancouver Canucks
-VAN,Brock Boeser,1st line,RW,6,R,"6'1""",208,8478444.0,Vancouver Canucks
-VAN,Quinn Hughes,1st pair,LD,43,L,"5'10""",170,8480800.0,Vancouver Canucks
-VAN,Filip Hronek,1st pair,RD,17,R,"6'0""",183,8479425.0,Vancouver Canucks
-VAN,Ilya Mikheyev,2nd line,LW,65,L,"6'3""",195,8481624.0,Vancouver Canucks
-VAN,Elias Pettersson,2nd line,C,40,L,"6'2""",176,8480012.0,Vancouver Canucks
-VAN,Andrei Kuzmenko,2nd line,RW,96,R,"5'11""",194,8483808.0,Vancouver Canucks
-VAN,Matt Irwin,2nd pair,LD,52,L,"6'1""",207,8475625.0,Vancouver Canucks
-VAN,Noah Juulsen,2nd pair,RD,47,R,"6'2""",193,8478454.0,Vancouver Canucks
-VAN,Dakota Joshua,3rd line,LW,81,L,"6'2""",183,8478057.0,Vancouver Canucks
-VAN,Teddy Blueger,3rd line,C,53,L,"6'0""",185,8476927.0,Vancouver Canucks
-VAN,Conor Garland,3rd line,RW,8,R,"5'10""",165,8478856.0,Vancouver Canucks
-VAN,Cole McWard,3rd pair,LD,48,R,"6'1""",205,8484287.0,Vancouver Canucks
-VAN,Tyler Myers,3rd pair,RD,57,R,"6'8""",229,8474574.0,Vancouver Canucks
-VAN,Nils Hoglander,4th line,LW,21,L,"5'9""",185,8481535.0,Vancouver Canucks
-VAN,Nils Aman,4th line,C,88,L,"6'2""",179,8482496.0,Vancouver Canucks
-VAN,Sam Lafferty,4th line,RW,18,R,"6'2""",205,8478043.0,Vancouver Canucks
-VAN,Pius Suter,injured reserve,F,24.0,L,"5'11""",176.0,8480459.0,Vancouver Canucks
-VAN,Carson Soucy,injured reserve,D,7.0,L,"6'5""",210.0,8477369.0,Vancouver Canucks
-VAN,Guillaume Brisebois,injured reserve,D,55.0,L,"6'2""",175.0,8478465.0,Vancouver Canucks
-VAN,Tucker Poolman,injured reserve,D,5.0,R,"6'2""",199.0,8477359.0,Vancouver Canucks
-VAN,Linus Karlsson,scratch,F,94.0,R,"6'1""",178.0,8481024.0,Vancouver Canucks
-VAN,Ian Cole,scratch,D,82.0,L,"6'1""",225.0,8474013.0,Vancouver Canucks
-VAN,Mark Friedman,scratch,D,51.0,R,"5'11""",185.0,8478017.0,Vancouver Canucks
-VAN,Thatcher Demko,error,G,35,L,"6'4""",192,8477967.0,Vancouver Canucks
-VAN,Casey DeSmith,error,G,29,L,"6'0""",181,8479193.0,Vancouver Canucks
-VGK,Chandler Stephenson,1st line,LW,20,L,"6'0""",208,8476905.0,Vegas Golden Knights
-VGK,Jack Eichel,1st line,C,9,R,"6'2""",203,8478403.0,Vegas Golden Knights
-VGK,Mark Stone,1st line,RW,61,R,"6'3""",202,8475913.0,Vegas Golden Knights
-VGK,Nicolas Hague,1st pair,LD,14,L,"6'6""",221,8479980.0,Vegas Golden Knights
-VGK,Alex Pietrangelo,1st pair,RD,7,R,"6'3""",210,8474565.0,Vegas Golden Knights
-VGK,Ivan Barbashev,2nd line,LW,49,L,"6'0""",187,8477964.0,Vegas Golden Knights
-VGK,William Karlsson,2nd line,C,71,L,"6'0""",195,8476448.0,Vegas Golden Knights
-VGK,Jonathan Marchessault,2nd line,RW,81,R,"5'9""",180,8476539.0,Vegas Golden Knights
-VGK,Brayden McNabb,2nd pair,LD,3,L,"6'4""",213,8475188.0,Vegas Golden Knights
-VGK,Kaedan Korczak,2nd pair,RD,6,R,"6'3""",192,8481527.0,Vegas Golden Knights
-VGK,William Carrier,3rd line,LW,28,L,"6'2""",218,8477478.0,Vegas Golden Knights
-VGK,Nicolas Roy,3rd line,C,10,R,"6'4""",200,8478462.0,Vegas Golden Knights
-VGK,Michael Amadio,3rd line,RW,22,R,"6'1""",204,8478020.0,Vegas Golden Knights
-VGK,Ben Hutton,3rd pair,LD,17,L,"6'2""",206,8477018.0,Vegas Golden Knights
-VGK,Zach Whitecloud,3rd pair,RD,2,R,"6'2""",209,8480727.0,Vegas Golden Knights
-VGK,Paul Cotter,4th line,LW,43,L,"6'0""",185,8481032.0,Vegas Golden Knights
-VGK,Brett Howden,4th line,C,21,L,"6'3""",197,8479353.0,Vegas Golden Knights
-VGK,Keegan Kolesar,4th line,RW,55,R,"6'2""",216,8478434.0,Vegas Golden Knights
-VGK,Shea Theodore,injured reserve,D,27.0,L,"6'2""",195.0,8477447.0,Vegas Golden Knights
-VGK,Daniil Miromanov,injured reserve,D,62.0,R,"6'4""",202.0,8482624.0,Vegas Golden Knights
-VGK,Isaiah Saville,injured reserve,G,31.0,R,"6'1""",195.0,0.0,Vegas Golden Knights
-VGK,Robin Lehner,injured reserve,G,90.0,L,"6'4""",240.0,8475215.0,Vegas Golden Knights
-VGK,Pavel Dorofeyev,scratch,F,16.0,L,"6'0""",176.0,8481604.0,Vegas Golden Knights
-VGK,Brayden Pachal,scratch,D,94.0,R,"6'0""",200.0,8481167.0,Vegas Golden Knights
-VGK,Alec Martinez,scratch,D,23.0,L,"6'1""",209.0,8474166.0,Vegas Golden Knights
-VGK,Adin Hill,error,G,33,L,"6'6""",202,8478499.0,Vegas Golden Knights
-VGK,Logan Thompson,error,G,36,R,"6'4""",190,8480313.0,Vegas Golden Knights
-WPG,Kyle Connor,1st line,LW,81,L,"6'1""",182,8478398.0,Winnipeg Jets
-WPG,Mark Scheifele,1st line,C,55,R,"6'3""",207,8476460.0,Winnipeg Jets
-WPG,Nikolaj Ehlers,1st line,RW,27,L,"6'0""",172,8477940.0,Winnipeg Jets
-WPG,Josh Morrissey,1st pair,LD,44,L,"6'0""",195,8477504.0,Winnipeg Jets
-WPG,Dylan DeMelo,1st pair,RD,2,R,"6'0""",191,8476331.0,Winnipeg Jets
-WPG,Cole Perfetti,2nd line,LW,91,L,"5'10""",177,8482149.0,Winnipeg Jets
-WPG,Vladislav Namestnikov,2nd line,C,7,L,"6'0""",183,8476480.0,Winnipeg Jets
-WPG,Alex Iafallo,2nd line,RW,9,L,"6'0""",188,8480113.0,Winnipeg Jets
-WPG,Brenden Dillon,2nd pair,LD,5,L,"6'4""",225,8475455.0,Winnipeg Jets
-WPG,Neal Pionk,2nd pair,RD,4,R,"6'0""",186,8480145.0,Winnipeg Jets
-WPG,Nino Niederreiter,3rd line,LW,62,L,"6'2""",218,8475799.0,Winnipeg Jets
-WPG,Adam Lowry,3rd line,C,17,L,"6'5""",210,8476392.0,Winnipeg Jets
-WPG,Mason Appleton,3rd line,RW,22,R,"6'2""",193,8478891.0,Winnipeg Jets
-WPG,Dylan Samberg,3rd pair,LD,54,L,"6'3""",190,8480049.0,Winnipeg Jets
-WPG,Nate Schmidt,3rd pair,RD,88,L,"6'0""",194,8477220.0,Winnipeg Jets
-WPG,Morgan Barron,4th line,LW,36,L,"6'4""",220,8480289.0,Winnipeg Jets
-WPG,David Gustafsson,4th line,C,19,L,"6'2""",196,8481019.0,Winnipeg Jets
-WPG,Axel Jonsson-Fjallby,4th line,RW,71,L,"6'0""",170,8479536.0,Winnipeg Jets
-WPG,Rasmus Kupari,injured reserve,F,15.0,R,"6'2""",189.0,8480845.0,Winnipeg Jets
-WPG,Gabriel Vilardi,injured reserve,F,13.0,R,"6'2""",185.0,8480014.0,Winnipeg Jets
-WPG,Ville Heinola,injured reserve,D,14.0,L,"6'1""",185.0,8481572.0,Winnipeg Jets
-WPG,Logan Stanley,scratch,D,64.0,L,"6'6""",216.0,8479378.0,Winnipeg Jets
-WPG,Declan Chisholm,scratch,D,47.0,L,"6'1""",185.0,8480990.0,Winnipeg Jets
-WPG,Laurent Brossoit,error,G,39,L,"6'3""",204,8476316.0,Winnipeg Jets
-WPG,Connor Hellebuyck,error,G,37,L,"6'4""",207,8476945.0,Winnipeg Jets
-WSH,Alex Ovechkin,1st line,LW,8,R,"6'3""",236,8471214.0,Washington Capitals
-WSH,Evgeny Kuznetsov,1st line,C,92,L,"6'2""",197,8475744.0,Washington Capitals
-WSH,Tom Wilson,1st line,RW,43,R,"6'4""",220,8476880.0,Washington Capitals
-WSH,Martin Fehervary,1st pair,LD,42,L,"6'2""",200,8480796.0,Washington Capitals
-WSH,John Carlson,1st pair,RD,74,R,"6'3""",217,8474590.0,Washington Capitals
-WSH,Connor McMichael,2nd line,LW,24,L,"5'11""",182,8481580.0,Washington Capitals
-WSH,Dylan Strome,2nd line,C,17,L,"6'3""",200,8478440.0,Washington Capitals
-WSH,Matthew Phillips,2nd line,RW,45,R,"5'7""",140,8479547.0,Washington Capitals
-WSH,Rasmus Sandin,2nd pair,LD,38,L,"5'11""",183,8480873.0,Washington Capitals
-WSH,Nick Jensen,2nd pair,RD,3,R,"6'1""",196,8475324.0,Washington Capitals
-WSH,Sonny Milano,3rd line,LW,15,L,"6'0""",194,8477947.0,Washington Capitals
-WSH,Aliaksei Protas,3rd line,C,21,L,"6'5""",190,8481656.0,Washington Capitals
-WSH,Anthony Mantha,3rd line,RW,39,L,"6'5""",234,8477511.0,Washington Capitals
-WSH,Joel Edmundson,3rd pair,LD,6,L,"6'5""",224,8476441.0,Washington Capitals
-WSH,Trevor van Riemsdyk,3rd pair,RD,57,R,"6'2""",192,8477845.0,Washington Capitals
-WSH,Beck Malenstyn,4th line,LW,47,L,"6'3""",200,8479359.0,Washington Capitals
-WSH,Nic Dowd,4th line,C,26,R,"6'1""",195,8475343.0,Washington Capitals
-WSH,Nicolas Aube-Kubel,4th line,RW,96,R,"5'11""",187,8477979.0,Washington Capitals
-WSH,T.J. Oshie,injured reserve,F,77.0,R,"6'0""",195.0,8471698.0,Washington Capitals
-WSH,Nicklas Backstrom,injured reserve,F,19.0,L,"6'1""",206.0,8473563.0,Washington Capitals
-WSH,Max Pacioretty,injured reserve,F,67.0,L,"6'2""",215.0,8474157.0,Washington Capitals
-WSH,Hendrix Lapierre,scratch,F,29.0,L,"6'0""",179.0,8482148.0,Washington Capitals
-WSH,Alexander Alexeyev,scratch,D,27.0,L,"6'4""",196.0,8480823.0,Washington Capitals
-WSH,Lucas Johansen,scratch,D,46.0,L,"6'1""",176.0,8479321.0,Washington Capitals
-WSH,Charlie Lindgren,error,G,79,R,"6'1""",182,8479292.0,Washington Capitals
-WSH,Darcy Kuemper,error,G,35,L,"6'5""",215,8475311.0,Washington Capitals
+team,player,pos,age,years_remaining,terms,acquired,status,cap%,free_agency_type,2023-24,2024-25,2025-26,2026-27,2027-28,2028-29,player_id
+ANA,Trevor Zegras,"C, LW",22.0,3,,Draft,IR,0.069,RFA,5750000,5750000,5750000,0,0,0,8481533.0
+ANA,John Gibson,G,30.0,4,M-NTC,Draft,NHL,0.077,UFA,6400000,6400000,6400000,6400000,0,0,8476434.0
+ANA,Urho Vaakanainen,LD/RD,24.0,1,,Trade,NHL,0.01,RFA,850000,0,0,0,0,0,8480001.0
+ANA,Tristan Luneau,RD,19.0,3,ELC,Draft,NHL,0.011000000000000001,RFA,896667,896667,896667,0,0,0,8483482.0
+ANA,Pavel Mintyukov,LD,20.0,3,ELC,Draft,NHL,0.011000000000000001,RFA,918333,918333,918333,0,0,0,8483490.0
+ANA,Jackson LaCombe,LD/RD,22.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8481605.0
+ANA,Ilya Lyubushkin,RD,29.0,1,,Trade,NHL,0.033,UFA,2750000,0,0,0,0,0,8480950.0
+ANA,Radko Gudas,RD,33.0,3,NTC,Signed,NHL,0.048,UFA,4000000,4000000,4000000,0,0,0,8475462.0
+ANA,Cam Fowler,LD/RD,31.0,3,M-NTC,Draft,NHL,0.078,UFA,6500000,6500000,6500000,0,0,0,8475764.0
+ANA,Benoit-Olivier Groulx,C,23.0,1,,Draft,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8480870.0
+ANA,Lukas Dostal,G,23.0,2,,Draft,NHL,0.01,RFA,812500,812500,0,0,0,0,8480843.0
+ANA,Brett Leason,RW,24.0,1,,Waivers claim,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8481517.0
+ANA,Mason McTavish,"C, LW",20.0,2,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,0,0,0,0,8482745.0
+ANA,Leo Carlsson,C,18.0,3,ELC,Draft,NHL,0.011000000000000001,RFA,950000,950000,950000,0,0,0,8484153.0
+ANA,Ross Johnston,LW,29.0,3,,Waivers claim,NHL,0.013000000000000001,UFA,1100000,1100000,1100000,0,0,0,8477527.0
+ANA,Max Jones,"LW, RW",25.0,1,,Draft,NHL,0.016,RFA,1295000,0,0,0,0,0,8479368.0
+ANA,Brock McGinn,"LW, RW",29.0,2,,Trade,NHL,0.033,UFA,2750000,2750000,0,0,0,0,8476934.0
+ANA,Frank Vatrano,"LW, RW",29.0,2,,Signed,NHL,0.044000000000000004,UFA,3650000,3650000,0,0,0,0,8478366.0
+ANA,Ryan Strome,"C, RW",30.0,4,,Signed,NHL,0.06,UFA,5000000,5000000,5000000,5000000,0,0,8476458.0
+ANA,Jakob Silfverberg,"RW, LW",33.0,1,M-NTC,Trade,NHL,0.063,UFA,5250000,0,0,0,0,0,8475164.0
+ANA,Adam Henrique,"LW, C",33.0,1,M-NTC,Trade,NHL,0.07,UFA,5825000,0,0,0,0,0,8474641.0
+ANA,Sam Carrick,"C, RW",31.0,1,,Trade,NHL,0.01,UFA,850000,0,0,0,0,0,8475842.0
+ANA,Jamie Drysdale,RD,21.0,3,,Draft,IR,0.027999999999999997,RFA,2300000,2300000,2300000,0,0,0,8482142.0
+ANA,Isac Lundestrom,"C, LW",24.0,1,,Draft,IR,0.022000000000000002,RFA,1800000,0,0,0,0,0,8480806.0
+ANA,Alex Killorn,"RW, LW",34.0,4,NTC,Signed,NHL,0.075,UFA,6250000,6250000,6250000,6250000,0,0,8473986.0
+ANA,Troy Terry,RW,26.0,7,,Draft,NHL,0.084,UFA,7000000,7000000,7000000,7000000,7000000,7000000,8478873.0
+ARI,Jakub Voracek,"RW, LW",34.0,1,,Trade,IR,0.099,UFA,8250000,0,0,0,0,0,8474161.0
+ARI,Connor Ingram,G,26.0,3,,Waivers claim,NHL,0.023,UFA,1950000,1950000,1950000,0,0,0,8478971.0
+ARI,Karel Vejmelka,G,27.0,2,,Signed,NHL,0.033,UFA,2725000,2725000,0,0,0,0,8478872.0
+ARI,J.J. Moser,LD/RD,23.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,886667,0,0,0,0,0,8482655.0
+ARI,Michael Kesselring,RD,23.0,1,ELC,Trade,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8480891.0
+ARI,Juuso Valimaki,LD,25.0,1,,Waivers claim,NHL,0.012,RFA,1000000,0,0,0,0,0,8479976.0
+ARI,Troy Stecher,RD,29.0,1,,Signed,NHL,0.013000000000000001,UFA,1100000,0,0,0,0,0,8479442.0
+ARI,Joshua Brown,RD,29.0,1,,Signed,NHL,0.015,UFA,1275000,0,0,0,0,0,8477384.0
+ARI,Sean Durzi,LD/RD,25.0,1,,Trade,NHL,0.02,RFA,1700000,0,0,0,0,0,8480434.0
+ARI,Matt Dumba,RD,29.0,1,,Signed,NHL,0.047,UFA,3900000,0,0,0,0,0,8476856.0
+ARI,Shea Weber,RD,38.0,3,,Trade,IR,0.094,UFA,7857143,7857143,7857143,0,0,0,8470642.0
+ARI,Michael Carcone,"LW, C",27.0,2,,Signed,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0,8479619.0
+ARI,Milos Kelemen,RW,24.0,1,ELC,Signed,NHL,0.01,RFA,817500,0,0,0,0,0,8483597.0
+ARI,Logan Cooley,C,19.0,3,ELC,Draft,NHL,0.011000000000000001,RFA,950000,950000,950000,0,0,0,8483431.0
+ARI,Nick Schmaltz,"RW, C",27.0,3,M-NTC,Trade,NHL,0.07,UFA,5850000,5850000,5850000,0,0,0,8477951.0
+ARI,Travis Boyd,"C, RW",30.0,1,,Signed,NHL,0.021,UFA,1750000,0,0,0,0,0,8476329.0
+ARI,Nick Bjugstad,"C, RW",31.0,2,,Signed,NHL,0.025,UFA,2100000,2100000,0,0,0,0,8475760.0
+ARI,Matias Maccelli,LW,23.0,3,,Draft,NHL,0.040999999999999995,RFA,3425000,3425000,3425000,0,0,0,8481711.0
+ARI,Alexander Kerfoot,"LW, RW",29.0,2,M-NTC,Signed,NHL,0.042,UFA,3500000,3500000,0,0,0,0,8477021.0
+ARI,Lawson Crouse,"LW, RW",26.0,4,,Trade,NHL,0.051,UFA,4300000,4300000,4300000,4300000,0,0,8478474.0
+ARI,Jason Zucker,"LW, RW",31.0,1,,Signed,NHL,0.063,UFA,5300000,0,0,0,0,0,8475722.0
+ARI,Liam O'Brien,LW,29.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8477070.0
+ARI,Bryan Little,"C, RW",36.0,1,M-NTC,Trade,IR,0.063,UFA,5291667,0,0,0,0,0,8473412.0
+ARI,Clayton Keller,"LW, RW",25.0,5,,Draft,NHL,0.086,UFA,7150000,7150000,7150000,7150000,7150000,0,8479343.0
+ARI,Jack McBain,"C, LW",23.0,2,,Signed,IR,0.019,RFA,1599999,1599999,0,0,0,0,8480855.0
+ARI,Barrett Hayton,"C, LW",23.0,1,,Draft,IR,0.021,RFA,1775000,0,0,0,0,0,8480849.0
+ARI,Travis Dermott,LD/RD,26.0,1,,Signed,IR,0.01,UFA,800000,0,0,0,0,0,8478408.0
+ARI,Vladislav Kolyachonok,LD/RD,22.0,1,ELC,Trade,IR,0.009000000000000001,RFA,789167,0,0,0,0,0,8481609.0
+BOS,Derek Forbort,LD,31.0,1,M-NTC,Signed,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0,8475762.0
+BOS,Jakub Lauko,"LW, RW",23.0,2,,Draft,NHL,0.009000000000000001,RFA,787500,787500,0,0,0,0,8480880.0
+BOS,Matt Grzelcyk,LD,29.0,1,,Draft,NHL,0.044000000000000004,UFA,3687500,0,0,0,0,0,8476891.0
+BOS,Brandon Carlo,RD,27.0,4,M-NTC,Draft,NHL,0.049,UFA,4100000,4100000,4100000,4100000,0,0,8478443.0
+BOS,Hampus Lindholm,LD,29.0,7,"NTC, NMC",Trade,NHL,0.078,UFA,6500000,6500000,6500000,6500000,6500000,6500000,8476854.0
+BOS,Charlie McAvoy,RD,25.0,7,,Draft,NHL,0.114,UFA,9500000,9500000,9500000,9500000,9500000,9500000,8479325.0
+BOS,Danton Heinen,"LW, RW",28.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8478046.0
+BOS,Oskar Steen,"C, RW",25.0,1,,Draft,NHL,0.01,RFA,800000,0,0,0,0,0,8479546.0
+BOS,Trent Frederic,"LW, RW",25.0,2,,Draft,NHL,0.027999999999999997,UFA,2300000,2300000,0,0,0,0,8479365.0
+BOS,John Beecher,C,22.0,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0,8481556.0
+BOS,James van Riemsdyk,"LW, RW",34.0,1,,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0,8474037.0
+BOS,Morgan Geekie,"RW, C",25.0,2,,Signed,NHL,0.024,RFA,2000000,2000000,0,0,0,0,8479987.0
+BOS,Jake DeBrusk,"RW, LW",27.0,1,,Draft,NHL,0.048,UFA,4000000,0,0,0,0,0,8478498.0
+BOS,Pavel Zacha,"LW, RW, C",26.0,4,M-NTC,Trade,NHL,0.057,UFA,4750000,4750000,4750000,4750000,0,0,8478401.0
+BOS,Charlie Coyle,"C, RW",31.0,3,"M-NTC, NMC",Trade,NHL,0.063,UFA,5250000,5250000,5250000,0,0,0,8475745.0
+BOS,Brad Marchand,LW,35.0,2,M-NTC,Draft,NHL,0.073,UFA,6125000,6125000,0,0,0,0,8473419.0
+BOS,Kevin Shattenkirk,RD,34.0,1,,Signed,NHL,0.013000000000000001,UFA,1050000,0,0,0,0,0,8474031.0
+BOS,Matthew Poitras,C,19.0,3,ELC,Draft,NHL,0.01,RFA,870000,870000,870000,0,0,0,8483505.0
+BOS,Linus Ullmark,G,30.0,2,M-NTC,Signed,NHL,0.06,UFA,5000000,5000000,0,0,0,0,8476999.0
+BOS,Jeremy Swayman,G,25.0,1,,Draft,NHL,0.042,RFA,3475000,0,0,0,0,0,8480280.0
+BOS,David Pastrnak,RW,27.0,8,NMC,Draft,NHL,0.135,UFA,11250000,11250000,11250000,11250000,11250000,11250000,8477956.0
+BUF,Owen Power,LD/RD,21.0,8,ELC,Draft,NHL,0.011000000000000001,UFA,916667,8350000,8350000,8350000,8350000,8350000,8482671.0
+BUF,Ryan Johnson,LD,22.0,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0,8481564.0
+BUF,Jacob Bryson,LD/RD,26.0,1,,Draft,NHL,0.022000000000000002,RFA,1850000,0,0,0,0,0,8480196.0
+BUF,Henri Jokiharju,RD,24.0,1,,Trade,NHL,0.03,RFA,2500000,0,0,0,0,0,8480035.0
+BUF,Erik Johnson,RD,35.0,1,35+,Signed,NHL,0.039,UFA,3250000,0,0,0,0,0,8473446.0
+BUF,Connor Clifton,RD,28.0,3,,Signed,NHL,0.04,UFA,3333333,3333333,3333333,0,0,0,8477365.0
+BUF,Mattias Samuelsson,LD,23.0,7,,Draft,NHL,0.051,UFA,4285714,4285714,4285714,4285714,4285714,4285714,8480807.0
+BUF,Rasmus Dahlin,LD/RD,23.0,9,,Draft,NHL,0.07200000000000001,UFA,6000000,11000000,11000000,11000000,11000000,11000000,8480839.0
+BUF,Brandon Biro,LW,25.0,1,,Signed,NHL,0.009000000000000001,RFA,762500,0,0,0,0,0,8482061.0
+BUF,Eric Comrie,G,28.0,1,,Signed,NHL,0.022000000000000002,UFA,1800000,0,0,0,0,0,8477480.0
+BUF,John-Jason Peterka,"LW, RW",21.0,2,ELC,Draft,NHL,0.01,RFA,855833,855833,0,0,0,0,8482175.0
+BUF,Zach Benson,LW,18.0,3,ELC,Draft,NHL,0.011000000000000001,RFA,950000,950000,950000,0,0,0,8484145.0
+BUF,Tyson Jost,C,25.0,1,,Signed,NHL,0.024,UFA,2000000,0,0,0,0,0,8479370.0
+BUF,Kyle Okposo,RW,35.0,1,35+,Signed,NHL,0.03,UFA,2500000,0,0,0,0,0,8473449.0
+BUF,Casey Mittelstadt,"LW, C",25.0,1,,Draft,NHL,0.03,RFA,2500000,0,0,0,0,0,8479999.0
+BUF,Alex Tuch,"RW, LW",27.0,3,M-NTC,Trade,NHL,0.057,UFA,4750000,4750000,4750000,0,0,0,8477949.0
+BUF,Victor Olofsson,"RW, LW",28.0,1,,Draft,NHL,0.057,UFA,4750000,0,0,0,0,0,8478109.0
+BUF,Dylan Cozens,"C, LW",22.0,7,,Draft,NHL,0.085,UFA,7100000,7100000,7100000,7100000,7100000,7100000,8481528.0
+BUF,Jeff Skinner,"LW, RW",31.0,4,NMC,Trade,NHL,0.10800000000000001,UFA,9000000,9000000,9000000,9000000,0,0,8475784.0
+BUF,Peyton Krebs,"C, LW",22.0,1,ELC,Trade,NHL,0.01,RFA,863333,0,0,0,0,0,8481522.0
+BUF,Tage Thompson,C,26.0,7,,Trade,IR,0.086,UFA,7142857,7142857,7142857,7142857,7142857,7142857,8479420.0
+BUF,Ukko-Pekka Luukkonen,G,24.0,1,,Draft,NHL,0.01,RFA,837500,0,0,0,0,0,8480045.0
+BUF,Zemgus Girgensons,"LW, C",29.0,1,,Draft,IR,0.03,UFA,2500000,0,0,0,0,0,8476878.0
+BUF,Jack Quinn,"RW, LW",22.0,2,ELC,Draft,IR,0.01,RFA,863333,863333,0,0,0,0,8482097.0
+CAR,Frederik Andersen,G,34.0,2,M-NTC,Signed,IR,0.040999999999999995,UFA,3400000,3400000,0,0,0,0,8475883.0
+CAR,Sebastian Aho,C,26.0,9,,Signed,NHL,0.10099999999999999,UFA,8460250,9750000,9750000,9750000,9750000,9750000,8478427.0
+CAR,Antti Raanta,G,34.0,1,,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0,8477293.0
+CAR,Andrei Svechnikov,"LW, RW",23.0,6,,Draft,NHL,0.09300000000000001,UFA,7750000,7750000,7750000,7750000,7750000,7750000,8480830.0
+CAR,Teuvo Teravainen,"LW, RW",29.0,1,M-NTC,Trade,NHL,0.065,UFA,5400000,0,0,0,0,0,8476882.0
+CAR,Michael Bunting,LW,28.0,3,M-NTC,Signed,NHL,0.054000000000000006,UFA,4500000,4500000,4500000,0,0,0,8478047.0
+CAR,Jalen Chatfield,RD,27.0,1,,Signed,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8478970.0
+CAR,Anthony Deangelo,RD,28.0,1,,Signed,NHL,0.02,UFA,1675000,0,0,0,0,0,8477950.0
+CAR,Brett Pesce,RD,29.0,1,M-NTC,Draft,NHL,0.048,UFA,4025000,0,0,0,0,0,8477488.0
+CAR,Brady Skjei,LD,29.0,1,M-NTC,Trade,NHL,0.063,UFA,5250000,0,0,0,0,0,8476869.0
+CAR,Brent Burns,RD,38.0,2,RSM-NTC,Trade,NHL,0.063,UFA,5280000,5280000,0,0,0,0,8470613.0
+CAR,Jaccob Slavin,LD,29.0,2,M-NTC,Draft,NHL,0.063,UFA,5300000,5300000,0,0,0,0,8476958.0
+CAR,Dmitry Orlov,LD,32.0,2,,Signed,NHL,0.09300000000000001,UFA,7750000,7750000,0,0,0,0,8475200.0
+CAR,Stefan Noesen,"LW, RW",30.0,1,,Signed,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8476474.0
+CAR,Brendan Lemieux,"LW, RW",27.0,1,,Signed,NHL,0.01,UFA,800000,0,0,0,0,0,8477962.0
+CAR,Seth Jarvis,RW,21.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,894167,0,0,0,0,0,8482093.0
+CAR,Jack Drury,C,23.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8480835.0
+CAR,Jordan Martinook,"LW, RW",31.0,1,,Signed,NHL,0.022000000000000002,UFA,1800000,0,0,0,0,0,8476921.0
+CAR,Jesper Fast,RW,31.0,2,NTC,Signed,NHL,0.028999999999999998,UFA,2400000,2400000,0,0,0,0,8475855.0
+CAR,Jordan Staal,"C, LW",35.0,4,NMC,Trade,NHL,0.035,UFA,2900000,2900000,2900000,2900000,0,0,8473533.0
+CAR,Martin Necas,"RW, C",24.0,1,,Draft,NHL,0.036000000000000004,RFA,3000000,0,0,0,0,0,8480039.0
+CAR,Jesperi Kotkaniemi,C,23.0,7,,Signed,NHL,0.057999999999999996,UFA,4820000,4820000,4820000,4820000,4820000,4820000,8480829.0
+CBJ,Ivan Provorov,LD,26.0,2,RS,Trade,NHL,0.057,UFA,4725000,4725000,0,0,0,0,8478500.0
+CBJ,Adam Boqvist,RD,23.0,2,,Trade,NHL,0.031,RFA,2600000,2600000,0,0,0,0,8480871.0
+CBJ,Jake Bean,LD/RD,25.0,1,,Trade,NHL,0.027999999999999997,RFA,2333333,0,0,0,0,0,8479402.0
+CBJ,David Jiricek,RD,20.0,3,ELC,Draft,NHL,0.011000000000000001,RFA,918333,918333,918333,0,0,0,8483460.0
+CBJ,Elvis Merzlikins,G,29.0,4,M-NTC,Draft,NHL,0.065,UFA,5400000,5400000,5400000,5400000,0,0,8478007.0
+CBJ,Spencer Martin,G,28.0,1,,Waivers claim,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8477484.0
+CBJ,Jack Roslovic,"C, RW",26.0,1,,Trade,IR,0.048,UFA,4000000,0,0,0,0,0,8478458.0
+CBJ,Daniil Tarasov,G,24.0,2,,Draft,IR,0.013000000000000001,RFA,1050000,1050000,0,0,0,0,8480193.0
+CBJ,Erik Gudbranson,RD,31.0,3,M-NTC,Signed,NHL,0.048,UFA,4000000,4000000,4000000,0,0,0,8475790.0
+CBJ,Andrew Peeke,RD,25.0,3,,Draft,NHL,0.033,UFA,2750000,2750000,2750000,0,0,0,8479369.0
+CBJ,Damon Severson,RD,29.0,8,NTC,Trade,NHL,0.075,UFA,6250000,6250000,6250000,6250000,6250000,6250000,8476923.0
+CBJ,Johnny Gaudreau,LW,30.0,6,NMC,Signed,NHL,0.11699999999999999,UFA,9750000,9750000,9750000,9750000,9750000,9750000,8476346.0
+CBJ,Patrik Laine,"C, RW, LW",25.0,3,M-NTC,Trade,NHL,0.10400000000000001,UFA,8700000,8700000,8700000,0,0,0,8479339.0
+CBJ,Boone Jenner,"C, LW",30.0,3,M-NTC,Draft,NHL,0.045,UFA,3750000,3750000,3750000,0,0,0,8476432.0
+CBJ,Eric Robinson,LW,28.0,1,,Signed,NHL,0.019,UFA,1600000,0,0,0,0,0,8480762.0
+CBJ,Alexandre Texier,"LW, C, RW",24.0,1,,Draft,NHL,0.018000000000000002,RFA,1525000,0,0,0,0,0,8480074.0
+CBJ,Sean Kuraly,"C, LW",30.0,2,M-NTC,Signed,NHL,0.03,UFA,2500000,2500000,0,0,0,0,8476374.0
+CBJ,Justin Danforth,"RW, C",30.0,2,,Signed,NHL,0.012,UFA,975000,1100000,0,0,0,0,8479941.0
+CBJ,Adam Fantilli,C,19.0,3,ELC,Draft,NHL,0.011000000000000001,RFA,950000,950000,950000,0,0,0,8484166.0
+CBJ,Kirill Marchenko,RW,23.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8480893.0
+CBJ,Cole Sillinger,C,20.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8482705.0
+CBJ,Dmitri Voronkov,LW,23.0,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0,8481716.0
+CBJ,Yegor Chinakhov,"RW, LW",22.0,1,,Draft,NHL,0.01,RFA,800000,0,0,0,0,0,8482475.0
+CBJ,Zachary Werenski,LD,26.0,5,NMC,Draft,NHL,0.115,UFA,9583333,9583333,9583333,9583333,9583333,0,8478460.0
+CBJ,Mathieu Olivier,RW,26.0,2,,Trade,NHL,0.013000000000000001,UFA,1100000,1100000,0,0,0,0,8479671.0
+CGY,Martin Pospisil,RW,24.0,1,,Draft,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8481028.0
+CGY,Walker Duehr,RW,26.0,2,,Signed,NHL,0.01,UFA,825000,825000,0,0,0,0,8482652.0
+CGY,Connor Zary,C,22.0,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0,8482074.0
+CGY,Dillon Dube,"C, LW, RW",25.0,1,,Draft,NHL,0.027999999999999997,RFA,2300000,0,0,0,0,0,8479346.0
+CGY,Yegor Sharangovich,"LW, RW, C",25.0,2,,Trade,NHL,0.037000000000000005,UFA,3100000,3100000,0,0,0,0,8481068.0
+CGY,Elias Lindholm,C,28.0,1,,Trade,NHL,0.057999999999999996,UFA,4850000,0,0,0,0,0,8477496.0
+CGY,Blake Coleman,"RW, LW",32.0,4,NTC,Signed,NHL,0.059000000000000004,UFA,4900000,4900000,4900000,4900000,0,0,8476399.0
+CGY,Mikael Backlund,C,34.0,3,NMC,Draft,NHL,0.064,UFA,5350000,4500000,4500000,0,0,0,8474150.0
+CGY,Andrew Mangiapane,"RW, LW",27.0,2,M-NTC,Draft,NHL,0.069,UFA,5800000,5800000,0,0,0,0,8478233.0
+CGY,Jonathan Huberdeau,"LW, RW",30.0,8,NMC,Trade,NHL,0.126,UFA,10500000,10500000,10500000,10500000,10500000,10500000,8476456.0
+CGY,Nazem Kadri,C,33.0,6,NMC,Signed,NHL,0.084,UFA,7000000,7000000,7000000,7000000,7000000,7000000,8475172.0
+CGY,AJ Greer,"RW, LW",26.0,1,,Waivers claim,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8478421.0
+CGY,MacKenzie Weegar,LD/RD,29.0,8,NTC,Trade,NHL,0.075,UFA,6250000,6250000,6250000,6250000,6250000,6250000,8477346.0
+CGY,Adam Ruzicka,LW,24.0,1,,Draft,NHL,0.009000000000000001,RFA,762500,0,0,0,0,0,8480008.0
+CGY,Daniel Vladar,G,26.0,2,,Trade,NHL,0.026000000000000002,UFA,2200000,2200000,0,0,0,0,8478435.0
+CGY,Dennis Gilbert,LD,27.0,1,,Signed,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8478502.0
+CGY,Jordan Oesterle,LD/RD,31.0,1,,Signed,NHL,0.011000000000000001,UFA,925000,0,0,0,0,0,8477851.0
+CGY,Nikita Zadorov,LD/RD,28.0,1,,Signed,NHL,0.045,UFA,3750000,0,0,0,0,0,8477507.0
+CGY,Christopher Tanev,RD,33.0,1,M-NTC,Signed,NHL,0.054000000000000006,UFA,4500000,0,0,0,0,0,8475690.0
+CGY,Rasmus Andersson,RD,27.0,3,,Draft,NHL,0.054000000000000006,UFA,4550000,4550000,4550000,0,0,0,8478397.0
+CGY,Noah Hanifin,LD,26.0,1,M-NTC,Trade,NHL,0.059000000000000004,UFA,4950000,0,0,0,0,0,8478396.0
+CGY,Jacob Markstrom,G,33.0,3,NMC,Signed,NHL,0.07200000000000001,UFA,6000000,6000000,6000000,0,0,0,8474593.0
+CHI,Lukas Reichel,"LW, C",21.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8482117.0
+CHI,Colin Blackwell,"C, RW",30.0,1,,Signed,IR,0.013999999999999999,UFA,1200000,0,0,0,0,0,8476278.0
+CHI,Jarred Tinordi,LD,31.0,1,,Waivers claim,IR,0.015,UFA,1250000,0,0,0,0,0,8475797.0
+CHI,Andreas Athanasiou,"LW, RW",29.0,2,,Signed,IR,0.051,UFA,4250000,4250000,0,0,0,0,8476960.0
+CHI,Taylor Hall,LW,32.0,2,"M-NTC, NMC",Trade,IR,0.07200000000000001,UFA,6000000,6000000,0,0,0,0,8475791.0
+CHI,Arvid Soderblom,G,24.0,2,,Signed,NHL,0.012,RFA,962500,962500,0,0,0,0,8482821.0
+CHI,Petr Mrazek,G,31.0,1,M-NTC,Trade,NHL,0.046,UFA,3800000,0,0,0,0,0,8475852.0
+CHI,Isaak Phillips,LD,22.0,1,ELC,Draft,NHL,0.01,RFA,859167,0,0,0,0,0,8482192.0
+CHI,Wyatt Kaiser,LD,21.0,2,ELC,Draft,NHL,0.011000000000000001,RFA,916667,916667,0,0,0,0,8482176.0
+CHI,Kevin Korchinski,LD,19.0,3,ELC,Draft,NHL,0.011000000000000001,RFA,918333,918333,918333,0,0,0,8483466.0
+CHI,Connor Murphy,RD,30.0,3,M-NTC,Trade,NHL,0.053,UFA,4400000,4400000,4400000,0,0,0,8476473.0
+CHI,Nikita Zaitsev,RD,32.0,1,M-NTC,Trade,NHL,0.054000000000000006,UFA,4500000,0,0,0,0,0,8479458.0
+CHI,Seth Jones,RD,29.0,7,NMC,Trade,NHL,0.114,UFA,9500000,9500000,9500000,9500000,9500000,9500000,8477495.0
+CHI,Taylor Raddysh,RW,25.0,1,,Trade,NHL,0.009000000000000001,RFA,758333,0,0,0,0,0,8479390.0
+CHI,Boris Katchouk,LW,25.0,1,,Trade,NHL,0.009000000000000001,RFA,758333,0,0,0,0,0,8479383.0
+CHI,Joey Anderson,RW,25.0,1,,Trade,NHL,0.01,RFA,800000,0,0,0,0,0,8479315.0
+CHI,Reese Johnson,"RW, C",25.0,1,,Signed,NHL,0.01,RFA,800000,0,0,0,0,0,8481147.0
+CHI,Mackenzie Entwistle,"LW, C",24.0,1,,Trade,NHL,0.01,RFA,800000,0,0,0,0,0,8480025.0
+CHI,Cole Guttman,C,24.0,1,ELC,Signed,NHL,0.011000000000000001,RFA,950000,0,0,0,0,0,8480252.0
+CHI,Tyler Johnson,"RW, C, LW",33.0,1,M-NTC,Trade,NHL,0.06,UFA,5000000,0,0,0,0,0,8474870.0
+CHI,Anthony Beauvillier,"RW, LW",26.0,1,,Trade,NHL,0.05,UFA,4150000,0,0,0,0,0,8478463.0
+CHI,Nick Foligno,"LW, C, RW",36.0,1,35+,Trade,NHL,0.048,UFA,4000000,0,0,0,0,0,8473422.0
+CHI,Jason Dickinson,"C, LW",28.0,1,,Trade,NHL,0.032,UFA,2650000,0,0,0,0,0,8477450.0
+CHI,Philipp Kurashev,"LW, C, RW",24.0,2,,Draft,NHL,0.027000000000000003,RFA,2250000,2250000,0,0,0,0,8480798.0
+CHI,Ryan Donato,"LW, C",27.0,2,,Signed,NHL,0.024,UFA,2000000,2000000,0,0,0,0,8477987.0
+CHI,Connor Bedard,C,18.0,3,ELC,Draft,NHL,0.011000000000000001,RFA,950000,950000,950000,0,0,0,8484144.0
+CHI,Alex Vlasic,LD,22.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,916667,0,0,0,0,0,8481568.0
+COL,Nathan MacKinnon,C,28.0,8,NMC,Draft,NHL,0.151,UFA,12600000,12600000,12600000,12600000,12600000,12600000,8477492.0
+COL,Kurtis MacDermid,"LD/RD, LW",29.0,1,,Trade,NHL,0.012,UFA,987500,0,0,0,0,0,8477073.0
+COL,Jack Johnson,LD,36.0,1,35+,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8471677.0
+COL,Caleb Jones,LD/RD,26.0,1,,Trade,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8478452.0
+COL,Alexandar Georgiev,G,27.0,2,,Trade,NHL,0.040999999999999995,UFA,3400000,3400000,0,0,0,0,8480382.0
+COL,Ivan Prosvetov,G,24.0,1,,Waivers claim,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8481031.0
+COL,Bowen Byram,LD/RD,22.0,2,,Draft,NHL,0.046,RFA,3850000,3850000,0,0,0,0,8481524.0
+COL,Devon Toews,LD,29.0,8,,Trade,NHL,0.049,UFA,4100000,7250000,7250000,7250000,7250000,7250000,8478038.0
+COL,Fredrik Olofsson,LW,27.0,1,,Trade,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8478028.0
+COL,Josh Manson,RD,32.0,3,NTC,Signed,NHL,0.054000000000000006,UFA,4500000,4500000,4500000,0,0,0,8476312.0
+COL,Cale Makar,RD,25.0,4,,Draft,NHL,0.10800000000000001,UFA,9000000,9000000,9000000,9000000,0,0,8480069.0
+COL,Joel Kiviranta,"RW, LW",27.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8481641.0
+COL,Jonathan Drouin,"C, LW",28.0,1,,Signed,NHL,0.01,UFA,825000,0,0,0,0,0,8477494.0
+COL,Andrew Cogliano,LW,36.0,1,35+,Signed,NHL,0.01,UFA,825000,0,0,0,0,0,8471699.0
+COL,Logan O'Connor,"RW, LW",27.0,2,,Signed,NHL,0.013000000000000001,UFA,1050000,1050000,0,0,0,0,8481186.0
+COL,Miles Wood,LW,28.0,6,,Signed,NHL,0.03,UFA,2500000,2500000,2500000,2500000,2500000,2500000,8477425.0
+COL,Ross Colton,"LW, C",27.0,4,,Trade,NHL,0.048,UFA,4000000,4000000,4000000,4000000,0,0,8479525.0
+COL,Ryan Johansen,"C, RW",31.0,2,RS,Trade,NHL,0.048,UFA,4000000,4000000,0,0,0,0,8475793.0
+COL,Valeri Nichushkin,"RW, LW",28.0,7,NMC,Signed,NHL,0.073,UFA,6125000,6125000,6125000,6125000,6125000,6125000,8477501.0
+COL,Mikko Rantanen,"RW, C",27.0,2,M-NTC,Draft,NHL,0.111,UFA,9250000,9250000,0,0,0,0,8478420.0
+COL,Tomas Tatar,"LW, RW",32.0,1,,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0,8475193.0
+DAL,Roope Hintz,C,27.0,8,,Draft,NHL,0.10099999999999999,UFA,8450000,8450000,8450000,8450000,8450000,8450000,8478449.0
+DAL,Jamie Benn,"LW, C",34.0,2,NMC,Draft,NHL,0.114,UFA,9500000,9500000,0,0,0,0,8473994.0
+DAL,Tyler Seguin,"C, RW",31.0,4,NMC,Trade,NHL,0.11800000000000001,UFA,9850000,9850000,9850000,9850000,0,0,8475794.0
+DAL,Mason Marchment,"LW, RW",28.0,3,M-NTC,Signed,NHL,0.054000000000000006,UFA,4500000,4500000,4500000,0,0,0,8478975.0
+DAL,Scott Wedgewood,G,31.0,1,,Trade,NHL,0.012,UFA,1000000,0,0,0,0,0,8475809.0
+DAL,Jake Oettinger,G,24.0,2,,Draft,NHL,0.048,RFA,4000000,4000000,0,0,0,0,8479979.0
+DAL,Jason Robertson,"LW, RW",24.0,3,,Draft,NHL,0.09300000000000001,RFA,7750000,7750000,7750000,0,0,0,8480027.0
+DAL,Joel Hanley,LD/RD,32.0,2,,Signed,NHL,0.009000000000000001,UFA,787500,787500,0,0,0,0,8477810.0
+DAL,Nils Lundkvist,RD,23.0,1,ELC,Trade,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8480878.0
+DAL,Ryan Suter,LD,38.0,2,35+NMC,Signed,NHL,0.044000000000000004,UFA,3650000,3650000,0,0,0,0,8470600.0
+DAL,Esa Lindell,LD,29.0,2,NMC,Draft,NHL,0.069,UFA,5800000,5800000,0,0,0,0,8476902.0
+DAL,Miro Heiskanen,LD/RD,24.0,6,,Draft,NHL,0.10099999999999999,UFA,8450000,8450000,8450000,8450000,8450000,8450000,8480036.0
+DAL,Sam Steel,"C, LW",25.0,1,,Signed,NHL,0.01,RFA,850000,0,0,0,0,0,8479351.0
+DAL,Wyatt Johnston,C,20.0,2,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,0,0,0,0,8482740.0
+DAL,Ty Dellandrea,"RW, C",23.0,1,,Draft,NHL,0.011000000000000001,RFA,900000,0,0,0,0,0,8480848.0
+DAL,Craig Smith,"RW, C",34.0,1,,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0,8475225.0
+DAL,Evgeni Dadonov,"RW, LW",34.0,2,M-NTC,Trade,NHL,0.027000000000000003,UFA,2250000,2250000,0,0,0,0,8474149.0
+DAL,Matt Duchene,"RW, C",32.0,1,,Signed,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0,8475168.0
+DAL,Radek Faksa,"C, LW",29.0,2,M-NTC,Draft,NHL,0.039,UFA,3250000,3250000,0,0,0,0,8476889.0
+DAL,Joe Pavelski,RW,39.0,1,35+NMC,Signed,NHL,0.042,UFA,3500000,0,0,0,0,0,8470794.0
+DAL,Thomas Harley,LD,22.0,1,ELC,Draft,NHL,0.01,RFA,863333,0,0,0,0,0,8481581.0
+DAL,Jani Hakanpaa,RD,31.0,1,,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0,8475825.0
+DET,Ville Husso,G,28.0,2,M-NTC,Trade,NHL,0.057,UFA,4750000,4750000,0,0,0,0,8478024.0
+DET,Ben Chiarot,LD/RD,32.0,3,M-NTC,Signed,NHL,0.057,UFA,4750000,4750000,4750000,0,0,0,8475279.0
+DET,Matt Luff,RW,26.0,1,,Signed,IR,0.009000000000000001,UFA,775000,0,0,0,0,0,8479644.0
+DET,Alex Lyon,G,30.0,2,,Signed,NHL,0.011000000000000001,UFA,900000,900000,0,0,0,0,8479312.0
+DET,James Reimer,G,35.0,1,35+M-NTC,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0,8473503.0
+DET,Moritz Seider,RD,22.0,1,ELC,Draft,NHL,0.01,RFA,863333,0,0,0,0,0,8481542.0
+DET,Jeff Petry,RD,35.0,2,"RSM-NTC, NMC",Trade,NHL,0.027999999999999997,UFA,2343750,2343750,0,0,0,0,8473507.0
+DET,Olli Maatta,LD,29.0,2,,Signed,NHL,0.036000000000000004,UFA,3000000,3000000,0,0,0,0,8476874.0
+DET,Jake Walman,LD,27.0,3,M-NTC,Trade,NHL,0.040999999999999995,UFA,3400000,3400000,3400000,0,0,0,8478013.0
+DET,Shayne Gostisbehere,LD/RD,30.0,1,M-NTC,Signed,NHL,0.049,UFA,4125000,0,0,0,0,0,8476906.0
+DET,Joseph Veleno,C,23.0,1,,Draft,NHL,0.01,RFA,825000,0,0,0,0,0,8480813.0
+DET,Lucas Raymond,"RW, LW",21.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8482078.0
+DET,Christian Fischer,"RW, LW",26.0,1,,Signed,NHL,0.013000000000000001,UFA,1125000,0,0,0,0,0,8478432.0
+DET,Michael Rasmussen,"C, LW",24.0,1,,Draft,NHL,0.017,RFA,1460000,0,0,0,0,0,8479992.0
+DET,Daniel Sprong,"RW, LW",26.0,1,,Signed,NHL,0.024,UFA,2000000,0,0,0,0,0,8478466.0
+DET,Klim Kostin,"LW, RW",24.0,2,,Signed,NHL,0.024,RFA,2000000,2000000,0,0,0,0,8480011.0
+DET,Robby Fabbri,"LW, C",27.0,2,,Trade,NHL,0.048,UFA,4000000,4000000,0,0,0,0,8477952.0
+DET,David Perron,"RW, LW",35.0,1,M-NTC,Signed,NHL,0.057,UFA,4750000,0,0,0,0,0,8474102.0
+DET,J.T. Compher,"C, RW",28.0,5,M-NTC,Signed,NHL,0.061,UFA,5100000,5100000,5100000,5100000,5100000,0,8477456.0
+DET,Justin Holl,RD,31.0,3,M-NTC,Signed,NHL,0.040999999999999995,UFA,3400000,3400000,3400000,0,0,0,8475718.0
+DET,Dylan Larkin,C,27.0,8,NTC,Draft,NHL,0.10400000000000001,UFA,8700000,8700000,8700000,8700000,8700000,8700000,8477946.0
+DET,Alex DeBrincat,"LW, RW",25.0,4,,Trade,NHL,0.094,UFA,7875000,7875000,7875000,7875000,0,0,8479337.0
+DET,Andrew Copp,"C, LW, RW",29.0,4,M-NTC,Signed,NHL,0.067,UFA,5625000,5625000,5625000,5625000,0,0,8477429.0
+EDM,Brett Kulak,LD/RD,29.0,3,,Signed,NHL,0.033,UFA,2750000,2750000,2750000,0,0,0,8476967.0
+EDM,Philip Broberg,LD,22.0,1,ELC,Draft,NHL,0.01,RFA,863333,0,0,0,0,0,8481598.0
+EDM,Vincent Desharnais,RD,27.0,1,,Signed,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8479576.0
+EDM,Stuart Skinner,G,25.0,3,,Draft,NHL,0.031,UFA,2600000,2600000,2600000,0,0,0,8479973.0
+EDM,Calvin Pickard,G,31.0,1,,Signed,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8475717.0
+EDM,Cody Ceci,RD,29.0,2,,Signed,NHL,0.039,UFA,3250000,3250000,0,0,0,0,8476879.0
+EDM,Evan Bouchard,RD,24.0,2,,Draft,NHL,0.047,RFA,3900000,3900000,0,0,0,0,8480803.0
+EDM,Darnell Nurse,LD,28.0,7,NMC,Draft,NHL,0.111,UFA,9250000,9250000,9250000,9250000,9250000,9250000,8477498.0
+EDM,Ryan Nugent-Hopkins,"LW, C",30.0,6,NMC,Draft,NHL,0.061,UFA,5125000,5125000,5125000,5125000,5125000,5125000,8476454.0
+EDM,Evander Kane,"LW, RW",32.0,3,NMC,Signed,NHL,0.061,UFA,5125000,5125000,5125000,0,0,0,8475169.0
+EDM,Mattias Ekholm,LD/RD,33.0,3,RS,Trade,NHL,0.07200000000000001,UFA,6000000,6000000,6000000,0,0,0,8475218.0
+EDM,Zach Hyman,"RW, LW",31.0,5,NMC,Signed,NHL,0.066,UFA,5500000,5500000,5500000,5500000,5500000,0,8475786.0
+EDM,Connor McDavid,C,26.0,3,NMC,Draft,NHL,0.15,UFA,12500000,12500000,12500000,0,0,0,8478402.0
+EDM,Warren Foegele,"LW, RW",27.0,1,,Trade,NHL,0.033,UFA,2750000,0,0,0,0,0,8477998.0
+EDM,Ryan McLeod,C,24.0,2,,Draft,NHL,0.025,RFA,2100000,2100000,0,0,0,0,8480802.0
+EDM,Mattias Janmark,"LW, RW",30.0,1,,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0,8477406.0
+EDM,Derek Ryan,"C, RW",36.0,2,35+,Signed,NHL,0.011000000000000001,UFA,900000,900000,0,0,0,0,8478585.0
+EDM,James Hamblin,"RW, C",24.0,1,ELC,Signed,NHL,0.01,RFA,807500,0,0,0,0,0,8480468.0
+EDM,Connor Brown,"RW, LW",29.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8477015.0
+EDM,Adam Erne,"LW, RW",28.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8477454.0
+EDM,Sam Gagner,"RW, C",34.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8474040.0
+EDM,Leon Draisaitl,"C, LW",28.0,2,"M-NTC, NMC",Draft,NHL,0.102,UFA,8500000,8500000,0,0,0,0,8477934.0
+FLA,Carter Verhaeghe,LW,28.0,2,,Signed,NHL,0.05,UFA,4166667,4166667,0,0,0,0,8477409.0
+FLA,Uvis Balinskis,LD,27.0,1,ELC,Signed,NHL,0.01,UFA,870000,0,0,0,0,0,8484304.0
+FLA,Dmitry Kulikov,LD/RD,33.0,1,,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0,8475179.0
+FLA,Oliver Ekman-Larsson,LD,32.0,1,,Signed,NHL,0.027000000000000003,UFA,2250000,0,0,0,0,0,8475171.0
+FLA,Niko Mikkola,LD,27.0,3,,Signed,NHL,0.03,UFA,2500000,2500000,2500000,0,0,0,8478859.0
+FLA,Gustav Forsling,LD,27.0,1,,Waivers claim,NHL,0.032,UFA,2666667,0,0,0,0,0,8478055.0
+FLA,Brandon Montour,RD,29.0,1,,Trade,NHL,0.042,UFA,3500000,0,0,0,0,0,8477986.0
+FLA,Aaron Ekblad,RD,27.0,2,NMC,Draft,NHL,0.09,UFA,7500000,7500000,0,0,0,0,8477932.0
+FLA,Jonah Gadjovich,"LW, RW",25.0,1,,Signed,NHL,0.01,RFA,810000,0,0,0,0,0,8479981.0
+FLA,Anton Lundell,"C, LW",22.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8482113.0
+FLA,Kevin Stenlund,"C, RW",27.0,1,,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0,8478831.0
+FLA,Steven Lorentz,"C, LW, RW",27.0,1,,Trade,NHL,0.013000000000000001,UFA,1050000,0,0,0,0,0,8478904.0
+FLA,Nick Cousins,"LW, C",30.0,1,,Signed,NHL,0.013000000000000001,UFA,1100000,0,0,0,0,0,8476393.0
+FLA,Eetu Luostarinen,"LW, C",25.0,4,,Trade,NHL,0.018000000000000002,UFA,1500000,3000000,3000000,3000000,0,0,8480185.0
+FLA,Evan Rodrigues,"C, LW",30.0,4,,Signed,NHL,0.036000000000000004,UFA,3000000,3000000,3000000,3000000,0,0,8478542.0
+FLA,Aleksander Barkov,C,28.0,7,NMC,Draft,NHL,0.12,UFA,10000000,10000000,10000000,10000000,10000000,10000000,8477493.0
+FLA,Matthew Tkachuk,RW,25.0,7,NMC,Trade,NHL,0.114,UFA,9500000,9500000,9500000,9500000,9500000,9500000,8479314.0
+FLA,Sam Reinhart,RW,28.0,1,,Trade,NHL,0.078,UFA,6500000,0,0,0,0,0,8477933.0
+FLA,Sam Bennett,C,27.0,2,,Trade,NHL,0.053,UFA,4425000,4425000,0,0,0,0,8477935.0
+FLA,Sergei Bobrovsky,G,35.0,3,NMC,Signed,NHL,0.12,UFA,10000000,10000000,10000000,0,0,0,8475683.0
+FLA,Anthony Stolarz,G,29.0,1,,Signed,NHL,0.013000000000000001,UFA,1100000,0,0,0,0,0,8476932.0
+FLA,Ryan Lomberg,LW,28.0,1,,Signed,NHL,0.01,UFA,800000,0,0,0,0,0,8479066.0
+FLA,Josh Mahura,LD/RD,25.0,1,,Waivers claim,IR,0.011000000000000001,RFA,925000,0,0,0,0,0,8479372.0
+LAK,Matt Roy,RD,28.0,1,,Draft,NHL,0.038,UFA,3150000,0,0,0,0,0,8478911.0
+LAK,Andreas Englund,LD,27.0,2,,Signed,NHL,0.012,UFA,1000000,1000000,0,0,0,0,8477971.0
+LAK,Jordan Spence,RD,22.0,1,ELC,Draft,NHL,0.01,RFA,820000,0,0,0,0,0,8481606.0
+LAK,Pheonix Copley,G,31.0,1,,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0,8477831.0
+LAK,Tobias Bjornfot,LD,22.0,2,,Draft,IR,0.009000000000000001,RFA,775000,775000,0,0,0,0,8481600.0
+LAK,Michael Anderson,LD,24.0,8,,Draft,NHL,0.049,UFA,4125000,4125000,4125000,4125000,4125000,4125000,8479998.0
+LAK,Cam Talbot,G,36.0,1,35+NTC,Signed,NHL,0.012,UFA,1000000,0,0,0,0,0,8475660.0
+LAK,Vladislav Gavrikov,LD,28.0,2,NMC,Trade,NHL,0.07,UFA,5875000,5875000,0,0,0,0,8478882.0
+LAK,Arthur Kaliyev,"RW, LW",22.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,894167,0,0,0,0,0,8481560.0
+LAK,Trevor Lewis,"RW, C",36.0,1,35+,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8473453.0
+LAK,Jaret Anderson-Dolan,"C, LW, RW",24.0,1,,Signed,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8479994.0
+LAK,Alex Laferriere,RW,22.0,2,ELC,Draft,NHL,0.01,RFA,875000,875000,0,0,0,0,8482155.0
+LAK,Quinton Byfield,"C, LW",21.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,894167,0,0,0,0,0,8482124.0
+LAK,Carl Grundstrom,"LW, RW",25.0,1,,Trade,NHL,0.016,RFA,1300000,0,0,0,0,0,8479336.0
+LAK,Blake Lizotte,C,25.0,1,,Signed,NHL,0.02,RFA,1675000,0,0,0,0,0,8481481.0
+LAK,Trevor Moore,"LW, RW",28.0,5,M-NTC,Trade,NHL,0.05,UFA,4200000,4200000,4200000,4200000,4200000,0,8479675.0
+LAK,Adrian Kempe,"LW, RW",27.0,3,,Draft,NHL,0.066,UFA,5500000,5500000,5500000,0,0,0,8477960.0
+LAK,Phillip Danault,C,30.0,4,NMC,Signed,NHL,0.066,UFA,5500000,5500000,5500000,5500000,0,0,8476479.0
+LAK,Drew Doughty,RD,33.0,4,M-NTC,Draft,NHL,0.132,UFA,11000000,11000000,11000000,11000000,0,0,8474563.0
+LAK,Kevin Fiala,"RW, LW",27.0,6,NMC,Trade,NHL,0.094,UFA,7875000,7875000,7875000,7875000,7875000,7875000,8477942.0
+LAK,Anze Kopitar,C,36.0,3,NMC,Draft,NHL,0.12,UFA,10000000,7000000,7000000,0,0,0,8471685.0
+LAK,Pierre-Luc Dubois,C,25.0,8,,Trade,NHL,0.102,UFA,8500000,8500000,8500000,8500000,8500000,8500000,8479400.0
+MIN,Kirill Kaprizov,LW,26.0,3,,Draft,NHL,0.10800000000000001,UFA,9000000,9000000,9000000,0,0,0,8478864.0
+MIN,Marc-Andre Fleury,G,39.0,1,35+NMC,Trade,NHL,0.042,UFA,3500000,0,0,0,0,0,8470594.0
+MIN,Filip Gustavsson,G,25.0,3,,Trade,NHL,0.045,UFA,3750000,3750000,3750000,0,0,0,8479406.0
+MIN,Matthew Boldy,"RW, LW",22.0,7,,Draft,NHL,0.084,UFA,7000000,7000000,7000000,7000000,7000000,7000000,8481557.0
+MIN,Mats Zuccarello,"RW, LW",36.0,3,"M-NTC, NMC",Signed,NHL,0.07200000000000001,UFA,6000000,4125000,4125000,0,0,0,8475692.0
+MIN,Joel Eriksson Ek,C,26.0,6,,Draft,NHL,0.063,UFA,5250000,5250000,5250000,5250000,5250000,5250000,8478493.0
+MIN,Marcus Foligno,"RW, LW",32.0,5,NMC,Trade,NHL,0.037000000000000005,UFA,3100000,4000000,4000000,4000000,4000000,0,8475220.0
+MIN,Frederick Gaudreau,"C, LW",30.0,5,M-NTC,Signed,NHL,0.025,UFA,2100000,2100000,2100000,2100000,2100000,0,8477919.0
+MIN,Marcus Johansson,"LW, RW",33.0,2,NTC,Trade,NHL,0.024,UFA,2000000,2000000,0,0,0,0,8475149.0
+MIN,Brandon Duhaime,"RW, LW",26.0,1,,Draft,NHL,0.013000000000000001,UFA,1100000,0,0,0,0,0,8479520.0
+MIN,Marco Rossi,C,22.0,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0,8482079.0
+MIN,Patrick Maroon,"LW, RW",35.0,1,RSM-NTC,Trade,NHL,0.01,UFA,800000,0,0,0,0,0,8474034.0
+MIN,Jared Spurgeon,RD,34.0,4,NMC,Signed,NHL,0.091,UFA,7575000,7575000,7575000,7575000,0,0,8474716.0
+MIN,Jonas Brodin,LD,30.0,5,NMC,Draft,NHL,0.07200000000000001,UFA,6000000,6000000,6000000,6000000,6000000,0,8476463.0
+MIN,Jake Middleton,LD,27.0,2,,Trade,NHL,0.028999999999999998,UFA,2450000,2450000,0,0,0,0,
+MIN,Alex Goligoski,LD/RD,38.0,1,35+NMC,Signed,NHL,0.024,UFA,2000000,0,0,0,0,0,8471274.0
+MIN,Jon Merrill,LD,31.0,2,,Signed,NHL,0.013999999999999999,UFA,1200000,1200000,0,0,0,0,8475750.0
+MIN,Brock Faber,RD,21.0,2,ELC,Trade,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0,8482122.0
+MIN,Zach Bogosian,RD,33.0,1,M-NTC,Trade,NHL,0.01,UFA,850000,0,0,0,0,0,8474567.0
+MIN,Connor Dewar,"LW, C",24.0,1,,Draft,NHL,0.01,RFA,800000,0,0,0,0,0,8480980.0
+MIN,Vinni Lettieri,"C, RW",28.0,2,,Signed,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0,8479968.0
+MTL,Cayden Primeau,G,24.0,2,,Draft,NHL,0.011000000000000001,RFA,890000,890000,0,0,0,0,8480051.0
+MTL,David Savard,RD,33.0,2,,Signed,IR,0.042,UFA,3500000,3500000,0,0,0,0,8475233.0
+MTL,Kirby Dach,"C, RW",22.0,3,,Trade,IR,0.04,RFA,3362500,3362500,3362500,0,0,0,8481523.0
+MTL,Jordan Harris,LD/RD,23.0,2,,Draft,IR,0.017,RFA,1400000,1400000,0,0,0,0,8480887.0
+MTL,Rafael Harvey-Pinard,"LW, RW",24.0,2,,Draft,IR,0.013000000000000001,RFA,1100000,1100000,0,0,0,0,8481093.0
+MTL,Arber Xhekaj,LD/RD,22.0,1,ELC,Signed,IR,0.01,RFA,828333,0,0,0,0,0,8482964.0
+MTL,Chris Wideman,RD,33.0,1,,Signed,IR,0.009000000000000001,UFA,762500,0,0,0,0,0,8475227.0
+MTL,Samuel Montembeault,G,27.0,1,,Waivers claim,NHL,0.012,UFA,1000000,0,0,0,0,0,8478470.0
+MTL,Jake Allen,G,33.0,2,M-NTC,Trade,NHL,0.046,UFA,3850000,3850000,0,0,0,0,8474596.0
+MTL,Mattias Norlinder,LD,23.0,1,ELC,Draft,NHL,0.01,RFA,859167,0,0,0,0,0,8481555.0
+MTL,Nick Suzuki,C,24.0,7,,Trade,NHL,0.094,UFA,7875000,7875000,7875000,7875000,7875000,7875000,8480018.0
+MTL,Cole Caufield,"LW, RW",22.0,8,,Draft,NHL,0.094,UFA,7850000,7850000,7850000,7850000,7850000,7850000,8481540.0
+MTL,Brendan Gallagher,RW,31.0,4,"M-NTC, NMC",Draft,NHL,0.078,UFA,6500000,6500000,6500000,6500000,0,0,8475848.0
+MTL,Josh Anderson,"RW, LW",29.0,4,M-NTC,Trade,NHL,0.066,UFA,5500000,5500000,5500000,5500000,0,0,8476981.0
+MTL,Christian Dvorak,C,27.0,2,M-NTC,Trade,NHL,0.053,UFA,4450000,4450000,0,0,0,0,8477989.0
+MTL,Joel Armia,"RW, LW",30.0,2,,Trade,NHL,0.040999999999999995,UFA,3400000,3400000,0,0,0,0,8476469.0
+MTL,Tanner Pearson,LW,31.0,1,,Trade,NHL,0.039,UFA,3250000,0,0,0,0,0,8476871.0
+MTL,Alex Newhook,"LW, C",22.0,4,,Trade,NHL,0.035,RFA,2900000,2900000,2900000,2900000,0,0,8481618.0
+MTL,Sean Monahan,"C, LW, RW",29.0,1,,Trade,NHL,0.024,UFA,1985000,0,0,0,0,0,8477497.0
+MTL,Jake Evans,C,27.0,2,,Draft,NHL,0.02,UFA,1700000,1700000,0,0,0,0,8478133.0
+MTL,Juraj Slafkovsky,"RW, LW",19.0,2,ELC,Draft,NHL,0.011000000000000001,RFA,950000,950000,0,0,0,0,8483515.0
+MTL,Michael Pezzetta,"LW, RW",25.0,2,,Draft,NHL,0.01,UFA,812500,812500,0,0,0,0,8479543.0
+MTL,Jesse Ylonen,"RW, LW",24.0,1,,Draft,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8481058.0
+MTL,Michael Matheson,LD,29.0,3,M-NTC,Trade,NHL,0.057999999999999996,UFA,4875000,4875000,4875000,0,0,0,8476875.0
+MTL,Gustav Lindstrom,RD,25.0,1,,Trade,NHL,0.011000000000000001,RFA,950000,0,0,0,0,0,8480184.0
+MTL,Justin Barron,RD,22.0,1,ELC,Trade,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8482111.0
+MTL,Jayden Struble,LD,22.0,2,ELC,Draft,NHL,0.01,RFA,867500,867500,0,0,0,0,8481593.0
+MTL,Kaiden Guhle,LD,21.0,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0,8482087.0
+MTL,Johnathan Kovacevic,RD,26.0,2,,Waivers claim,NHL,0.009000000000000001,UFA,766667,766667,0,0,0,0,8480192.0
+NJD,Vitek Vanecek,G,27.0,2,,Trade,NHL,0.040999999999999995,UFA,3400000,3400000,0,0,0,0,8477970.0
+NJD,Akira Schmid,G,23.0,1,ELC,Draft,NHL,0.01,RFA,850833,0,0,0,0,0,8481033.0
+NJD,Tomas Nosek,"LW, C",31.0,1,,Signed,IR,0.012,UFA,1000000,0,0,0,0,0,8477931.0
+NJD,Kevin Bahl,LD,23.0,2,,Trade,NHL,0.013000000000000001,RFA,1050000,1050000,0,0,0,0,8480860.0
+NJD,Colin Miller,RD,31.0,1,,Trade,NHL,0.022000000000000002,UFA,1850000,0,0,0,0,0,8476525.0
+NJD,Timo Meier,"LW, RW",27.0,8,,Trade,NHL,0.105,UFA,8800000,8800000,8800000,8800000,8800000,8800000,8478414.0
+NJD,Jack Hughes,"C, LW",22.0,7,,Draft,NHL,0.096,UFA,8000000,8000000,8000000,8000000,8000000,8000000,8481559.0
+NJD,Jesper Bratt,"RW, LW",25.0,8,,Draft,NHL,0.094,UFA,7875000,7875000,7875000,7875000,7875000,7875000,8479407.0
+NJD,Nico Hischier,C,24.0,4,,Draft,NHL,0.087,UFA,7250000,7250000,7250000,7250000,0,0,8480002.0
+NJD,Ondrej Palat,"LW, RW",32.0,4,NMC,Signed,NHL,0.07200000000000001,UFA,6000000,6000000,6000000,6000000,0,0,8476292.0
+NJD,Tyler Toffoli,"RW, LW",31.0,1,,Trade,NHL,0.051,UFA,4250000,0,0,0,0,0,8475726.0
+NJD,Erik Haula,"C, LW",32.0,3,NTC,Trade,NHL,0.038,UFA,3150000,3150000,3150000,0,0,0,8475287.0
+NJD,Michael McLeod,C,25.0,1,,Signed,NHL,0.017,RFA,1400000,0,0,0,0,0,8479415.0
+NJD,Nathan Bastian,"RW, C",25.0,2,,Signed,NHL,0.016,UFA,1350000,1350000,0,0,0,0,8479414.0
+NJD,Curtis Lazar,"RW, C",28.0,2,,Trade,NHL,0.012,UFA,1000000,1000000,0,0,0,0,8477508.0
+NJD,Alexander Holtz,"RW, LW",21.0,2,ELC,Draft,NHL,0.011000000000000001,RFA,894167,894167,0,0,0,0,8482125.0
+NJD,Dawson Mercer,"RW, C",22.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,894167,0,0,0,0,0,8482110.0
+NJD,Samuel Laberge,C,26.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,
+NJD,Chris Tierney,C,29.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8476919.0
+NJD,Dougie Hamilton,RD,30.0,5,NMC,Signed,NHL,0.10800000000000001,UFA,9000000,9000000,9000000,9000000,9000000,0,8476462.0
+NJD,John Marino,RD,26.0,4,,Trade,NHL,0.053,UFA,4400000,4400000,4400000,4400000,0,0,8478507.0
+NJD,Jonas Siegenthaler,LD,26.0,5,,Trade,NHL,0.040999999999999995,UFA,3400000,3400000,3400000,3400000,3400000,0,8478399.0
+NJD,Luke Hughes,LD/RD,20.0,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0,8482684.0
+NJD,Brendan Smith,LD/RD,34.0,1,,Signed,NHL,0.013000000000000001,UFA,1100000,0,0,0,0,0,8474090.0
+NSH,Colton Sissons,"C, RW",30.0,3,,Draft,NHL,0.034,UFA,2857143,2857143,2857143,0,0,0,8476925.0
+NSH,Thomas Novak,C,26.0,1,,Draft,IR,0.01,UFA,800000,0,0,0,0,0,8478438.0
+NSH,Cody Glass,C,24.0,2,,Trade,IR,0.03,RFA,2500000,2500000,0,0,0,0,8479996.0
+NSH,Kevin Lankinen,G,28.0,1,,Signed,NHL,0.024,UFA,2000000,0,0,0,0,0,8480947.0
+NSH,Juuse Saros,G,28.0,2,,Draft,NHL,0.06,UFA,5000000,5000000,0,0,0,0,8477424.0
+NSH,Jeremy Lauzon,LD/RD,26.0,3,,Trade,NHL,0.024,UFA,2000000,2000000,2000000,0,0,0,8478468.0
+NSH,Dante Fabbro,RD,25.0,1,,Draft,NHL,0.03,RFA,2500000,0,0,0,0,0,8479371.0
+NSH,Alexandre Carrier,RD,27.0,1,,Draft,NHL,0.03,UFA,2500000,0,0,0,0,0,8478851.0
+NSH,Luke Schenn,RD,34.0,3,,Signed,NHL,0.033,UFA,2750000,2750000,2750000,0,0,0,8474568.0
+NSH,Tyson Barrie,RD,32.0,1,,Trade,NHL,0.054000000000000006,UFA,4500000,0,0,0,0,0,8475197.0
+NSH,Ryan McDonagh,LD,34.0,3,NTC,Trade,NHL,0.081,UFA,6750000,6750000,6750000,0,0,0,8474151.0
+NSH,Roman Josi,LD,33.0,5,NMC,Draft,NHL,0.10800000000000001,UFA,9059000,9059000,9059000,9059000,9059000,0,8474600.0
+NSH,Liam Foudy,"LW, C",23.0,1,,Waivers claim,NHL,0.009000000000000001,RFA,762500,0,0,0,0,0,8480853.0
+NSH,Cole Smith,"RW, LW",28.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8482062.0
+NSH,Kiefer Sherwood,"LW, RW",28.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8480748.0
+NSH,Michael McCarron,"RW, C",28.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8477446.0
+NSH,Luke Evangelista,RW,21.0,2,ELC,Draft,NHL,0.01,RFA,797500,797500,0,0,0,0,8482146.0
+NSH,Juuso Parssinen,C,22.0,1,ELC,Draft,NHL,0.01,RFA,850833,0,0,0,0,0,8481704.0
+NSH,Gustav Nyquist,"LW, RW",34.0,2,,Signed,NHL,0.038,UFA,3185000,3185000,0,0,0,0,8474679.0
+NSH,Ryan O'Reilly,C,32.0,4,,Signed,NHL,0.054000000000000006,UFA,4500000,4500000,4500000,4500000,0,0,8475158.0
+NSH,Filip Forsberg,LW,29.0,7,NMC,Trade,NHL,0.102,UFA,8500000,8500000,8500000,8500000,8500000,8500000,8476887.0
+NSH,Philip Tomasino,"LW, RW",22.0,1,ELC,Draft,NHL,0.01,RFA,863333,0,0,0,0,0,8481577.0
+NSH,Yakov Trenin,"LW, C",26.0,1,,Draft,NHL,0.02,UFA,1700000,0,0,0,0,0,8478508.0
+NYI,Ilya Sorokin,G,28.0,9,,Draft,NHL,0.048,UFA,4000000,8250000,8250000,8250000,8250000,8250000,8478009.0
+NYI,Samuel Bolduc,LD,22.0,2,,Draft,NHL,0.01,RFA,800000,800000,0,0,0,0,8481541.0
+NYI,Mike Reilly,LD,30.0,1,,Waivers claim,NHL,0.012,UFA,1000000,0,0,0,0,0,8476422.0
+NYI,Alexander Romanov,LD,23.0,2,,Trade,NHL,0.03,RFA,2500000,2500000,0,0,0,0,8481014.0
+NYI,Scott Mayfield,RD,31.0,7,NTC,Signed,NHL,0.042,UFA,3500000,3500000,3500000,3500000,3500000,3500000,8476429.0
+NYI,Noah Dobson,RD,23.0,2,,Draft,NHL,0.048,RFA,4000000,4000000,0,0,0,0,8480865.0
+NYI,Ryan Pulock,RD,29.0,7,NTC,Draft,NHL,0.07400000000000001,UFA,6150000,6150000,6150000,6150000,6150000,6150000,8477506.0
+NYI,Hudson Fasching,RW,28.0,2,,Signed,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0,8477392.0
+NYI,Julien Gauthier,RW,26.0,2,,Signed,NHL,0.009000000000000001,UFA,787500,787500,0,0,0,0,8479328.0
+NYI,Grant Hutton,RD,28.0,2,,Signed,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0,8480306.0
+NYI,Simon Holmstrom,RW,22.0,1,ELC,Draft,NHL,0.01,RFA,863333,0,0,0,0,0,8481601.0
+NYI,Matt Martin,"LW, RW",34.0,1,,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0,8474709.0
+NYI,Cal Clutterbuck,RW,36.0,1,,Trade,NHL,0.021,UFA,1750000,0,0,0,0,0,8473504.0
+NYI,Casey Cizikas,C,32.0,4,,Signed,NHL,0.03,UFA,2500000,2500000,2500000,2500000,0,0,8475231.0
+NYI,Pierre Engvall,"RW, LW",27.0,7,M-NTC,Signed,NHL,0.036000000000000004,UFA,3000000,3000000,3000000,3000000,3000000,3000000,8478115.0
+NYI,Kyle Palmieri,"RW, LW",32.0,2,M-NTC,Signed,NHL,0.06,UFA,5000000,5000000,0,0,0,0,8475151.0
+NYI,Jean-Gabriel Pageau,C,31.0,3,M-NTC,Trade,NHL,0.06,UFA,5000000,5000000,5000000,0,0,0,8476419.0
+NYI,Brock Nelson,"C, LW",32.0,2,M-NTC,Draft,NHL,0.07200000000000001,UFA,6000000,6000000,0,0,0,0,8475754.0
+NYI,Anders Lee,"LW, C",33.0,3,NTC,Signed,NHL,0.084,UFA,7000000,7000000,7000000,0,0,0,8475314.0
+NYI,Oliver Wahlstrom,RW,23.0,1,,Draft,NHL,0.01,RFA,874125,0,0,0,0,0,8480789.0
+NYI,Sebastian Aho,LD,27.0,1,,Draft,IR,0.01,UFA,825000,0,0,0,0,0,8480222.0
+NYI,Semyon Varlamov,G,35.0,4,35+NTC,Signed,NHL,0.033,UFA,2750000,2750000,2750000,2750000,0,0,8473575.0
+NYI,Bo Horvat,C,28.0,8,NTC,Trade,NHL,0.102,UFA,8500000,8500000,8500000,8500000,8500000,8500000,8477500.0
+NYI,Mathew Barzal,"C, RW",26.0,8,,Draft,NHL,0.11,UFA,9150000,9150000,9150000,9150000,9150000,9150000,8478445.0
+NYR,Artemi Panarin,LW,32.0,3,NMC,Signed,NHL,0.139,UFA,11642857,11642857,11642857,0,0,0,8478550.0
+NYR,Mika Zibanejad,C,30.0,7,NMC,Trade,NHL,0.102,UFA,8500000,8500000,8500000,8500000,8500000,8500000,8476459.0
+NYR,Barclay Goodrow,"C, LW",30.0,4,M-NTC,Trade,NHL,0.044000000000000004,UFA,3641667,3641667,3641667,3641667,0,0,8476624.0
+NYR,Vincent Trocheck,"C, RW",30.0,6,NMC,Signed,NHL,0.067,UFA,5625000,5625000,5625000,5625000,5625000,5625000,8476389.0
+NYR,Chris Kreider,LW,32.0,4,NMC,Draft,NHL,0.078,UFA,6500000,6500000,6500000,6500000,0,0,8475184.0
+NYR,Alexis Lafreniere,"LW, RW",22.0,2,,Draft,NHL,0.027999999999999997,RFA,2325000,2325000,0,0,0,0,8482109.0
+NYR,Will Cuylle,LW,21.0,2,ELC,Draft,NHL,0.01,RFA,828333,828333,0,0,0,0,8482157.0
+NYR,Blake Wheeler,"RW, C",37.0,1,35+NTC,Signed,NHL,0.01,UFA,800000,0,0,0,0,0,8471218.0
+NYR,Nick Bonino,"C, LW",35.0,1,35+,Signed,NHL,0.01,UFA,800000,0,0,0,0,0,8474009.0
+NYR,Jimmy Vesey,"RW, LW",30.0,2,,Signed,NHL,0.01,UFA,800000,800000,0,0,0,0,8476918.0
+NYR,Jacob Trouba,RD,29.0,3,NMC,Trade,NHL,0.096,UFA,8000000,8000000,8000000,0,0,0,8476885.0
+NYR,K'Andre Miller,LD,23.0,2,,Draft,NHL,0.046,RFA,3872000,3872000,0,0,0,0,8480817.0
+NYR,Ryan Lindgren,LD,25.0,1,,Trade,NHL,0.036000000000000004,RFA,3000000,0,0,0,0,0,8479324.0
+NYR,Tyler Pitlick,RW,32.0,1,,Signed,NHL,0.009000000000000001,UFA,787500,0,0,0,0,0,8475752.0
+NYR,Braden Schneider,RD,22.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8482073.0
+NYR,Jonathan Quick,G,37.0,1,35+M-NTC,Signed,NHL,0.01,UFA,825000,0,0,0,0,0,8471734.0
+NYR,Zachary Jones,LD,23.0,2,,Draft,NHL,0.01,RFA,812500,812500,0,0,0,0,8481708.0
+NYR,Erik Gustafsson,LD,31.0,1,,Signed,NHL,0.01,UFA,825000,0,0,0,0,0,8476979.0
+NYR,Igor Shesterkin,G,27.0,2,M-NTC,Draft,NHL,0.068,UFA,5666667,5666667,0,0,0,0,8478048.0
+OTT,Drake Batherson,RW,25.0,4,,Draft,NHL,0.06,UFA,4975000,4975000,4975000,4975000,0,0,8480208.0
+OTT,Vladimir Tarasenko,RW,31.0,1,NTC,Signed,NHL,0.06,UFA,5000000,0,0,0,0,0,8475765.0
+OTT,Claude Giroux,"RW, C",35.0,2,NMC,Signed,NHL,0.078,UFA,6500000,6500000,0,0,0,0,8473512.0
+OTT,Joshua Norris,C,24.0,7,,Trade,NHL,0.095,UFA,7950000,7950000,7950000,7950000,7950000,7950000,8480064.0
+OTT,Mathieu Joseph,"LW, RW",26.0,3,,Trade,NHL,0.035,UFA,2950000,2950000,2950000,0,0,0,8478472.0
+OTT,Dominik Kubalik,"LW, RW",28.0,1,,Trade,NHL,0.03,UFA,2500000,0,0,0,0,0,8477330.0
+OTT,Matthew Highmore,"LW, RW",27.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8478146.0
+OTT,Tim Stutzle,C,21.0,8,,Draft,NHL,0.1,UFA,8350000,8350000,8350000,8350000,8350000,8350000,8482116.0
+OTT,Mark Kastelic,"C, RW",24.0,2,,Draft,IR,0.01,RFA,835000,835000,0,0,0,0,8480355.0
+OTT,Rourke Chartier,C,27.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8478078.0
+OTT,Ridly Greig,"C, LW",21.0,2,ELC,Draft,IR,0.01,RFA,863333,863333,0,0,0,0,8482092.0
+OTT,Joonas Korpisalo,G,29.0,5,M-NTC,Signed,NHL,0.048,UFA,4000000,4000000,4000000,4000000,4000000,0,8476914.0
+OTT,Jacob Bernard-Docker,RD,23.0,2,,Draft,NHL,0.01,RFA,805000,805000,0,0,0,0,8480879.0
+OTT,Jake Sanderson,LD,21.0,9,ELC,Draft,NHL,0.011000000000000001,UFA,925000,8050000,8050000,8050000,8050000,8050000,8482105.0
+OTT,Travis Hamonic,RD,33.0,2,NMC,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,0,0,0,0,8474612.0
+OTT,Erik Brannstrom,LD/RD,24.0,1,,Trade,NHL,0.024,RFA,2000000,0,0,0,0,0,8480073.0
+OTT,Artem Zub,RD,28.0,4,M-NTC,Signed,NHL,0.055,UFA,4600000,4600000,4600000,4600000,0,0,8482245.0
+OTT,Jakob Chychrun,LD/RD,25.0,2,M-NTC,Trade,NHL,0.055,UFA,4600000,4600000,0,0,0,0,8479345.0
+OTT,Parker Kelly,"LW, C",24.0,1,,Signed,NHL,0.009000000000000001,RFA,762500,0,0,0,0,0,8480448.0
+OTT,Zack MacEwen,"RW, C",27.0,3,,Signed,NHL,0.009000000000000001,UFA,775000,775000,775000,0,0,0,8479772.0
+OTT,Anton Forsberg,G,31.0,2,,Waivers claim,NHL,0.033,UFA,2750000,2750000,0,0,0,0,8476341.0
+OTT,Brady Tkachuk,LW,24.0,5,,Draft,NHL,0.098,UFA,8205714,8205714,8205714,8205714,8205714,0,8480801.0
+PHI,Garnet Hathaway,"RW, LW",32.0,2,,Signed,NHL,0.027999999999999997,UFA,2375000,2375000,0,0,0,0,8477903.0
+PHI,Ryan Ellis,RD,32.0,4,,Trade,IR,0.075,UFA,6250000,6250000,6250000,6250000,0,0,8475176.0
+PHI,Samuel Ersson,G,24.0,3,ELC,Draft,NHL,0.01,RFA,859167,1450000,1450000,0,0,0,8481035.0
+PHI,Carter Hart,G,25.0,1,,Draft,NHL,0.048,RFA,3979000,0,0,0,0,0,8479394.0
+PHI,Louis Belpedio,RD,27.0,2,,Signed,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0,
+PHI,Yegor Zamula,LD/RD,23.0,1,,Signed,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8481178.0
+PHI,Marc Staal,LD,36.0,1,35+,Signed,NHL,0.013000000000000001,UFA,1100000,0,0,0,0,0,8471686.0
+PHI,Cam York,LD/RD,22.0,2,,Draft,NHL,0.019,RFA,1600000,1600000,0,0,0,0,8481546.0
+PHI,Sean Walker,LD/RD,29.0,1,,Trade,NHL,0.032,UFA,2650000,0,0,0,0,0,8480336.0
+PHI,Rasmus Ristolainen,RD,29.0,4,,Trade,NHL,0.061,UFA,5100000,5100000,5100000,5100000,0,0,8477499.0
+PHI,Travis Sanheim,LD,27.0,8,NTC,Draft,NHL,0.075,UFA,6250000,6250000,6250000,6250000,6250000,6250000,8477948.0
+PHI,Bobby Brink,RW,22.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,925000,0,0,0,0,0,8481553.0
+PHI,Ryan Poehling,"LW, C",24.0,1,,Signed,NHL,0.017,RFA,1400000,0,0,0,0,0,8480068.0
+PHI,Owen Tippett,RW,24.0,1,,Trade,NHL,0.018000000000000002,RFA,1500000,0,0,0,0,0,8480015.0
+PHI,Nicolas Deslauriers,"LW, RW",32.0,3,M-NTC,Signed,NHL,0.021,UFA,1750000,1750000,1750000,0,0,0,8475235.0
+PHI,Morgan Frost,C,24.0,2,,Draft,NHL,0.025,RFA,2100000,2100000,0,0,0,0,8480028.0
+PHI,Noah Cates,"C, LW",24.0,2,,Draft,NHL,0.031,RFA,2625000,2625000,0,0,0,0,8480220.0
+PHI,Scott Laughton,"LW, C",29.0,3,,Draft,NHL,0.036000000000000004,UFA,3000000,3000000,3000000,0,0,0,8476872.0
+PHI,Joel Farabee,"LW, RW",23.0,5,,Draft,NHL,0.06,UFA,5000000,5000000,5000000,5000000,5000000,0,8480797.0
+PHI,Travis Konecny,"RW, LW",26.0,2,,Draft,NHL,0.066,UFA,5500000,5500000,0,0,0,0,8478439.0
+PHI,Cam Atkinson,"RW, LW",34.0,2,M-NTC,Trade,NHL,0.07,UFA,5875000,5875000,0,0,0,0,8474715.0
+PHI,Sean Couturier,C,30.0,7,NMC,Draft,NHL,0.09300000000000001,UFA,7750000,7750000,7750000,7750000,7750000,7750000,8476461.0
+PHI,Tyson Foerster,"RW, C",21.0,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0,8482159.0
+PHI,Nick Seeler,LD/RD,30.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8476372.0
+PIT,Noel Acciari,"C, RW",31.0,3,M-NTC,Signed,NHL,0.024,UFA,2000000,2000000,2000000,0,0,0,8478569.0
+PIT,Reilly Smith,"LW, RW",32.0,2,M-NTC,Trade,NHL,0.06,UFA,5000000,5000000,0,0,0,0,8475191.0
+PIT,Matt Nieto,"LW, RW",31.0,2,,Signed,NHL,0.011000000000000001,UFA,900000,900000,0,0,0,0,8476442.0
+PIT,Vinnie Hinostroza,"RW, LW",29.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8476994.0
+PIT,Radim Zohorna,"C, LW, RW",27.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8482241.0
+PIT,Lars Eller,C,34.0,2,,Signed,NHL,0.028999999999999998,UFA,2450000,2450000,0,0,0,0,8474189.0
+PIT,Jeff Carter,"C, RW",38.0,1,35+NMC,Trade,NHL,0.037000000000000005,UFA,3125000,0,0,0,0,0,8470604.0
+PIT,Drew O'Connor,LW,25.0,2,,Signed,NHL,0.011000000000000001,UFA,925000,925000,0,0,0,0,8482055.0
+PIT,Bryan Rust,"RW, LW",31.0,5,NMC,Draft,NHL,0.061,UFA,5125000,5125000,5125000,5125000,5125000,0,8475810.0
+PIT,Evgeni Malkin,C,37.0,3,35+NMC,Draft,NHL,0.073,UFA,6100000,6100000,6100000,0,0,0,8471215.0
+PIT,Sidney Crosby,C,36.0,2,NMC,Draft,NHL,0.10400000000000001,UFA,8700000,8700000,0,0,0,0,8471675.0
+PIT,Erik Karlsson,RD,33.0,4,RSNMC,Trade,NHL,0.12,UFA,10000000,10000000,10000000,10000000,0,0,8474578.0
+PIT,Jake Guentzel,"LW, RW",29.0,1,M-NTC,Draft,NHL,0.07200000000000001,UFA,6000000,0,0,0,0,0,8477404.0
+PIT,Kris Letang,RD,36.0,5,35+NMC,Draft,NHL,0.073,UFA,6100000,6100000,6100000,6100000,6100000,0,8471724.0
+PIT,Dmitri Samorukov,LD,24.0,1,,Signed,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8480041.0
+PIT,Marcus Pettersson,LD,27.0,2,M-NTC,Trade,NHL,0.048,UFA,4025175,4025175,0,0,0,0,8477969.0
+PIT,Chad Ruhwedel,RD,33.0,1,,Signed,IR,0.01,UFA,800000,0,0,0,0,0,8477244.0
+PIT,Pierre-Olivier Joseph,LD,24.0,1,,Trade,IR,0.01,RFA,825000,0,0,0,0,0,8480058.0
+PIT,Alex Nedeljkovic,G,27.0,1,,Signed,NHL,0.018000000000000002,UFA,1500000,0,0,0,0,0,8477968.0
+PIT,Tristan Jarry,G,28.0,5,M-NTC,Signed,NHL,0.064,UFA,5375000,5375000,5375000,5375000,5375000,0,8477465.0
+PIT,Ryan Shea,LD,26.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8478854.0
+PIT,John Ludvig,LD,23.0,2,,Waivers claim,NHL,0.009000000000000001,RFA,775000,775000,0,0,0,0,8481206.0
+PIT,Ryan Graves,LD,28.0,6,M-NTC,Signed,NHL,0.054000000000000006,UFA,4500000,4500000,4500000,4500000,4500000,4500000,8477435.0
+SEA,Philipp Grubauer,G,32.0,4,NTC,Signed,NHL,0.071,UFA,5900000,5900000,5900000,5900000,0,0,8475831.0
+SEA,Jaycob Megna,LD,30.0,1,,Trade,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8477034.0
+SEA,William Borgen,RD,26.0,2,,Expansion,NHL,0.032,UFA,2700000,2700000,0,0,0,0,8478840.0
+SEA,Justin Schultz,RD,33.0,1,M-NTC,Signed,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0,8474602.0
+SEA,Brian Dumoulin,LD,32.0,2,M-NTC,Signed,NHL,0.038,UFA,3150000,3150000,0,0,0,0,8475208.0
+SEA,Adam Larsson,RD,31.0,2,M-NTC,Expansion,NHL,0.048,UFA,4000000,4000000,0,0,0,0,8476457.0
+SEA,Jamie Oleksiak,LD/RD,30.0,3,NTC,Expansion,NHL,0.055,UFA,4600000,4600000,4600000,0,0,0,8476467.0
+SEA,Vince Dunn,LD/RD,27.0,4,,Expansion,NHL,0.08800000000000001,UFA,7350000,7350000,7350000,7350000,0,0,8478407.0
+SEA,Andrew Poturalski,C,29.0,1,,Signed,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8479249.0
+SEA,Marian Studenic,"LW, RW",25.0,1,,Signed,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8480226.0
+SEA,Joey Daccord,G,27.0,2,,Expansion,NHL,0.013999999999999999,UFA,1200000,1200000,0,0,0,0,8478916.0
+SEA,Pierre-Edouard Bellemare,"C, LW",38.0,1,35+,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8477930.0
+SEA,Matthew Beniers,C,21.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,897500,0,0,0,0,0,8482665.0
+SEA,Eeli Tolvanen,"LW, RW",24.0,1,,Waivers claim,NHL,0.017,RFA,1450000,0,0,0,0,0,8480009.0
+SEA,Kailer Yamamoto,RW,25.0,1,,Signed,NHL,0.018000000000000002,RFA,1500000,0,0,0,0,0,8479977.0
+SEA,Brandon Tanev,"LW, RW",31.0,2,M-NTC,Expansion,NHL,0.042,UFA,3500000,3500000,0,0,0,0,8479293.0
+SEA,Alexander Wennberg,C,29.0,1,M-NTC,Signed,NHL,0.054000000000000006,UFA,4500000,0,0,0,0,0,8477505.0
+SEA,Jared McCann,"LW, C",27.0,4,M-NTC,Expansion,NHL,0.06,UFA,5000000,5000000,5000000,5000000,0,0,8477955.0
+SEA,Yanni Gourde,"C, LW, RW",31.0,2,M-NTC,Expansion,NHL,0.062,UFA,5166666,5166666,0,0,0,0,8476826.0
+SEA,Oliver Bjorkstrand,"RW, LW",28.0,3,M-NTC,Trade,NHL,0.065,UFA,5400000,5400000,5400000,0,0,0,8477416.0
+SEA,Jaden Schwartz,LW,31.0,3,NMC,Signed,NHL,0.066,UFA,5500000,5500000,5500000,0,0,0,8475768.0
+SEA,Jordan Eberle,RW,33.0,1,M-NTC,Expansion,NHL,0.066,UFA,5500000,0,0,0,0,0,8474586.0
+SEA,Tye Kartye,LW,22.0,2,ELC,Signed,NHL,0.01,RFA,859167,859167,0,0,0,0,8481789.0
+SEA,Andre Burakovsky,"RW, LW",28.0,4,M-NTC,Signed,IR,0.066,UFA,5500000,5500000,5500000,5500000,0,0,8477444.0
+SJS,Mario Ferraro,LD,25.0,3,,Draft,NHL,0.039,UFA,3250000,3250000,3250000,0,0,0,8479983.0
+SJS,Matthew Benning,RD,29.0,3,,Signed,NHL,0.015,UFA,1250000,1250000,1250000,0,0,0,8476988.0
+SJS,Nikolai Knyzhov,LD/RD,25.0,2,,Signed,NHL,0.015,UFA,1250000,1250000,0,0,0,0,8481812.0
+SJS,Kyle Burroughs,LD/RD,28.0,3,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,1100000,0,0,0,8477335.0
+SJS,Calen Addison,RD,23.0,1,,Trade,NHL,0.01,RFA,825000,0,0,0,0,0,8480884.0
+SJS,Nikita Okhotiuk,LD,22.0,1,ELC,Trade,NHL,0.009000000000000001,RFA,789167,0,0,0,0,0,8481537.0
+SJS,Ty Emberson,RD,23.0,1,,Waivers claim,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8480834.0
+SJS,Jacob MacDonald,LD/RD,30.0,1,,Trade,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8479439.0
+SJS,Marc-Edouard Vlasic,LD/RD,36.0,3,M-NTC,Draft,NHL,0.084,UFA,7000000,7000000,7000000,0,0,0,8471709.0
+SJS,Kaapo Kahkonen,G,27.0,1,,Trade,NHL,0.033,UFA,2750000,0,0,0,0,0,8478039.0
+SJS,Logan Couture,C,34.0,4,M-NTC,Draft,IR,0.096,UFA,8000000,8000000,8000000,8000000,0,0,8474053.0
+SJS,Jan Rutta,LD/RD,33.0,2,,Trade,IR,0.033,UFA,2750000,2750000,0,0,0,0,8480172.0
+SJS,Alexander Barabanov,"RW, LW",29.0,1,M-NTC,Trade,IR,0.03,UFA,2500000,0,0,0,0,0,8482222.0
+SJS,Oskar Lindblom,LW,27.0,1,,Signed,IR,0.03,UFA,2500000,0,0,0,0,0,8478067.0
+SJS,Filip Zadina,"RW, LW",24.0,1,,Signed,IR,0.013000000000000001,RFA,1100000,0,0,0,0,0,8480821.0
+SJS,Mackenzie Blackwood,G,26.0,2,,Signed,NHL,0.027999999999999997,UFA,2350000,2350000,0,0,0,0,8478406.0
+SJS,Givani Smith,"LW, RW",25.0,2,,Signed,NHL,0.01,UFA,800000,800000,0,0,0,0,8479379.0
+SJS,Justin Bailey,RW,28.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8477473.0
+SJS,Mikael Granlund,"C, RW",31.0,2,,Trade,NHL,0.06,UFA,5000000,5000000,0,0,0,0,8475798.0
+SJS,Kevin Labanc,"RW, LW",27.0,1,,Draft,NHL,0.057,UFA,4725000,0,0,0,0,0,8478099.0
+SJS,Mike Hoffman,LW,34.0,1,,Trade,NHL,0.054000000000000006,UFA,4500000,0,0,0,0,0,8474884.0
+SJS,Anthony Duclair,"LW, RW",28.0,1,,Trade,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0,8477407.0
+SJS,Luke Kunin,"RW, C",25.0,1,,Trade,NHL,0.033,RFA,2750000,0,0,0,0,0,8479316.0
+SJS,Nico Sturm,C,28.0,2,,Signed,NHL,0.024,UFA,2000000,2000000,0,0,0,0,8481477.0
+SJS,Fabian Zetterlund,RW,24.0,2,,Trade,NHL,0.017,RFA,1450000,1450000,0,0,0,0,8480188.0
+SJS,William Eklund,"C, LW",21.0,3,ELC,Draft,NHL,0.01,RFA,863333,863333,863333,0,0,0,8482667.0
+SJS,Tomas Hertl,C,30.0,7,NMC,Draft,NHL,0.09699999999999999,UFA,8137500,8137500,8137500,8137500,8137500,8137500,8476881.0
+SJS,Ryan Carpenter,"RW, C",32.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8477846.0
+STL,Joel Hofer,G,23.0,2,,Draft,NHL,0.009000000000000001,RFA,775000,775000,0,0,0,0,8480981.0
+STL,Jordan Binnington,G,30.0,4,NTC,Draft,NHL,0.07200000000000001,UFA,6000000,6000000,6000000,6000000,0,0,8476412.0
+STL,Scott Perunovich,LD,25.0,1,,Draft,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8481059.0
+STL,Robert Bortuzzo,RD,34.0,1,,Trade,NHL,0.011000000000000001,UFA,950000,0,0,0,0,0,8474145.0
+STL,Tyler Tucker,LD/RD,23.0,2,,Draft,NHL,0.01,RFA,800000,800000,0,0,0,0,8481006.0
+STL,Robert Thomas,"C, RW",24.0,8,,Draft,NHL,0.09699999999999999,UFA,8125000,8125000,8125000,8125000,8125000,8125000,8480023.0
+STL,Brayden Schenn,"C, LW",32.0,5,NTC,Trade,NHL,0.078,UFA,6500000,6500000,6500000,6500000,6500000,0,8475170.0
+STL,Pavel Buchnevich,"LW, RW, C",28.0,2,M-NTC,Trade,NHL,0.069,UFA,5800000,5800000,0,0,0,0,8477402.0
+STL,Brandon Saad,"LW, RW",31.0,3,NTC,Signed,NHL,0.054000000000000006,UFA,4500000,4500000,4500000,0,0,0,8476438.0
+STL,Kevin Hayes,C,31.0,3,RSM-NTC,Trade,NHL,0.043,UFA,3571429,3571429,3571429,0,0,0,8475763.0
+STL,Kasperi Kapanen,RW,27.0,1,,Waivers claim,NHL,0.038,UFA,3200000,0,0,0,0,0,8477953.0
+STL,Jakub Vrana,LW,27.0,1,RS,Trade,NHL,0.031,UFA,2625000,0,0,0,0,0,8477944.0
+STL,Alexey Toropchenko,"LW, RW",24.0,2,,Draft,NHL,0.015,RFA,1250000,1250000,0,0,0,0,8480281.0
+STL,Jordan Kyrou,RW,25.0,8,,Draft,NHL,0.09699999999999999,UFA,8125000,8125000,8125000,8125000,8125000,8125000,8479385.0
+STL,Jake Neighbours,LW,21.0,2,ELC,Draft,NHL,0.01,RFA,835833,835833,0,0,0,0,8482089.0
+STL,Nikita Alexandrov,C,23.0,1,ELC,Draft,NHL,0.01,RFA,816667,0,0,0,0,0,8481543.0
+STL,Oskar Sundqvist,"RW, C",29.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8476897.0
+STL,Justin Faulk,RD,31.0,4,NTC,Trade,NHL,0.078,UFA,6500000,6500000,6500000,6500000,0,0,8475753.0
+STL,Torey Krug,LD,32.0,4,NTC,Signed,NHL,0.078,UFA,6500000,6500000,6500000,6500000,0,0,8476792.0
+STL,Colton Parayko,RD,30.0,7,NTC,Draft,NHL,0.078,UFA,6500000,6500000,6500000,6500000,6500000,6500000,8476892.0
+STL,Nick Leddy,LD,32.0,3,NTC,Signed,NHL,0.048,UFA,4000000,4000000,4000000,0,0,0,8475181.0
+STL,Samuel Blais,"LW, RW",27.0,1,,Trade,NHL,0.012,UFA,1000000,0,0,0,0,0,8478104.0
+STL,Marco Scandella,LD,33.0,1,M-NTC,Trade,NHL,0.039,UFA,3275000,0,0,0,0,0,8474618.0
+TBL,Conor Sheary,"LW, RW",31.0,3,NTC,Signed,IR,0.024,UFA,2000000,2000000,2000000,0,0,0,8477839.0
+TBL,Steven Stamkos,"LW, C",33.0,1,NMC,Draft,NHL,0.102,UFA,8500000,0,0,0,0,0,8474564.0
+TBL,Brayden Point,"C, RW",27.0,7,NMC,Draft,NHL,0.114,UFA,9500000,9500000,9500000,9500000,9500000,9500000,8478010.0
+TBL,Jonas Johansson,G,28.0,2,,Signed,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0,8477992.0
+TBL,Cole Koepke,"LW, RW",25.0,1,,Draft,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8481043.0
+TBL,Darren Raddysh,RD,27.0,3,,Signed,NHL,0.009000000000000001,UFA,762500,975000,975000,0,0,0,8478178.0
+TBL,Anthony Cirelli,"C, LW",26.0,8,,Draft,NHL,0.075,UFA,6250000,6250000,6250000,6250000,6250000,6250000,8478519.0
+TBL,Nicholas Paul,"C, LW",28.0,6,NTC,Trade,NHL,0.038,UFA,3150000,3150000,3150000,3150000,3150000,3150000,8477426.0
+TBL,Tanner Jeannot,"RW, LW",26.0,2,,Trade,NHL,0.032,UFA,2665000,2665000,0,0,0,0,8479661.0
+TBL,Brandon Hagel,LW,25.0,9,,Trade,NHL,0.018000000000000002,UFA,1500000,6500000,6500000,6500000,6500000,6500000,8479542.0
+TBL,Michael Eyssimont,"RW, C",27.0,2,,Trade,NHL,0.01,UFA,800000,800000,0,0,0,0,8479591.0
+TBL,Luke Glendening,"C, RW, LW",34.0,2,,Signed,NHL,0.01,UFA,800000,800000,0,0,0,0,8476822.0
+TBL,Tyler Motte,"LW, RW",28.0,1,,Signed,NHL,0.01,UFA,800000,0,0,0,0,0,8477353.0
+TBL,Austin Watson,"RW, LW",31.0,1,,Signed,NHL,0.009000000000000001,UFA,776665,0,0,0,0,0,8475766.0
+TBL,Alex Barre-Boulet,"RW, LW",26.0,1,,Waivers claim,NHL,0.009000000000000001,UFA,758333,0,0,0,0,0,8479718.0
+TBL,Mikhail Sergachev,LD/RD,25.0,8,,Trade,NHL,0.102,UFA,8500000,8500000,8500000,8500000,8500000,8500000,8479410.0
+TBL,Victor Hedman,LD,32.0,2,M-NTC,Draft,NHL,0.094,UFA,7875000,7875000,0,0,0,0,8475167.0
+TBL,Erik Cernak,RD,26.0,8,,Trade,NHL,0.062,UFA,5200000,5200000,5200000,5200000,5200000,5200000,8478416.0
+TBL,Nick Perbix,RD,25.0,2,,Draft,NHL,0.013000000000000001,UFA,1125000,1125000,0,0,0,0,8480246.0
+TBL,Calvin De Haan,LD/RD,32.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8475177.0
+TBL,Haydn Fleury,LD/RD,27.0,1,,Signed,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8477938.0
+TBL,Andrei Vasilevskiy,G,29.0,5,NMC,Draft,NHL,0.114,UFA,9500000,9500000,9500000,9500000,9500000,0,8476883.0
+TBL,Nikita Kucherov,RW,30.0,4,NMC,Draft,NHL,0.114,UFA,9500000,9500000,9500000,9500000,0,0,8476453.0
+TOR,Joseph Woll,G,25.0,2,,Draft,NHL,0.009000000000000001,RFA,766667,766667,0,0,0,0,8479361.0
+TOR,Ilya Samsonov,G,26.0,1,,Signed,NHL,0.043,UFA,3550000,0,0,0,0,0,8478492.0
+TOR,Auston Matthews,C,26.0,5,NMC,Draft,NHL,0.139,UFA,11640250,13250000,13250000,13250000,13250000,0,8479318.0
+TOR,John Tavares,"C, LW",33.0,2,NMC,Signed,NHL,0.132,UFA,11000000,11000000,0,0,0,0,8475166.0
+TOR,Mitchell Marner,RW,26.0,2,NMC,Draft,NHL,0.131,UFA,10903000,10903000,0,0,0,0,8478483.0
+TOR,William Nylander,"RW, C",27.0,1,M-NTC,Draft,NHL,0.083,UFA,6962366,0,0,0,0,0,8477939.0
+TOR,Tyler Bertuzzi,"LW, RW",28.0,1,NMC,Signed,NHL,0.066,UFA,5500000,0,0,0,0,0,8477479.0
+TOR,Max Domi,"C, LW",28.0,1,M-NTC,Signed,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0,8477503.0
+TOR,David Kampf,C,28.0,4,M-NTC,Signed,NHL,0.028999999999999998,UFA,2400000,2400000,2400000,2400000,0,0,8480144.0
+TOR,Calle Jarnkrok,"LW, RW",32.0,3,M-NTC,Signed,NHL,0.025,UFA,2100000,2100000,2100000,0,0,0,8475714.0
+TOR,Ryan Reaves,RW,36.0,3,35+,Signed,NHL,0.016,UFA,1350000,1350000,1350000,0,0,0,8471817.0
+TOR,Matthew Knies,"LW, RW",21.0,2,ELC,Draft,NHL,0.011000000000000001,RFA,925000,925000,0,0,0,0,8482720.0
+TOR,Nicholas Robertson,"LW, RW",22.0,1,ELC,Draft,NHL,0.01,RFA,796667,0,0,0,0,0,8481582.0
+TOR,Noah Gregor,"LW, RW",25.0,1,,Signed,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8479393.0
+TOR,Bobby McMann,"LW, RW",27.0,1,,Signed,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8482259.0
+TOR,Morgan Rielly,LD,29.0,7,NMC,Draft,NHL,0.09,UFA,7500000,7500000,7500000,7500000,7500000,7500000,8476853.0
+TOR,TJ Brodie,LD/RD,33.0,1,M-NTC,Signed,NHL,0.06,UFA,5000000,0,0,0,0,0,8474673.0
+TOR,Jake McCabe,LD/RD,30.0,2,RSM-NTC,Trade,NHL,0.024,UFA,2000000,2000000,0,0,0,0,8476931.0
+TOR,Conor Timmins,RD,25.0,2,,Trade,NHL,0.013000000000000001,RFA,1100000,1100000,0,0,0,0,8479982.0
+TOR,Mark Giordano,LD,40.0,1,35+,Trade,NHL,0.01,UFA,800000,0,0,0,0,0,8470966.0
+TOR,Simon Benoit,LD,25.0,1,,Signed,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8481122.0
+TOR,William Lagesson,LD,27.0,1,,Signed,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8478021.0
+VAN,Akito Hirose,LD,24.0,2,,Signed,NHL,0.009000000000000001,RFA,787500,787500,0,0,0,0,8484254.0
+VAN,Mark Friedman,LD/RD,27.0,1,,Trade,NHL,0.009000000000000001,UFA,775000,0,0,0,0,0,8478017.0
+VAN,Noah Juulsen,RD,26.0,2,,Trade,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0,8478454.0
+VAN,Thatcher Demko,G,27.0,3,,Draft,NHL,0.06,UFA,5000000,5000000,5000000,0,0,0,8477967.0
+VAN,Casey DeSmith,G,32.0,1,,Trade,NHL,0.022000000000000002,UFA,1800000,0,0,0,0,0,8479193.0
+VAN,Pius Suter,"C, LW",27.0,2,,Signed,IR,0.019,UFA,1600000,1600000,0,0,0,0,8480459.0
+VAN,Cole McWard,RD,22.0,1,ELC,Signed,NHL,0.011000000000000001,10.2(c),922500,0,0,0,0,0,8484287.0
+VAN,Ian Cole,LD/RD,34.0,1,,Signed,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0,8474013.0
+VAN,Tyler Myers,RD,33.0,1,M-NTC,Signed,NHL,0.07200000000000001,UFA,6000000,0,0,0,0,0,8474574.0
+VAN,J.T. Miller,"C, LW, RW",30.0,7,NMC,Trade,NHL,0.096,UFA,8000000,8000000,8000000,8000000,8000000,8000000,8476468.0
+VAN,Elias Pettersson,"C, LW",25.0,1,,Draft,NHL,0.08800000000000001,RFA,7350000,0,0,0,0,0,8480012.0
+VAN,Brock Boeser,RW,26.0,2,,Draft,NHL,0.08,UFA,6650000,6650000,0,0,0,0,8478444.0
+VAN,Andrei Kuzmenko,"LW, RW",27.0,2,M-NTC,Signed,NHL,0.066,UFA,5500000,5500000,0,0,0,0,8483808.0
+VAN,Conor Garland,"RW, LW",27.0,3,,Trade,NHL,0.059000000000000004,UFA,4950000,4950000,4950000,0,0,0,8478856.0
+VAN,Ilya Mikheyev,"LW, RW",29.0,3,M-NTC,Signed,NHL,0.057,UFA,4750000,4750000,4750000,0,0,0,8481624.0
+VAN,Teddy Blueger,"C, LW",29.0,1,,Signed,NHL,0.023,UFA,1900000,0,0,0,0,0,8476927.0
+VAN,Sam Lafferty,"RW, C, LW",28.0,1,,Trade,NHL,0.013999999999999999,UFA,1150000,0,0,0,0,0,8478043.0
+VAN,Nils Hoglander,"LW, RW",22.0,2,,Draft,NHL,0.013000000000000001,RFA,1100000,1100000,0,0,0,0,8481535.0
+VAN,Nils Aman,C,23.0,3,ELC,Signed,NHL,0.011000000000000001,RFA,883750,825000,825000,0,0,0,8482496.0
+VAN,Dakota Joshua,LW,27.0,1,,Signed,NHL,0.01,UFA,825000,0,0,0,0,0,8478057.0
+VAN,Phillip Di Giuseppe,LW,30.0,2,,Signed,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0,8476858.0
+VAN,Quinn Hughes,LD,24.0,4,,Draft,NHL,0.094,UFA,7850000,7850000,7850000,7850000,0,0,8480800.0
+VAN,Filip Hronek,RD,26.0,1,,Trade,NHL,0.053,RFA,4400000,0,0,0,0,0,8479425.0
+VGK,Shea Theodore,LD/RD,28.0,2,M-NTC,Trade,IR,0.062,UFA,5200000,5200000,0,0,0,0,8477447.0
+VGK,Logan Thompson,G,26.0,2,,Signed,NHL,0.009000000000000001,UFA,766667,766667,0,0,0,0,8480313.0
+VGK,Adin Hill,G,27.0,2,M-NTC,Trade,NHL,0.059000000000000004,UFA,4900000,4900000,0,0,0,0,8478499.0
+VGK,Brayden Pachal,RD,24.0,2,,Signed,NHL,0.009000000000000001,RFA,775000,775000,0,0,0,0,8481167.0
+VGK,Kaedan Korczak,RD,22.0,1,ELC,Draft,NHL,0.009000000000000001,RFA,789167,0,0,0,0,0,8481527.0
+VGK,Ben Hutton,LD,30.0,1,,Signed,NHL,0.01,UFA,850000,0,0,0,0,0,8477018.0
+VGK,Nicolas Hague,LD,24.0,2,,Draft,NHL,0.027000000000000003,RFA,2294150,2294150,0,0,0,0,8479980.0
+VGK,Zach Whitecloud,RD,27.0,5,,Signed,NHL,0.033,UFA,2750000,2750000,2750000,2750000,2750000,0,8480727.0
+VGK,Brayden McNabb,LD,32.0,2,M-NTC,Expansion,NHL,0.034,UFA,2850000,2850000,0,0,0,0,8475188.0
+VGK,Alec Martinez,LD,36.0,1,M-NTC,Signed,NHL,0.063,UFA,5250000,0,0,0,0,0,8474166.0
+VGK,Alex Pietrangelo,RD,33.0,4,NMC,Signed,NHL,0.105,UFA,8800000,8800000,8800000,8800000,0,0,8474565.0
+VGK,Michael Amadio,"LW, C, RW",27.0,1,,Waivers claim,NHL,0.009000000000000001,UFA,762500,0,0,0,0,0,8478020.0
+VGK,Paul Cotter,"LW, C",24.0,3,,Draft,NHL,0.009000000000000001,RFA,775000,775000,775000,0,0,0,8481032.0
+VGK,Jack Eichel,C,27.0,3,NMC,Trade,NHL,0.12,UFA,10000000,10000000,10000000,0,0,0,8478403.0
+VGK,Mark Stone,RW,31.0,4,NMC,Trade,NHL,0.114,UFA,9500000,9500000,9500000,9500000,0,0,8475913.0
+VGK,William Karlsson,C,30.0,4,M-NTC,Expansion,NHL,0.071,UFA,5900000,5900000,5900000,5900000,0,0,8476448.0
+VGK,Jonathan Marchessault,"RW, LW",32.0,1,M-NTC,Expansion,NHL,0.06,UFA,5000000,0,0,0,0,0,8476539.0
+VGK,Ivan Barbashev,"LW, C",27.0,5,M-NTC,Trade,NHL,0.06,UFA,5000000,5000000,5000000,5000000,5000000,0,8477964.0
+VGK,Nicolas Roy,"C, RW",26.0,4,,Trade,NHL,0.036000000000000004,UFA,3000000,3000000,3000000,3000000,0,0,8478462.0
+VGK,Chandler Stephenson,"C, LW",29.0,1,,Trade,NHL,0.033,UFA,2750000,0,0,0,0,0,8476905.0
+VGK,Brett Howden,"C, LW",25.0,2,,Signed,NHL,0.023,UFA,1900000,1900000,0,0,0,0,8479353.0
+VGK,William Carrier,LW,28.0,1,,Expansion,NHL,0.017,UFA,1400000,0,0,0,0,0,8477478.0
+VGK,Keegan Kolesar,RW,26.0,2,,Trade,NHL,0.017,UFA,1400000,1400000,0,0,0,0,8478434.0
+VGK,Pavel Dorofeyev,"LW, RW",23.0,1,,Draft,NHL,0.01,RFA,825000,0,0,0,0,0,8481604.0
+WPG,Kyle Connor,LW,26.0,3,,Draft,NHL,0.086,UFA,7142857,7142857,7142857,0,0,0,8478398.0
+WPG,Mark Scheifele,C,30.0,8,NMC,Draft,NHL,0.073,UFA,6125000,8500000,8500000,8500000,8500000,8500000,8476460.0
+WPG,Nikolaj Ehlers,"RW, LW",27.0,2,M-NTC,Draft,NHL,0.07200000000000001,UFA,6000000,6000000,0,0,0,0,8477940.0
+WPG,Alex Iafallo,LW,29.0,2,,Trade,NHL,0.048,UFA,4000000,4000000,0,0,0,0,8480113.0
+WPG,Nino Niederreiter,"LW, RW",31.0,1,,Trade,NHL,0.048,UFA,4000000,0,0,0,0,0,8475799.0
+WPG,Mason Appleton,RW,27.0,2,,Trade,NHL,0.026000000000000002,UFA,2166667,2166667,0,0,0,0,8478891.0
+WPG,Vladislav Namestnikov,"LW, RW, C",31.0,2,,Signed,NHL,0.024,UFA,2000000,2000000,0,0,0,0,8476480.0
+WPG,Morgan Barron,"LW, C, RW",24.0,2,,Trade,NHL,0.016,RFA,1350000,1350000,0,0,0,0,8480289.0
+WPG,Cole Perfetti,"LW, C",21.0,1,ELC,Draft,NHL,0.011000000000000001,RFA,894167,0,0,0,0,0,8482149.0
+WPG,David Gustafsson,"LW, C",23.0,1,,Draft,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8481019.0
+WPG,Axel Jonsson-Fjallby,LW,25.0,2,,Signed,NHL,0.009000000000000001,UFA,775000,775000,0,0,0,0,8479536.0
+WPG,Joshua Morrissey,LD,28.0,5,NMC,Draft,NHL,0.075,UFA,6250000,6250000,6250000,6250000,6250000,0,8477504.0
+WPG,Nate Schmidt,LD/RD,32.0,2,M-NTC,Trade,NHL,0.071,UFA,5950000,5950000,0,0,0,0,8477220.0
+WPG,Brenden Dillon,LD,33.0,1,,Trade,NHL,0.047,UFA,3900000,0,0,0,0,0,8475455.0
+WPG,Dylan DeMelo,RD,30.0,1,M-NTC,Trade,NHL,0.036000000000000004,UFA,3000000,0,0,0,0,0,8476331.0
+WPG,Dylan Samberg,LD,24.0,2,,Draft,NHL,0.017,RFA,1400000,1400000,0,0,0,0,8480049.0
+WPG,Logan Stanley,LD,25.0,1,,Draft,NHL,0.012,RFA,1000000,0,0,0,0,0,8479378.0
+WPG,Declan Chisholm,LD/RD,23.0,1,,Draft,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8480990.0
+WPG,Connor Hellebuyck,G,30.0,8,NMC,Draft,NHL,0.07400000000000001,UFA,6166667,8500000,8500000,8500000,8500000,8500000,8476945.0
+WPG,Laurent Brossoit,G,30.0,1,,Signed,NHL,0.021,UFA,1750000,0,0,0,0,0,8476316.0
+WPG,Gabriel Vilardi,"RW, C",24.0,2,,Trade,IR,0.040999999999999995,RFA,3437500,3437500,0,0,0,0,8480014.0
+WPG,Rasmus Kupari,"C, LW, RW",23.0,2,,Trade,IR,0.012,RFA,1000000,1000000,0,0,0,0,8480845.0
+WPG,Neal Pionk,RD,28.0,2,M-NTC,Trade,NHL,0.07,UFA,5875000,5875000,0,0,0,0,8480145.0
+WPG,Adam Lowry,C,30.0,3,M-NTC,Draft,NHL,0.039,UFA,3250000,3250000,3250000,0,0,0,8476392.0
+WSH,Trevor van Riemsdyk,RD,32.0,3,,Signed,NHL,0.036000000000000004,UFA,3000000,3000000,3000000,0,0,0,8477845.0
+WSH,Martin Fehervary,LD/RD,24.0,3,,Draft,NHL,0.032,RFA,2675000,2675000,2675000,0,0,0,8480796.0
+WSH,Joel Edmundson,LD/RD,30.0,1,RSM-NTC,Trade,NHL,0.021,UFA,1750000,0,0,0,0,0,8476441.0
+WSH,Darcy Kuemper,G,33.0,4,M-NTC,Signed,NHL,0.063,UFA,5250000,5250000,5250000,5250000,0,0,8475311.0
+WSH,Alexander Alexeyev,LD/RD,24.0,2,,Draft,NHL,0.01,RFA,825000,825000,0,0,0,0,8480823.0
+WSH,Lucas Johansen,LD,26.0,1,,Draft,NHL,0.009000000000000001,RFA,762500,0,0,0,0,0,8479321.0
+WSH,Nick Jensen,RD,33.0,3,,Trade,NHL,0.049,UFA,4050000,4050000,4050000,0,0,0,8475324.0
+WSH,Rasmus Sandin,LD,23.0,1,,Trade,NHL,0.017,RFA,1400000,0,0,0,0,0,8480873.0
+WSH,John Carlson,RD,33.0,3,M-NTC,Draft,NHL,0.096,UFA,8000000,8000000,8000000,0,0,0,8474590.0
+WSH,Connor McMichael,"LW, C",22.0,1,ELC,Draft,NHL,0.01,RFA,863333,0,0,0,0,0,8481580.0
+WSH,Matthew Phillips,"RW, C",25.0,1,,Signed,NHL,0.009000000000000001,RFA,775000,0,0,0,0,0,8479547.0
+WSH,Aliaksei Protas,"RW, LW, C",22.0,1,ELC,Draft,NHL,0.009000000000000001,RFA,789167,0,0,0,0,0,8481656.0
+WSH,Charlie Lindgren,G,29.0,2,,Signed,NHL,0.013000000000000001,UFA,1100000,1100000,0,0,0,0,8479292.0
+WSH,Hendrix Lapierre,C,21.0,2,ELC,Draft,NHL,0.01,RFA,863333,863333,0,0,0,0,8482148.0
+WSH,Nicolas Aube-Kubel,RW,27.0,1,,Waivers claim,NHL,0.015,UFA,1225000,0,0,0,0,0,8477979.0
+WSH,Nic Dowd,C,33.0,2,,Signed,NHL,0.016,UFA,1300000,1300000,0,0,0,0,8475343.0
+WSH,Sonny Milano,"LW, RW",27.0,3,,Signed,NHL,0.023,UFA,1900000,1900000,1900000,0,0,0,8477947.0
+WSH,Dylan Strome,C,26.0,5,,Signed,NHL,0.06,UFA,5000000,5000000,5000000,5000000,5000000,0,8478440.0
+WSH,Tom Wilson,RW,29.0,8,M-NTC,Draft,NHL,0.062,UFA,5166667,6500000,6500000,6500000,6500000,6500000,8476880.0
+WSH,Anthony Mantha,"LW, RW",29.0,1,,Trade,NHL,0.068,UFA,5700000,0,0,0,0,0,8477511.0
+WSH,Beck Malenstyn,"C, LW",25.0,1,,Draft,NHL,0.009000000000000001,RFA,762500,0,0,0,0,0,8479359.0
+WSH,T.J. Oshie,RW,36.0,2,M-NTC,Trade,IR,0.069,UFA,5750000,5750000,0,0,0,0,8471698.0
+WSH,Alex Ovechkin,LW,38.0,3,"35+M-NTC, NMC",Draft,NHL,0.114,UFA,9500000,9500000,9500000,0,0,0,8471214.0
+WSH,Evgeny Kuznetsov,C,31.0,2,M-NTC,Draft,NHL,0.09300000000000001,UFA,7800000,7800000,0,0,0,0,8475744.0
