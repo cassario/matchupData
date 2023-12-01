@@ -1,8 +1,8 @@
 team,pos,num,cf_name,positions_played,age,handedness,ht,wt,player_id,player,dupe_names,drop,confirmed,w,l,starter
 COL,G,40,Alexandar Georgiev,G,27,L,"6'1""",178,8480382.0,Alexandar Georgiev,,,,,,
 COL,G,50,Ivan Prosvetov,G,24,L,"6'3""",161,8481031.0,Ivan Prosvetov,,,,,,
-CHI,G,34,Petr Mrazek,G,31,L,"6'1""",190,8475852.0,Petr Mrazek,,,,,,
 CHI,G,40,Arvid Soderblom,G,24,L,"6'3""",180,8482821.0,Arvid Soderblom,,,,,,
+CHI,G,34,Petr Mrazek,G,31,L,"6'1""",190,8475852.0,Petr Mrazek,,,,,,
 CBJ,G,90,Elvis Merzlikins,G,29,L,"6'3""",181,8478007.0,Elvis Merzlikins,,,,,,
 CBJ,G,30,Spencer Martin,G,28,L,"6'3""",205,8477484.0,Spencer Martin,,,,,,
 STL,G,50,Jordan Binnington,G,30,L,"6'1""",174,8476412.0,Jordan Binnington,,,,,,
@@ -55,10 +55,10 @@ DET,G,34,Alex Lyon,G,30,L,"6'1""",201,8479312.0,Alex Lyon,,,,,,
 DET,G,35,Ville Husso,G,28,L,"6'2""",205,8478024.0,Ville Husso,,,,,,
 BUF,G,1,Ukko-Pekka Luukkonen,G,24,L,"6'4""",190,8480045.0,Ukko-Pekka Luukkonen,,,,,,
 BUF,G,31,Eric Comrie,G,28,L,"6'1""",175,8477480.0,Eric Comrie,,,,,,
-OTT,G,70,Joonas Korpisalo,G,29,L,"6'3""",191,8476914.0,Joonas Korpisalo,,,,,,
+OTT,G,70,Joonas Korpisalo,G,29,L,"6'3""",191,8476914.0,Joonas Korpisalo,,,Confirmed Starter,5,5,starter
 OTT,G,31,Anton Forsberg,G,31,L,"6'3""",192,8476341.0,Anton Forsberg,,,,,,
+SJS,G,36,Kaapo Kahkonen,G,27,L,"6'2""",215,8478039.0,Kaapo Kahkonen,,,Confirmed Starter,2,6,starter
 SJS,G,29,Mackenzie Blackwood,G,26,L,"6'4""",225,8478406.0,Mackenzie Blackwood,,,,,,
-SJS,G,36,Kaapo Kahkonen,G,27,L,"6'2""",215,8478039.0,Kaapo Kahkonen,,,Projected Starter,2,6,starter
 DAL,G,41,Scott Wedgewood,G,31,L,"6'0""",194,8475809.0,Scott Wedgewood,,,,,,
 DAL,G,29,Jake Oettinger,G,24,L,"6'4""",205,8479979.0,Jake Oettinger,,,,,,
 MIN,G,32,Filip Gustavsson,G,25,L,"6'2""",185,8479406.0,Filip Gustavsson,,,,,,
