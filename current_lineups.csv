@@ -38,7 +38,6 @@ ARI,Alexander Kerfoot,3rd line,C,15,L,"5'10""",185,8477021.0,Arizona Coyotes
 ARI,Jason Zucker,3rd line,RW,16,L,"5'11""",192,8475722.0,Arizona Coyotes
 ARI,Juuso Valimaki,3rd pair,LD,4,L,"6'2""",212,8479976.0,Arizona Coyotes
 ARI,Michael Kesselring,3rd pair,RD,5,R,"6'4""",190,8480891.0,Arizona Coyotes
-ARI,Patrik Koch,3rd pair,LD,64,L,"6'1""",190,0.0,Arizona Coyotes
 ARI,Milos Kelemen,4th line,LW,21,L,"6'1""",163,8483597.0,Arizona Coyotes
 ARI,Liam O'Brien,4th line,RW,38,L,"6'1""",215,8477070.0,Arizona Coyotes
 ARI,Barrett Hayton,injured reserve,F,29.0,L,"6'1""",190.0,8480849.0,Arizona Coyotes
@@ -81,13 +80,13 @@ BUF,Dylan Cozens,2nd line,C,24,R,"6'3""",183,8481528.0,Buffalo Sabres
 BUF,JJ Peterka,2nd line,RW,77,L,"5'11""",192,8482175.0,Buffalo Sabres
 BUF,Owen Power,2nd pair,LD,25,L,"6'6""",214,8482671.0,Buffalo Sabres
 BUF,Henri Jokiharju,2nd pair,RD,10,R,"6'0""",195,8480035.0,Buffalo Sabres
-BUF,Tyson Jost,3rd line,LW,17,L,"5'11""",187,8479370.0,Buffalo Sabres
+BUF,Eric Robinson,3rd line,LW,,L,"6'2""",197,8480762.0,Buffalo Sabres
 BUF,Peyton Krebs,3rd line,C,19,L,"5'11""",180,8481522.0,Buffalo Sabres
 BUF,Kyle Okposo,3rd line,RW,21,R,"6'0""",216,8473449.0,Buffalo Sabres
 BUF,Connor Clifton,3rd pair,LD,75,R,"5'11""",175,8477365.0,Buffalo Sabres
 BUF,Erik Johnson,3rd pair,RD,6,R,"6'4""",225,8473446.0,Buffalo Sabres
 BUF,Isak Rosen,4th line,LW,63,L,"5'11""",156,8482765.0,Buffalo Sabres
-BUF,Brandon Biro,4th line,C,15,L,"5'11""",161,8482061.0,Buffalo Sabres
+BUF,Tyson Jost,4th line,C,17,L,"5'11""",187,8479370.0,Buffalo Sabres
 BUF,Victor Olofsson,4th line,RW,71,L,"5'11""",183,8478109.0,Buffalo Sabres
 BUF,Alex Tuch,injured reserve,F,89.0,R,"6'4""",220.0,8477949.0,Buffalo Sabres
 BUF,Jordan Greenway,injured reserve,F,12.0,L,"6'6""",225.0,8478413.0,Buffalo Sabres
@@ -122,9 +121,9 @@ CBJ,Boone Jenner,1st line,C,38,L,"6'2""",208,8476432.0,Columbus Blue Jackets
 CBJ,Justin Danforth,1st line,RW,17,R,"5'9""",185,8479941.0,Columbus Blue Jackets
 CBJ,Zach Werenski,1st pair,LD,8,L,"6'2""",212,8478460.0,Columbus Blue Jackets
 CBJ,Adam Boqvist,1st pair,RD,27,R,"5'11""",179,8480871.0,Columbus Blue Jackets
-CBJ,Alexandre Texier,2nd line,LW,42,L,"6'1""",192,8480074.0,Columbus Blue Jackets
+CBJ,Kent Johnson,2nd line,LW,91,L,"6'1""",168,8482660.0,Columbus Blue Jackets
 CBJ,Adam Fantilli,2nd line,C,11,L,"6'2""",195,8484166.0,Columbus Blue Jackets
-CBJ,Kent Johnson,2nd line,RW,91,L,"6'1""",168,8482660.0,Columbus Blue Jackets
+CBJ,Patrik Laine,2nd line,RW,29,R,"6'5""",206,8479339.0,Columbus Blue Jackets
 CBJ,Ivan Provorov,2nd pair,LD,9,L,"6'1""",201,8478500.0,Columbus Blue Jackets
 CBJ,Andrew Peeke,2nd pair,RD,2,R,"6'3""",194,8479369.0,Columbus Blue Jackets
 CBJ,Yegor Chinakhov,3rd line,LW,59,L,"6'0""",178,8482475.0,Columbus Blue Jackets
@@ -132,12 +131,11 @@ CBJ,Dmitri Voronkov,3rd line,C,10,L,"6'4""",190,8481716.0,Columbus Blue Jackets
 CBJ,Kirill Marchenko,3rd line,RW,86,R,"6'3""",187,8480893.0,Columbus Blue Jackets
 CBJ,Jake Bean,3rd pair,LD,22,L,"6'1""",186,8479402.0,Columbus Blue Jackets
 CBJ,David Jiricek,3rd pair,RD,55,R,"6'3""",189,8483460.0,Columbus Blue Jackets
-CBJ,Eric Robinson,4th line,LW,50,L,"6'2""",197,8480762.0,Columbus Blue Jackets
+CBJ,Alexandre Texier,4th line,LW,42,L,"6'1""",192,8480074.0,Columbus Blue Jackets
 CBJ,Sean Kuraly,4th line,C,7,L,"6'2""",213,8476374.0,Columbus Blue Jackets
 CBJ,Mathieu Olivier,4th line,RW,24,R,"6'2""",210,8479671.0,Columbus Blue Jackets
 CBJ,Jack Roslovic,injured reserve,F,96.0,R,"6'1""",187.0,8478458.0,Columbus Blue Jackets
 CBJ,Damon Severson,injured reserve,D,78.0,R,"6'2""",205.0,8476923.0,Columbus Blue Jackets
-CBJ,Patrik Laine,scratch,F,29.0,R,"6'5""",206.0,8479339.0,Columbus Blue Jackets
 CBJ,Cole Sillinger,scratch,F,4.0,L,"6'0""",197.0,8482705.0,Columbus Blue Jackets
 CBJ,Erik Gudbranson,scratch,D,44.0,R,"6'5""",217.0,8475790.0,Columbus Blue Jackets
 CGY,Andrew Mangiapane,1st line,LW,88,L,"5'10""",184,8478233.0,Calgary Flames
