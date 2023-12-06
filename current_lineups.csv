@@ -47,7 +47,6 @@ ARI,Jakub Voracek,injured reserve,F,,L,"6'2""",214.0,8474161.0,Arizona Coyotes
 ARI,Bryan Little,injured reserve,F,,R,"6'0""",191.0,8473412.0,Arizona Coyotes
 ARI,Travis Dermott,injured reserve,D,33.0,L,"6'0""",205.0,8478408.0,Arizona Coyotes
 ARI,Shea Weber,injured reserve,D,,R,"6'4""",230.0,8470642.0,Arizona Coyotes
-ARI,Ryan McGregor,scratch,F,37.0,L,"6'0""",170.0,0.0,Arizona Coyotes
 ARI,Travis Boyd,scratch,F,72.0,R,"6'0""",190.0,8476329.0,Arizona Coyotes
 ARI,Vladislav Kolyachonok,scratch,D,52.0,L,"6'1""",189.0,8481609.0,Arizona Coyotes
 BOS,Jake DeBrusk,1st line,LW,74,L,"6'0""",188,8478498.0,Boston Bruins
@@ -70,6 +69,7 @@ BOS,John Beecher,4th line,C,19,L,"6'3""",210,8481556.0,Boston Bruins
 BOS,Morgan Geekie,4th line,RW,39,R,"6'2""",168,8479987.0,Boston Bruins
 BOS,Milan Lucic,injured reserve,F,17.0,L,"6'3""",231.0,8473473.0,Boston Bruins
 BOS,Oskar Steen,scratch,F,62.0,R,"5'9""",187.0,8479546.0,Boston Bruins
+BOS,Ian Mitchell,scratch,D,14.0,R,"5'11""",175.0,8480070.0,Boston Bruins
 BUF,Jeff Skinner,1st line,LW,53,L,"5'11""",195,8475784.0,Buffalo Sabres
 BUF,Casey Mittelstadt,1st line,C,37,L,"6'1""",199,8479999.0,Buffalo Sabres
 BUF,Tage Thompson,1st line,RW,72,R,"6'6""",215,8479420.0,Buffalo Sabres
@@ -502,8 +502,9 @@ PHI,Rasmus Ristolainen,3rd pair,RD,55,R,"6'4""",220,8477499.0,Philadelphia Flyer
 PHI,Nicolas Deslauriers,4th line,LW,44,L,"6'3""",219,8475235.0,Philadelphia Flyers
 PHI,Ryan Poehling,4th line,C,25,L,"6'2""",204,8480068.0,Philadelphia Flyers
 PHI,Garnet Hathaway,4th line,RW,19,R,"6'3""",210,8477903.0,Philadelphia Flyers
+PHI,Noah Cates,injured reserve,F,27.0,L,"6'1""",170.0,8480220.0,Philadelphia Flyers
 PHI,Ryan Ellis,injured reserve,D,94.0,R,"5'10""",180.0,8475176.0,Philadelphia Flyers
-PHI,Noah Cates,scratch,F,27.0,L,"6'1""",170.0,8480220.0,Philadelphia Flyers
+PHI,Olle Lycksell,scratch,F,62.0,L,"5'10""",165.0,8480245.0,Philadelphia Flyers
 PHI,Marc Staal,scratch,D,18.0,L,"6'4""",209.0,8471686.0,Philadelphia Flyers
 PHI,Louis Belpedio,scratch,D,37.0,R,"5'11""",196.0,0.0,Philadelphia Flyers
 PIT,Jake Guentzel,1st line,LW,59,L,"5'11""",180,8477404.0,Pittsburgh Penguins
