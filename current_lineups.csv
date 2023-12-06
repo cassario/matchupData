@@ -120,7 +120,7 @@ CBJ,Johnny Gaudreau,1st line,LW,13,L,"5'9""",165,8476346.0,Columbus Blue Jackets
 CBJ,Boone Jenner,1st line,C,38,L,"6'2""",208,8476432.0,Columbus Blue Jackets
 CBJ,Justin Danforth,1st line,RW,17,R,"5'9""",185,8479941.0,Columbus Blue Jackets
 CBJ,Zach Werenski,1st pair,LD,8,L,"6'2""",212,8478460.0,Columbus Blue Jackets
-CBJ,Adam Boqvist,1st pair,RD,27,R,"5'11""",179,8480871.0,Columbus Blue Jackets
+CBJ,David Jiricek,1st pair,RD,55,R,"6'3""",189,8483460.0,Columbus Blue Jackets
 CBJ,Kent Johnson,2nd line,LW,91,L,"6'1""",168,8482660.0,Columbus Blue Jackets
 CBJ,Adam Fantilli,2nd line,C,11,L,"6'2""",195,8484166.0,Columbus Blue Jackets
 CBJ,Patrik Laine,2nd line,RW,29,R,"6'5""",206,8479339.0,Columbus Blue Jackets
@@ -130,13 +130,16 @@ CBJ,Yegor Chinakhov,3rd line,LW,59,L,"6'0""",178,8482475.0,Columbus Blue Jackets
 CBJ,Dmitri Voronkov,3rd line,C,10,L,"6'4""",190,8481716.0,Columbus Blue Jackets
 CBJ,Kirill Marchenko,3rd line,RW,86,R,"6'3""",187,8480893.0,Columbus Blue Jackets
 CBJ,Jake Bean,3rd pair,LD,22,L,"6'1""",186,8479402.0,Columbus Blue Jackets
-CBJ,David Jiricek,3rd pair,RD,55,R,"6'3""",189,8483460.0,Columbus Blue Jackets
+CBJ,Nick Blankenburg,3rd pair,RD,77,R,"5'9""",175,8483565.0,Columbus Blue Jackets
 CBJ,Alexandre Texier,4th line,LW,42,L,"6'1""",192,8480074.0,Columbus Blue Jackets
 CBJ,Sean Kuraly,4th line,C,7,L,"6'2""",213,8476374.0,Columbus Blue Jackets
 CBJ,Mathieu Olivier,4th line,RW,24,R,"6'2""",210,8479671.0,Columbus Blue Jackets
 CBJ,Jack Roslovic,injured reserve,F,96.0,R,"6'1""",187.0,8478458.0,Columbus Blue Jackets
+CBJ,Cole Sillinger,injured reserve,F,4.0,L,"6'0""",197.0,8482705.0,Columbus Blue Jackets
 CBJ,Damon Severson,injured reserve,D,78.0,R,"6'2""",205.0,8476923.0,Columbus Blue Jackets
-CBJ,Cole Sillinger,scratch,F,4.0,L,"6'0""",197.0,8482705.0,Columbus Blue Jackets
+CBJ,Adam Boqvist,injured reserve,D,27.0,R,"5'11""",179.0,8480871.0,Columbus Blue Jackets
+CBJ,Elvis Merzlikins,injured reserve,G,90.0,L,"6'3""",181.0,8478007.0,Columbus Blue Jackets
+CBJ,Emil Bemstrom,scratch,F,52.0,R,"6'0""",190.0,8480205.0,Columbus Blue Jackets
 CBJ,Erik Gudbranson,scratch,D,44.0,R,"6'5""",217.0,8475790.0,Columbus Blue Jackets
 CGY,Andrew Mangiapane,1st line,LW,88,L,"5'10""",184,8478233.0,Calgary Flames
 CGY,Elias Lindholm,1st line,C,28,R,"6'1""",195,8477496.0,Calgary Flames
@@ -550,8 +553,7 @@ SEA,Brandon Tanev,4th line,LW,13,L,"6'0""",180,8479293.0,Seattle Kraken
 SEA,Pierre-Edouard Bellemare,4th line,C,41,L,"6'0""",198,8477930.0,Seattle Kraken
 SEA,Kailer Yamamoto,4th line,RW,56,R,"5'8""",153,8479977.0,Seattle Kraken
 SEA,Jaden Schwartz,injured reserve,F,17.0,L,"5'10""",190.0,8475768.0,Seattle Kraken
-SEA,Max McCormick,scratch,F,71.0,L,"5'11""",188.0,8476323.0,Seattle Kraken
-SEA,Marian Studenic,scratch,F,43.0,L,"6'0""",165.0,8480226.0,Seattle Kraken
+SEA,Devin Shore,scratch,F,94.0,L,"6'1""",206.0,8476913.0,Seattle Kraken
 SEA,Jaycob Megna,scratch,D,44.0,L,"6'6""",221.0,8477034.0,Seattle Kraken
 SEA,Ryker Evans,scratch,D,39.0,L,"6'0""",192.0,0.0,Seattle Kraken
 SJS,William Eklund,1st line,LW,72,L,"5'10""",176,8482667.0,San Jose Sharks
