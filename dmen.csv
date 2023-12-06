@@ -2,10 +2,10 @@ team,line,LD,player_id_LD,num_LD,RD,player_id_RD,num_RD,full
 ANA,1st pair,4 Cam Fowler,8475764.0,4,67 Tristan Luneau,8483482.0,67,Anaheim Ducks
 ANA,2nd pair,34 Pavel Mintyukov,8483490.0,34,46 Ilya Lyubushkin,8480950.0,46,Anaheim Ducks
 ANA,3rd pair,60 Jackson LaCombe,8481605.0,60,7 Radko Gudas,8475462.0,7,Anaheim Ducks
-ARI,1st pair,90 J.J. Moser,8482655.0,90,50 Sean Durzi,8480434.0,50,Arizona Coyotes
+ARI,1st pair,90 J.J. Moser,8482655.0,90,51 Troy Stecher,8479442.0,51,Arizona Coyotes
 ARI,2nd pair,24 Matt Dumba,8476856.0,24,3 Josh Brown,8477384.0,3,Arizona Coyotes
-ARI,3rd pair,51 Troy Stecher,8479442.0,51,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
 ARI,3rd pair,4 Juuso Valimaki,8479976.0,4,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
+ARI,3rd pair,64 Patrik Koch,0.0,64,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
 BOS,1st pair,48 Matt Grzelcyk,8476891.0,48,73 Charlie McAvoy,8479325.0,73,Boston Bruins
 BOS,2nd pair,27 Hampus Lindholm,8476854.0,27,25 Brandon Carlo,8478443.0,25,Boston Bruins
 BOS,3rd pair,28 Derek Forbort,8475762.0,28,12 Kevin Shattenkirk,8474031.0,12,Boston Bruins
@@ -23,7 +23,7 @@ CGY,2nd pair,55 Noah Hanifin,8478396.0,55,8 Chris Tanev,8475690.0,8,Calgary Flam
 CGY,3rd pair,98 Ilya Solovyov,8482470.0,98,82 Jordan Oesterle,8477851.0,82,Calgary Flames
 CHI,1st pair,72 Alex Vlasic,8481568.0,72,4 Seth Jones,8477495.0,4,Chicago Blackhawks
 CHI,2nd pair,55 Kevin Korchinski,8483466.0,55,5 Connor Murphy,8476473.0,5,Chicago Blackhawks
-CHI,3rd pair,25 Jarred Tinordi,8475797.0,25,22 Nikita Zaitsev,8479458.0,22,Chicago Blackhawks
+CHI,3rd pair,22 Nikita Zaitsev,8479458.0,22,46 Louis Crevier,8481806.0,46,Chicago Blackhawks
 COL,1st pair,7 Devon Toews,8478038.0,7,42 Josh Manson,8476312.0,42,Colorado Avalanche
 COL,2nd pair,4 Bowen Byram,8481524.0,4,70 Sam Malinski,8484258.0,70,Colorado Avalanche
 COL,3rd pair,3 Jack Johnson,8471677.0,3,82 Caleb Jones,8478452.0,82,Colorado Avalanche
