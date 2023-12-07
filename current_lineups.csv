@@ -39,6 +39,7 @@ ARI,Jason Zucker,3rd line,RW,16,L,"5'11""",192,8475722.0,Arizona Coyotes
 ARI,Juuso Valimaki,3rd pair,LD,4,L,"6'2""",212,8479976.0,Arizona Coyotes
 ARI,Michael Kesselring,3rd pair,RD,5,R,"6'4""",190,8480891.0,Arizona Coyotes
 ARI,Milos Kelemen,4th line,LW,21,L,"6'1""",163,8483597.0,Arizona Coyotes
+ARI,Ryan McGregor,4th line,C,37,L,"6'0""",170,0.0,Arizona Coyotes
 ARI,Liam O'Brien,4th line,RW,38,L,"6'1""",215,8477070.0,Arizona Coyotes
 ARI,Barrett Hayton,injured reserve,F,29.0,L,"6'1""",190.0,8480849.0,Arizona Coyotes
 ARI,Jack McBain,injured reserve,F,22.0,L,"6'4""",218.0,8480855.0,Arizona Coyotes
@@ -342,7 +343,6 @@ MIN,Alex Goligoski,3rd pair,RD,33,L,"5'11""",185,8471274.0,Minnesota Wild
 MIN,Brandon Duhaime,4th line,LW,21,L,"6'2""",200,8479520.0,Minnesota Wild
 MIN,Connor Dewar,4th line,C,26,L,"5'10""",170,8480980.0,Minnesota Wild
 MIN,Ryan Hartman,4th line,RW,38,R,"6'0""",189,8477451.0,Minnesota Wild
-MIN,Caedan Bankier,injured reserve,F,76.0,L,"6'2""",190.0,0.0,Minnesota Wild
 MIN,Michael Milne,injured reserve,F,60.0,L,"5'11""",185.0,0.0,Minnesota Wild
 MIN,Sam Hentges,injured reserve,F,54.0,R,"6'0""",175.0,0.0,Minnesota Wild
 MIN,Dakota Mermis,scratch,D,6.0,L,"6'0""",195.0,8477541.0,Minnesota Wild
@@ -512,12 +512,12 @@ PHI,Marc Staal,scratch,D,18.0,L,"6'4""",209.0,8471686.0,Philadelphia Flyers
 PHI,Louis Belpedio,scratch,D,37.0,R,"5'11""",196.0,0.0,Philadelphia Flyers
 PIT,Jake Guentzel,1st line,LW,59,L,"5'11""",180,8477404.0,Pittsburgh Penguins
 PIT,Sidney Crosby,1st line,C,87,L,"5'11""",200,8471675.0,Pittsburgh Penguins
-PIT,Bryan Rust,1st line,RW,17,R,"5'11""",192,8475810.0,Pittsburgh Penguins
+PIT,Reilly Smith,1st line,RW,19,L,"6'1""",183,8475191.0,Pittsburgh Penguins
 PIT,Ryan Graves,1st pair,LD,27,L,"6'5""",220,8477435.0,Pittsburgh Penguins
 PIT,Kris Letang,1st pair,RD,58,R,"6'0""",201,8471724.0,Pittsburgh Penguins
-PIT,Reilly Smith,2nd line,LW,19,L,"6'1""",183,8475191.0,Pittsburgh Penguins
+PIT,Drew O'Connor,2nd line,LW,10,L,"6'3""",205,8482055.0,Pittsburgh Penguins
 PIT,Evgeni Malkin,2nd line,C,71,L,"6'3""",195,8471215.0,Pittsburgh Penguins
-PIT,Drew O'Connor,2nd line,RW,10,L,"6'3""",205,8482055.0,Pittsburgh Penguins
+PIT,Bryan Rust,2nd line,RW,17,R,"5'11""",192,8475810.0,Pittsburgh Penguins
 PIT,Marcus Pettersson,2nd pair,LD,28,L,"6'3""",177,8477969.0,Pittsburgh Penguins
 PIT,Erik Karlsson,2nd pair,RD,65,R,"6'0""",190,8474578.0,Pittsburgh Penguins
 PIT,Radim Zohorna,3rd line,LW,63,L,"6'6""",220,8482241.0,Pittsburgh Penguins
