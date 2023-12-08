@@ -6,22 +6,22 @@ ANA,Cam Fowler,1st pair,LD,4,L,"6'2""",214,8475764.0,Anaheim Ducks
 ANA,Tristan Luneau,1st pair,RD,67,R,"6'2""",189,8483482.0,Anaheim Ducks
 ANA,Frank Vatrano,2nd line,LW,77,L,"5'11""",204,8478366.0,Anaheim Ducks
 ANA,Ryan Strome,2nd line,C,16,R,"6'1""",196,8476458.0,Anaheim Ducks
-ANA,Jakob Silfverberg,2nd line,RW,33,R,"6'1""",210,8475164.0,Anaheim Ducks
+ANA,Brett Leason,2nd line,RW,20,R,"6'5""",215,8481517.0,Anaheim Ducks
 ANA,Pavel Mintyukov,2nd pair,LD,34,L,"6'2""",194,8483490.0,Anaheim Ducks
 ANA,Ilya Lyubushkin,2nd pair,RD,46,R,"6'2""",201,8480950.0,Anaheim Ducks
-ANA,Max Jones,3rd line,LW,49,L,"6'3""",220,8479368.0,Anaheim Ducks
+ANA,Benoit-Olivier Groulx,3rd line,LW,24,L,"6'2""",198,8480870.0,Anaheim Ducks
 ANA,Adam Henrique,3rd line,C,14,L,"6'0""",195,8474641.0,Anaheim Ducks
-ANA,Benoit-Olivier Groulx,3rd line,RW,24,L,"6'2""",198,8480870.0,Anaheim Ducks
+ANA,Jakob Silfverberg,3rd line,RW,33,R,"6'1""",210,8475164.0,Anaheim Ducks
 ANA,Jackson LaCombe,3rd pair,LD,60,L,"6'2""",201,8481605.0,Anaheim Ducks
 ANA,Radko Gudas,3rd pair,RD,7,R,"6'0""",205,8475462.0,Anaheim Ducks
-ANA,Brock McGinn,4th line,LW,26,L,"6'0""",190,8476934.0,Anaheim Ducks
+ANA,Ross Johnston,4th line,LW,44,L,"6'5""",235,8477527.0,Anaheim Ducks
 ANA,Sam Carrick,4th line,C,39,R,"6'0""",197,8475842.0,Anaheim Ducks
-ANA,Brett Leason,4th line,RW,20,R,"6'5""",215,8481517.0,Anaheim Ducks
+ANA,Brock McGinn,4th line,RW,26,L,"6'0""",190,8476934.0,Anaheim Ducks
 ANA,Trevor Zegras,injured reserve,F,11.0,L,"6'0""",185.0,8481533.0,Anaheim Ducks
 ANA,Isac Lundestrom,injured reserve,F,21.0,L,"6'0""",191.0,8480806.0,Anaheim Ducks
 ANA,Jamie Drysdale,injured reserve,D,6.0,R,"5'11""",187.0,8482142.0,Anaheim Ducks
+ANA,Max Jones,scratch,F,49.0,L,"6'3""",220.0,8479368.0,Anaheim Ducks
 ANA,Mason McTavish,scratch,F,23.0,L,"6'0""",215.0,8482745.0,Anaheim Ducks
-ANA,Ross Johnston,scratch,F,44.0,L,"6'5""",235.0,8477527.0,Anaheim Ducks
 ANA,Urho Vaakanainen,scratch,D,5.0,L,"6'2""",196.0,8480001.0,Anaheim Ducks
 ARI,Clayton Keller,1st line,LW,9,L,"5'10""",170,8479343.0,Arizona Coyotes
 ARI,Logan Cooley,1st line,C,92,L,"5'11""",180,8483431.0,Arizona Coyotes
@@ -98,14 +98,14 @@ BUF,Jack Quinn,injured reserve,F,22.0,R,"6'0""",176.0,8482097.0,Buffalo Sabres
 BUF,Rasmus Dahlin,scratch,D,26.0,L,"6'3""",193.0,8480839.0,Buffalo Sabres
 BUF,Jacob Bryson,scratch,D,78.0,L,"5'9""",185.0,8480196.0,Buffalo Sabres
 BUF,Ukko-Pekka Luukkonen,scratch,G,1.0,L,"6'4""",190.0,8480045.0,Buffalo Sabres
-CAR,Michael Bunting,1st line,LW,58,L,"5'11""",197,8478047.0,Carolina Hurricanes
+CAR,Teuvo Teravainen,1st line,LW,86,L,"5'11""",191,8476882.0,Carolina Hurricanes
 CAR,Sebastian Aho,1st line,C,20,L,"6'0""",176,8478427.0,Carolina Hurricanes
-CAR,Seth Jarvis,1st line,RW,24,R,"5'10""",175,8482093.0,Carolina Hurricanes
+CAR,Martin Necas,1st line,RW,88,R,"6'2""",189,8480039.0,Carolina Hurricanes
 CAR,Jaccob Slavin,1st pair,LD,74,L,"6'3""",207,8476958.0,Carolina Hurricanes
 CAR,Brent Burns,1st pair,RD,8,R,"6'5""",230,8470613.0,Carolina Hurricanes
 CAR,Andrei Svechnikov,2nd line,LW,37,L,"6'2""",195,8480830.0,Carolina Hurricanes
 CAR,Jesperi Kotkaniemi,2nd line,C,82,L,"6'2""",198,8480829.0,Carolina Hurricanes
-CAR,Teuvo Teravainen,2nd line,RW,86,L,"5'11""",191,8476882.0,Carolina Hurricanes
+CAR,Seth Jarvis,2nd line,RW,24,R,"5'10""",175,8482093.0,Carolina Hurricanes
 CAR,Brady Skjei,2nd pair,LD,76,L,"6'3""",210,8476869.0,Carolina Hurricanes
 CAR,Brett Pesce,2nd pair,RD,22,R,"6'3""",206,8477488.0,Carolina Hurricanes
 CAR,Jordan Martinook,3rd line,LW,48,L,"6'0""",196,8476921.0,Carolina Hurricanes
@@ -113,9 +113,9 @@ CAR,Jordan Staal,3rd line,C,11,L,"6'4""",220,8473533.0,Carolina Hurricanes
 CAR,Jesper Fast,3rd line,RW,71,R,"6'1""",191,8475855.0,Carolina Hurricanes
 CAR,Dmitry Orlov,3rd pair,LD,7,L,"5'11""",208,8475200.0,Carolina Hurricanes
 CAR,Jalen Chatfield,3rd pair,RD,5,R,"6'1""",188,8478970.0,Carolina Hurricanes
-CAR,Stefan Noesen,4th line,LW,23,R,"6'1""",205,8476474.0,Carolina Hurricanes
+CAR,Michael Bunting,4th line,LW,58,L,"5'11""",197,8478047.0,Carolina Hurricanes
 CAR,Jack Drury,4th line,C,18,L,"5'11""",174,8480835.0,Carolina Hurricanes
-CAR,Martin Necas,4th line,RW,88,R,"6'2""",189,8480039.0,Carolina Hurricanes
+CAR,Stefan Noesen,4th line,RW,23,R,"6'1""",205,8476474.0,Carolina Hurricanes
 CAR,Frederik Andersen,injured reserve,G,31.0,L,"6'4""",238.0,8475883.0,Carolina Hurricanes
 CAR,Brendan Lemieux,scratch,F,28.0,L,"6'1""",213.0,8477962.0,Carolina Hurricanes
 CAR,Tony DeAngelo,scratch,D,77.0,R,"5'11""",180.0,8477950.0,Carolina Hurricanes

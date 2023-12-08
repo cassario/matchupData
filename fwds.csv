@@ -1,8 +1,8 @@
 team,line,LW,player_id_LW,num_LW,C,player_id_C,num_C,RW,player_id_RW,num_RW,full
 ANA,1st line,17 Alex Killorn,8473986.0,17,91 Leo Carlsson,8484153.0,91,19 Troy Terry,8478873.0,19,Anaheim Ducks
-ANA,2nd line,77 Frank Vatrano,8478366.0,77,16 Ryan Strome,8476458.0,16,33 Jakob Silfverberg,8475164.0,33,Anaheim Ducks
-ANA,3rd line,49 Max Jones,8479368.0,49,14 Adam Henrique,8474641.0,14,24 Benoit-Olivier Groulx,8480870.0,24,Anaheim Ducks
-ANA,4th line,26 Brock McGinn,8476934.0,26,39 Sam Carrick,8475842.0,39,20 Brett Leason,8481517.0,20,Anaheim Ducks
+ANA,2nd line,77 Frank Vatrano,8478366.0,77,16 Ryan Strome,8476458.0,16,20 Brett Leason,8481517.0,20,Anaheim Ducks
+ANA,3rd line,24 Benoit-Olivier Groulx,8480870.0,24,14 Adam Henrique,8474641.0,14,33 Jakob Silfverberg,8475164.0,33,Anaheim Ducks
+ANA,4th line,44 Ross Johnston,8477527.0,44,39 Sam Carrick,8475842.0,39,26 Brock McGinn,8476934.0,26,Anaheim Ducks
 ARI,1st line,9 Clayton Keller,8479343.0,9,92 Logan Cooley,8483431.0,92,8 Nick Schmaltz,8477951.0,8,Arizona Coyotes
 ARI,2nd line,63 Matias Maccelli,8481711.0,63,17 Nick Bjugstad,8475760.0,17,67 Lawson Crouse,8478474.0,67,Arizona Coyotes
 ARI,3rd line,53 Michael Carcone,8479619.0,53,15 Alexander Kerfoot,8477021.0,15,16 Jason Zucker,8475722.0,16,Arizona Coyotes
@@ -15,10 +15,10 @@ BUF,1st line,53 Jeff Skinner,8475784.0,53,37 Casey Mittelstadt,8479999.0,37,72 T
 BUF,2nd line,9 Zach Benson,8484145.0,9,24 Dylan Cozens,8481528.0,24,77 JJ Peterka,8482175.0,77,Buffalo Sabres
 BUF,3rd line,50 Eric Robinson,8480762.0,50,19 Peyton Krebs,8481522.0,19,21 Kyle Okposo,8473449.0,21,Buffalo Sabres
 BUF,4th line,63 Isak Rosen,8482765.0,63,17 Tyson Jost,8479370.0,17,71 Victor Olofsson,8478109.0,71,Buffalo Sabres
-CAR,1st line,58 Michael Bunting,8478047.0,58,20 Sebastian Aho,8478427.0,20,24 Seth Jarvis,8482093.0,24,Carolina Hurricanes
-CAR,2nd line,37 Andrei Svechnikov,8480830.0,37,82 Jesperi Kotkaniemi,8480829.0,82,86 Teuvo Teravainen,8476882.0,86,Carolina Hurricanes
+CAR,1st line,86 Teuvo Teravainen,8476882.0,86,20 Sebastian Aho,8478427.0,20,88 Martin Necas,8480039.0,88,Carolina Hurricanes
+CAR,2nd line,37 Andrei Svechnikov,8480830.0,37,82 Jesperi Kotkaniemi,8480829.0,82,24 Seth Jarvis,8482093.0,24,Carolina Hurricanes
 CAR,3rd line,48 Jordan Martinook,8476921.0,48,11 Jordan Staal,8473533.0,11,71 Jesper Fast,8475855.0,71,Carolina Hurricanes
-CAR,4th line,23 Stefan Noesen,8476474.0,23,18 Jack Drury,8480835.0,18,88 Martin Necas,8480039.0,88,Carolina Hurricanes
+CAR,4th line,58 Michael Bunting,8478047.0,58,18 Jack Drury,8480835.0,18,23 Stefan Noesen,8476474.0,23,Carolina Hurricanes
 CBJ,1st line,13 Johnny Gaudreau,8476346.0,13,38 Boone Jenner,8476432.0,38,17 Justin Danforth,8479941.0,17,Columbus Blue Jackets
 CBJ,2nd line,91 Kent Johnson,8482660.0,91,11 Adam Fantilli,8484166.0,11,52 Emil Bemstrom,8480205.0,52,Columbus Blue Jackets
 CBJ,3rd line,59 Yegor Chinakhov,8482475.0,59,10 Dmitri Voronkov,8481716.0,10,86 Kirill Marchenko,8480893.0,86,Columbus Blue Jackets
