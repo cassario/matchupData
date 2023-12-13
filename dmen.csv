@@ -16,8 +16,8 @@ CAR,2nd pair,76 Brady Skjei,8476869.0,76,22 Brett Pesce,8477488.0,22,Carolina Hu
 CAR,3rd pair,7 Dmitry Orlov,8475200.0,7,5 Jalen Chatfield,8478970.0,5,Carolina Hurricanes
 CAR,3rd pair,77 Tony DeAngelo,8477950.0,77,5 Jalen Chatfield,8478970.0,5,Carolina Hurricanes
 CBJ,1st pair,8 Zach Werenski,8478460.0,8,77 Nick Blankenburg,8483565.0,77,Columbus Blue Jackets
-CBJ,2nd pair,9 Ivan Provorov,8478500.0,9,2 Andrew Peeke,8479369.0,2,Columbus Blue Jackets
-CBJ,3rd pair,22 Jake Bean,8479402.0,22,55 David Jiricek,8483460.0,55,Columbus Blue Jackets
+CBJ,2nd pair,9 Ivan Provorov,8478500.0,9,55 David Jiricek,8483460.0,55,Columbus Blue Jackets
+CBJ,3rd pair,22 Jake Bean,8479402.0,22,2 Andrew Peeke,8479369.0,2,Columbus Blue Jackets
 CGY,1st pair,55 Noah Hanifin,8478396.0,55,4 Rasmus Andersson,8478397.0,4,Calgary Flames
 CGY,2nd pair,82 Jordan Oesterle,8477851.0,82,52 MacKenzie Weegar,8477346.0,52,Calgary Flames
 CGY,3rd pair,48 Dennis Gilbert,8478502.0,48,57 Nick DeSimone,8480084.0,57,Calgary Flames
@@ -56,8 +56,8 @@ NSH,1st pair,59 Roman Josi,8474600.0,59,57 Dante Fabbro,8479371.0,57,Nashville P
 NSH,2nd pair,27 Ryan McDonagh,8474151.0,27,45 Alexandre Carrier,8478851.0,45,Nashville Predators
 NSH,3rd pair,3 Jeremy Lauzon,8478468.0,3,2 Luke Schenn,8474568.0,2,Nashville Predators
 NYI,1st pair,28 Alexander Romanov,8481014.0,28,8 Noah Dobson,8480865.0,8,New York Islanders
-NYI,2nd pair,4 Samuel Bolduc,8481541.0,4,41 Robert Bortuzzo,8474145.0,41,New York Islanders
-NYI,3rd pair,2 Mike Reilly,8476422.0,2,24 Scott Mayfield,8476429.0,24,New York Islanders
+NYI,2nd pair,2 Mike Reilly,8476422.0,2,25 Sebastian Aho,8480222.0,25,New York Islanders
+NYI,3rd pair,4 Samuel Bolduc,8481541.0,4,41 Robert Bortuzzo,8474145.0,41,New York Islanders
 NYR,1st pair,55 Ryan Lindgren,8479324.0,55,23 Adam Fox,8479323.0,23,New York Rangers
 NYR,2nd pair,56 Erik Gustafsson,8476979.0,56,8 Jacob Trouba,8476885.0,8,New York Rangers
 NYR,3rd pair,6 Zac Jones,8481708.0,6,4 Braden Schneider,8482073.0,4,New York Rangers
@@ -94,7 +94,6 @@ VGK,3rd pair,17 Ben Hutton,8477018.0,17,94 Brayden Pachal,8481167.0,94,Vegas Gol
 WPG,1st pair,44 Josh Morrissey,8477504.0,44,2 Dylan DeMelo,8476331.0,2,Winnipeg Jets
 WPG,2nd pair,5 Brenden Dillon,8475455.0,5,4 Neal Pionk,8480145.0,4,Winnipeg Jets
 WPG,3rd pair,54 Dylan Samberg,8480049.0,54,88 Nate Schmidt,8477220.0,88,Winnipeg Jets
-WPG,3rd pair,64 Logan Stanley,8479378.0,64,88 Nate Schmidt,8477220.0,88,Winnipeg Jets
 WSH,1st pair,42 Martin Fehervary,8480796.0,42,74 John Carlson,8474590.0,74,Washington Capitals
 WSH,2nd pair,38 Rasmus Sandin,8480873.0,38,57 Trevor van Riemsdyk,8477845.0,57,Washington Capitals
 WSH,3rd pair,6 Joel Edmundson,8476441.0,6,3 Nick Jensen,8475324.0,3,Washington Capitals
