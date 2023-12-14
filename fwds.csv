@@ -5,15 +5,15 @@ ANA,3rd line,49 Max Jones,8479368.0,49,14 Adam Henrique,8474641.0,14,33 Jakob Si
 ANA,4th line,44 Ross Johnston,8477527.0,44,39 Sam Carrick,8475842.0,39,26 Brock McGinn,8476934.0,26,Anaheim Ducks
 ARI,1st line,9 Clayton Keller,8479343.0,9,8 Nick Schmaltz,8477951.0,8,16 Jason Zucker,8475722.0,16,Arizona Coyotes
 ARI,2nd line,63 Matias Maccelli,8481711.0,63,17 Nick Bjugstad,8475760.0,17,67 Lawson Crouse,8478474.0,67,Arizona Coyotes
-ARI,3rd line,53 Michael Carcone,8479619.0,53,15 Alexander Kerfoot,8477021.0,15,12 Zachary Sanford,0.0,12,Arizona Coyotes
+ARI,3rd line,53 Michael Carcone,8479619.0,53,15 Alexander Kerfoot,8477021.0,15,22 Jack McBain,8480855.0,22,Arizona Coyotes
 ARI,4th line,21 Milos Kelemen,8483597.0,21,92 Logan Cooley,8483431.0,92,38 Liam O'Brien,8477070.0,38,Arizona Coyotes
 BOS,1st line,74 Jake DeBrusk,8478498.0,74,39 Morgan Geekie,8479987.0,39,88 David Pastrnak,8477956.0,88,Boston Bruins
 BOS,2nd line,63 Brad Marchand,8473419.0,63,13 Charlie Coyle,8475745.0,13,11 Trent Frederic,8479365.0,11,Boston Bruins
 BOS,3rd line,21 James van Riemsdyk,8474037.0,21,51 Matthew Poitras,8483505.0,51,43 Danton Heinen,8478046.0,43,Boston Bruins
 BOS,4th line,94 Jakub Lauko,8480880.0,94,19 John Beecher,8481556.0,19,62 Oskar Steen,8479546.0,62,Boston Bruins
 BUF,1st line,9 Zach Benson,8484145.0,9,72 Tage Thompson,8479420.0,72,89 Alex Tuch,8477949.0,89,Buffalo Sabres
-BUF,2nd line,53 Jeff Skinner,8475784.0,53,37 Casey Mittelstadt,8479999.0,37,77 JJ Peterka,8482175.0,77,Buffalo Sabres
-BUF,3rd line,17 Tyson Jost,8479370.0,17,24 Dylan Cozens,8481528.0,24,71 Victor Olofsson,8478109.0,71,Buffalo Sabres
+BUF,2nd line,24 Dylan Cozens,8481528.0,24,37 Casey Mittelstadt,8479999.0,37,77 JJ Peterka,8482175.0,77,Buffalo Sabres
+BUF,3rd line,81 Brett Murray,8479419.0,81,17 Tyson Jost,8479370.0,17,71 Victor Olofsson,8478109.0,71,Buffalo Sabres
 BUF,4th line,50 Eric Robinson,8480762.0,50,19 Peyton Krebs,8481522.0,19,21 Kyle Okposo,8473449.0,21,Buffalo Sabres
 CAR,1st line,23 Stefan Noesen,8476474.0,23,20 Sebastian Aho,8478427.0,20,24 Seth Jarvis,8482093.0,24,Carolina Hurricanes
 CAR,2nd line,86 Teuvo Teravainen,8476882.0,86,82 Jesperi Kotkaniemi,8480829.0,82,88 Martin Necas,8480039.0,88,Carolina Hurricanes
@@ -42,16 +42,16 @@ DAL,4th line,18 Sam Steel,8479351.0,18,12 Radek Faksa,8476889.0,12,15 Craig Smit
 DET,1st line,93 Alex DeBrincat,8479337.0,93,,,,88 Patrick Kane,8474141.0,88,Detroit Red Wings
 DET,1st line,14 Robby Fabbri,8477952.0,14,,,,88 Patrick Kane,8474141.0,88,Detroit Red Wings
 DET,2nd line,27 Michael Rasmussen,8479992.0,27,18 Andrew Copp,8477429.0,18,23 Lucas Raymond,8482078.0,23,Detroit Red Wings
-DET,3rd line,36 Christian Fischer,8478432.0,36,90 Joe Veleno,8480813.0,90,17 Daniel Sprong,8478466.0,17,Detroit Red Wings
-DET,4th line,,,,21 Austin Czarnik,8478512.0,21,48 Jonatan Berggren,8481013.0,48,Detroit Red Wings
+DET,3rd line,48 Jonatan Berggren,8481013.0,48,90 Joe Veleno,8480813.0,90,17 Daniel Sprong,8478466.0,17,Detroit Red Wings
+DET,4th line,,,,21 Austin Czarnik,8478512.0,21,11 Zach Aston-Reese,8479944.0,11,Detroit Red Wings
 EDM,1st line,93 Ryan Nugent-Hopkins,8476454.0,93,97 Connor McDavid,8478402.0,97,18 Zach Hyman,8475786.0,18,Edmonton Oilers
-EDM,2nd line,91 Evander Kane,8475169.0,91,29 Leon Draisaitl,8477934.0,29,28 Connor Brown,8477015.0,28,Edmonton Oilers
-EDM,3rd line,13 Mattias Janmark,8477406.0,13,71 Ryan McLeod,8480802.0,71,37 Warren Foegele,8477998.0,37,Edmonton Oilers
+EDM,2nd line,13 Mattias Janmark,8477406.0,13,29 Leon Draisaitl,8477934.0,29,37 Warren Foegele,8477998.0,37,Edmonton Oilers
+EDM,3rd line,91 Evander Kane,8475169.0,91,71 Ryan McLeod,8480802.0,71,28 Connor Brown,8477015.0,28,Edmonton Oilers
 EDM,4th line,89 Sam Gagner,8474040.0,89,57 James Hamblin,8480468.0,57,10 Derek Ryan,8478585.0,10,Edmonton Oilers
-FLA,1st line,23 Carter Verhaeghe,8477409.0,23,16 Aleksander Barkov,8477493.0,16,13 Sam Reinhart,8477933.0,13,Florida Panthers
-FLA,2nd line,21 Nick Cousins,8476393.0,21,9 Sam Bennett,8477935.0,9,19 Matthew Tkachuk,8479314.0,19,Florida Panthers
-FLA,3rd line,27 Eetu Luostarinen,8480185.0,27,15 Anton Lundell,8482113.0,15,17 Evan Rodrigues,8478542.0,17,Florida Panthers
-FLA,4th line,18 Steven Lorentz,8478904.0,18,82 Kevin Stenlund,8478831.0,82,94 Ryan Lomberg,8479066.0,94,Florida Panthers
+FLA,1st line,17 Evan Rodrigues,8478542.0,17,16 Aleksander Barkov,8477493.0,16,13 Sam Reinhart,8477933.0,13,Florida Panthers
+FLA,2nd line,23 Carter Verhaeghe,8477409.0,23,9 Sam Bennett,8477935.0,9,19 Matthew Tkachuk,8479314.0,19,Florida Panthers
+FLA,3rd line,21 Nick Cousins,8476393.0,21,27 Eetu Luostarinen,8480185.0,27,94 Ryan Lomberg,8479066.0,94,Florida Panthers
+FLA,4th line,12 Jonah Gadjovich,8479981.0,12,82 Kevin Stenlund,8478831.0,82,18 Steven Lorentz,8478904.0,18,Florida Panthers
 LAK,1st line,55 Quinton Byfield,8482124.0,55,11 Anze Kopitar,8471685.0,11,9 Adrian Kempe,8477960.0,9,Los Angeles Kings
 LAK,2nd line,22 Kevin Fiala,8477942.0,22,24 Phillip Danault,8476479.0,24,12 Trevor Moore,8479675.0,12,Los Angeles Kings
 LAK,3rd line,91 Carl Grundstrom,8479336.0,91,80 Pierre-Luc Dubois,8479400.0,80,78 Alex Laferriere,8482155.0,78,Los Angeles Kings
@@ -83,7 +83,7 @@ NYR,4th line,26 Jimmy Vesey,8476918.0,26,21 Barclay Goodrow,8476624.0,21,71 Tyle
 OTT,1st line,7 Brady Tkachuk,8480801.0,7,9 Josh Norris,8480064.0,9,28 Claude Giroux,8473512.0,28,Ottawa Senators
 OTT,2nd line,91 Vladimir Tarasenko,8475765.0,91,18 Tim Stutzle,8482116.0,18,19 Drake Batherson,8480208.0,19,Ottawa Senators
 OTT,3rd line,81 Dominik Kubalik,8477330.0,81,71 Ridly Greig,8482092.0,71,21 Mathieu Joseph,8478472.0,21,Ottawa Senators
-OTT,4th line,27 Parker Kelly,8480448.0,27,49 Rourke Chartier,8478078.0,49,17 Zack MacEwen,8479772.0,17,Ottawa Senators
+OTT,4th line,27 Parker Kelly,8480448.0,27,49 Rourke Chartier,8478078.0,49,12 Mark Kastelic,8480355.0,12,Ottawa Senators
 PHI,1st line,71 Tyson Foerster,8482159.0,71,14 Sean Couturier,8476461.0,14,11 Travis Konecny,8478439.0,11,Philadelphia Flyers
 PHI,2nd line,86 Joel Farabee,8480797.0,86,21 Scott Laughton,8476872.0,21,89 Cam Atkinson,8474715.0,89,Philadelphia Flyers
 PHI,3rd line,74 Owen Tippett,8480015.0,74,48 Morgan Frost,8480028.0,48,10 Bobby Brink,8481553.0,10,Philadelphia Flyers
@@ -98,15 +98,15 @@ SEA,3rd line,20 Eeli Tolvanen,8480009.0,20,37 Yanni Gourde,8476826.0,37,22 Olive
 SEA,4th line,94 Devin Shore,8476913.0,94,41 Pierre-Edouard Bellemare,8477930.0,41,56 Kailer Yamamoto,8479977.0,56,Seattle Kraken
 SJS,1st line,72 William Eklund,8482667.0,72,48 Tomas Hertl,8476881.0,48,94 Alexander Barabanov,8482222.0,94,San Jose Sharks
 SJS,2nd line,10 Anthony Duclair,8477407.0,10,64 Mikael Granlund,8475798.0,64,20 Fabian Zetterlund,8480188.0,20,San Jose Sharks
-SJS,3rd line,90 Justin Bailey,8477473.0,90,7 Nico Sturm,8481477.0,7,68 Mike Hoffman,8474884.0,68,San Jose Sharks
-SJS,4th line,62 Kevin Labanc,8478099.0,62,18 Filip Zadina,8480821.0,18,11 Luke Kunin,8479316.0,11,San Jose Sharks
-STL,1st line,63 Jake Neighbours,8482089.0,63,18 Robert Thomas,8480023.0,18,25 Jordan Kyrou,8479385.0,25,St. Louis Blues
-STL,2nd line,20 Brandon Saad,8476438.0,20,89 Pavel Buchnevich,8477402.0,89,42 Kasperi Kapanen,8477953.0,42,St. Louis Blues
-STL,3rd line,12 Kevin Hayes,8475763.0,12,10 Brayden Schenn,8475170.0,10,70 Oskar Sundqvist,8476897.0,70,St. Louis Blues
-STL,4th line,13 Alexei Toropchenko,8480281.0,13,56 Hugh McGing,8481070.0,56,79 Sammy Blais,8478104.0,79,St. Louis Blues
+SJS,3rd line,68 Mike Hoffman,8474884.0,68,11 Luke Kunin,8479316.0,11,90 Justin Bailey,8477473.0,90,San Jose Sharks
+SJS,4th line,54 Givani Smith,8479379.0,54,18 Filip Zadina,8480821.0,18,62 Kevin Labanc,8478099.0,62,San Jose Sharks
+STL,1st line,89 Pavel Buchnevich,8477402.0,89,18 Robert Thomas,8480023.0,18,25 Jordan Kyrou,8479385.0,25,St. Louis Blues
+STL,2nd line,20 Brandon Saad,8476438.0,20,10 Brayden Schenn,8475170.0,10,42 Kasperi Kapanen,8477953.0,42,St. Louis Blues
+STL,3rd line,13 Alexei Toropchenko,8480281.0,13,12 Kevin Hayes,8475763.0,12,63 Jake Neighbours,8482089.0,63,St. Louis Blues
+STL,4th line,28 Mackenzie MacEachern,8476907.0,28,70 Oskar Sundqvist,8476897.0,70,56 Hugh McGing,8481070.0,56,St. Louis Blues
 TBL,1st line,38 Brandon Hagel,8479542.0,38,21 Brayden Point,8478010.0,21,86 Nikita Kucherov,8476453.0,86,Tampa Bay Lightning
 TBL,2nd line,20 Nick Paul,8477426.0,20,71 Anthony Cirelli,8478519.0,71,23 Michael Eyssimont,8479591.0,23,Tampa Bay Lightning
-TBL,3rd line,12 Alex Barre-Boulet,8479718.0,12,91 Steven Stamkos,8474564.0,91,41 Mitchell Chaffee,8482070.0,41,Tampa Bay Lightning
+TBL,3rd line,12 Alex Barre-Boulet,8479718.0,12,91 Steven Stamkos,8474564.0,91,73 Conor Sheary,8477839.0,73,Tampa Bay Lightning
 TBL,4th line,84 Tanner Jeannot,8479661.0,84,11 Luke Glendening,8476822.0,11,64 Tyler Motte,8477353.0,64,Tampa Bay Lightning
 TOR,1st line,18 Noah Gregor,8479393.0,18,34 Auston Matthews,8479318.0,34,88 William Nylander,8477939.0,88,Toronto Maple Leafs
 TOR,2nd line,59 Tyler Bertuzzi,8477479.0,59,91 John Tavares,8475166.0,91,16 Mitchell Marner,8478483.0,16,Toronto Maple Leafs
@@ -115,7 +115,7 @@ TOR,4th line,74 Bobby McMann,8482259.0,74,64 David Kampf,8480144.0,64,75 Ryan Re
 VAN,1st line,65 Ilya Mikheyev,8481624.0,65,40 Elias Pettersson,8480012.0,40,18 Sam Lafferty,8478043.0,18,Vancouver Canucks
 VAN,2nd line,21 Nils Hoglander,8481535.0,21,9 J.T. Miller,8476468.0,9,6 Brock Boeser,8478444.0,6,Vancouver Canucks
 VAN,3rd line,81 Dakota Joshua,8478057.0,81,53 Teddy Blueger,8476927.0,53,8 Conor Garland,8478856.0,8,Vancouver Canucks
-VAN,4th line,34 Phillip Di Giuseppe,8476858.0,34,88 Nils Aman,8482496.0,88,96 Andrei Kuzmenko,8483808.0,96,Vancouver Canucks
+VAN,4th line,34 Phillip Di Giuseppe,8476858.0,34,24 Pius Suter,8480459.0,24,96 Andrei Kuzmenko,8483808.0,96,Vancouver Canucks
 VGK,1st line,49 Ivan Barbashev,8477964.0,49,9 Jack Eichel,8478403.0,9,61 Mark Stone,8475913.0,61,Vegas Golden Knights
 VGK,2nd line,21 Brett Howden,8479353.0,21,20 Chandler Stephenson,8476905.0,20,81 Jonathan Marchessault,8476539.0,81,Vegas Golden Knights
 VGK,3rd line,43 Paul Cotter,8481032.0,43,71 William Karlsson,8476448.0,71,22 Michael Amadio,8478020.0,22,Vegas Golden Knights
@@ -126,5 +126,5 @@ WPG,3rd line,62 Nino Niederreiter,8475799.0,62,17 Adam Lowry,8476392.0,17,22 Mas
 WPG,4th line,36 Morgan Barron,8480289.0,36,19 David Gustafsson,8481019.0,19,71 Axel Jonsson-Fjallby,8479536.0,71,Winnipeg Jets
 WSH,1st line,8 Alex Ovechkin,8471214.0,8,17 Dylan Strome,8478440.0,17,43 Tom Wilson,8476880.0,43,Washington Capitals
 WSH,2nd line,21 Aliaksei Protas,8481656.0,21,24 Connor McMichael,8481580.0,24,39 Anthony Mantha,8477511.0,39,Washington Capitals
-WSH,3rd line,15 Sonny Milano,8477947.0,15,92 Evgeny Kuznetsov,8475744.0,92,77 T.J. Oshie,8471698.0,77,Washington Capitals
+WSH,3rd line,45 Matthew Phillips,8479547.0,45,92 Evgeny Kuznetsov,8475744.0,92,77 T.J. Oshie,8471698.0,77,Washington Capitals
 WSH,4th line,47 Beck Malenstyn,8479359.0,47,26 Nic Dowd,8475343.0,26,96 Nicolas Aube-Kubel,8477979.0,96,Washington Capitals
