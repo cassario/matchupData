@@ -81,21 +81,21 @@ NYR,2nd line,10 Artemi Panarin,8478550.0,10,16 Vincent Trocheck,8476389.0,16,13 
 NYR,3rd line,50 Will Cuylle,8482157.0,50,12 Nick Bonino,8474009.0,12,22 Jonny Brodzinski,8477380.0,22,New York Rangers
 NYR,4th line,26 Jimmy Vesey,8476918.0,26,21 Barclay Goodrow,8476624.0,21,71 Tyler Pitlick,8475752.0,71,New York Rangers
 OTT,1st line,7 Brady Tkachuk,8480801.0,7,18 Tim Stutzle,8482116.0,18,19 Drake Batherson,8480208.0,19,Ottawa Senators
-OTT,2nd line,81 Dominik Kubalik,8477330.0,81,9 Josh Norris,8480064.0,9,28 Claude Giroux,8473512.0,28,Ottawa Senators
-OTT,3rd line,27 Parker Kelly,8480448.0,27,71 Ridly Greig,8482092.0,71,17 Zack MacEwen,8479772.0,17,Ottawa Senators
-OTT,4th line,13 Jiri Smejkal,8484314.0,13,12 Mark Kastelic,8480355.0,12,59 Angus Crookshank,8481065.0,59,Ottawa Senators
+OTT,2nd line,91 Vladimir Tarasenko,8475765.0,91,9 Josh Norris,8480064.0,9,28 Claude Giroux,8473512.0,28,Ottawa Senators
+OTT,3rd line,81 Dominik Kubalik,8477330.0,81,71 Ridly Greig,8482092.0,71,59 Angus Crookshank,8481065.0,59,Ottawa Senators
+OTT,4th line,13 Jiri Smejkal,8484314.0,13,12 Mark Kastelic,8480355.0,12,27 Parker Kelly,8480448.0,27,Ottawa Senators
 PHI,1st line,71 Tyson Foerster,8482159.0,71,14 Sean Couturier,8476461.0,14,11 Travis Konecny,8478439.0,11,Philadelphia Flyers
 PHI,2nd line,86 Joel Farabee,8480797.0,86,25 Ryan Poehling,8480068.0,25,89 Cam Atkinson,8474715.0,89,Philadelphia Flyers
 PHI,3rd line,74 Owen Tippett,8480015.0,74,48 Morgan Frost,8480028.0,48,10 Bobby Brink,8481553.0,10,Philadelphia Flyers
 PHI,4th line,44 Nicolas Deslauriers,8475235.0,44,21 Scott Laughton,8476872.0,21,19 Garnet Hathaway,8477903.0,19,Philadelphia Flyers
 PIT,1st line,59 Jake Guentzel,8477404.0,59,87 Sidney Crosby,8471675.0,87,10 Drew O'Connor,8482055.0,10,Pittsburgh Penguins
-PIT,2nd line,19 Reilly Smith,8475191.0,19,71 Evgeni Malkin,8471215.0,71,76 Valtteri Puustinen,8481703.0,76,Pittsburgh Penguins
+PIT,2nd line,19 Reilly Smith,8475191.0,19,71 Evgeni Malkin,8471215.0,71,67 Rickard Rakell,8476483.0,67,Pittsburgh Penguins
 PIT,3rd line,63 Radim Zohorna,8482241.0,63,20 Lars Eller,8474189.0,20,13 Vinnie Hinostroza,8476994.0,13,Pittsburgh Penguins
-PIT,4th line,43 Jansen Harkins,8478424.0,43,44 Jonathan Gruden,8480836.0,44,77 Jeff Carter,8470604.0,77,Pittsburgh Penguins
-SEA,1st line,19 Jared McCann,8477955.0,19,10 Matty Beniers,8482665.0,10,90 Tomas Tatar,8475193.0,90,Seattle Kraken
-SEA,2nd line,52 Tye Kartye,8481789.0,52,21 Alexander Wennberg,8477505.0,21,13 Brandon Tanev,8479293.0,13,Seattle Kraken
+PIT,4th line,43 Jansen Harkins,8478424.0,43,55 Noel Acciari,8478569.0,55,77 Jeff Carter,8470604.0,77,Pittsburgh Penguins
+SEA,1st line,90 Tomas Tatar,8475193.0,90,10 Matty Beniers,8482665.0,10,7 Jordan Eberle,8474586.0,7,Seattle Kraken
+SEA,2nd line,19 Jared McCann,8477955.0,19,21 Alexander Wennberg,8477505.0,21,13 Brandon Tanev,8479293.0,13,Seattle Kraken
 SEA,3rd line,20 Eeli Tolvanen,8480009.0,20,37 Yanni Gourde,8476826.0,37,22 Oliver Bjorkstrand,8477416.0,22,Seattle Kraken
-SEA,4th line,94 Devin Shore,8476913.0,94,41 Pierre-Edouard Bellemare,8477930.0,41,56 Kailer Yamamoto,8479977.0,56,Seattle Kraken
+SEA,4th line,52 Tye Kartye,8481789.0,52,41 Pierre-Edouard Bellemare,8477930.0,41,56 Kailer Yamamoto,8479977.0,56,Seattle Kraken
 SJS,1st line,90 Justin Bailey,8477473.0,90,48 Tomas Hertl,8476881.0,48,72 William Eklund,8482667.0,72,San Jose Sharks
 SJS,2nd line,94 Alexander Barabanov,8482222.0,94,64 Mikael Granlund,8475798.0,64,20 Fabian Zetterlund,8480188.0,20,San Jose Sharks
 SJS,3rd line,11 Luke Kunin,8479316.0,11,16 Jack Studnicka,8480021.0,16,68 Mike Hoffman,8474884.0,68,San Jose Sharks
@@ -126,5 +126,5 @@ WPG,3rd line,62 Nino Niederreiter,8475799.0,62,17 Adam Lowry,8476392.0,17,22 Mas
 WPG,4th line,36 Morgan Barron,8480289.0,36,19 David Gustafsson,8481019.0,19,71 Axel Jonsson-Fjallby,8479536.0,71,Winnipeg Jets
 WSH,1st line,8 Alex Ovechkin,8471214.0,8,17 Dylan Strome,8478440.0,17,43 Tom Wilson,8476880.0,43,Washington Capitals
 WSH,2nd line,21 Aliaksei Protas,8481656.0,21,24 Connor McMichael,8481580.0,24,39 Anthony Mantha,8477511.0,39,Washington Capitals
-WSH,3rd line,91 Joe Snively,8481441.0,91,92 Evgeny Kuznetsov,8475744.0,92,45 Matthew Phillips,8479547.0,45,Washington Capitals
+WSH,3rd line,45 Matthew Phillips,8479547.0,45,92 Evgeny Kuznetsov,8475744.0,92,77 T.J. Oshie,8471698.0,77,Washington Capitals
 WSH,4th line,47 Beck Malenstyn,8479359.0,47,26 Nic Dowd,8475343.0,26,96 Nicolas Aube-Kubel,8477979.0,96,Washington Capitals
