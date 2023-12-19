@@ -1,6 +1,6 @@
 team,player
-ANA,John Gibson
 ANA,Mason McTavish
+ANA,John Gibson
 ANA,Trevor Zegras
 ANA,Jamie Drysdale
 ANA,Isac Lundestrom
@@ -21,16 +21,16 @@ CGY,Jakob Pelletier
 CAR,Andrei Svechnikov
 CAR,Frederik Andersen
 CHI,Joey Anderson
-CHI,MacKenzie Entwistle
 CHI,Alex Vlasic
+CHI,MacKenzie Entwistle
 CHI,Kevin Korchinski
 CHI,Seth Jones
 CHI,Jarred Tinordi
 CHI,Andreas Athanasiou
 CHI,Taylor Hall
 COL,Cale Makar
-COL,Artturi Lehkonen
 COL,Samuel Girard
+COL,Artturi Lehkonen
 COL,Pavel Francouz
 COL,Gabriel Landeskog
 COL,Chris Wagner
@@ -40,7 +40,9 @@ CBJ,Boone Jenner
 CBJ,Adam Boqvist
 CBJ,Damon Severson
 DAL,Jake Oettinger
+DET,Klim Kostin
 DET,Alex Lyon
+DET,Ville Husso
 DET,Matt Luff
 EDM,Dylan Holloway
 FLA,Jonah Gadjovich
@@ -48,10 +50,11 @@ FLA,Anton Lundell
 LAK,Pheonix Copley
 LAK,Vladislav Gavrikov
 LAK,Viktor Arvidsson
+MIN,Mats Zuccarello
 MIN,Jared Spurgeon
 MIN,Jonas Brodin
-MTL,Chris Wideman
 MTL,Tanner Pearson
+MTL,Chris Wideman
 MTL,Jordan Harris
 MTL,Alex Newhook
 MTL,Rafael Harvey-Pinard
@@ -61,9 +64,9 @@ NJD,Vitek Vanecek
 NJD,Tomas Nosek
 NJD,Dougie Hamilton
 NYI,Oliver Wahlstrom
-NYI,Adam Pelech
 NYI,Scott Mayfield
 NYI,Ryan Pulock
+NYI,Adam Pelech
 NYI,Matt Martin
 NYR,Filip Chytil
 NYR,Kaapo Kakko
@@ -74,8 +77,6 @@ PHI,Noah  Cates
 PHI,Ryan Ellis
 PIT,Bryan Rust
 PIT,Matt Nieto
-PIT,Noel Acciari
-PIT,Rickard Rakell
 SJS,Anthony Duclair
 SJS,Calen Addison
 SJS,Nico Sturm
@@ -84,8 +85,9 @@ SJS,Matt Benning
 SJS,Ty Emberson
 SJS,Ryan Carpenter
 SEA,Justin Schultz
+SEA,Jared McCann
 SEA,Andre Burakovsky
-SEA,Jordan Eberle
+SEA,Pierre-Edouard Bellemare
 SEA,Jaden Schwartz
 SEA,Philipp Grubauer
 STL,Anton Malmstrom
@@ -102,8 +104,8 @@ VAN,Guillaume Brisebois
 VAN,Carson Soucy
 VAN,Tucker Poolman
 VGK,Kaedan Korczak
-VGK,Shea Theodore
 VGK,Adin Hill
+VGK,Shea Theodore
 VGK,Robin Lehner
 WSH,T.J. Oshie
 WSH,Sonny Milano

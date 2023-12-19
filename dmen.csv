@@ -19,8 +19,8 @@ CAR,3rd pair,77 Tony DeAngelo,8477950.0,77,5 Jalen Chatfield,8478970.0,5,Carolin
 CBJ,1st pair,8 Zach Werenski,8478460.0,8,77 Nick Blankenburg,8483565.0,77,Columbus Blue Jackets
 CBJ,2nd pair,9 Ivan Provorov,8478500.0,9,2 Andrew Peeke,8479369.0,2,Columbus Blue Jackets
 CBJ,3rd pair,55 David Jiricek,8483460.0,55,44 Erik Gudbranson,8475790.0,44,Columbus Blue Jackets
-CGY,1st pair,55 Noah Hanifin,8478396.0,55,4 Rasmus Andersson,8478397.0,4,Calgary Flames
-CGY,2nd pair,82 Jordan Oesterle,8477851.0,82,52 MacKenzie Weegar,8477346.0,52,Calgary Flames
+CGY,1st pair,52 MacKenzie Weegar,8477346.0,52,4 Rasmus Andersson,8478397.0,4,Calgary Flames
+CGY,2nd pair,55 Noah Hanifin,8478396.0,55,8 Chris Tanev,8475690.0,8,Calgary Flames
 CGY,3rd pair,48 Dennis Gilbert,8478502.0,48,57 Nick DeSimone,8480084.0,57,Calgary Flames
 CHI,1st pair,41 Isaak Phillips,8482192.0,41,5 Connor Murphy,8476473.0,5,Chicago Blackhawks
 CHI,2nd pair,44 Wyatt Kaiser,8482176.0,44,46 Louis Crevier,8481806.0,46,Chicago Blackhawks
@@ -41,7 +41,7 @@ FLA,1st pair,42 Gustav Forsling,8478055.0,42,5 Aaron Ekblad,8477932.0,5,Florida 
 FLA,2nd pair,77 Niko Mikkola,8478859.0,77,62 Brandon Montour,8477986.0,62,Florida Panthers
 FLA,3rd pair,91 Oliver Ekman-Larsson,8475171.0,91,7 Dmitry Kulikov,8475179.0,7,Florida Panthers
 LAK,1st pair,44 Mikey Anderson,8479998.0,44,8 Drew Doughty,8474563.0,8,Los Angeles Kings
-LAK,2nd pair,7 Tobias Bjornfot,8481600.0,7,3 Matt Roy,8478911.0,3,Los Angeles Kings
+LAK,2nd pair,43 Jacob Moverare,8479421.0,43,3 Matt Roy,8478911.0,3,Los Angeles Kings
 LAK,3rd pair,5 Andreas Englund,8477971.0,5,21 Jordan Spence,8481606.0,21,Los Angeles Kings
 MIN,1st pair,5 Jake Middleton,0.0,5,7 Brock Faber,8482122.0,7,Minnesota Wild
 MIN,2nd pair,33 Alex Goligoski,8471274.0,33,24 Zach Bogosian,8474567.0,24,Minnesota Wild
@@ -67,9 +67,9 @@ OTT,3rd pair,26 Erik Brannstrom,8480073.0,26,23 Travis Hamonic,8474612.0,23,Otta
 PHI,1st pair,8 Cam York,8481546.0,8,6 Travis Sanheim,8477948.0,6,Philadelphia Flyers
 PHI,2nd pair,24 Nick Seeler,8476372.0,24,26 Sean Walker,8480336.0,26,Philadelphia Flyers
 PHI,3rd pair,5 Egor Zamula,8481178.0,5,55 Rasmus Ristolainen,8477499.0,55,Philadelphia Flyers
-PIT,1st pair,27 Ryan Graves,8477435.0,27,58 Kris Letang,8471724.0,58,Pittsburgh Penguins
-PIT,2nd pair,28 Marcus Pettersson,8477969.0,28,65 Erik Karlsson,8474578.0,65,Pittsburgh Penguins
-PIT,3rd pair,73 Pierre-Olivier Joseph,8480058.0,73,7 John Ludvig,8481206.0,7,Pittsburgh Penguins
+PIT,1st pair,28 Marcus Pettersson,8477969.0,28,58 Kris Letang,8471724.0,58,Pittsburgh Penguins
+PIT,2nd pair,27 Ryan Graves,8477435.0,27,65 Erik Karlsson,8474578.0,65,Pittsburgh Penguins
+PIT,3rd pair,7 John Ludvig,8481206.0,7,2 Chad Ruhwedel,8477244.0,2,Pittsburgh Penguins
 SEA,1st pair,29 Vince Dunn,8478407.0,29,6 Adam Larsson,8476457.0,6,Seattle Kraken
 SEA,2nd pair,24 Jamie Oleksiak,8476467.0,24,3 Will Borgen,8478840.0,3,Seattle Kraken
 SEA,3rd pair,39 Ryker Evans,8482858.0,39,8 Brian Dumoulin,8475208.0,8,Seattle Kraken
