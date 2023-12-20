@@ -46,7 +46,6 @@ ARI,Jakub Voracek,injured reserve,F,,L,"6'2""",214.0,8474161.0,Arizona Coyotes
 ARI,Bryan Little,injured reserve,F,,R,"6'0""",191.0,8473412.0,Arizona Coyotes
 ARI,Vladislav Kolyachonok,injured reserve,D,52.0,L,"6'1""",189.0,8481609.0,Arizona Coyotes
 ARI,Shea Weber,injured reserve,D,,R,"6'4""",230.0,8470642.0,Arizona Coyotes
-ARI,Milos Kelemen,scratch,F,21.0,L,"6'1""",163.0,8483597.0,Arizona Coyotes
 ARI,Josh Brown,scratch,D,3.0,R,"6'5""",217.0,8477384.0,Arizona Coyotes
 ARI,Sean Durzi,scratch,D,50.0,R,"6'0""",188.0,8480434.0,Arizona Coyotes
 BOS,Brad Marchand,1st line,LW,63,L,"5'9""",181,8473419.0,Boston Bruins
@@ -91,7 +90,6 @@ BUF,Kyle Okposo,4th line,RW,21,R,"6'0""",216,8473449.0,Buffalo Sabres
 BUF,Jeff Skinner,injured reserve,F,53.0,L,"5'11""",195.0,8475784.0,Buffalo Sabres
 BUF,Jordan Greenway,injured reserve,F,12.0,L,"6'6""",225.0,8478413.0,Buffalo Sabres
 BUF,Zemgus Girgensons,injured reserve,F,28.0,L,"6'2""",211.0,8476878.0,Buffalo Sabres
-BUF,Brett Murray,scratch,F,81.0,L,"6'5""",236.0,8479419.0,Buffalo Sabres
 BUF,Ryan Johnson,scratch,D,33.0,L,"6'0""",170.0,8481564.0,Buffalo Sabres
 BUF,Eric Comrie,scratch,G,31.0,L,"6'1""",175.0,8477480.0,Buffalo Sabres
 CAR,Stefan Noesen,1st line,LW,23,R,"6'1""",205,8476474.0,Carolina Hurricanes
@@ -201,7 +199,7 @@ COL,Ross Colton,2nd line,C,20,L,"6'0""",190,8479525.0,Colorado Avalanche
 COL,Jonathan Drouin,2nd line,RW,27,L,"6'0""",203,8477494.0,Colorado Avalanche
 COL,Bowen Byram,2nd pair,LD,4,L,"6'0""",195,8481524.0,Colorado Avalanche
 COL,Sam Malinski,2nd pair,RD,70,R,"5'11""",190,8484258.0,Colorado Avalanche
-COL,Ben Meyers,3rd line,LW,59,L,"5'11""",195,8483570.0,Colorado Avalanche
+COL,Andrew Cogliano,3rd line,LW,11,L,"5'10""",175,8471699.0,Colorado Avalanche
 COL,Ryan Johansen,3rd line,C,12,R,"6'3""",218,8475793.0,Colorado Avalanche
 COL,Logan O'Connor,3rd line,RW,25,R,"6'0""",175,8481186.0,Colorado Avalanche
 COL,Jack Johnson,3rd pair,LD,3,L,"6'1""",227,8471677.0,Colorado Avalanche
@@ -214,7 +212,6 @@ COL,Gabriel Landeskog,injured reserve,F,92.0,L,"6'1""",215.0,8476455.0,Colorado 
 COL,Chris Wagner,injured reserve,F,14.0,R,"6'0""",198.0,8475780.0,Colorado Avalanche
 COL,Jean-Luc Foudy,injured reserve,F,93.0,R,"5'11""",177.0,8482147.0,Colorado Avalanche
 COL,Pavel Francouz,injured reserve,G,39.0,R,"6'0""",179.0,8480925.0,Colorado Avalanche
-COL,Andrew Cogliano,scratch,F,11.0,L,"5'10""",175.0,8471699.0,Colorado Avalanche
 COL,Cale Makar,scratch,D,8.0,R,"5'11""",187.0,8480069.0,Colorado Avalanche
 DAL,Jason Robertson,1st line,LW,21,L,"6'2""",194,8480027.0,Dallas Stars
 DAL,Roope Hintz,1st line,C,24,L,"6'3""",220,8478449.0,Dallas Stars
@@ -258,9 +255,9 @@ DET,Austin Czarnik,4th line,C,21,R,"5'9""",170,8478512.0,Detroit Red Wings
 DET,Daniel Sprong,4th line,RW,17,R,"6'0""",180,8478466.0,Detroit Red Wings
 DET,Klim Kostin,injured reserve,F,24.0,L,"6'3""",212.0,8480011.0,Detroit Red Wings
 DET,Matt Luff,injured reserve,F,22.0,R,"6'2""",196.0,8479644.0,Detroit Red Wings
+DET,Ville Husso,injured reserve,G,35.0,L,"6'2""",205.0,8478024.0,Detroit Red Wings
 DET,Olli Maatta,scratch,D,2.0,L,"6'2""",206.0,8476874.0,Detroit Red Wings
 DET,Alex Lyon,scratch,G,34.0,L,"6'1""",201.0,8479312.0,Detroit Red Wings
-DET,Ville Husso,scratch,G,35.0,L,"6'2""",205.0,8478024.0,Detroit Red Wings
 EDM,Evander Kane,1st line,LW,91,L,"6'2""",210,8475169.0,Edmonton Oilers
 EDM,Connor McDavid,1st line,C,97,L,"6'1""",193,8478402.0,Edmonton Oilers
 EDM,Zach Hyman,1st line,RW,18,R,"6'1""",211,8475786.0,Edmonton Oilers
@@ -403,7 +400,6 @@ NJD,Brian Halonen,injured reserve,F,48.0,R,"6'0""",205.0,0.0,New Jersey Devils
 NJD,Dougie Hamilton,injured reserve,D,7.0,R,"6'6""",229.0,8476462.0,New Jersey Devils
 NJD,Chris Tierney,scratch,F,11.0,L,"6'1""",195.0,8476919.0,New Jersey Devils
 NJD,Colin Miller,scratch,D,24.0,R,"6'1""",193.0,8476525.0,New Jersey Devils
-NJD,Nico Daws,scratch,G,50.0,L,"6'4""",205.0,8482076.0,New Jersey Devils
 NSH,Filip Forsberg,1st line,LW,9,R,"6'1""",205,8476887.0,Nashville Predators
 NSH,Ryan O'Reilly,1st line,C,90,L,"6'1""",216,8475158.0,Nashville Predators
 NSH,Gustav Nyquist,1st line,RW,14,L,"5'11""",179,8474679.0,Nashville Predators
@@ -558,6 +554,7 @@ SEA,Jaden Schwartz,injured reserve,F,17.0,L,"5'10""",190.0,8475768.0,Seattle Kra
 SEA,Pierre-Edouard Bellemare,injured reserve,F,41.0,L,"6'0""",198.0,8477930.0,Seattle Kraken
 SEA,Andre Burakovsky,injured reserve,F,95.0,L,"6'3""",201.0,8477444.0,Seattle Kraken
 SEA,Philipp Grubauer,injured reserve,G,31.0,L,"6'1""",188.0,8475831.0,Seattle Kraken
+SEA,Kole Lind,scratch,F,73.0,R,"6'1""",176.0,8479986.0,Seattle Kraken
 SEA,Jaycob Megna,scratch,D,44.0,L,"6'6""",221.0,8477034.0,Seattle Kraken
 SEA,Justin Schultz,scratch,D,4.0,R,"6'2""",193.0,8474602.0,Seattle Kraken
 SJS,William Eklund,1st line,LW,72,L,"5'10""",176,8482667.0,San Jose Sharks
@@ -604,10 +601,9 @@ STL,Marco Scandella,3rd pair,LD,6,L,"6'3""",212,8474618.0,St. Louis Blues
 STL,Tyler Tucker,3rd pair,RD,75,L,"6'1""",205,8481006.0,St. Louis Blues
 STL,Mackenzie MacEachern,4th line,LW,28,L,"6'2""",190,8476907.0,St. Louis Blues
 STL,Oskar Sundqvist,4th line,C,70,R,"6'3""",209,8476897.0,St. Louis Blues
-STL,Hugh McGing,4th line,RW,56,L,"5'8""",170,8481070.0,St. Louis Blues
+STL,Sammy Blais,4th line,RW,79,L,"6'2""",205,8478104.0,St. Louis Blues
 STL,Anton Malmstrom,injured reserve,D,,L,"6'4""",205.0,0.0,St. Louis Blues
 STL,Josh Jacobs,injured reserve,D,,R,"6'2""",200.0,8477972.0,St. Louis Blues
-STL,Sammy Blais,scratch,F,79.0,L,"6'2""",205.0,8478104.0,St. Louis Blues
 STL,Nikita Alexandrov,scratch,F,59.0,L,"6'0""",190.0,8481543.0,St. Louis Blues
 STL,Scott Perunovich,scratch,D,48.0,L,"5'9""",172.0,8481059.0,St. Louis Blues
 TBL,Nick Paul,1st line,LW,20,L,"6'3""",219,8477426.0,Tampa Bay Lightning
@@ -618,20 +614,20 @@ TBL,Erik Cernak,1st pair,RD,81,R,"6'3""",233,8478416.0,Tampa Bay Lightning
 TBL,Brandon Hagel,2nd line,LW,38,L,"6'0""",175,8479542.0,Tampa Bay Lightning
 TBL,Anthony Cirelli,2nd line,C,71,L,"6'0""",193,8478519.0,Tampa Bay Lightning
 TBL,Steven Stamkos,2nd line,RW,91,R,"6'1""",194,8474564.0,Tampa Bay Lightning
-TBL,Mikhail Sergachev,2nd pair,LD,98,L,"6'2""",217,8479410.0,Tampa Bay Lightning
-TBL,Nick Perbix,2nd pair,RD,48,R,"6'4""",200,8480246.0,Tampa Bay Lightning
-TBL,Tanner Jeannot,3rd line,LW,84,L,"6'2""",207,8479661.0,Tampa Bay Lightning
-TBL,Luke Glendening,3rd line,C,11,R,"5'11""",191,8476822.0,Tampa Bay Lightning
-TBL,Michael Eyssimont,3rd line,RW,23,L,"6'0""",192,8479591.0,Tampa Bay Lightning
+TBL,Calvin de Haan,2nd pair,LD,44,L,"6'1""",195,8475177.0,Tampa Bay Lightning
+TBL,Darren Raddysh,2nd pair,RD,43,R,"6'0""",201,8478178.0,Tampa Bay Lightning
+TBL,Conor Sheary,3rd line,LW,73,L,"5'8""",179,8477839.0,Tampa Bay Lightning
+TBL,Tyler Motte,3rd line,C,64,L,"5'10""",192,8477353.0,Tampa Bay Lightning
+TBL,Alex Barre-Boulet,3rd line,RW,12,L,"5'9""",168,8479718.0,Tampa Bay Lightning
 TBL,Haydn Fleury,3rd pair,LD,7,L,"6'3""",208,8477938.0,Tampa Bay Lightning
-TBL,Darren Raddysh,3rd pair,RD,43,R,"6'0""",201,8478178.0,Tampa Bay Lightning
-TBL,Conor Sheary,4th line,LW,73,L,"5'8""",179,8477839.0,Tampa Bay Lightning
-TBL,Tyler Motte,4th line,C,64,L,"5'10""",192,8477353.0,Tampa Bay Lightning
-TBL,Alex Barre-Boulet,4th line,RW,12,L,"5'9""",168,8479718.0,Tampa Bay Lightning
+TBL,Nick Perbix,3rd pair,RD,48,R,"6'4""",200,8480246.0,Tampa Bay Lightning
+TBL,Austin Watson,4th line,LW,51,R,"6'4""",204,8475766.0,Tampa Bay Lightning
+TBL,Tanner Jeannot,4th line,C,84,L,"6'2""",207,8479661.0,Tampa Bay Lightning
+TBL,Michael Eyssimont,4th line,RW,23,L,"6'0""",192,8479591.0,Tampa Bay Lightning
 TBL,Logan Brown,injured reserve,F,22.0,L,"6'6""",220.0,8479366.0,Tampa Bay Lightning
 TBL,Brent Seabrook,injured reserve,D,,R,"6'3""",220.0,8470607.0,Tampa Bay Lightning
-TBL,Austin Watson,scratch,F,51.0,R,"6'4""",204.0,8475766.0,Tampa Bay Lightning
-TBL,Calvin de Haan,scratch,D,44.0,L,"6'1""",195.0,8475177.0,Tampa Bay Lightning
+TBL,Luke Glendening,scratch,F,11.0,R,"5'11""",191.0,8476822.0,Tampa Bay Lightning
+TBL,Mikhail Sergachev,scratch,D,98.0,L,"6'2""",217.0,8479410.0,Tampa Bay Lightning
 TOR,Matthew Knies,1st line,LW,23,L,"6'3""",217,8482720.0,Toronto Maple Leafs
 TOR,Auston Matthews,1st line,C,34,L,"6'3""",215,8479318.0,Toronto Maple Leafs
 TOR,William Nylander,1st line,RW,88,R,"6'0""",202,8477939.0,Toronto Maple Leafs
@@ -658,7 +654,6 @@ TOR,Joseph Woll,injured reserve,G,60.0,L,"6'2""",198.0,8479361.0,Toronto Maple L
 TOR,Matt Murray,injured reserve,G,30.0,L,"6'4""",178.0,8476899.0,Toronto Maple Leafs
 TOR,Pontus Holmberg,scratch,F,29.0,L,"5'10""",175.0,8480995.0,Toronto Maple Leafs
 TOR,Simon Benoit,scratch,D,2.0,L,"6'3""",208.0,8481122.0,Toronto Maple Leafs
-TOR,Maxime Lajoie,scratch,D,48.0,L,"6'1""",196.0,8479320.0,Toronto Maple Leafs
 VAN,Ilya Mikheyev,1st line,LW,65,L,"6'3""",195,8481624.0,Vancouver Canucks
 VAN,Elias Pettersson,1st line,C,40,L,"6'2""",176,8480012.0,Vancouver Canucks
 VAN,Pius Suter,1st line,RW,24,L,"5'11""",176,8480459.0,Vancouver Canucks
