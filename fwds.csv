@@ -11,9 +11,9 @@ BOS,1st line,63 Brad Marchand,8473419.0,63,18 Pavel Zacha,8478401.0,18,88 David 
 BOS,2nd line,43 Danton Heinen,8478046.0,43,13 Charlie Coyle,8475745.0,13,74 Jake DeBrusk,8478498.0,74,Boston Bruins
 BOS,3rd line,21 James van Riemsdyk,8474037.0,21,39 Morgan Geekie,8479987.0,39,11 Trent Frederic,8479365.0,11,Boston Bruins
 BOS,4th line,94 Jakub Lauko,8480880.0,94,19 John Beecher,8481556.0,19,62 Oskar Steen,8479546.0,62,Boston Bruins
-BUF,1st line,9 Zach Benson,8484145.0,9,72 Tage Thompson,8479420.0,72,89 Alex Tuch,8477949.0,89,Buffalo Sabres
-BUF,2nd line,37 Casey Mittelstadt,8479999.0,37,24 Dylan Cozens,8481528.0,24,77 JJ Peterka,8482175.0,77,Buffalo Sabres
-BUF,3rd line,22 Jack Quinn,8482097.0,22,17 Tyson Jost,8479370.0,17,71 Victor Olofsson,8478109.0,71,Buffalo Sabres
+BUF,1st line,53 Jeff Skinner,8475784.0,53,72 Tage Thompson,8479420.0,72,89 Alex Tuch,8477949.0,89,Buffalo Sabres
+BUF,2nd line,77 JJ Peterka,8482175.0,77,24 Dylan Cozens,8481528.0,24,22 Jack Quinn,8482097.0,22,Buffalo Sabres
+BUF,3rd line,12 Jordan Greenway,8478413.0,12,37 Casey Mittelstadt,8479999.0,37,9 Zach Benson,8484145.0,9,Buffalo Sabres
 BUF,4th line,50 Eric Robinson,8480762.0,50,19 Peyton Krebs,8481522.0,19,21 Kyle Okposo,8473449.0,21,Buffalo Sabres
 CAR,1st line,23 Stefan Noesen,8476474.0,23,20 Sebastian Aho,8478427.0,20,24 Seth Jarvis,8482093.0,24,Carolina Hurricanes
 CAR,2nd line,58 Michael Bunting,8478047.0,58,82 Jesperi Kotkaniemi,8480829.0,82,88 Martin Necas,8480039.0,88,Carolina Hurricanes
@@ -39,13 +39,13 @@ DAL,1st line,21 Jason Robertson,8480027.0,21,24 Roope Hintz,8478449.0,24,16 Joe 
 DAL,2nd line,27 Mason Marchment,8478975.0,27,95 Matt Duchene,8475168.0,95,91 Tyler Seguin,8475794.0,91,Dallas Stars
 DAL,3rd line,14 Jamie Benn,8473994.0,14,53 Wyatt Johnston,8482740.0,53,63 Evgenii Dadonov,8474149.0,63,Dallas Stars
 DAL,4th line,18 Sam Steel,8479351.0,18,10 Ty Dellandrea,8480848.0,10,15 Craig Smith,8475225.0,15,Dallas Stars
-DET,1st line,90 Joe Veleno,8480813.0,90,71 Dylan Larkin,8477946.0,71,88 Patrick Kane,8474141.0,88,Detroit Red Wings
-DET,2nd line,93 Alex DeBrincat,8479337.0,93,37 J.T. Compher,8477456.0,37,23 Lucas Raymond,8482078.0,23,Detroit Red Wings
-DET,3rd line,27 Michael Rasmussen,8479992.0,27,18 Andrew Copp,8477429.0,18,14 Robby Fabbri,8477952.0,14,Detroit Red Wings
+DET,1st line,14 Robby Fabbri,8477952.0,14,71 Dylan Larkin,8477946.0,71,23 Lucas Raymond,8482078.0,23,Detroit Red Wings
+DET,2nd line,90 Joe Veleno,8480813.0,90,37 J.T. Compher,8477456.0,37,27 Michael Rasmussen,8479992.0,27,Detroit Red Wings
+DET,3rd line,93 Alex DeBrincat,8479337.0,93,18 Andrew Copp,8477429.0,18,88 Patrick Kane,8474141.0,88,Detroit Red Wings
 DET,4th line,36 Christian Fischer,8478432.0,36,21 Austin Czarnik,8478512.0,21,17 Daniel Sprong,8478466.0,17,Detroit Red Wings
 EDM,1st line,91 Evander Kane,8475169.0,91,97 Connor McDavid,8478402.0,97,18 Zach Hyman,8475786.0,18,Edmonton Oilers
 EDM,2nd line,93 Ryan Nugent-Hopkins,8476454.0,93,29 Leon Draisaitl,8477934.0,29,37 Warren Foegele,8477998.0,37,Edmonton Oilers
-EDM,3rd line,13 Mattias Janmark,8477406.0,13,71 Ryan McLeod,8480802.0,71,28 Connor Brown,8477015.0,28,Edmonton Oilers
+EDM,3rd line,13 Mattias Janmark,8477406.0,13,71 Ryan McLeod,8480802.0,71,10 Derek Ryan,8478585.0,10,Edmonton Oilers
 EDM,4th line,21 Adam Erne,8477454.0,21,57 James Hamblin,8480468.0,57,89 Sam Gagner,8474040.0,89,Edmonton Oilers
 FLA,1st line,17 Evan Rodrigues,8478542.0,17,16 Aleksander Barkov,8477493.0,16,13 Sam Reinhart,8477933.0,13,Florida Panthers
 FLA,2nd line,23 Carter Verhaeghe,8477409.0,23,9 Sam Bennett,8477935.0,9,19 Matthew Tkachuk,8479314.0,19,Florida Panthers
@@ -73,7 +73,7 @@ NSH,3rd line,13 Yakov Trenin,8478508.0,13,10 Colton Sissons,8476925.0,10,75 Juus
 NSH,4th line,36 Cole Smith,8482062.0,36,47 Michael McCarron,8477446.0,47,26 Philip Tomasino,8481577.0,26,Nashville Predators
 NYI,1st line,27 Anders Lee,8475314.0,27,14 Bo Horvat,8477500.0,14,13 Mathew Barzal,8478445.0,13,New York Islanders
 NYI,2nd line,18 Pierre Engvall,8478115.0,18,29 Brock Nelson,8475754.0,29,21 Kyle Palmieri,8475151.0,21,New York Islanders
-NYI,3rd line,10 Simon Holmstrom,8481601.0,10,44 Jean-Gabriel Pageau,8476419.0,44,16 Julien Gauthier,8479328.0,16,New York Islanders
+NYI,3rd line,10 Simon Holmstrom,8481601.0,10,44 Jean-Gabriel Pageau,8476419.0,44,26 Oliver Wahlstrom,8480789.0,26,New York Islanders
 NYI,4th line,20 Hudson Fasching,8477392.0,20,53 Casey Cizikas,8475231.0,53,15 Cal Clutterbuck,8473504.0,15,New York Islanders
 NYR,1st line,20 Chris Kreider,8475184.0,20,93 Mika Zibanejad,8476459.0,93,17 Blake Wheeler,8471218.0,17,New York Rangers
 NYR,2nd line,10 Artemi Panarin,8478550.0,10,16 Vincent Trocheck,8476389.0,16,13 Alexis Lafreniere,8482109.0,13,New York Rangers
@@ -95,10 +95,10 @@ SEA,1st line,90 Tomas Tatar,8475193.0,90,10 Matty Beniers,8482665.0,10,7 Jordan 
 SEA,2nd line,19 Jared McCann,8477955.0,19,21 Alexander Wennberg,8477505.0,21,13 Brandon Tanev,8479293.0,13,Seattle Kraken
 SEA,3rd line,20 Eeli Tolvanen,8480009.0,20,37 Yanni Gourde,8476826.0,37,22 Oliver Bjorkstrand,8477416.0,22,Seattle Kraken
 SEA,4th line,52 Tye Kartye,8481789.0,52,94 Devin Shore,8476913.0,94,56 Kailer Yamamoto,8479977.0,56,Seattle Kraken
-SJS,1st line,72 William Eklund,8482667.0,72,48 Tomas Hertl,8476881.0,48,94 Alexander Barabanov,8482222.0,94,San Jose Sharks
+SJS,1st line,72 William Eklund,8482667.0,72,48 Tomas Hertl,8476881.0,48,18 Filip Zadina,8480821.0,18,San Jose Sharks
 SJS,2nd line,10 Anthony Duclair,8477407.0,10,64 Mikael Granlund,8475798.0,64,20 Fabian Zetterlund,8480188.0,20,San Jose Sharks
 SJS,3rd line,68 Mike Hoffman,8474884.0,68,11 Luke Kunin,8479316.0,11,90 Justin Bailey,8477473.0,90,San Jose Sharks
-SJS,4th line,18 Filip Zadina,8480821.0,18,16 Jack Studnicka,8480021.0,16,62 Kevin Labanc,8478099.0,62,San Jose Sharks
+SJS,4th line,94 Alexander Barabanov,8482222.0,94,16 Jack Studnicka,8480021.0,16,62 Kevin Labanc,8478099.0,62,San Jose Sharks
 STL,1st line,89 Pavel Buchnevich,8477402.0,89,18 Robert Thomas,8480023.0,18,25 Jordan Kyrou,8479385.0,25,St. Louis Blues
 STL,2nd line,20 Brandon Saad,8476438.0,20,10 Brayden Schenn,8475170.0,10,42 Kasperi Kapanen,8477953.0,42,St. Louis Blues
 STL,3rd line,13 Alexei Toropchenko,8480281.0,13,12 Kevin Hayes,8475763.0,12,63 Jake Neighbours,8482089.0,63,St. Louis Blues
