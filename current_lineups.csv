@@ -46,6 +46,7 @@ ARI,Jakub Voracek,injured reserve,F,,L,"6'2""",214.0,8474161.0,Arizona Coyotes
 ARI,Bryan Little,injured reserve,F,,R,"6'0""",191.0,8473412.0,Arizona Coyotes
 ARI,Vladislav Kolyachonok,injured reserve,D,52.0,L,"6'1""",189.0,8481609.0,Arizona Coyotes
 ARI,Shea Weber,injured reserve,D,,R,"6'4""",230.0,8470642.0,Arizona Coyotes
+ARI,Justin Kirkland,scratch,F,52.0,L,"6'3""",193.0,8477993.0,Arizona Coyotes
 ARI,Juuso Valimaki,scratch,D,4.0,L,"6'2""",212.0,8479976.0,Arizona Coyotes
 ARI,Josh Brown,scratch,D,3.0,R,"6'5""",217.0,8477384.0,Arizona Coyotes
 BOS,Brad Marchand,1st line,LW,63,L,"5'9""",181,8473419.0,Boston Bruins
@@ -188,8 +189,6 @@ CHI,Luke Philp,injured reserve,F,39.0,R,"5'10""",180.0,8478224.0,Chicago Blackha
 CHI,Samuel Savoie,injured reserve,F,67.0,L,"5'10""",189.0,0.0,Chicago Blackhawks
 CHI,Seth Jones,injured reserve,D,4.0,R,"6'4""",209.0,8477495.0,Chicago Blackhawks
 CHI,Cole Guttman,scratch,F,70.0,R,"5'10""",163.0,8480252.0,Chicago Blackhawks
-CHI,Filip Roos,scratch,D,48.0,L,"6'4""",190.0,8483619.0,Chicago Blackhawks
-CHI,Wyatt Kaiser,scratch,D,44.0,L,"6'0""",173.0,8482176.0,Chicago Blackhawks
 CHI,Alex Vlasic,scratch,D,72.0,L,"6'6""",200.0,8481568.0,Chicago Blackhawks
 COL,Valeri Nichushkin,1st line,LW,13,L,"6'4""",210,8477501.0,Colorado Avalanche
 COL,Nathan MacKinnon,1st line,C,29,R,"6'0""",200,8477492.0,Colorado Avalanche
@@ -272,7 +271,7 @@ EDM,Mattias Ekholm,2nd pair,LD,14,L,"6'4""",215,8475218.0,Edmonton Oilers
 EDM,Evan Bouchard,2nd pair,RD,2,R,"6'3""",194,8480803.0,Edmonton Oilers
 EDM,Mattias Janmark,3rd line,LW,13,L,"6'1""",195,8477406.0,Edmonton Oilers
 EDM,Ryan McLeod,3rd line,C,71,L,"6'3""",201,8480802.0,Edmonton Oilers
-EDM,Sam Gagner,3rd line,RW,89,R,"5'11""",200,8474040.0,Edmonton Oilers
+EDM,Connor Brown,3rd line,RW,28,R,"6'0""",186,8477015.0,Edmonton Oilers
 EDM,Brett Kulak,3rd pair,LD,27,L,"6'2""",197,8476967.0,Edmonton Oilers
 EDM,Vincent Desharnais,3rd pair,RD,73,R,"6'6""",209,8479576.0,Edmonton Oilers
 EDM,Adam Erne,4th line,LW,21,L,"6'1""",212,8477454.0,Edmonton Oilers
@@ -280,7 +279,7 @@ EDM,James Hamblin,4th line,C,57,L,"5'9""",175,8480468.0,Edmonton Oilers
 EDM,Derek Ryan,4th line,RW,10,R,"5'10""",185,8478585.0,Edmonton Oilers
 EDM,Dylan Holloway,injured reserve,F,55.0,L,"6'1""",203.0,8482077.0,Edmonton Oilers
 EDM,Ryan Fanti,injured reserve,G,50.0,L,"6'3""",195.0,0.0,Edmonton Oilers
-EDM,Connor Brown,scratch,F,28.0,R,"6'0""",186.0,8477015.0,Edmonton Oilers
+EDM,Sam Gagner,scratch,F,89.0,R,"5'11""",200.0,8474040.0,Edmonton Oilers
 EDM,Benjamin Gleason,scratch,D,6.0,L,"6'1""",185.0,0.0,Edmonton Oilers
 FLA,Evan Rodrigues,1st line,LW,17,R,"5'11""",184,8478542.0,Florida Panthers
 FLA,Aleksander Barkov,1st line,C,16,L,"6'3""",210,8477493.0,Florida Panthers
@@ -495,15 +494,15 @@ PHI,Sean Couturier,1st line,C,14,L,"6'3""",211,8476461.0,Philadelphia Flyers
 PHI,Travis Konecny,1st line,RW,11,R,"5'10""",175,8478439.0,Philadelphia Flyers
 PHI,Cam York,1st pair,LD,8,L,"5'11""",172,8481546.0,Philadelphia Flyers
 PHI,Travis Sanheim,1st pair,RD,6,L,"6'3""",181,8477948.0,Philadelphia Flyers
-PHI,Joel Farabee,2nd line,LW,86,L,"6'0""",164,8480797.0,Philadelphia Flyers
-PHI,Ryan Poehling,2nd line,C,25,L,"6'2""",204,8480068.0,Philadelphia Flyers
-PHI,Cam Atkinson,2nd line,RW,89,R,"5'8""",175,8474715.0,Philadelphia Flyers
+PHI,Owen Tippett,2nd line,LW,74,R,"6'0""",183,8480015.0,Philadelphia Flyers
+PHI,Morgan Frost,2nd line,C,48,L,"5'11""",170,8480028.0,Philadelphia Flyers
+PHI,Bobby Brink,2nd line,RW,10,R,"5'8""",165,8481553.0,Philadelphia Flyers
 PHI,Nick Seeler,2nd pair,LD,24,L,"6'2""",201,8476372.0,Philadelphia Flyers
 PHI,Sean Walker,2nd pair,RD,26,R,"5'11""",196,8480336.0,Philadelphia Flyers
-PHI,Owen Tippett,3rd line,LW,74,R,"6'0""",183,8480015.0,Philadelphia Flyers
-PHI,Morgan Frost,3rd line,C,48,L,"5'11""",170,8480028.0,Philadelphia Flyers
-PHI,Bobby Brink,3rd line,RW,10,R,"5'8""",165,8481553.0,Philadelphia Flyers
-PHI,Marc Staal,3rd pair,LD,18,L,"6'4""",209,8471686.0,Philadelphia Flyers
+PHI,Joel Farabee,3rd line,LW,86,L,"6'0""",164,8480797.0,Philadelphia Flyers
+PHI,Ryan Poehling,3rd line,C,25,L,"6'2""",204,8480068.0,Philadelphia Flyers
+PHI,Cam Atkinson,3rd line,RW,89,R,"5'8""",175,8474715.0,Philadelphia Flyers
+PHI,Egor Zamula,3rd pair,LD,5,L,"6'3""",170,8481178.0,Philadelphia Flyers
 PHI,Rasmus Ristolainen,3rd pair,RD,55,R,"6'4""",220,8477499.0,Philadelphia Flyers
 PHI,Nicolas Deslauriers,4th line,LW,44,L,"6'3""",219,8475235.0,Philadelphia Flyers
 PHI,Scott Laughton,4th line,C,21,L,"6'1""",190,8476872.0,Philadelphia Flyers
@@ -511,7 +510,7 @@ PHI,Garnet Hathaway,4th line,RW,19,R,"6'3""",210,8477903.0,Philadelphia Flyers
 PHI,Noah Cates,injured reserve,F,27.0,L,"6'1""",170.0,8480220.0,Philadelphia Flyers
 PHI,Ryan Ellis,injured reserve,D,94.0,R,"5'10""",180.0,8475176.0,Philadelphia Flyers
 PHI,Rhett Gardner,scratch,F,49.0,L,"6'3""",225.0,8479587.0,Philadelphia Flyers
-PHI,Egor Zamula,scratch,D,5.0,L,"6'3""",170.0,8481178.0,Philadelphia Flyers
+PHI,Marc Staal,scratch,D,18.0,L,"6'4""",209.0,8471686.0,Philadelphia Flyers
 PHI,Cal Petersen,scratch,G,40.0,R,"6'1""",185.0,8477361.0,Philadelphia Flyers
 PIT,Jake Guentzel,1st line,LW,59,L,"5'11""",180,8477404.0,Pittsburgh Penguins
 PIT,Sidney Crosby,1st line,C,87,L,"5'11""",200,8471675.0,Pittsburgh Penguins
