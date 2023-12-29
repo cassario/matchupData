@@ -22,7 +22,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020004,CAR,,5on4,"Michael Bunting (1), Sebastian Aho (1), Tony DeAngelo (1)",2,02:55,1-1
 20232024,2023020004,CAR,,5on5,"Teuvo Teravainen (1), Martin Necas (1), Brady Skjei (1)",2,17:57,2-1
 20232024,2023020004,CAR,,5on5,"Jordan Staal (1), Jordan Martinook (1)",3,00:20,3-1
-20232024,2023020004,OTT,,5on4,"Parker Kelly (1), Mathieu Joseph (1)",3,05:14,2-3
+20232024,2023020004,OTT,,4on5,"Parker Kelly (1), Mathieu Joseph (1)",3,05:14,2-3
 20232024,2023020004,OTT,,5on5,Tim Stutzle (1),3,05:49,3-3
 20232024,2023020004,CAR,,5on5,"Brady Skjei (1), Jesper Fast (1), Jordan Staal (1)",3,07:51,4-3
 20232024,2023020004,CAR,,4on5,"Jaccob Slavin (1), Jesperi Kotkaniemi (1), Seth Jarvis (1)",3,11:05,5-3
@@ -68,7 +68,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020010,NYR,,5on4,"Chris Kreider (1), Adam Fox (1), Mika Zibanejad (1)",1,12:22,2-0
 20232024,2023020010,NYR,,5on5,Artemi Panarin (1),2,12:49,3-0
 20232024,2023020010,BUF,,5on5,"JJ Peterka (1), Owen Power (1), Henri Jokiharju (1)",2,18:30,1-3
-20232024,2023020010,NYR,,5on4,"Chris Kreider (2), Mika Zibanejad (2), K'Andre Miller (1)",3,11:34,4-1
+20232024,2023020010,NYR,,4on5,"Chris Kreider (2), Mika Zibanejad (2), K'Andre Miller (1)",3,11:34,4-1
 20232024,2023020010,NYR,,other,"Jacob Trouba (1), Chris Kreider (1), Mika Zibanejad (3)",3,18:31,5-1
 20232024,2023020011,PHI,,5on5,"Joel Farabee (1), Sean Couturier (1), Egor Zamula (1)",1,03:33,1-0
 20232024,2023020011,CBJ,,5on5,"Jake Bean (1), Adam Fantilli (1), Kirill Marchenko (1)",1,08:24,1-1
@@ -190,12 +190,12 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020031,ANA,,5on5,"Mason McTavish (1), Jamie Drysdale (1), Ryan Strome (1)",3,06:45,1-3
 20232024,2023020031,VGK,,other,"Jonas Rondbjerg (1), Nicolas Hague (2), Nicolas Roy (1)",3,17:32,4-1
 20232024,2023020032,CAR,,5on5,"Brent Burns (1), Jaccob Slavin (1)",1,04:15,1-0
-20232024,2023020032,CAR,,5on4,Sebastian Aho (1),1,06:41,2-0
+20232024,2023020032,CAR,,4on5,Sebastian Aho (1),1,06:41,2-0
 20232024,2023020032,CAR,,5on5,Jesperi Kotkaniemi (1),1,13:28,3-0
 20232024,2023020032,LAK,,5on5,"Drew Doughty (1), Kevin Fiala (1), Mikey Anderson (1)",1,18:27,1-3
 20232024,2023020032,CAR,,5on5,"Brendan Lemieux (1), Tony DeAngelo (2)",2,03:03,4-1
 20232024,2023020032,LAK,,5on4,"Anze Kopitar (1), Adrian Kempe (1), Kevin Fiala (2)",2,05:20,2-4
-20232024,2023020032,CAR,,5on4,"Teuvo Teravainen (2), Sebastian Aho (2), Brady Skjei (2)",2,10:23,5-2
+20232024,2023020032,CAR,,4on5,"Teuvo Teravainen (2), Sebastian Aho (2), Brady Skjei (2)",2,10:23,5-2
 20232024,2023020032,LAK,,5on4,Trevor Moore (1),2,13:46,3-5
 20232024,2023020032,LAK,,5on5,"Vladislav Gavrikov (1), Trevor Lewis (1), Blake Lizotte (1)",3,11:24,4-5
 20232024,2023020032,LAK,,other,"Anze Kopitar (2), Carl Grundstrom (1), Kevin Fiala (3)",3,18:38,5-5
@@ -243,8 +243,8 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020040,TBL,,5on5,"Brandon Hagel (3), Anthony Cirelli (2), Tanner Jeannot (2)",2,17:58,1-2
 20232024,2023020040,TBL,,other,"Brandon Hagel (4), Brayden Point (4)",3,19:53,2-2
 20232024,2023020040,BUF,,other,"Dylan Cozens (1), Jordan Greenway (1), Rasmus Dahlin (2)",4,01:46,3-2
-20232024,2023020041,MIN,,5on4,"Brandon Duhaime (2), Jake Middleton (2)",1,09:20,1-0
-20232024,2023020041,MIN,,5on4,Connor Dewar (1),1,09:45,2-0
+20232024,2023020041,MIN,,4on5,"Brandon Duhaime (2), Jake Middleton (2)",1,09:20,1-0
+20232024,2023020041,MIN,,4on5,Connor Dewar (1),1,09:45,2-0
 20232024,2023020041,MIN,,other,"Joel Eriksson Ek (2), Mats Zuccarello (3), Kirill Kaprizov (3)",2,02:17,3-0
 20232024,2023020041,MTL,,5on5,Tanner Pearson (2),2,09:47,1-3
 20232024,2023020041,MIN,,5on4,"Kirill Kaprizov (1), Mats Zuccarello (4), Calen Addison (2)",2,17:22,4-1
@@ -268,12 +268,12 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020045,WPG,,5on5,"Mark Scheifele (3), Dylan DeMelo (2), Vladislav Namestnikov (1)",3,18:44,1-5
 20232024,2023020046,SEA,,5on5,"Kailer Yamamoto (1), Vince Dunn (2)",1,15:09,1-0
 20232024,2023020046,COL,,5on5,Artturi Lehkonen (1),2,03:50,1-1
-20232024,2023020046,COL,,5on4,"Logan O'Connor (1), Cale Makar (2), Devon Toews (2)",2,11:50,2-1
+20232024,2023020046,COL,,4on5,"Logan O'Connor (1), Cale Makar (2), Devon Toews (2)",2,11:50,2-1
 20232024,2023020046,COL,,5on5,"Mikko Rantanen (3), Samuel Girard (1), Andrew Cogliano (1)",3,13:45,3-1
-20232024,2023020046,COL,,5on4,Valeri Nichushkin (1),3,16:46,4-1
+20232024,2023020046,COL,,4on5,Valeri Nichushkin (1),3,16:46,4-1
 20232024,2023020047,SJS,,5on5,"Fabian Zetterlund (1), Tomas Hertl (2)",1,03:15,1-0
 20232024,2023020047,CAR,,5on4,"Seth Jarvis (1), Michael Bunting (2), Teuvo Teravainen (1)",1,04:06,1-1
-20232024,2023020047,CAR,,5on4,Jaccob Slavin (2),2,08:54,2-1
+20232024,2023020047,CAR,,4on5,Jaccob Slavin (2),2,08:54,2-1
 20232024,2023020047,SJS,,5on4,"Filip Zadina (2), Fabian Zetterlund (1)",2,09:11,2-2
 20232024,2023020047,SJS,,5on4,"William Eklund (1), Henry Thrun (2), Tomas Hertl (3)",2,16:06,3-2
 20232024,2023020047,CAR,,5on4,"Stefan Noesen (1), Jesperi Kotkaniemi (2), Brady Skjei (4)",3,09:07,3-3
@@ -380,7 +380,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020062,SJS,,5on5,"Anthony Duclair (1), Tomas Hertl (4)",3,11:13,1-3
 20232024,2023020063,CBJ,,5on5,"Sean Kuraly (1), Justin Danforth (1), Ivan Provorov (3)",2,06:29,1-0
 20232024,2023020063,CBJ,,5on5,"Justin Danforth (2), Jack Roslovic (1), Zach Werenski (1)",3,08:45,2-0
-20232024,2023020063,CGY,,5on4,"Elias Lindholm (2), Mikael Backlund (1)",3,10:37,1-2
+20232024,2023020063,CGY,,4on5,"Elias Lindholm (2), Mikael Backlund (1)",3,10:37,1-2
 20232024,2023020063,CBJ,,other,Zach Werenski (1),3,17:39,3-1
 20232024,2023020064,NYI,,5on5,"Brock Nelson (2), Pierre Engvall (2), Kyle Palmieri (2)",1,12:35,1-0
 20232024,2023020064,NJD,,5on4,"Dougie Hamilton (3), Timo Meier (1), Akira Schmid (1)",1,19:00,1-1
@@ -436,11 +436,11 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020072,DAL,,5on5,"Wyatt Johnston (1), Jamie Benn (1)",1,04:02,1-0
 20232024,2023020072,DAL,,5on5,"Tyler Seguin (1), Ryan Suter (1), Miro Heiskanen (3)",1,07:52,2-0
 20232024,2023020072,PHI,,5on5,"Joel Farabee (3), Bobby Brink (2), Noah Cates (1)",1,10:12,1-2
-20232024,2023020072,PHI,,5on4,"Travis Konecny (4), Noah Cates (2)",1,16:36,2-2
+20232024,2023020072,PHI,,4on5,"Travis Konecny (4), Noah Cates (2)",1,16:36,2-2
 20232024,2023020072,DAL,,5on5,"Roope Hintz (2), Jason Robertson (2), Joe Pavelski (2)",2,00:30,3-2
 20232024,2023020072,DAL,,5on5,"Jamie Benn (2), Wyatt Johnston (2)",3,10:36,4-2
-20232024,2023020072,PHI,,5on4,"Travis Konecny (5), Travis Sanheim (4), Scott Laughton (4)",3,11:58,3-4
-20232024,2023020072,PHI,,5on4,"Sean Walker (2), Egor Zamula (2)",3,12:45,4-4
+20232024,2023020072,PHI,,4on5,"Travis Konecny (5), Travis Sanheim (4), Scott Laughton (4)",3,11:58,3-4
+20232024,2023020072,PHI,,4on5,"Sean Walker (2), Egor Zamula (2)",3,12:45,4-4
 20232024,2023020072,DAL,,other,"Joe Pavelski (3), Wyatt Johnston (3)",4,02:13,5-4
 20232024,2023020073,CBJ,,5on5,"Justin Danforth (3), David Jiricek (1), Mathieu Olivier (1)",1,08:55,1-0
 20232024,2023020073,CBJ,,5on5,"Kent Johnson (1), Cole Sillinger (2)",2,06:10,2-0
@@ -476,7 +476,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020077,EDM,,5on5,"Darnell Nurse (1), Connor McDavid (5), Leon Draisaitl (4)",1,01:25,1-0
 20232024,2023020077,EDM,,5on4,"Evan Bouchard (1), Leon Draisaitl (5), Connor McDavid (6)",1,06:11,2-0
 20232024,2023020077,WPG,,5on4,"Josh Morrissey (1), Dylan DeMelo (3), Morgan Barron (1)",1,10:18,1-2
-20232024,2023020077,WPG,,5on4,"Vladislav Namestnikov (1), Alex Iafallo (1)",2,18:21,2-2
+20232024,2023020077,WPG,,4on5,"Vladislav Namestnikov (1), Alex Iafallo (1)",2,18:21,2-2
 20232024,2023020077,WPG,,other,"Mark Scheifele (4), Josh Morrissey (5), Kyle Connor (2)",4,03:53,3-2
 20232024,2023020078,SEA,,5on5,"Justin Schultz (1), Brian Dumoulin (1), Eeli Tolvanen (2)",1,08:41,1-0
 20232024,2023020078,NYR,,5on5,"Artemi Panarin (2), Filip Chytil (2)",1,12:15,1-1
@@ -669,7 +669,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020108,TOR,,5on5,"Mitchell Marner (2), Auston Matthews (2), Calle Jarnkrok (2)",2,18:07,2-1
 20232024,2023020108,TOR,,5on4,"Tyler Bertuzzi (2), Morgan Rielly (5), Matthew Knies (2)",3,05:08,3-1
 20232024,2023020108,TOR,,other,John Tavares (4),3,19:49,4-1
-20232024,2023020109,STL,,5on4,"Kasperi Kapanen (1), Oskar Sundqvist (2)",1,11:23,1-0
+20232024,2023020109,STL,,4on5,"Kasperi Kapanen (1), Oskar Sundqvist (2)",1,11:23,1-0
 20232024,2023020109,STL,,5on5,"Nick Leddy (1), Kevin Hayes (2), Alexei Toropchenko (2)",1,13:24,2-0
 20232024,2023020109,STL,,other,"Oskar Sundqvist (1), Robert Thomas (4)",3,17:53,3-0
 20232024,2023020110,NYR,,5on4,"Adam Fox (2), Vincent Trocheck (2), Artemi Panarin (6)",2,03:32,1-0
@@ -721,7 +721,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020117,ANA,,5on4,"Trevor Zegras (1), Ryan Strome (8)",3,02:42,5-2
 20232024,2023020117,ANA,,5on5,"Brett Leason (2), Sam Carrick (2), Ross Johnston (2)",3,03:14,6-2
 20232024,2023020117,PHI,,5on4,"Travis Konecny (8), Sean Couturier (5), Bobby Brink (3)",3,09:51,3-6
-20232024,2023020117,ANA,,5on4,"Frank Vatrano (8), Adam Henrique (3)",3,11:12,7-3
+20232024,2023020117,ANA,,4on5,"Frank Vatrano (8), Adam Henrique (3)",3,11:12,7-3
 20232024,2023020117,PHI,,5on5,"Joel Farabee (4), Bobby Brink (4), Noah Cates (3)",3,17:00,4-7
 20232024,2023020118,SEA,,5on5,"Jared McCann (4), Yanni Gourde (1), Will Borgen (3)",1,07:58,1-0
 20232024,2023020118,SEA,,5on5,"Eeli Tolvanen (1), Jaden Schwartz (2), Will Borgen (4)",2,07:34,2-0
@@ -804,7 +804,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020132,PIT,,other,"Evgeni Malkin (5), Erik Karlsson (4), Sidney Crosby (5)",2,19:25,2-2
 20232024,2023020132,PIT,,5on5,"Radim Zohorna (2), Drew O'Connor (2), Lars Eller (3)",3,01:25,3-2
 20232024,2023020132,ANA,,5on5,"Mason McTavish (4), Ryan Strome (9), Pavel Mintyukov (5)",3,03:01,3-3
-20232024,2023020132,ANA,,5on4,"Mason McTavish (5), Adam Henrique (4)",3,19:47,4-3
+20232024,2023020132,ANA,,4on5,"Mason McTavish (5), Adam Henrique (4)",3,19:47,4-3
 20232024,2023020133,SEA,,5on5,"Brian Dumoulin (1), Justin Schultz (1), Jaden Schwartz (3)",1,12:08,1-0
 20232024,2023020133,SEA,,5on5,"Yanni Gourde (2), Kailer Yamamoto (2), Jared McCann (2)",1,13:08,2-0
 20232024,2023020133,TBL,,5on5,"Tanner Jeannot (2), Haydn Fleury (1), Darren Raddysh (5)",1,13:37,1-2
@@ -842,7 +842,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020137,ARI,,5on5,"Liam O'Brien (1), Jack McBain (2), Matias Maccelli (5)",2,15:26,7-1
 20232024,2023020137,ARI,,5on5,"Jack McBain (4), Alexander Kerfoot (3)",3,10:37,8-1
 20232024,2023020138,VGK,,5on4,"Paul Cotter (3), William Karlsson (8), Alex Pietrangelo (2)",1,15:06,1-0
-20232024,2023020138,MTL,,5on4,Sean Monahan (5),2,05:38,1-1
+20232024,2023020138,MTL,,4on5,Sean Monahan (5),2,05:38,1-1
 20232024,2023020138,VGK,,other,"William Carrier (2), Chandler Stephenson (6), Jack Eichel (7)",2,18:10,2-1
 20232024,2023020138,MTL,,5on5,"Nick Suzuki (2), Rafael Harvey-Pinard (4), Cole Caufield (6)",3,15:42,2-2
 20232024,2023020139,LAK,,5on5,"Andreas Englund (1), Pierre-Luc Dubois (3)",1,06:38,1-0
@@ -865,7 +865,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020141,BUF,,5on5,"Tage Thompson (5), Alex Tuch (6)",3,13:28,4-2
 20232024,2023020141,BUF,,other,"Brandon Biro (2), Casey Mittelstadt (6), Peyton Krebs (1)",3,16:52,5-2
 20232024,2023020142,CGY,,5on5,"Connor Zary (1), Chris Tanev (1), Nazem Kadri (2)",1,05:28,1-0
-20232024,2023020142,DAL,,5on4,"Jamie Benn (3), Roope Hintz (4), Esa Lindell (1)",1,19:06,1-1
+20232024,2023020142,DAL,,4on5,"Jamie Benn (3), Roope Hintz (4), Esa Lindell (1)",1,19:06,1-1
 20232024,2023020142,CGY,,5on5,"Andrew Mangiapane (4), MacKenzie Weegar (3), Elias Lindholm (5)",2,01:57,2-1
 20232024,2023020142,DAL,,5on5,"Jason Robertson (2), Roope Hintz (5), Joe Pavelski (4)",2,04:35,2-2
 20232024,2023020142,DAL,,5on5,"Evgenii Dadonov (3), Nils Lundkvist (2), Jamie Benn (5)",2,10:07,3-2
@@ -1011,7 +1011,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020164,MTL,,5on5,"Nick Suzuki (3), Cole Caufield (7), Mike Matheson (5)",3,18:32,3-6
 20232024,2023020165,TOR,,5on5,"Mitchell Marner (4), Calle Jarnkrok (4), Morgan Rielly (6)",1,12:05,1-0
 20232024,2023020165,BUF,,5on4,"JJ Peterka (5), Owen Power (6), Victor Olofsson (1)",1,16:13,1-1
-20232024,2023020165,BUF,,5on4,Tage Thompson (6),2,06:28,2-1
+20232024,2023020165,BUF,,4on5,Tage Thompson (6),2,06:28,2-1
 20232024,2023020165,TOR,,5on4,"Auston Matthews (9), William Nylander (9), Mitchell Marner (7)",2,11:22,2-2
 20232024,2023020165,BUF,,5on5,"Jeff Skinner (6), Ryan Johnson (1)",2,11:56,3-2
 20232024,2023020165,TOR,,5on5,"Auston Matthews (10), Mitchell Marner (8)",3,00:17,3-3
@@ -1203,7 +1203,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020193,BOS,,5on5,"Trent Frederic (3), James van Riemsdyk (5), Charlie Coyle (7)",1,14:05,1-0
 20232024,2023020193,NYI,,5on4,"Brock Nelson (6), Noah Dobson (8), Mathew Barzal (7)",1,17:23,1-1
 20232024,2023020193,BOS,,5on4,"Charlie Coyle (3), Pavel Zacha (5), David Pastrnak (9)",2,06:06,2-1
-20232024,2023020193,NYI,,5on4,"Simon Holmstrom (4), Jean-Gabriel Pageau (5)",3,02:50,2-2
+20232024,2023020193,NYI,,4on5,"Simon Holmstrom (4), Jean-Gabriel Pageau (5)",3,02:50,2-2
 20232024,2023020193,BOS,,5on4,"David Pastrnak (10), Kevin Shattenkirk (3), Brad Marchand (6)",3,03:33,3-2
 20232024,2023020193,BOS,,5on5,"Charlie Coyle (4), James van Riemsdyk (6), Trent Frederic (2)",3,09:26,4-2
 20232024,2023020193,BOS,,other,"Charlie Coyle (5), David Pastrnak (10), Brad Marchand (7)",3,18:39,5-2
@@ -1261,7 +1261,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020202,PIT,,5on5,Sidney Crosby (7),1,07:11,1-0
 20232024,2023020202,LAK,,4on5,"Carl Grundstrom (5), Anze Kopitar (7), Matt Roy (5)",1,14:14,1-1
 20232024,2023020202,LAK,,5on5,"Adrian Kempe (6), Mikey Anderson (7), Quinton Byfield (10)",2,09:58,2-1
-20232024,2023020202,PIT,,5on4,Lars Eller (2),2,18:03,2-2
+20232024,2023020202,PIT,,4on5,Lars Eller (2),2,18:03,2-2
 20232024,2023020202,PIT,,5on5,"Jake Guentzel (5), Sidney Crosby (7), Erik Karlsson (8)",3,00:37,3-2
 20232024,2023020202,LAK,,5on5,"Kevin Fiala (2), Pierre-Luc Dubois (4), Jordan Spence (6)",3,06:40,3-3
 20232024,2023020202,PIT,,other,"Bryan Rust (7), Evgeni Malkin (7), Erik Karlsson (9)",4,03:45,4-3
@@ -1320,7 +1320,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020210,DET,,5on5,"Jake Walman (4), Christian Fischer (4), Joe Veleno (2)",3,02:33,5-3
 20232024,2023020210,CBJ,,5on5,Patrik Laine (2),3,11:30,4-5
 20232024,2023020211,DAL,,5on5,"Thomas Harley (3), Ryan Suter (4)",2,02:13,1-0
-20232024,2023020211,DAL,,5on4,Wyatt Johnston (5),2,05:20,2-0
+20232024,2023020211,DAL,,4on5,Wyatt Johnston (5),2,05:20,2-0
 20232024,2023020211,WPG,,5on5,"Cole Perfetti (4), Vladislav Namestnikov (4), Nikolaj Ehlers (4)",2,08:28,1-2
 20232024,2023020211,DAL,,5on4,"Matt Duchene (4), Wyatt Johnston (5), Evgenii Dadonov (2)",2,11:57,3-1
 20232024,2023020211,WPG,,5on5,"Brenden Dillon (4), Mark Scheifele (12), Kyle Connor (6)",3,10:05,2-3
@@ -1369,11 +1369,11 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020219,STL,,5on5,"Brayden Schenn (3), Torey Krug (3), Justin Faulk (5)",1,01:08,1-0
 20232024,2023020219,STL,,5on5,"Brayden Schenn (4), Brandon Saad (2)",1,18:53,2-0
 20232024,2023020219,STL,,5on5,"Torey Krug (1), Robert Thomas (6), Justin Faulk (6)",1,19:58,3-0
-20232024,2023020219,STL,,5on4,"Pavel Buchnevich (2), Oskar Sundqvist (4), Colton Parayko (2)",2,11:52,4-0
+20232024,2023020219,STL,,4on5,"Pavel Buchnevich (2), Oskar Sundqvist (4), Colton Parayko (2)",2,11:52,4-0
 20232024,2023020219,COL,,5on5,"Mikko Rantanen (9), Cale Makar (13), Nathan MacKinnon (9)",2,16:07,1-4
 20232024,2023020219,STL,,5on4,"Pavel Buchnevich (3), Robert Thomas (7), Brayden Schenn (4)",3,01:20,5-1
 20232024,2023020219,STL,,5on4,"Brayden Schenn (5), Robert Thomas (8), Jordan Kyrou (5)",3,02:49,6-1
-20232024,2023020219,STL,,5on4,"Pavel Buchnevich (4), Robert Thomas (9)",3,15:57,7-1
+20232024,2023020219,STL,,4on5,"Pavel Buchnevich (4), Robert Thomas (9)",3,15:57,7-1
 20232024,2023020219,STL,,5on5,"Alexei Toropchenko (2), Oskar Sundqvist (5)",3,19:11,8-1
 20232024,2023020219,COL,,5on5,"Jack Johnson (1), Jonathan Drouin (2)",3,19:32,2-8
 20232024,2023020220,EDM,,5on5,"Zach Hyman (5), Evander Kane (7)",1,09:56,1-0
@@ -1395,7 +1395,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020222,CHI,,5on5,"Connor Bedard (9), Seth Jones (6)",2,08:18,3-3
 20232024,2023020222,FLA,,5on4,"Carter Verhaeghe (6), Sam Reinhart (10), Matthew Tkachuk (12)",3,02:44,4-3
 20232024,2023020223,DAL,,5on4,"Joe Pavelski (6), Miro Heiskanen (7), Jason Robertson (8)",1,00:57,1-0
-20232024,2023020223,DAL,,5on4,Radek Faksa (1),1,09:49,2-0
+20232024,2023020223,DAL,,4on5,Radek Faksa (1),1,09:49,2-0
 20232024,2023020223,MIN,,5on5,Brandon Duhaime (4),1,10:38,1-2
 20232024,2023020223,DAL,,5on5,"Matt Duchene (5), Mason Marchment (3), Tyler Seguin (5)",1,10:52,3-1
 20232024,2023020223,MIN,,5on5,"Vinni Lettieri (2), Marco Rossi (3), Jonas Brodin (6)",1,19:12,2-3
@@ -1404,7 +1404,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020223,MIN,,5on4,"Mats Zuccarello (4), Kirill Kaprizov (10), Matt Boldy (7)",2,15:59,3-5
 20232024,2023020223,DAL,,5on4,"Jason Robertson (4), Miro Heiskanen (8), Jamie Benn (7)",3,01:02,6-3
 20232024,2023020223,DAL,,5on4,"Jason Robertson (5), Miro Heiskanen (9), Roope Hintz (7)",3,03:09,7-3
-20232024,2023020223,DAL,,5on4,"Wyatt Johnston (7), Jamie Benn (8)",3,17:57,8-3
+20232024,2023020223,DAL,,4on5,"Wyatt Johnston (7), Jamie Benn (8)",3,17:57,8-3
 20232024,2023020224,VAN,,5on5,"Conor Garland (2), J.T. Miller (13), Quinn Hughes (18)",2,06:15,1-0
 20232024,2023020224,VAN,,5on5,"Ilya Mikheyev (6), Andrei Kuzmenko (10)",2,09:17,2-0
 20232024,2023020224,VAN,,5on5,"Dakota Joshua (2), Conor Garland (3), Filip Hronek (16)",2,17:57,3-0
@@ -1533,7 +1533,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020243,CBJ,,other,"Damon Severson (3), Zach Werenski (9), Alexandre Texier (3)",3,18:03,2-3
 20232024,2023020244,MTL,,5on5,"Alex Newhook (4), Nick Suzuki (8), Mike Matheson (9)",1,06:43,1-0
 20232024,2023020244,MTL,,5on5,"Johnathan Kovacevic (1), Alex Newhook (5), Nick Suzuki (9)",1,10:03,2-0
-20232024,2023020244,VGK,,5on4,"Brett Howden (3), Keegan Kolesar (2)",2,02:33,1-2
+20232024,2023020244,VGK,,4on5,"Brett Howden (3), Keegan Kolesar (2)",2,02:33,1-2
 20232024,2023020244,MTL,,5on5,Jesse Ylonen (2),2,08:28,3-1
 20232024,2023020244,VGK,,5on5,"Brayden McNabb (1), Shea Theodore (10), Jack Eichel (10)",2,08:46,2-3
 20232024,2023020244,VGK,,5on5,"Jonathan Marchessault (7), Ivan Barbashev (2), Michael Amadio (7)",2,11:20,3-3
@@ -1543,7 +1543,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020244,VGK,,5on4,"Mark Stone (5), William Karlsson (11), Shea Theodore (12)",3,18:48,6-4
 20232024,2023020244,MTL,,other,"Justin Barron (4), Cole Caufield (10), Mike Matheson (10)",3,19:06,5-6
 20232024,2023020245,PIT,,5on5,"Bryan Rust (8), Jake Guentzel (13)",1,06:36,1-0
-20232024,2023020245,NJD,,5on4,"Curtis Lazar (3), Erik Haula (4)",1,13:34,1-1
+20232024,2023020245,NJD,,4on5,"Curtis Lazar (3), Erik Haula (4)",1,13:34,1-1
 20232024,2023020245,PIT,,5on5,"Bryan Rust (9), Erik Karlsson (11), Sidney Crosby (10)",2,03:17,2-1
 20232024,2023020245,NJD,,5on5,"Nathan Bastian (1), Erik Haula (5), Dougie Hamilton (7)",2,03:55,2-2
 20232024,2023020245,NJD,,other,"Jesper Bratt (8), Luke Hughes (8), Curtis Lazar (2)",3,02:35,3-2
@@ -1605,7 +1605,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020256,NSH,,5on5,"Cole Smith (3), Philip Tomasino (2), Michael McCarron (2)",2,16:20,3-1
 20232024,2023020256,CHI,,5on5,"Tyler Johnson (5), Jason Dickinson (5)",3,12:15,2-3
 20232024,2023020256,NSH,,other,"Cole Smith (4), Yakov Trenin (1), Dante Fabbro (3)",3,19:48,4-2
-20232024,2023020257,EDM,,5on4,"Derek Ryan (1), Ryan Nugent-Hopkins (9), Cody Ceci (4)",1,03:39,1-0
+20232024,2023020257,EDM,,4on5,"Derek Ryan (1), Ryan Nugent-Hopkins (9), Cody Ceci (4)",1,03:39,1-0
 20232024,2023020257,EDM,,5on5,James Hamblin (1),1,08:31,2-0
 20232024,2023020257,TBL,,5on4,"Nikita Kucherov (12), Steven Stamkos (12), Brayden Point (15)",1,19:09,1-2
 20232024,2023020257,TBL,,other,"Nikita Kucherov (13), Mikhail Sergachev (10), Darren Raddysh (6)",2,12:56,2-2
@@ -1732,14 +1732,14 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020274,DAL,,other,Sam Steel (1),3,16:30,5-2
 20232024,2023020274,DAL,,other,"Roope Hintz (7), Tyler Seguin (8)",3,17:04,6-2
 20232024,2023020274,NYR,,5on5,"Barclay Goodrow (1), Braden Schneider (4), Jacob Trouba (6)",3,19:44,3-6
-20232024,2023020275,COL,,5on4,"Andrew Cogliano (3), Valeri Nichushkin (8), Cale Makar (21)",1,14:00,1-0
+20232024,2023020275,COL,,4on5,"Andrew Cogliano (3), Valeri Nichushkin (8), Cale Makar (21)",1,14:00,1-0
 20232024,2023020275,NSH,,other,"Filip Forsberg (8), Cody Glass (1), Philip Tomasino (3)",1,19:42,1-1
 20232024,2023020275,NSH,,5on5,"Jeremy Lauzon (1), Gustav Nyquist (9), Ryan O'Reilly (8)",2,03:56,2-1
 20232024,2023020275,COL,,5on5,"Devon Toews (3), Nathan MacKinnon (15), Cale Makar (22)",2,08:55,2-2
 20232024,2023020275,COL,,5on4,"Valeri Nichushkin (7), Cale Makar (23), Nathan MacKinnon (16)",2,13:33,3-2
 20232024,2023020275,NSH,,other,"Filip Forsberg (9), Gustav Nyquist (10), Colton Sissons (3)",3,19:22,3-3
 20232024,2023020275,NSH,,5on5,"Yakov Trenin (2), Cole Smith (2)",3,19:38,4-3
-20232024,2023020276,LAK,,5on4,"Trevor Moore (8), Phillip Danault (8)",1,03:36,1-0
+20232024,2023020276,LAK,,4on5,"Trevor Moore (8), Phillip Danault (8)",1,03:36,1-0
 20232024,2023020276,LAK,,5on5,"Anze Kopitar (9), Quinton Byfield (12)",1,08:20,2-0
 20232024,2023020276,LAK,,5on5,Trevor Moore (9),2,15:31,3-0
 20232024,2023020276,ARI,,5on5,"Lawson Crouse (8), Nick Bjugstad (8), Matias Maccelli (10)",2,18:55,1-3
@@ -1761,7 +1761,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020279,CAR,,5on5,"Seth Jarvis (8), Teuvo Teravainen (4), Jalen Chatfield (3)",1,14:48,4-0
 20232024,2023020279,EDM,,5on4,"Zach Hyman (9), Leon Draisaitl (17), Evan Bouchard (14)",1,17:13,1-4
 20232024,2023020279,CAR,,5on5,"Martin Necas (6), Andrei Svechnikov (6), Brady Skjei (11)",2,02:13,5-1
-20232024,2023020279,EDM,,5on4,"Mattias Ekholm (2), Ryan McLeod (4), Warren Foegele (5)",2,17:48,2-5
+20232024,2023020279,EDM,,4on5,"Mattias Ekholm (2), Ryan McLeod (4), Warren Foegele (5)",2,17:48,2-5
 20232024,2023020279,EDM,,5on5,"Zach Hyman (10), Connor McDavid (10), Ryan Nugent-Hopkins (11)",3,03:46,3-5
 20232024,2023020279,CAR,,other,"Brent Burns (5), Jordan Staal (5), Jaccob Slavin (8)",3,18:56,6-3
 20232024,2023020280,CBJ,,5on5,"Boone Jenner (9), Zach Werenski (11), Adam Boqvist (1)",1,02:57,1-0
@@ -1805,8 +1805,8 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020287,STL,,5on5,"Colton Parayko (3), Brandon Saad (3)",1,12:15,2-1
 20232024,2023020287,ARI,,5on5,"Jason Zucker (4), Michael Carcone (3)",1,18:06,2-2
 20232024,2023020287,ARI,,5on5,"Lawson Crouse (9), Matias Maccelli (12), Nick Bjugstad (9)",2,00:22,3-2
-20232024,2023020287,STL,,5on4,"Nick Leddy (2), Kasperi Kapanen (5)",2,03:40,3-3
-20232024,2023020287,STL,,5on4,"Alexei Toropchenko (4), Justin Faulk (10)",2,04:13,4-3
+20232024,2023020287,STL,,4on5,"Nick Leddy (2), Kasperi Kapanen (5)",2,03:40,3-3
+20232024,2023020287,STL,,4on5,"Alexei Toropchenko (4), Justin Faulk (10)",2,04:13,4-3
 20232024,2023020287,ARI,,5on5,"Michael Carcone (7), Alexander Kerfoot (5), Travis Boyd (6)",2,06:56,4-4
 20232024,2023020287,ARI,,5on5,"Nick Schmaltz (5), J.J. Moser (8), Clayton Keller (11)",2,08:00,5-4
 20232024,2023020287,STL,,5on5,"Robert Thomas (7), Jordan Kyrou (7), Scott Perunovich (2)",2,10:49,5-5
@@ -1816,7 +1816,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020288,NSH,,5on5,"Ryan O'Reilly (9), Ryan McDonagh (3), Gustav Nyquist (11)",1,11:23,2-1
 20232024,2023020288,NSH,,5on5,Alexandre Carrier (1),3,11:56,3-1
 20232024,2023020288,NSH,,5on4,"Juuso Parssinen (3), Philip Tomasino (4), Ryan McDonagh (4)",3,17:22,4-1
-20232024,2023020288,CGY,,5on4,Yegor Sharangovich (4),3,19:15,2-4
+20232024,2023020288,CGY,,4on5,Yegor Sharangovich (4),3,19:15,2-4
 20232024,2023020289,VGK,,5on4,"Michael Amadio (3), Nicolas Roy (2), Chandler Stephenson (9)",1,10:26,1-0
 20232024,2023020289,DAL,,5on5,"Roope Hintz (8), Joe Pavelski (10), Jason Robertson (11)",2,19:17,1-1
 20232024,2023020289,VGK,,other,"Jack Eichel (8), Jonathan Marchessault (5), Adin Hill (1)",4,01:57,2-1
@@ -1932,7 +1932,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020306,MIN,,5on5,"Kirill Kaprizov (6), Marco Rossi (5)",2,09:13,1-2
 20232024,2023020306,MIN,,5on4,"Joel Eriksson Ek (9), Mats Zuccarello (15), Kirill Kaprizov (11)",2,14:21,2-2
 20232024,2023020306,COL,,5on5,"Kurtis MacDermid (1), Andrew Cogliano (4), Fredrik Olofsson (1)",3,04:56,3-2
-20232024,2023020307,VAN,,5on4,Teddy Blueger (1),1,05:05,1-0
+20232024,2023020307,VAN,,4on5,Teddy Blueger (1),1,05:05,1-0
 20232024,2023020307,VAN,,5on5,"Dakota Joshua (3), Conor Garland (4), Nils Aman (1)",2,12:07,2-0
 20232024,2023020307,SEA,,5on5,"Tye Kartye (3), Vince Dunn (16)",2,17:29,1-2
 20232024,2023020307,VAN,,5on5,"Sam Lafferty (5), Filip Hronek (19), Quinn Hughes (24)",3,09:43,3-1
@@ -2070,7 +2070,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020333,CHI,,5on5,"Boris Katchouk (2), Ryan Donato (6), Seth Jones (8)",1,08:54,1-0
 20232024,2023020333,CHI,,5on5,"Jason Dickinson (7), Isaak Phillips (3), Joey Anderson (2)",1,10:23,2-0
 20232024,2023020333,SEA,,5on5,"Matty Beniers (4), Jared McCann (5)",1,14:43,1-2
-20232024,2023020333,SEA,,5on4,"Alexander Wennberg (3), Adam Larsson (4), Philipp Grubauer (1)",1,19:23,2-2
+20232024,2023020333,SEA,,4on5,"Alexander Wennberg (3), Adam Larsson (4), Philipp Grubauer (1)",1,19:23,2-2
 20232024,2023020333,CHI,,5on5,"Tyler Johnson (6), Taylor Raddysh (2), Lukas Reichel (4)",2,04:22,3-2
 20232024,2023020333,CHI,,5on5,"MacKenzie Entwistle (2), Joey Anderson (3)",2,10:43,4-2
 20232024,2023020333,SEA,,5on5,"Tye Kartye (4), Matty Beniers (8)",3,06:51,3-4
@@ -2110,7 +2110,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020341,CAR,,5on5,"Jalen Chatfield (2), Michael Bunting (10), Dmitry Orlov (8)",1,08:08,1-0
 20232024,2023020341,NYI,,5on5,"Bo Horvat (7), Mathew Barzal (14), Anders Lee (3)",1,18:00,1-1
 20232024,2023020341,CAR,,5on5,"Jordan Staal (2), Jordan Martinook (6), Jaccob Slavin (9)",2,02:01,2-1
-20232024,2023020341,NYI,,5on4,"Simon Holmstrom (6), Jean-Gabriel Pageau (7)",2,15:59,2-2
+20232024,2023020341,NYI,,4on5,"Simon Holmstrom (6), Jean-Gabriel Pageau (7)",2,15:59,2-2
 20232024,2023020341,NYI,,5on5,"Pierre Engvall (2), Mathew Barzal (15), Noah Dobson (14)",2,18:03,3-2
 20232024,2023020341,CAR,,5on5,"Jack Drury (2), Stefan Noesen (7), Martin Necas (9)",3,00:39,3-3
 20232024,2023020341,NYI,,5on4,"Kyle Palmieri (6), Noah Dobson (15), Mathew Barzal (16)",3,06:41,4-3
@@ -2247,7 +2247,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020360,CAR,,4on5,"Brady Skjei (4), Teuvo Teravainen (7)",3,08:05,6-1
 20232024,2023020360,BUF,,5on5,"Tyson Jost (2), Peyton Krebs (3)",3,09:24,2-6
 20232024,2023020361,DET,,other,"Joe Veleno (6), Lucas Raymond (11), Jake Walman (7)",1,07:21,1-0
-20232024,2023020361,DET,,5on4,"Christian Fischer (2), Michael Rasmussen (5)",1,11:44,2-0
+20232024,2023020361,DET,,4on5,"Christian Fischer (2), Michael Rasmussen (5)",1,11:44,2-0
 20232024,2023020361,DET,,5on5,"Daniel Sprong (6), Moritz Seider (12)",1,19:20,3-0
 20232024,2023020361,MTL,,5on5,"Justin Barron (5), Nick Suzuki (13)",1,19:53,1-3
 20232024,2023020361,MTL,,4on5,Joel Armia (3),2,04:07,2-3
@@ -2260,7 +2260,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020363,PIT,,5on5,Kris Letang (2),2,14:31,1-0
 20232024,2023020363,PHI,,5on5,"Owen Tippett (8), Tyson Foerster (5)",2,16:47,1-1
 20232024,2023020363,PIT,,5on5,"Jake Guentzel (8), Erik Karlsson (13), Bryan Rust (8)",3,01:50,2-1
-20232024,2023020363,PHI,,5on4,"Scott Laughton (2), Nick Seeler (6)",3,07:01,2-2
+20232024,2023020363,PHI,,4on5,"Scott Laughton (2), Nick Seeler (6)",3,07:01,2-2
 20232024,2023020363,PHI,,5on4,"Tyson Foerster (4), Cam York (6), Sean Couturier (11)",3,13:52,3-2
 20232024,2023020363,PIT,,other,"Jake Guentzel (9), Bryan Rust (9), Evgeni Malkin (11)",3,19:39,3-3
 20232024,2023020364,BOS,,5on5,"David Pastrnak (14), Brandon Carlo (5), Hampus Lindholm (5)",1,10:44,1-0
@@ -2394,7 +2394,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020386,COL,,5on5,"Kurtis MacDermid (2), Nathan MacKinnon (24)",1,01:40,1-0
 20232024,2023020386,COL,,5on5,"Nathan MacKinnon (9), Jonathan Drouin (4), Josh Manson (3)",2,17:43,2-0
 20232024,2023020386,COL,,5on5,"Logan O'Connor (4), Nathan MacKinnon (25), Jonathan Drouin (5)",3,06:21,3-0
-20232024,2023020386,ANA,,5on4,Sam Carrick (5),3,10:43,1-3
+20232024,2023020386,ANA,,4on5,Sam Carrick (5),3,10:43,1-3
 20232024,2023020386,ANA,,other,"Leo Carlsson (8), Troy Terry (9), Cam Fowler (10)",3,14:11,2-3
 20232024,2023020387,NJD,,5on5,"Jesper Bratt (9), Jonas Siegenthaler (5)",1,03:40,1-0
 20232024,2023020387,VAN,,5on4,"J.T. Miller (14), Brock Boeser (12), Elias Pettersson (23)",1,08:24,1-1
@@ -2444,8 +2444,8 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020393,DET,,5on5,"Michael Rasmussen (4), Daniel Sprong (11)",2,12:51,2-0
 20232024,2023020393,DET,,5on5,"Michael Rasmussen (5), Ben Chiarot (6), Andrew Copp (7)",2,13:04,3-0
 20232024,2023020393,DET,,5on5,"Lucas Raymond (9), Ben Chiarot (7), Robby Fabbri (4)",2,13:40,4-0
-20232024,2023020393,SJS,,5on4,"Tomas Hertl (8), William Eklund (7), Jan Rutta (3)",2,14:08,1-4
-20232024,2023020393,SJS,,5on4,"Fabian Zetterlund (8), Jan Rutta (4), Mikael Granlund (12)",2,14:46,2-4
+20232024,2023020393,SJS,,4on5,"Tomas Hertl (8), William Eklund (7), Jan Rutta (3)",2,14:08,1-4
+20232024,2023020393,SJS,,4on5,"Fabian Zetterlund (8), Jan Rutta (4), Mikael Granlund (12)",2,14:46,2-4
 20232024,2023020393,SJS,,5on5,"Nico Sturm (1), Marc-Edouard Vlasic (1), Kyle Burroughs (3)",2,15:52,3-4
 20232024,2023020393,SJS,,5on5,"Nico Sturm (2), Justin Bailey (3), Kevin Labanc (4)",2,19:37,4-4
 20232024,2023020393,DET,,5on5,"Dylan Larkin (11), Lucas Raymond (13), Robby Fabbri (5)",3,13:20,5-4
@@ -2490,7 +2490,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020400,PHI,,5on5,"Travis Konecny (13), Sean Couturier (12)",1,10:11,1-0
 20232024,2023020400,PHI,,5on5,"Joel Farabee (9), Cam Atkinson (7), Cam York (7)",1,13:18,2-0
 20232024,2023020400,ARI,,5on5,"Lawson Crouse (11), Matias Maccelli (14), Jason Zucker (3)",1,17:33,1-2
-20232024,2023020400,PHI,,5on4,"Travis Konecny (14), Scott Laughton (11), Nick Seeler (7)",2,04:38,3-1
+20232024,2023020400,PHI,,4on5,"Travis Konecny (14), Scott Laughton (11), Nick Seeler (7)",2,04:38,3-1
 20232024,2023020400,PHI,,5on5,"Cam York (4), Travis Sanheim (16), Nicolas Deslauriers (3)",3,01:47,4-1
 20232024,2023020401,CAR,,5on5,"Stefan Noesen (7), Jaccob Slavin (13), Jack Drury (4)",1,02:10,1-0
 20232024,2023020401,CAR,,5on5,"Michael Bunting (6), Dmitry Orlov (9), Martin Necas (12)",1,08:49,2-0
@@ -2573,7 +2573,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020416,CHI,,5on5,"Anthony Beauvillier (3), Nikita Zaitsev (1), Cole Guttman (1)",1,04:43,1-0
 20232024,2023020416,CHI,,5on5,"Alex Vlasic (1), Louis Crevier (1), MacKenzie Entwistle (3)",1,09:20,2-0
 20232024,2023020416,CHI,,5on5,"Jason Dickinson (9), Nikita Zaitsev (2), Connor Murphy (3)",2,14:53,3-0
-20232024,2023020416,STL,,5on4,"Oskar Sundqvist (3), Nick Leddy (6)",3,16:31,1-3
+20232024,2023020416,STL,,4on5,"Oskar Sundqvist (3), Nick Leddy (6)",3,16:31,1-3
 20232024,2023020417,PHI,,5on5,"Travis Konecny (15), Sean Couturier (13), Tyson Foerster (6)",1,17:41,1-0
 20232024,2023020417,COL,,5on5,"Nathan MacKinnon (11), Josh Manson (4), Devon Toews (11)",1,18:59,1-1
 20232024,2023020417,PHI,,5on5,"Owen Tippett (9), Bobby Brink (8)",2,09:01,2-1
@@ -2643,7 +2643,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020428,BUF,,5on5,"Eric Robinson (2), Kyle Okposo (5), Connor Clifton (6)",2,06:14,2-1
 20232024,2023020428,BUF,,5on5,"Peyton Krebs (2), Kyle Okposo (6), Eric Robinson (2)",2,10:52,3-1
 20232024,2023020428,BUF,,5on5,"JJ Peterka (12), Jeff Skinner (10), Rasmus Dahlin (16)",2,15:06,4-1
-20232024,2023020428,ARI,,5on4,"Michael Carcone (14), Matias Maccelli (16), J.J. Moser (11)",3,12:47,2-4
+20232024,2023020428,ARI,,4on5,"Michael Carcone (14), Matias Maccelli (16), J.J. Moser (11)",3,12:47,2-4
 20232024,2023020428,BUF,,other,Rasmus Dahlin (7),3,18:55,5-2
 20232024,2023020429,TOR,,5on4,"Auston Matthews (19), Mitchell Marner (17), William Nylander (20)",1,05:50,1-0
 20232024,2023020429,NYI,,5on5,"Brock Nelson (12), Kyle Palmieri (9), Noah Dobson (20)",1,09:20,1-1
@@ -2785,7 +2785,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020449,CBJ,,other,"Kent Johnson (3), Zach Werenski (22), Justin Danforth (7)",4,03:26,6-5
 20232024,2023020450,MIN,,5on5,Matt Boldy (8),1,04:42,1-0
 20232024,2023020450,CGY,,5on4,"Yegor Sharangovich (10), Elias Lindholm (12), Connor Zary (9)",2,13:18,1-1
-20232024,2023020450,CGY,,5on4,"Blake Coleman (9), Yegor Sharangovich (8), MacKenzie Weegar (11)",3,04:13,2-1
+20232024,2023020450,CGY,,4on5,"Blake Coleman (9), Yegor Sharangovich (8), MacKenzie Weegar (11)",3,04:13,2-1
 20232024,2023020450,MIN,,5on5,"Marco Rossi (10), Alex Goligoski (3), Marcus Johansson (11)",3,04:58,2-2
 20232024,2023020451,STL,,5on5,"Robert Thomas (11), Justin Faulk (13), Pavel Buchnevich (13)",1,08:20,1-0
 20232024,2023020451,STL,,5on5,"Robert Thomas (12), Justin Faulk (14), Torey Krug (12)",2,05:17,2-0
@@ -2876,7 +2876,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020464,MTL,,5on5,"Josh Anderson (2), Justin Barron (4), Sean Monahan (9)",2,10:35,2-0
 20232024,2023020464,MTL,,5on5,"Josh Anderson (3), Sean Monahan (10), Justin Barron (5)",2,19:06,3-0
 20232024,2023020464,MTL,,5on5,"Cole Caufield (8), Nick Suzuki (16), Juraj Slafkovsky (6)",2,19:21,4-0
-20232024,2023020464,NYI,,5on4,"Brock Nelson (14), Noah Dobson (25)",3,02:07,1-4
+20232024,2023020464,NYI,,4on5,"Brock Nelson (14), Noah Dobson (25)",3,02:07,1-4
 20232024,2023020464,NYI,,5on5,"Brock Nelson (15), Noah Dobson (26)",3,03:43,2-4
 20232024,2023020464,NYI,,5on5,"Bo Horvat (12), Noah Dobson (27), Alexander Romanov (5)",3,14:06,3-4
 20232024,2023020464,MTL,,other,"Christian Dvorak (2), Nick Suzuki (17)",3,19:40,5-3
@@ -3084,7 +3084,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020498,BUF,,5on5,"Owen Power (2), Zach Benson (9), Casey Mittelstadt (20)",1,13:44,2-2
 20232024,2023020498,BUF,,5on5,"Jeff Skinner (13), Alex Tuch (12)",1,15:51,3-2
 20232024,2023020498,BUF,,other,"Rasmus Dahlin (9), Tage Thompson (9), Alex Tuch (13)",2,04:44,4-2
-20232024,2023020498,TOR,,5on4,"Calle Jarnkrok (8), William Nylander (27), Timothy Liljegren (3)",2,05:42,3-4
+20232024,2023020498,TOR,,4on5,"Calle Jarnkrok (8), William Nylander (27), Timothy Liljegren (3)",2,05:42,3-4
 20232024,2023020498,BUF,,5on5,"Tage Thompson (9), Alex Tuch (14), Jeff Skinner (11)",2,08:22,5-3
 20232024,2023020498,BUF,,4on5,Kyle Okposo (7),2,11:04,6-3
 20232024,2023020498,BUF,,5on5,"Jack Quinn (1), JJ Peterka (12), Connor Clifton (9)",3,11:08,7-3
@@ -3110,7 +3110,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020501,EDM,,5on5,"Adam Erne (1), Sam Gagner (5)",3,02:49,5-3
 20232024,2023020501,EDM,,5on5,Ryan McLeod (4),3,09:04,6-3
 20232024,2023020502,PHI,,5on5,"Morgan Frost (4), Bobby Brink (10), Owen Tippett (9)",1,01:31,1-0
-20232024,2023020502,NSH,,5on4,"Cole Smith (5), Colton Sissons (7)",2,01:05,1-1
+20232024,2023020502,NSH,,4on5,"Cole Smith (5), Colton Sissons (7)",2,01:05,1-1
 20232024,2023020502,PHI,,5on4,Sean Couturier (8),2,04:45,2-1
 20232024,2023020502,NSH,,5on5,"Philip Tomasino (3), Tommy Novak (9), Filip Forsberg (21)",2,05:24,2-2
 20232024,2023020502,NSH,,5on5,"Philip Tomasino (4), Colton Sissons (8)",3,15:59,3-2
@@ -3216,7 +3216,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020517,CBJ,,5on5,"Justin Danforth (8), Johnny Gaudreau (16), Adam Fantilli (11)",2,00:22,1-1
 20232024,2023020517,TOR,,other,"John Tavares (10), TJ Brodie (7), William Nylander (28)",2,02:58,2-1
 20232024,2023020517,TOR,,5on4,"Auston Matthews (28), Mitchell Marner (23), William Nylander (29)",2,08:21,3-1
-20232024,2023020517,TOR,,5on4,"William Nylander (16), Auston Matthews (13), Jake McCabe (9)",3,11:51,4-1
+20232024,2023020517,TOR,,4on5,"William Nylander (16), Auston Matthews (13), Jake McCabe (9)",3,11:51,4-1
 20232024,2023020518,BOS,,5on4,"David Pastrnak (20), Charlie McAvoy (15), Brad Marchand (15)",1,02:37,1-0
 20232024,2023020518,MIN,,5on4,Joel Eriksson Ek (15),2,05:57,1-1
 20232024,2023020518,MIN,,5on5,"Kirill Kaprizov (12), Alex Goligoski (5), Joel Eriksson Ek (9)",2,07:22,2-1
@@ -3256,7 +3256,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020524,CHI,,5on4,"Nick Foligno (7), Philipp Kurashev (13), Taylor Raddysh (4)",2,00:20,3-1
 20232024,2023020524,STL,,5on5,"Colton Parayko (6), Sammy Blais (6), Mackenzie MacEachern (1)",2,13:29,2-3
 20232024,2023020524,CHI,,5on5,"Jason Dickinson (11), Taylor Raddysh (5), Jarred Tinordi (3)",2,15:54,4-2
-20232024,2023020524,CHI,,5on4,"Nick Foligno (8), Jarred Tinordi (4)",3,05:16,5-2
+20232024,2023020524,CHI,,4on5,"Nick Foligno (8), Jarred Tinordi (4)",3,05:16,5-2
 20232024,2023020524,STL,,5on4,"Brandon Saad (9), Kevin Hayes (9), Scott Perunovich (3)",3,07:53,3-5
 20232024,2023020524,STL,,5on4,"Jake Neighbours (11), Justin Faulk (15), Kevin Hayes (10)",3,10:43,4-5
 20232024,2023020524,STL,,5on5,"Jordan Kyrou (8), Robert Thomas (24), Pavel Buchnevich (16)",3,11:06,5-5
@@ -3270,7 +3270,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020526,LAK,,5on5,"Quinton Byfield (9), Drew Doughty (9), Anze Kopitar (17)",1,01:01,1-0
 20232024,2023020526,CGY,,5on5,"Rasmus Andersson (5), Mikael Backlund (10), Andrew Mangiapane (11)",1,02:47,1-1
 20232024,2023020526,LAK,,5on5,"Pierre-Luc Dubois (6), Jordan Spence (11), Phillip Danault (13)",1,15:20,2-1
-20232024,2023020526,CGY,,5on4,"Blake Coleman (11), Yegor Sharangovich (10)",2,04:01,2-2
+20232024,2023020526,CGY,,4on5,"Blake Coleman (11), Yegor Sharangovich (10)",2,04:01,2-2
 20232024,2023020526,LAK,,5on5,"Alex Laferriere (5), Drew Doughty (10), Mikey Anderson (9)",2,06:28,3-2
 20232024,2023020526,LAK,,5on5,"Trevor Moore (16), Matt Roy (8)",2,09:57,4-2
 20232024,2023020526,CGY,,5on4,"Blake Coleman (12), Adam Ruzicka (6), MacKenzie Weegar (12)",3,07:18,3-4
@@ -3302,11 +3302,11 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020530,FLA,,5on5,"Aaron Ekblad (1), Gustav Forsling (7), Aleksander Barkov (22)",1,04:16,1-0
 20232024,2023020530,FLA,,5on5,"Sam Reinhart (20), Evan Rodrigues (16), Aleksander Barkov (23)",2,01:24,2-0
 20232024,2023020530,TBL,,5on5,"Nikita Kucherov (24), Victor Hedman (29), Nick Perbix (8)",3,00:29,1-2
-20232024,2023020530,FLA,,5on4,"Sam Reinhart (21), Aleksander Barkov (24)",3,03:11,3-1
+20232024,2023020530,FLA,,4on5,"Sam Reinhart (21), Aleksander Barkov (24)",3,03:11,3-1
 20232024,2023020530,TBL,,5on5,"Michael Eyssimont (6), Brandon Hagel (19), Darren Raddysh (10)",3,03:31,2-3
 20232024,2023020531,TOR,,5on5,"Matthew Knies (8), Auston Matthews (14)",1,05:41,1-0
 20232024,2023020531,TOR,,5on5,"Tyler Bertuzzi (6), Morgan Rielly (20), William Nylander (30)",1,06:04,2-0
-20232024,2023020531,OTT,,5on4,"Parker Kelly (2), Claude Giroux (19)",2,10:17,1-2
+20232024,2023020531,OTT,,4on5,"Parker Kelly (2), Claude Giroux (19)",2,10:17,1-2
 20232024,2023020531,OTT,,5on5,"Drake Batherson (12), Tim Stutzle (26)",2,14:25,2-2
 20232024,2023020531,OTT,,5on5,"Drake Batherson (13), Vladimir Tarasenko (15), Travis Hamonic (3)",3,03:44,3-2
 20232024,2023020531,OTT,,other,"Brady Tkachuk (16), Vladimir Tarasenko (16)",3,17:33,4-2
@@ -3381,7 +3381,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023020543,PHI,,5on5,"Sean Walker (4), Owen Tippett (10), Travis Konecny (12)",2,16:24,2-0
 20232024,2023020543,PHI,,5on5,"Joel Farabee (12), Bobby Brink (11)",2,17:09,3-0
 20232024,2023020543,VAN,,5on5,"Teddy Blueger (5), Dakota Joshua (7), Quinn Hughes (35)",3,00:25,1-3
-20232024,2023020543,PHI,,5on4,"Garnet Hathaway (4), Ryan Poehling (6)",3,05:01,4-1
+20232024,2023020543,PHI,,4on5,"Garnet Hathaway (4), Ryan Poehling (6)",3,05:01,4-1
 20232024,2023020544,VGK,,5on5,"Jack Eichel (16), Ivan Barbashev (10), Mark Stone (25)",1,07:38,1-0
 20232024,2023020544,VGK,,5on5,"Michael Amadio (6), Pavel Dorofeyev (5), Brayden McNabb (14)",2,02:27,2-0
 20232024,2023020544,LAK,,5on5,"Anze Kopitar (14), Adrian Kempe (20), Vladislav Gavrikov (7)",2,13:07,1-2

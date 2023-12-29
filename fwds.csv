@@ -11,7 +11,7 @@ BOS,1st line,18 Pavel Zacha,8478401.0,18,39 Morgan Geekie,8479987.0,39,88 David 
 BOS,2nd line,63 Brad Marchand,8473419.0,63,13 Charlie Coyle,8475745.0,13,74 Jake DeBrusk,8478498.0,74,Boston Bruins
 BOS,3rd line,21 James van Riemsdyk,8474037.0,21,11 Trent Frederic,8479365.0,11,43 Danton Heinen,8478046.0,43,Boston Bruins
 BOS,4th line,94 Jakub Lauko,8480880.0,94,19 John Beecher,8481556.0,19,62 Oskar Steen,8479546.0,62,Boston Bruins
-BUF,1st line,53 Jeff Skinner,8475784.0,53,28 Zemgus Girgensons,8476878.0,28,89 Alex Tuch,8477949.0,89,Buffalo Sabres
+BUF,1st line,53 Jeff Skinner,8475784.0,53,72 Tage Thompson,8479420.0,72,89 Alex Tuch,8477949.0,89,Buffalo Sabres
 BUF,2nd line,77 JJ Peterka,8482175.0,77,24 Dylan Cozens,8481528.0,24,22 Jack Quinn,8482097.0,22,Buffalo Sabres
 BUF,3rd line,12 Jordan Greenway,8478413.0,12,37 Casey Mittelstadt,8479999.0,37,9 Zach Benson,8484145.0,9,Buffalo Sabres
 BUF,4th line,71 Victor Olofsson,8478109.0,71,19 Peyton Krebs,8481522.0,19,21 Kyle Okposo,8473449.0,21,Buffalo Sabres
@@ -22,7 +22,7 @@ CAR,4th line,23 Stefan Noesen,8476474.0,23,18 Jack Drury,8480835.0,18,71 Jesper 
 CBJ,1st line,13 Johnny Gaudreau,8476346.0,13,11 Adam Fantilli,8484166.0,11,17 Justin Danforth,8479941.0,17,Columbus Blue Jackets
 CBJ,2nd line,59 Yegor Chinakhov,8482475.0,59,10 Dmitri Voronkov,8481716.0,10,86 Kirill Marchenko,8480893.0,86,Columbus Blue Jackets
 CBJ,3rd line,91 Kent Johnson,8482660.0,91,4 Cole Sillinger,8482705.0,4,52 Emil Bemstrom,8480205.0,52,Columbus Blue Jackets
-CBJ,4th line,42 Alexandre Texier,8480074.0,42,16 Brendan Gaunce,8476867.0,16,24 Mathieu Olivier,8479671.0,24,Columbus Blue Jackets
+CBJ,4th line,42 Alexandre Texier,8480074.0,42,16 Brendan Gaunce,8476867.0,16,96 Jack Roslovic,8478458.0,96,Columbus Blue Jackets
 CGY,1st line,10 Jonathan Huberdeau,8476456.0,10,28 Elias Lindholm,8477496.0,28,17 Yegor Sharangovich,8481068.0,17,Calgary Flames
 CGY,2nd line,47 Connor Zary,8482074.0,47,91 Nazem Kadri,8475172.0,91,76 Martin Pospisil,8481028.0,76,Calgary Flames
 CGY,3rd line,88 Andrew Mangiapane,8478233.0,88,11 Mikael Backlund,8474150.0,11,20 Blake Coleman,8476399.0,20,Calgary Flames
@@ -79,8 +79,8 @@ NYR,1st line,20 Chris Kreider,8475184.0,20,93 Mika Zibanejad,8476459.0,93,17 Bla
 NYR,2nd line,10 Artemi Panarin,8478550.0,10,16 Vincent Trocheck,8476389.0,16,13 Alexis Lafreniere,8482109.0,13,New York Rangers
 NYR,3rd line,50 Will Cuylle,8482157.0,50,12 Nick Bonino,8474009.0,12,22 Jonny Brodzinski,8477380.0,22,New York Rangers
 NYR,4th line,26 Jimmy Vesey,8476918.0,26,21 Barclay Goodrow,8476624.0,21,71 Tyler Pitlick,8475752.0,71,New York Rangers
-OTT,1st line,7 Brady Tkachuk,8480801.0,7,18 Tim Stutzle,8482116.0,18,28 Claude Giroux,8473512.0,28,Ottawa Senators
-OTT,2nd line,91 Vladimir Tarasenko,8475765.0,91,9 Josh Norris,8480064.0,9,19 Drake Batherson,8480208.0,19,Ottawa Senators
+OTT,1st line,7 Brady Tkachuk,8480801.0,7,18 Tim Stutzle,8482116.0,18,19 Drake Batherson,8480208.0,19,Ottawa Senators
+OTT,2nd line,91 Vladimir Tarasenko,8475765.0,91,9 Josh Norris,8480064.0,9,28 Claude Giroux,8473512.0,28,Ottawa Senators
 OTT,3rd line,81 Dominik Kubalik,8477330.0,81,71 Ridly Greig,8482092.0,71,59 Angus Crookshank,8481065.0,59,Ottawa Senators
 OTT,4th line,13 Jiri Smejkal,8484314.0,13,12 Mark Kastelic,8480355.0,12,27 Parker Kelly,8480448.0,27,Ottawa Senators
 PHI,1st line,74 Owen Tippett,8480015.0,74,14 Sean Couturier,8476461.0,14,11 Travis Konecny,8478439.0,11,Philadelphia Flyers
@@ -125,5 +125,5 @@ WPG,3rd line,62 Nino Niederreiter,8475799.0,62,17 Adam Lowry,8476392.0,17,22 Mas
 WPG,4th line,36 Morgan Barron,8480289.0,36,21 Dominic Toninato,8476952.0,21,71 Axel Jonsson-Fjallby,8479536.0,71,Winnipeg Jets
 WSH,1st line,8 Alex Ovechkin,8471214.0,8,24 Connor McMichael,8481580.0,24,43 Tom Wilson,8476880.0,43,Washington Capitals
 WSH,2nd line,21 Aliaksei Protas,8481656.0,21,17 Dylan Strome,8478440.0,17,39 Anthony Mantha,8477511.0,39,Washington Capitals
-WSH,3rd line,67 Max Pacioretty,8474157.0,67,92 Evgeny Kuznetsov,8475744.0,92,45 Matthew Phillips,8479547.0,45,Washington Capitals
+WSH,3rd line,29 Hendrix Lapierre,8482148.0,29,92 Evgeny Kuznetsov,8475744.0,92,45 Matthew Phillips,8479547.0,45,Washington Capitals
 WSH,4th line,47 Beck Malenstyn,8479359.0,47,26 Nic Dowd,8475343.0,26,96 Nicolas Aube-Kubel,8477979.0,96,Washington Capitals
