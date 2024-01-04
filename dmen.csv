@@ -1,7 +1,7 @@
 team,line,LD,player_id_LD,num_LD,RD,player_id_RD,num_RD,full
-ANA,1st pair,60 Jackson LaCombe,8481605.0,60,4 Cam Fowler,8475764.0,4,Anaheim Ducks
+ANA,1st pair,5 Urho Vaakanainen,8480001.0,5,4 Cam Fowler,8475764.0,4,Anaheim Ducks
 ANA,2nd pair,34 Pavel Mintyukov,8483490.0,34,46 Ilya Lyubushkin,8480950.0,46,Anaheim Ducks
-ANA,3rd pair,5 Urho Vaakanainen,8480001.0,5,6 Jamie Drysdale,8482142.0,6,Anaheim Ducks
+ANA,3rd pair,60 Jackson LaCombe,8481605.0,60,6 Jamie Drysdale,8482142.0,6,Anaheim Ducks
 ARI,1st pair,50 Sean Durzi,8480434.0,50,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
 ARI,2nd pair,90 J.J. Moser,8482655.0,90,24 Matt Dumba,8476856.0,24,Arizona Coyotes
 ARI,3rd pair,4 Juuso Valimaki,8479976.0,4,51 Troy Stecher,8479442.0,51,Arizona Coyotes
@@ -16,8 +16,8 @@ CAR,1st pair,74 Jaccob Slavin,8476958.0,74,8 Brent Burns,8470613.0,8,Carolina Hu
 CAR,2nd pair,76 Brady Skjei,8476869.0,76,22 Brett Pesce,8477488.0,22,Carolina Hurricanes
 CAR,3rd pair,7 Dmitry Orlov,8475200.0,7,5 Jalen Chatfield,8478970.0,5,Carolina Hurricanes
 CBJ,1st pair,9 Ivan Provorov,8478500.0,9,78 Damon Severson,8476923.0,78,Columbus Blue Jackets
-CBJ,2nd pair,23 Jake Christiansen,0.0,23,44 Erik Gudbranson,8475790.0,44,Columbus Blue Jackets
-CBJ,3rd pair,22 Jake Bean,8479402.0,22,55 David Jiricek,8483460.0,55,Columbus Blue Jackets
+CBJ,2nd pair,22 Jake Bean,8479402.0,22,44 Erik Gudbranson,8475790.0,44,Columbus Blue Jackets
+CBJ,3rd pair,23 Jake Christiansen,0.0,23,55 David Jiricek,8483460.0,55,Columbus Blue Jackets
 CGY,1st pair,55 Noah Hanifin,8478396.0,55,8 Chris Tanev,8475690.0,8,Calgary Flames
 CGY,2nd pair,48 Dennis Gilbert,8478502.0,48,4 Rasmus Andersson,8478397.0,4,Calgary Flames
 CGY,3rd pair,82 Jordan Oesterle,8477851.0,82,52 MacKenzie Weegar,8477346.0,52,Calgary Flames
@@ -69,8 +69,8 @@ PHI,2nd pair,24 Nick Seeler,8476372.0,24,26 Sean Walker,8480336.0,26,Philadelphi
 PHI,3rd pair,5 Egor Zamula,8481178.0,5,55 Rasmus Ristolainen,8477499.0,55,Philadelphia Flyers
 PHI,3rd pair,18 Marc Staal,8471686.0,18,55 Rasmus Ristolainen,8477499.0,55,Philadelphia Flyers
 PIT,1st pair,28 Marcus Pettersson,8477969.0,28,58 Kris Letang,8471724.0,58,Pittsburgh Penguins
-PIT,2nd pair,27 Ryan Graves,8477435.0,27,65 Erik Karlsson,8474578.0,65,Pittsburgh Penguins
-PIT,3rd pair,73 Pierre-Olivier Joseph,8480058.0,73,2 Chad Ruhwedel,8477244.0,2,Pittsburgh Penguins
+PIT,2nd pair,73 Pierre-Olivier Joseph,8480058.0,73,65 Erik Karlsson,8474578.0,65,Pittsburgh Penguins
+PIT,3rd pair,27 Ryan Graves,8477435.0,27,2 Chad Ruhwedel,8477244.0,2,Pittsburgh Penguins
 SEA,1st pair,29 Vince Dunn,8478407.0,29,6 Adam Larsson,8476457.0,6,Seattle Kraken
 SEA,2nd pair,24 Jamie Oleksiak,8476467.0,24,3 Will Borgen,8478840.0,3,Seattle Kraken
 SEA,3rd pair,8 Brian Dumoulin,8475208.0,8,4 Justin Schultz,8474602.0,4,Seattle Kraken
