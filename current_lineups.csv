@@ -46,6 +46,7 @@ ARI,Jakub Voracek,injured reserve,F,,L,"6'2""",214.0,8474161.0,Arizona Coyotes
 ARI,Bryan Little,injured reserve,F,,R,"6'0""",191.0,8473412.0,Arizona Coyotes
 ARI,Vladislav Kolyachonok,injured reserve,D,52.0,L,"6'1""",189.0,8481609.0,Arizona Coyotes
 ARI,Shea Weber,injured reserve,D,,R,"6'4""",230.0,8470642.0,Arizona Coyotes
+ARI,Justin Kirkland,scratch,F,52.0,L,"6'3""",193.0,8477993.0,Arizona Coyotes
 ARI,Josh Brown,scratch,D,3.0,R,"6'5""",217.0,8477384.0,Arizona Coyotes
 BOS,Pavel Zacha,1st line,LW,18,L,"6'3""",210,8478401.0,Boston Bruins
 BOS,Morgan Geekie,1st line,C,39,R,"6'2""",168,8479987.0,Boston Bruins
@@ -375,6 +376,7 @@ MTL,Rafael Harvey-Pinard,injured reserve,F,49.0,L,"5'9""",184.0,8481093.0,Montre
 MTL,Kirby Dach,injured reserve,F,77.0,R,"6'4""",218.0,8481523.0,Montreal Canadiens
 MTL,Chris Wideman,injured reserve,D,6.0,R,"5'10""",183.0,8475227.0,Montreal Canadiens
 MTL,Carey Price,injured reserve,G,31.0,L,"6'3""",217.0,8471679.0,Montreal Canadiens
+MTL,Emil Heineman,scratch,F,51.0,L,"6'1""",185.0,8482476.0,Montreal Canadiens
 MTL,Christian Dvorak,scratch,F,28.0,L,"6'1""",200.0,8477989.0,Montreal Canadiens
 MTL,Gustav Lindstrom,scratch,D,27.0,R,"6'2""",194.0,8480184.0,Montreal Canadiens
 MTL,Sam Montembeault,scratch,G,35.0,L,"6'3""",214.0,8478470.0,Montreal Canadiens
@@ -741,11 +743,11 @@ WSH,John Carlson,1st pair,RD,74,R,"6'3""",217,8474590.0,Washington Capitals
 WSH,Aliaksei Protas,2nd line,LW,21,L,"6'5""",190,8481656.0,Washington Capitals
 WSH,Connor McMichael,2nd line,C,24,L,"5'11""",182,8481580.0,Washington Capitals
 WSH,Anthony Mantha,2nd line,RW,39,L,"6'5""",234,8477511.0,Washington Capitals
-WSH,Rasmus Sandin,2nd pair,LD,38,L,"5'11""",183,8480873.0,Washington Capitals
+WSH,Joel Edmundson,2nd pair,LD,6,L,"6'5""",224,8476441.0,Washington Capitals
 WSH,Ethan Bear,2nd pair,RD,25,R,"5'11""",197,8478451.0,Washington Capitals
 WSH,Max Pacioretty,3rd line,LW,67,L,"6'2""",215,8474157.0,Washington Capitals
 WSH,Dylan Strome,3rd line,C,17,L,"6'3""",200,8478440.0,Washington Capitals
-WSH,Matthew Phillips,3rd line,RW,45,R,"5'7""",140,8479547.0,Washington Capitals
+WSH,Hendrix Lapierre,3rd line,RW,29,L,"6'0""",179,8482148.0,Washington Capitals
 WSH,Trevor van Riemsdyk,3rd pair,LD,57,R,"6'2""",192,8477845.0,Washington Capitals
 WSH,Nick Jensen,3rd pair,RD,3,R,"6'1""",196,8475324.0,Washington Capitals
 WSH,Beck Malenstyn,4th line,LW,47,L,"6'3""",200,8479359.0,Washington Capitals
@@ -755,6 +757,6 @@ WSH,T.J. Oshie,injured reserve,F,77.0,R,"6'0""",195.0,8471698.0,Washington Capit
 WSH,Sonny Milano,injured reserve,F,15.0,L,"6'0""",194.0,8477947.0,Washington Capitals
 WSH,Nicklas Backstrom,injured reserve,F,19.0,L,"6'1""",206.0,8473563.0,Washington Capitals
 WSH,Charlie Lindgren,injured reserve,G,79.0,R,"6'1""",182.0,8479292.0,Washington Capitals
-WSH,Hendrix Lapierre,scratch,F,29.0,L,"6'0""",179.0,8482148.0,Washington Capitals
-WSH,Joel Edmundson,scratch,D,6.0,L,"6'5""",224.0,8476441.0,Washington Capitals
+WSH,Matthew Phillips,scratch,F,45.0,R,"5'7""",140.0,8479547.0,Washington Capitals
 WSH,Alexander Alexeyev,scratch,D,27.0,L,"6'4""",196.0,8480823.0,Washington Capitals
+WSH,Rasmus Sandin,scratch,D,38.0,L,"5'11""",183.0,8480873.0,Washington Capitals
