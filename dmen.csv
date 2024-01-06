@@ -8,7 +8,7 @@ ARI,3rd pair,4 Juuso Valimaki,8479976.0,4,5 Michael Kesselring,8480891.0,5,Arizo
 ARI,3rd pair,51 Troy Stecher,8479442.0,51,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
 BOS,1st pair,48 Matt Grzelcyk,8476891.0,48,73 Charlie McAvoy,8479325.0,73,Boston Bruins
 BOS,2nd pair,27 Hampus Lindholm,8476854.0,27,25 Brandon Carlo,8478443.0,25,Boston Bruins
-BOS,3rd pair,,,,12 Kevin Shattenkirk,8474031.0,12,Boston Bruins
+BOS,3rd pair,29 Parker Wotherspoon,8478450.0,29,12 Kevin Shattenkirk,8474031.0,12,Boston Bruins
 BUF,1st pair,26 Rasmus Dahlin,8480839.0,26,10 Henri Jokiharju,8480035.0,10,Buffalo Sabres
 BUF,2nd pair,25 Owen Power,8482671.0,25,6 Erik Johnson,8473446.0,6,Buffalo Sabres
 BUF,3rd pair,23 Mattias Samuelsson,8480807.0,23,75 Connor Clifton,8477365.0,75,Buffalo Sabres
@@ -16,9 +16,9 @@ CAR,1st pair,74 Jaccob Slavin,8476958.0,74,8 Brent Burns,8470613.0,8,Carolina Hu
 CAR,2nd pair,76 Brady Skjei,8476869.0,76,22 Brett Pesce,8477488.0,22,Carolina Hurricanes
 CAR,3rd pair,7 Dmitry Orlov,8475200.0,7,5 Jalen Chatfield,8478970.0,5,Carolina Hurricanes
 CAR,3rd pair,77 Tony DeAngelo,8477950.0,77,5 Jalen Chatfield,8478970.0,5,Carolina Hurricanes
-CBJ,1st pair,9 Ivan Provorov,8478500.0,9,78 Damon Severson,8476923.0,78,Columbus Blue Jackets
-CBJ,2nd pair,22 Jake Bean,8479402.0,22,44 Erik Gudbranson,8475790.0,44,Columbus Blue Jackets
-CBJ,3rd pair,27 Adam Boqvist,8480871.0,27,55 David Jiricek,8483460.0,55,Columbus Blue Jackets
+CBJ,1st pair,78 Damon Severson,8476923.0,78,27 Adam Boqvist,8480871.0,27,Columbus Blue Jackets
+CBJ,2nd pair,9 Ivan Provorov,8478500.0,9,55 David Jiricek,8483460.0,55,Columbus Blue Jackets
+CBJ,3rd pair,22 Jake Bean,8479402.0,22,44 Erik Gudbranson,8475790.0,44,Columbus Blue Jackets
 CGY,1st pair,55 Noah Hanifin,8478396.0,55,8 Chris Tanev,8475690.0,8,Calgary Flames
 CGY,2nd pair,52 MacKenzie Weegar,8477346.0,52,4 Rasmus Andersson,8478397.0,4,Calgary Flames
 CGY,3rd pair,48 Dennis Gilbert,8478502.0,48,57 Nick DeSimone,8480084.0,57,Calgary Flames
@@ -50,7 +50,6 @@ MIN,3rd pair,4 Jon Merrill,8475750.0,4,6 Dakota Mermis,8477541.0,6,Minnesota Wil
 MTL,1st pair,8 Mike Matheson,8476875.0,8,58 David Savard,8475233.0,58,Montreal Canadiens
 MTL,2nd pair,21 Kaiden Guhle,8482087.0,21,52 Justin Barron,8482111.0,52,Montreal Canadiens
 MTL,3rd pair,47 Jayden Struble,8481593.0,47,54 Jordan Harris,8480887.0,54,Montreal Canadiens
-MTL,3rd pair,26 Johnathan Kovacevic,8480192.0,26,54 Jordan Harris,8480887.0,54,Montreal Canadiens
 NJD,1st pair,71 Jonas Siegenthaler,8478399.0,71,17 Simon Nemec,8483495.0,17,New Jersey Devils
 NJD,2nd pair,43 Luke Hughes,8482684.0,43,6 John Marino,8478507.0,6,New Jersey Devils
 NJD,3rd pair,88 Kevin Bahl,8480860.0,88,24 Colin Miller,8476525.0,24,New Jersey Devils
