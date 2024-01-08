@@ -5,7 +5,6 @@ ANA,3rd pair,5 Urho Vaakanainen,8480001.0,5,7 Radko Gudas,8475462.0,7,Anaheim Du
 ARI,1st pair,90 J.J. Moser,8482655.0,90,50 Sean Durzi,8480434.0,50,Arizona Coyotes
 ARI,2nd pair,33 Travis Dermott,8478408.0,33,24 Matt Dumba,8476856.0,24,Arizona Coyotes
 ARI,3rd pair,4 Juuso Valimaki,8479976.0,4,51 Troy Stecher,8479442.0,51,Arizona Coyotes
-ARI,3rd pair,5 Michael Kesselring,8480891.0,5,51 Troy Stecher,8479442.0,51,Arizona Coyotes
 BOS,1st pair,48 Matt Grzelcyk,8476891.0,48,73 Charlie McAvoy,8479325.0,73,Boston Bruins
 BOS,2nd pair,27 Hampus Lindholm,8476854.0,27,25 Brandon Carlo,8478443.0,25,Boston Bruins
 BOS,3rd pair,29 Parker Wotherspoon,8478450.0,29,12 Kevin Shattenkirk,8474031.0,12,Boston Bruins
@@ -24,6 +23,7 @@ CGY,3rd pair,82 Jordan Oesterle,8477851.0,82,57 Nick DeSimone,8480084.0,57,Calga
 CHI,1st pair,25 Jarred Tinordi,8475797.0,25,5 Connor Murphy,8476473.0,5,Chicago Blackhawks
 CHI,2nd pair,72 Alex Vlasic,8481568.0,72,24 Jaycob Megna,8477034.0,24,Chicago Blackhawks
 CHI,3rd pair,55 Kevin Korchinski,8483466.0,55,22 Nikita Zaitsev,8479458.0,22,Chicago Blackhawks
+CHI,3rd pair,41 Isaak Phillips,8482192.0,41,22 Nikita Zaitsev,8479458.0,22,Chicago Blackhawks
 COL,1st pair,7 Devon Toews,8478038.0,7,8 Cale Makar,8480069.0,8,Colorado Avalanche
 COL,2nd pair,49 Samuel Girard,8479398.0,49,42 Josh Manson,8476312.0,42,Colorado Avalanche
 COL,3rd pair,3 Jack Johnson,8471677.0,3,82 Caleb Jones,8478452.0,82,Colorado Avalanche
@@ -40,17 +40,17 @@ FLA,1st pair,42 Gustav Forsling,8478055.0,42,5 Aaron Ekblad,8477932.0,5,Florida 
 FLA,2nd pair,77 Niko Mikkola,8478859.0,77,62 Brandon Montour,8477986.0,62,Florida Panthers
 FLA,3rd pair,91 Oliver Ekman-Larsson,8475171.0,91,7 Dmitry Kulikov,8475179.0,7,Florida Panthers
 LAK,1st pair,44 Mikey Anderson,8479998.0,44,8 Drew Doughty,8474563.0,8,Los Angeles Kings
-LAK,2nd pair,84 Vladislav Gavrikov,8478882.0,84,3 Matt Roy,8478911.0,3,Los Angeles Kings
-LAK,3rd pair,5 Andreas Englund,8477971.0,5,21 Jordan Spence,8481606.0,21,Los Angeles Kings
+LAK,2nd pair,84 Vladislav Gavrikov,8478882.0,84,92 Brandt Clarke,8482730.0,92,Los Angeles Kings
+LAK,3rd pair,5 Andreas Englund,8477971.0,5,3 Matt Roy,8478911.0,3,Los Angeles Kings
 MIN,1st pair,5 Jake Middleton,0.0,5,7 Brock Faber,8482122.0,7,Minnesota Wild
 MIN,2nd pair,33 Alex Goligoski,8471274.0,33,24 Zach Bogosian,8474567.0,24,Minnesota Wild
 MIN,3rd pair,4 Jon Merrill,8475750.0,4,6 Dakota Mermis,8477541.0,6,Minnesota Wild
 MTL,1st pair,8 Mike Matheson,8476875.0,8,58 David Savard,8475233.0,58,Montreal Canadiens
 MTL,2nd pair,21 Kaiden Guhle,8482087.0,21,52 Justin Barron,8482111.0,52,Montreal Canadiens
 MTL,3rd pair,47 Jayden Struble,8481593.0,47,54 Jordan Harris,8480887.0,54,Montreal Canadiens
-NJD,1st pair,71 Jonas Siegenthaler,8478399.0,71,17 Simon Nemec,8483495.0,17,New Jersey Devils
-NJD,2nd pair,43 Luke Hughes,8482684.0,43,6 John Marino,8478507.0,6,New Jersey Devils
-NJD,3rd pair,88 Kevin Bahl,8480860.0,88,24 Colin Miller,8476525.0,24,New Jersey Devils
+NJD,1st pair,43 Luke Hughes,8482684.0,43,17 Simon Nemec,8483495.0,17,New Jersey Devils
+NJD,2nd pair,88 Kevin Bahl,8480860.0,88,6 John Marino,8478507.0,6,New Jersey Devils
+NJD,3rd pair,,,,24 Colin Miller,8476525.0,24,New Jersey Devils
 NSH,1st pair,59 Roman Josi,8474600.0,59,57 Dante Fabbro,8479371.0,57,Nashville Predators
 NSH,2nd pair,3 Jeremy Lauzon,8478468.0,3,45 Alexandre Carrier,8478851.0,45,Nashville Predators
 NSH,3rd pair,27 Ryan McDonagh,8474151.0,27,2 Luke Schenn,8474568.0,2,Nashville Predators
@@ -96,5 +96,5 @@ WPG,1st pair,44 Josh Morrissey,8477504.0,44,2 Dylan DeMelo,8476331.0,2,Winnipeg 
 WPG,2nd pair,5 Brenden Dillon,8475455.0,5,4 Neal Pionk,8480145.0,4,Winnipeg Jets
 WPG,3rd pair,54 Dylan Samberg,8480049.0,54,88 Nate Schmidt,8477220.0,88,Winnipeg Jets
 WSH,1st pair,42 Martin Fehervary,8480796.0,42,74 John Carlson,8474590.0,74,Washington Capitals
-WSH,2nd pair,57 Trevor van Riemsdyk,8477845.0,57,25 Ethan Bear,8478451.0,25,Washington Capitals
-WSH,3rd pair,6 Joel Edmundson,8476441.0,6,3 Nick Jensen,8475324.0,3,Washington Capitals
+WSH,2nd pair,57 Trevor van Riemsdyk,8477845.0,57,3 Nick Jensen,8475324.0,3,Washington Capitals
+WSH,3rd pair,6 Joel Edmundson,8476441.0,6,25 Ethan Bear,8478451.0,25,Washington Capitals
