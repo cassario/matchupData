@@ -21,6 +21,7 @@ ANA,Leo Carlsson,injured reserve,F,91.0,L,"6'3""",193.0,8484153.0,Anaheim Ducks
 ANA,Max Jones,injured reserve,F,49.0,L,"6'3""",220.0,8479368.0,Anaheim Ducks
 ANA,Benoit-Olivier Groulx,scratch,F,24.0,L,"6'2""",198.0,8480870.0,Anaheim Ducks
 ANA,Trevor Zegras,scratch,F,11.0,L,"6'0""",185.0,8481533.0,Anaheim Ducks
+ANA,Gustav Lindstrom,scratch,D,27.0,R,"6'2""",194.0,8480184.0,Anaheim Ducks
 ANA,Robert Hagg,scratch,D,18.0,L,"6'2""",204.0,8477462.0,Anaheim Ducks
 ARI,Clayton Keller,1st line,LW,9,L,"5'10""",170,8479343.0,Arizona Coyotes
 ARI,Jack McBain,1st line,C,22,L,"6'4""",218,8480855.0,Arizona Coyotes
@@ -377,7 +378,6 @@ MTL,Kirby Dach,injured reserve,F,77.0,R,"6'4""",218.0,8481523.0,Montreal Canadie
 MTL,Chris Wideman,injured reserve,D,6.0,R,"5'10""",183.0,8475227.0,Montreal Canadiens
 MTL,Carey Price,injured reserve,G,31.0,L,"6'3""",217.0,8471679.0,Montreal Canadiens
 MTL,Johnathan Kovacevic,scratch,D,26.0,R,"6'5""",223.0,8480192.0,Montreal Canadiens
-MTL,Gustav Lindstrom,scratch,D,27.0,R,"6'2""",194.0,8480184.0,Montreal Canadiens
 MTL,Jake Allen,scratch,G,34.0,L,"6'2""",195.0,8474596.0,Montreal Canadiens
 NJD,Tyler Toffoli,1st line,LW,73,R,"6'0""",197,8475726.0,New Jersey Devils
 NJD,Dawson Mercer,1st line,C,91,R,"6'0""",180,8482110.0,New Jersey Devils
@@ -705,10 +705,10 @@ VGK,William Carrier,injured reserve,F,28.0,L,"6'2""",218.0,8477478.0,Vegas Golde
 VGK,Shea Theodore,injured reserve,D,27.0,L,"6'2""",195.0,8477447.0,Vegas Golden Knights
 VGK,Ben Hutton,injured reserve,D,17.0,L,"6'2""",206.0,8477018.0,Vegas Golden Knights
 VGK,Daniil Miromanov,injured reserve,D,62.0,R,"6'4""",202.0,8482624.0,Vegas Golden Knights
-VGK,Adin Hill,injured reserve,G,33.0,L,"6'6""",202.0,8478499.0,Vegas Golden Knights
 VGK,Robin Lehner,injured reserve,G,90.0,L,"6'4""",240.0,8475215.0,Vegas Golden Knights
 VGK,Brayden Pachal,scratch,D,94.0,R,"6'0""",200.0,8481167.0,Vegas Golden Knights
 VGK,Zach Whitecloud,scratch,D,2.0,R,"6'2""",209.0,8480727.0,Vegas Golden Knights
+VGK,Logan Thompson,scratch,G,36.0,R,"6'4""",190.0,8480313.0,Vegas Golden Knights
 WPG,Nikolaj Ehlers,1st line,LW,27,L,"6'0""",172,8477940.0,Winnipeg Jets
 WPG,Mark Scheifele,1st line,C,55,R,"6'3""",207,8476460.0,Winnipeg Jets
 WPG,Gabriel Vilardi,1st line,RW,13,R,"6'2""",185,8480014.0,Winnipeg Jets
