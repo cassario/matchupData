@@ -374,7 +374,7 @@ MTL,Chris Wideman,injured reserve,D,6.0,R,"5'10""",183.0,8475227.0,Montreal Cana
 MTL,Carey Price,injured reserve,G,31.0,L,"6'3""",217.0,8471679.0,Montreal Canadiens
 MTL,Josh Anderson,scratch,F,17.0,R,"6'3""",227.0,8476981.0,Montreal Canadiens
 MTL,Justin Barron,scratch,D,52.0,R,"6'2""",203.0,8482111.0,Montreal Canadiens
-MTL,Cayden Primeau,scratch,G,30.0,L,"6'3""",200.0,8480051.0,Montreal Canadiens
+MTL,Sam Montembeault,scratch,G,35.0,L,"6'3""",214.0,8478470.0,Montreal Canadiens
 NJD,Erik Haula,1st line,LW,56,L,"6'0""",193,8475287.0,New Jersey Devils
 NJD,Nico Hischier,1st line,C,13,L,"6'1""",175,8480002.0,New Jersey Devils
 NJD,Dawson Mercer,1st line,RW,91,R,"6'0""",180,8482110.0,New Jersey Devils
@@ -424,26 +424,26 @@ NSH,Kiefer Sherwood,scratch,F,44.0,R,"6'0""",194.0,8480748.0,Nashville Predators
 NSH,Tyson Barrie,scratch,D,22.0,R,"5'11""",197.0,8475197.0,Nashville Predators
 NYI,Anders Lee,1st line,LW,27,L,"6'3""",231,8475314.0,New York Islanders
 NYI,Bo Horvat,1st line,C,14,L,"6'0""",215,8477500.0,New York Islanders
-NYI,Oliver Wahlstrom,1st line,RW,26,R,"6'2""",211,8480789.0,New York Islanders
+NYI,Mathew Barzal,1st line,RW,13,R,"6'0""",187,8478445.0,New York Islanders
 NYI,Alexander Romanov,1st pair,LD,28,L,"6'1""",209,8481014.0,New York Islanders
 NYI,Noah Dobson,1st pair,RD,8,R,"6'4""",184,8480865.0,New York Islanders
 NYI,Pierre Engvall,2nd line,LW,18,L,"6'5""",214,8478115.0,New York Islanders
 NYI,Brock Nelson,2nd line,C,29,L,"6'3""",212,8475754.0,New York Islanders
-NYI,Hudson Fasching,2nd line,RW,20,R,"6'2""",209,8477392.0,New York Islanders
+NYI,Kyle Palmieri,2nd line,RW,21,R,"5'11""",185,8475151.0,New York Islanders
 NYI,Adam Pelech,2nd pair,LD,3,L,"6'3""",218,8476917.0,New York Islanders
 NYI,Scott Mayfield,2nd pair,RD,24,R,"6'5""",223,8476429.0,New York Islanders
 NYI,Simon Holmstrom,3rd line,LW,10,L,"6'0""",193,8481601.0,New York Islanders
-NYI,Mathew Barzal,3rd line,C,13,R,"6'0""",187,8478445.0,New York Islanders
-NYI,Kyle Palmieri,3rd line,RW,21,R,"5'11""",185,8475151.0,New York Islanders
+NYI,Jean-Gabriel Pageau,3rd line,C,44,R,"5'10""",180,8476419.0,New York Islanders
+NYI,Julien Gauthier,3rd line,RW,16,R,"6'4""",227,8479328.0,New York Islanders
 NYI,Mike Reilly,3rd pair,LD,2,L,"6'1""",200,8476422.0,New York Islanders
 NYI,Sebastian Aho,3rd pair,RD,25,L,"5'10""",176,8480222.0,New York Islanders
 NYI,Matt Martin,4th line,LW,17,L,"6'3""",220,8474709.0,New York Islanders
-NYI,Jean-Gabriel Pageau,4th line,C,44,R,"5'10""",180,8476419.0,New York Islanders
+NYI,Hudson Fasching,4th line,C,20,R,"6'2""",209,8477392.0,New York Islanders
 NYI,Cal Clutterbuck,4th line,RW,15,R,"5'11""",216,8473504.0,New York Islanders
 NYI,Ryan Pulock,injured reserve,D,6.0,R,"6'2""",217.0,8477506.0,New York Islanders
 NYI,Robert Bortuzzo,injured reserve,D,41.0,R,"6'4""",216.0,8474145.0,New York Islanders
 NYI,Semyon Varlamov,injured reserve,G,40.0,L,"6'2""",205.0,8473575.0,New York Islanders
-NYI,Julien Gauthier,scratch,F,16.0,R,"6'4""",227.0,8479328.0,New York Islanders
+NYI,Oliver Wahlstrom,scratch,F,26.0,R,"6'2""",211.0,8480789.0,New York Islanders
 NYI,Casey Cizikas,scratch,F,53.0,L,"5'11""",195.0,8475231.0,New York Islanders
 NYI,Samuel Bolduc,scratch,D,4.0,L,"6'4""",210.0,8481541.0,New York Islanders
 NYR,Artemi Panarin,1st line,LW,10,R,"5'11""",170,8478550.0,New York Rangers
@@ -550,10 +550,11 @@ SEA,Justin Schultz,3rd pair,RD,4,R,"6'2""",193,8474602.0,Seattle Kraken
 SEA,Tye Kartye,4th line,LW,52,L,"5'11""",202,8481789.0,Seattle Kraken
 SEA,Devin Shore,4th line,C,94,L,"6'1""",206,8476913.0,Seattle Kraken
 SEA,Kailer Yamamoto,4th line,RW,56,R,"5'8""",153,8479977.0,Seattle Kraken
+SEA,Matty Beniers,injured reserve,F,10.0,L,"6'2""",175.0,8482665.0,Seattle Kraken
 SEA,Pierre-Edouard Bellemare,injured reserve,F,41.0,L,"6'0""",198.0,8477930.0,Seattle Kraken
 SEA,Philipp Grubauer,injured reserve,G,31.0,L,"6'1""",188.0,8475831.0,Seattle Kraken
+SEA,John Hayden,scratch,F,15.0,R,"6'3""",215.0,8477401.0,Seattle Kraken
 SEA,Andre Burakovsky,scratch,F,95.0,L,"6'3""",201.0,8477444.0,Seattle Kraken
-SEA,Matty Beniers,scratch,F,10.0,L,"6'2""",175.0,8482665.0,Seattle Kraken
 SEA,Vince Dunn,scratch,D,29.0,L,"6'0""",203.0,8478407.0,Seattle Kraken
 SJS,Fabian Zetterlund,1st line,LW,20,R,"5'11""",196,8480188.0,San Jose Sharks
 SJS,Tomas Hertl,1st line,C,48,L,"6'2""",215,8476881.0,San Jose Sharks
@@ -675,19 +676,19 @@ VAN,Tucker Poolman,injured reserve,D,5.0,R,"6'2""",199.0,8477359.0,Vancouver Can
 VAN,Linus Karlsson,scratch,F,94.0,R,"6'1""",178.0,8481024.0,Vancouver Canucks
 VAN,Noah Juulsen,scratch,D,47.0,R,"6'2""",193.0,8478454.0,Vancouver Canucks
 VAN,Mark Friedman,scratch,D,51.0,R,"5'11""",185.0,8478017.0,Vancouver Canucks
-VGK,Ivan Barbashev,1st line,LW,49,L,"6'0""",187,8477964.0,Vegas Golden Knights
-VGK,Nicolas Roy,1st line,C,10,R,"6'4""",200,8478462.0,Vegas Golden Knights
-VGK,Jonathan Marchessault,1st line,RW,81,R,"5'9""",180,8476539.0,Vegas Golden Knights
+VGK,Pavel Dorofeyev,1st line,LW,16,L,"6'0""",176,8481604.0,Vegas Golden Knights
+VGK,Chandler Stephenson,1st line,C,20,L,"6'0""",208,8476905.0,Vegas Golden Knights
+VGK,Mark Stone,1st line,RW,61,R,"6'3""",202,8475913.0,Vegas Golden Knights
 VGK,Alec Martinez,1st pair,LD,23,L,"6'1""",209,8474166.0,Vegas Golden Knights
 VGK,Alex Pietrangelo,1st pair,RD,7,R,"6'3""",210,8474565.0,Vegas Golden Knights
-VGK,Pavel Dorofeyev,2nd line,LW,16,L,"6'0""",176,8481604.0,Vegas Golden Knights
-VGK,Byron Froese,2nd line,C,51,R,"5'11""",190,8475278.0,Vegas Golden Knights
-VGK,Mark Stone,2nd line,RW,61,R,"6'3""",202,8475913.0,Vegas Golden Knights
+VGK,Ivan Barbashev,2nd line,LW,49,L,"6'0""",187,8477964.0,Vegas Golden Knights
+VGK,Nicolas Roy,2nd line,C,10,R,"6'4""",200,8478462.0,Vegas Golden Knights
+VGK,Jonathan Marchessault,2nd line,RW,81,R,"5'9""",180,8476539.0,Vegas Golden Knights
 VGK,Nicolas Hague,2nd pair,LD,14,L,"6'6""",221,8479980.0,Vegas Golden Knights
 VGK,Zach Whitecloud,2nd pair,RD,2,R,"6'2""",209,8480727.0,Vegas Golden Knights
 VGK,Paul Cotter,3rd line,LW,43,L,"6'0""",185,8481032.0,Vegas Golden Knights
 VGK,Michael Amadio,3rd line,C,22,R,"6'1""",204,8478020.0,Vegas Golden Knights
-VGK,Brendan Brisson,3rd line,RW,19,L,"5'11""",179,0.0,Vegas Golden Knights
+VGK,Brendan Brisson,3rd line,RW,19,L,"5'11""",179,8482153.0,Vegas Golden Knights
 VGK,Brayden McNabb,3rd pair,LD,3,L,"6'4""",213,8475188.0,Vegas Golden Knights
 VGK,Kaedan Korczak,3rd pair,RD,6,R,"6'3""",192,8481527.0,Vegas Golden Knights
 VGK,Jonas Rondbjerg,4th line,LW,46,L,"6'0""",176,8480007.0,Vegas Golden Knights
@@ -702,7 +703,7 @@ VGK,Tobias Bjornfot,injured reserve,D,26.0,L,"6'0""",202.0,8481600.0,Vegas Golde
 VGK,Daniil Miromanov,injured reserve,D,62.0,R,"6'4""",202.0,8482624.0,Vegas Golden Knights
 VGK,Adin Hill,injured reserve,G,33.0,L,"6'6""",202.0,8478499.0,Vegas Golden Knights
 VGK,Robin Lehner,injured reserve,G,90.0,L,"6'4""",240.0,8475215.0,Vegas Golden Knights
-VGK,Chandler Stephenson,scratch,F,20.0,L,"6'0""",208.0,8476905.0,Vegas Golden Knights
+VGK,Byron Froese,scratch,F,51.0,R,"5'11""",190.0,8475278.0,Vegas Golden Knights
 VGK,Brayden Pachal,scratch,D,94.0,R,"6'0""",200.0,8481167.0,Vegas Golden Knights
 VGK,Jiri Patera,scratch,G,30.0,L,"6'2""",209.0,8480238.0,Vegas Golden Knights
 WPG,Nikolaj Ehlers,1st line,LW,27,L,"6'0""",172,8477940.0,Winnipeg Jets
