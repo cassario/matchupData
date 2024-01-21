@@ -27,9 +27,9 @@ CGY,1st line,10 Jonathan Huberdeau,8476456.0,10,28 Elias Lindholm,8477496.0,28,1
 CGY,2nd line,88 Andrew Mangiapane,8478233.0,88,11 Mikael Backlund,8474150.0,11,20 Blake Coleman,8476399.0,20,Calgary Flames
 CGY,3rd line,47 Connor Zary,8482074.0,47,91 Nazem Kadri,8475172.0,91,27 Matt Coronato,8482679.0,27,Calgary Flames
 CGY,4th line,18 A.J. Greer,8478421.0,18,63 Adam Ruzicka,8480008.0,63,43 Adam Klapka,8483609.0,43,Calgary Flames
-CHI,1st line,20 Rem Pitlick,8479514.0,20,23 Philipp Kurashev,8480798.0,23,11 Taylor Raddysh,8479390.0,11,Chicago Blackhawks
+CHI,1st line,17 Nick Foligno,8473422.0,17,23 Philipp Kurashev,8480798.0,23,11 Taylor Raddysh,8479390.0,11,Chicago Blackhawks
 CHI,2nd line,43 Colin Blackwell,8476278.0,43,16 Jason Dickinson,8477450.0,16,15 Joey Anderson,8479315.0,15,Chicago Blackhawks
-CHI,3rd line,27 Lukas Reichel,8482117.0,27,58 MacKenzie Entwistle,8480025.0,58,70 Cole Guttman,8480252.0,70,Chicago Blackhawks
+CHI,3rd line,20 Rem Pitlick,8479514.0,20,58 MacKenzie Entwistle,8480025.0,58,8 Ryan Donato,8477987.0,8,Chicago Blackhawks
 CHI,4th line,14 Boris Katchouk,8479383.0,14,13 Zachary Sanford,0.0,13,52 Reese Johnson,8481147.0,52,Chicago Blackhawks
 COL,1st line,27 Jonathan Drouin,8477494.0,27,29 Nathan MacKinnon,8477492.0,29,96 Mikko Rantanen,8478420.0,96,Colorado Avalanche
 COL,2nd line,28 Miles Wood,8477425.0,28,20 Ross Colton,8479525.0,20,25 Logan O'Connor,8481186.0,25,Colorado Avalanche
@@ -79,14 +79,14 @@ NYR,1st line,10 Artemi Panarin,8478550.0,10,16 Vincent Trocheck,8476389.0,16,13 
 NYR,2nd line,20 Chris Kreider,8475184.0,20,93 Mika Zibanejad,8476459.0,93,24 Kaapo Kakko,8481554.0,24,New York Rangers
 NYR,3rd line,50 Will Cuylle,8482157.0,50,22 Jonny Brodzinski,8477380.0,22,17 Blake Wheeler,8471218.0,17,New York Rangers
 NYR,4th line,26 Jimmy Vesey,8476918.0,26,21 Barclay Goodrow,8476624.0,21,71 Tyler Pitlick,8475752.0,71,New York Rangers
-OTT,1st line,7 Brady Tkachuk,8480801.0,7,71 Ridly Greig,8482092.0,71,28 Claude Giroux,8473512.0,28,Ottawa Senators
-OTT,2nd line,21 Mathieu Joseph,8478472.0,21,18 Tim Stutzle,8482116.0,18,19 Drake Batherson,8480208.0,19,Ottawa Senators
-OTT,3rd line,27 Parker Kelly,8480448.0,27,9 Josh Norris,8480064.0,9,91 Vladimir Tarasenko,8475765.0,91,Ottawa Senators
-OTT,4th line,81 Dominik Kubalik,8477330.0,81,49 Rourke Chartier,8478078.0,49,12 Mark Kastelic,8480355.0,12,Ottawa Senators
-PHI,1st line,74 Owen Tippett,8480015.0,74,14 Sean Couturier,8476461.0,14,11 Travis Konecny,8478439.0,11,Philadelphia Flyers
+OTT,1st line,7 Brady Tkachuk,8480801.0,7,9 Josh Norris,8480064.0,9,28 Claude Giroux,8473512.0,28,Ottawa Senators
+OTT,2nd line,71 Ridly Greig,8482092.0,71,18 Tim Stutzle,8482116.0,18,19 Drake Batherson,8480208.0,19,Ottawa Senators
+OTT,3rd line,21 Mathieu Joseph,8478472.0,21,57 Shane Pinto,8481596.0,57,91 Vladimir Tarasenko,8475765.0,91,Ottawa Senators
+OTT,4th line,27 Parker Kelly,8480448.0,27,49 Rourke Chartier,8478078.0,49,12 Mark Kastelic,8480355.0,12,Ottawa Senators
+PHI,1st line,71 Tyson Foerster,8482159.0,71,14 Sean Couturier,8476461.0,14,11 Travis Konecny,8478439.0,11,Philadelphia Flyers
 PHI,2nd line,86 Joel Farabee,8480797.0,86,48 Morgan Frost,8480028.0,48,89 Cam Atkinson,8474715.0,89,Philadelphia Flyers
-PHI,3rd line,71 Tyson Foerster,8482159.0,71,21 Scott Laughton,8476872.0,21,19 Garnet Hathaway,8477903.0,19,Philadelphia Flyers
-PHI,4th line,27 Noah Cates,8480220.0,27,25 Ryan Poehling,8480068.0,25,,,,Philadelphia Flyers
+PHI,3rd line,27 Noah Cates,8480220.0,27,21 Scott Laughton,8476872.0,21,19 Garnet Hathaway,8477903.0,19,Philadelphia Flyers
+PHI,4th line,44 Nicolas Deslauriers,8475235.0,44,25 Ryan Poehling,8480068.0,25,,,,Philadelphia Flyers
 PIT,1st line,59 Jake Guentzel,8477404.0,59,87 Sidney Crosby,8471675.0,87,67 Rickard Rakell,8476483.0,67,Pittsburgh Penguins
 PIT,2nd line,10 Drew O'Connor,8482055.0,10,71 Evgeni Malkin,8471215.0,71,17 Bryan Rust,8475810.0,17,Pittsburgh Penguins
 PIT,3rd line,43 Jansen Harkins,8478424.0,43,20 Lars Eller,8474189.0,20,48 Valtteri Puustinen,8481703.0,48,Pittsburgh Penguins
