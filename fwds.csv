@@ -1,7 +1,7 @@
 team,line,LW,player_id_LW,num_LW,C,player_id_C,num_C,RW,player_id_RW,num_RW,full
 ANA,1st line,14 Adam Henrique,8474641.0,14,91 Leo Carlsson,8484153.0,91,19 Troy Terry,8478873.0,19,Anaheim Ducks
-ANA,2nd line,77 Frank Vatrano,8478366.0,77,23 Mason McTavish,8482745.0,23,16 Ryan Strome,8476458.0,16,Anaheim Ducks
-ANA,3rd line,33 Jakob Silfverberg,8475164.0,33,21 Isac Lundestrom,8480806.0,21,20 Brett Leason,8481517.0,20,Anaheim Ducks
+ANA,2nd line,77 Frank Vatrano,8478366.0,77,16 Ryan Strome,8476458.0,16,20 Brett Leason,8481517.0,20,Anaheim Ducks
+ANA,3rd line,21 Isac Lundestrom,8480806.0,21,23 Mason McTavish,8482745.0,23,33 Jakob Silfverberg,8475164.0,33,Anaheim Ducks
 ANA,4th line,44 Ross Johnston,8477527.0,44,39 Sam Carrick,8475842.0,39,24 Benoit-Olivier Groulx,8480870.0,24,Anaheim Ducks
 ARI,1st line,63 Matias Maccelli,8481711.0,63,17 Nick Bjugstad,8475760.0,17,9 Clayton Keller,8479343.0,9,Arizona Coyotes
 ARI,2nd line,16 Jason Zucker,8475722.0,16,15 Alexander Kerfoot,8477021.0,15,67 Lawson Crouse,8478474.0,67,Arizona Coyotes
@@ -101,8 +101,8 @@ SJS,3rd line,72 William Eklund,8482667.0,72,7 Nico Sturm,8481477.0,7,11 Luke Kun
 SJS,4th line,18 Filip Zadina,8480821.0,18,22 Ryan Carpenter,8477846.0,22,90 Justin Bailey,8477473.0,90,San Jose Sharks
 STL,1st line,89 Pavel Buchnevich,8477402.0,89,18 Robert Thomas,8480023.0,18,25 Jordan Kyrou,8479385.0,25,St. Louis Blues
 STL,2nd line,20 Brandon Saad,8476438.0,20,10 Brayden Schenn,8475170.0,10,63 Jake Neighbours,8482089.0,63,St. Louis Blues
-STL,3rd line,26 Nathan Walker,8477573.0,26,12 Kevin Hayes,8475763.0,12,88 Adam Gaudette,8478874.0,88,St. Louis Blues
-STL,4th line,13 Alexei Toropchenko,8480281.0,13,59 Nikita Alexandrov,8481543.0,59,70 Oskar Sundqvist,8476897.0,70,St. Louis Blues
+STL,3rd line,26 Nathan Walker,8477573.0,26,12 Kevin Hayes,8475763.0,12,13 Alexei Toropchenko,8480281.0,13,St. Louis Blues
+STL,4th line,59 Nikita Alexandrov,8481543.0,59,70 Oskar Sundqvist,8476897.0,70,79 Sammy Blais,8478104.0,79,St. Louis Blues
 TBL,1st line,91 Steven Stamkos,8474564.0,91,21 Brayden Point,8478010.0,21,86 Nikita Kucherov,8476453.0,86,Tampa Bay Lightning
 TBL,2nd line,38 Brandon Hagel,8479542.0,38,71 Anthony Cirelli,8478519.0,71,23 Michael Eyssimont,8479591.0,23,Tampa Bay Lightning
 TBL,3rd line,73 Conor Sheary,8477839.0,73,20 Nick Paul,8477426.0,20,39 Waltteri Merela,8484325.0,39,Tampa Bay Lightning

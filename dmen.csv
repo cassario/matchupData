@@ -1,7 +1,7 @@
 team,line,LD,player_id_LD,num_LD,RD,player_id_RD,num_RD,full
-ANA,1st pair,4 Cam Fowler,8475764.0,4,28 Gustav Lindstrom,8480184.0,28,Anaheim Ducks
+ANA,1st pair,60 Jackson LaCombe,8481605.0,60,4 Cam Fowler,8475764.0,4,Anaheim Ducks
 ANA,2nd pair,5 Urho Vaakanainen,8480001.0,5,7 Radko Gudas,8475462.0,7,Anaheim Ducks
-ANA,3rd pair,51 Olen Zellweger,0.0,51,60 Jackson LaCombe,8481605.0,60,Anaheim Ducks
+ANA,3rd pair,51 Olen Zellweger,0.0,51,46 Ilya Lyubushkin,8480950.0,46,Anaheim Ducks
 ARI,1st pair,90 J.J. Moser,8482655.0,90,50 Sean Durzi,8480434.0,50,Arizona Coyotes
 ARI,2nd pair,33 Travis Dermott,8478408.0,33,3 Josh Brown,8477384.0,3,Arizona Coyotes
 ARI,3rd pair,4 Juuso Valimaki,8479976.0,4,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
@@ -73,7 +73,7 @@ PIT,3rd pair,73 Pierre-Olivier Joseph,8480058.0,73,2 Chad Ruhwedel,8477244.0,2,P
 SEA,1st pair,39 Ryker Evans,8482858.0,39,6 Adam Larsson,8476457.0,6,Seattle Kraken
 SEA,2nd pair,24 Jamie Oleksiak,8476467.0,24,3 Will Borgen,8478840.0,3,Seattle Kraken
 SEA,3rd pair,8 Brian Dumoulin,8475208.0,8,4 Justin Schultz,8474602.0,4,Seattle Kraken
-SJS,1st pair,44 Marc-Edouard Vlasic,8471709.0,44,38 Mario Ferraro,8479983.0,38,San Jose Sharks
+SJS,1st pair,44 Marc-Edouard Vlasic,8471709.0,44,33 Calen Addison,8480884.0,33,San Jose Sharks
 SJS,2nd pair,3 Henry Thrun,8481567.0,3,84 Jan Rutta,8480172.0,84,San Jose Sharks
 SJS,3rd pair,83 Nikita Okhotiuk,8481537.0,83,4 Kyle Burroughs,8477335.0,4,San Jose Sharks
 STL,1st pair,4 Nick Leddy,8475181.0,4,55 Colton Parayko,8476892.0,55,St. Louis Blues
@@ -85,8 +85,8 @@ TBL,3rd pair,78 Emil Martinsen Lilleberg,8482929.0,78,65 Maxwell Crozier,8481719
 TOR,1st pair,44 Morgan Rielly,8476853.0,44,78 TJ Brodie,8474673.0,78,Toronto Maple Leafs
 TOR,2nd pair,22 Jake McCabe,8476931.0,22,37 Timothy Liljegren,8480043.0,37,Toronto Maple Leafs
 TOR,3rd pair,2 Simon Benoit,8481122.0,2,25 Conor Timmins,8479982.0,25,Toronto Maple Leafs
-VAN,1st pair,43 Quinn Hughes,8480800.0,43,57 Tyler Myers,8474574.0,57,Vancouver Canucks
-VAN,2nd pair,17 Filip Hronek,8479425.0,17,91 Nikita Zadorov,8477507.0,91,Vancouver Canucks
+VAN,1st pair,43 Quinn Hughes,8480800.0,43,17 Filip Hronek,8479425.0,17,Vancouver Canucks
+VAN,2nd pair,91 Nikita Zadorov,8477507.0,91,57 Tyler Myers,8474574.0,57,Vancouver Canucks
 VAN,3rd pair,82 Ian Cole,8474013.0,82,47 Noah Juulsen,8478454.0,47,Vancouver Canucks
 VGK,1st pair,23 Alec Martinez,8474166.0,23,7 Alex Pietrangelo,8474565.0,7,Vegas Golden Knights
 VGK,2nd pair,3 Brayden McNabb,8475188.0,3,6 Kaedan Korczak,8481527.0,6,Vegas Golden Knights
