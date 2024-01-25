@@ -14,8 +14,8 @@ BUF,3rd pair,33 Ryan Johnson,8481564.0,33,75 Connor   Clifton,0.0,75,Buffalo Sab
 CAR,1st pair,74 Jaccob   Slavin,0.0,74,8 Brent   Burns,0.0,8,Carolina Hurricanes
 CAR,2nd pair,76 Brady   Skjei,0.0,76,22 Brett   Pesce,0.0,22,Carolina Hurricanes
 CAR,3rd pair,7 Dmitry   Orlov,0.0,7,5 Jalen   Chatfield,0.0,5,Carolina Hurricanes
-CBJ,1st pair,78 Damon   Severson,0.0,78,27 Adam   Boqvist,0.0,27,Columbus Blue Jackets
-CBJ,2nd pair,9 Ivan   Provorov,0.0,9,2 Andrew   Peeke,0.0,2,Columbus Blue Jackets
+CBJ,1st pair,78 Damon   Severson,0.0,78,8 Zachary   Werenski,0.0,8,Columbus Blue Jackets
+CBJ,2nd pair,9 Ivan   Provorov,0.0,9,27 Adam   Boqvist,0.0,27,Columbus Blue Jackets
 CBJ,3rd pair,22 Jake   Bean,0.0,22,44 Erik   Gudbranson,0.0,44,Columbus Blue Jackets
 CGY,1st pair,52 MacKenzie   Weegar,0.0,52,4 Rasmus   Andersson,0.0,4,Calgary Flames
 CGY,2nd pair,55 Noah   Hanifin,0.0,55,8 Christopher   Tanev,0.0,8,Calgary Flames
@@ -26,9 +26,9 @@ CHI,3rd pair,25 Jarred   Tinordi,0.0,25,46 Louis Crevier,8481806.0,46,Chicago Bl
 COL,1st pair,7 Devon   Toews,0.0,7,8 Cale   Makar,0.0,8,Colorado Avalanche
 COL,2nd pair,49 Samuel Girard,8479398.0,49,42 Josh   Manson,0.0,42,Colorado Avalanche
 COL,3rd pair,4 Bowen   Byram,0.0,4,70 Sam Malinski,8484258.0,70,Colorado Avalanche
-DAL,1st pair,20 Ryan   Suter,0.0,20,5 Nils   Lundkvist,0.0,5,Dallas Stars
-DAL,2nd pair,23 Esa   Lindell,0.0,23,2 Jani   Hakanpaa,0.0,2,Dallas Stars
-DAL,3rd pair,55 Thomas   Harley,0.0,55,44 Joel Hanley,8477810.0,44,Dallas Stars
+DAL,1st pair,55 Thomas   Harley,0.0,55,4 Miro   Heiskanen,0.0,4,Dallas Stars
+DAL,2nd pair,20 Ryan   Suter,0.0,20,5 Nils   Lundkvist,0.0,5,Dallas Stars
+DAL,3rd pair,23 Esa   Lindell,0.0,23,2 Jani   Hakanpaa,0.0,2,Dallas Stars
 DET,1st pair,96 Jake   Walman,0.0,96,53 Moritz   Seider,0.0,53,Detroit Red Wings
 DET,2nd pair,41 Shayne   Gostisbehere,0.0,41,46 Jeff Petry,8473507.0,46,Detroit Red Wings
 DET,3rd pair,2 Olli   Maatta,0.0,2,3 Justin   Holl,0.0,3,Detroit Red Wings
@@ -55,10 +55,10 @@ NSH,2nd pair,3 Jeremy   Lauzon,0.0,3,45 Alexandre   Carrier,0.0,45,Nashville Pre
 NSH,3rd pair,27 Ryan   McDonagh,0.0,27,2 Luke   Schenn,0.0,2,Nashville Predators
 NYI,1st pair,28 Alexander Romanov,8481014.0,28,8 Noah Dobson,8480865.0,8,New York Islanders
 NYI,2nd pair,3 Adam Pelech,8476917.0,3,25 Sebastian Aho,8480222.0,25,New York Islanders
-NYI,3rd pair,2 Mike Reilly,8476422.0,2,24 Scott Mayfield,8476429.0,24,New York Islanders
-NYR,1st pair,55 Ryan   Lindgren,0.0,55,23 Adam   Fox,0.0,23,New York Rangers
-NYR,2nd pair,79 K'Andre   Miller,0.0,79,8 Jacob   Trouba,0.0,8,New York Rangers
-NYR,3rd pair,56 Erik   Gustafsson,0.0,56,4 Braden   Schneider,0.0,4,New York Rangers
+NYI,3rd pair,4 Samuel Bolduc,8481541.0,4,24 Scott Mayfield,8476429.0,24,New York Islanders
+NYR,1st pair,79 K'Andre   Miller,0.0,79,8 Jacob   Trouba,0.0,8,New York Rangers
+NYR,2nd pair,56 Erik   Gustafsson,0.0,56,23 Adam   Fox,0.0,23,New York Rangers
+NYR,3rd pair,55 Ryan   Lindgren,0.0,55,4 Braden   Schneider,0.0,4,New York Rangers
 OTT,1st pair,85 Jake   Sanderson,0.0,85,2 Artem   Zub,0.0,2,Ottawa Senators
 OTT,2nd pair,72 Thomas   Chabot,0.0,72,6 Jakob   Chychrun,0.0,6,Ottawa Senators
 OTT,3rd pair,26 Erik   Brannstrom,0.0,26,24 Jacob Bernard-Docker,8480879.0,24,Ottawa Senators
