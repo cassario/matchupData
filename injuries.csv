@@ -11,8 +11,8 @@ ARI,Vladislav Kolyachonok
 ARI,Travis Boyd
 ARI,Shea Weber
 ARI,Jakub Voracek
-BOS,Jake DeBrusk
 BOS,Matthew Poitras
+BOS,Jake DeBrusk
 BOS,Derek Forbort
 BOS,Milan Lucic
 BUF,Mattias Samuelsson
@@ -21,11 +21,11 @@ CGY,A.J. Greer
 CGY,Dillon Dube
 CAR,Frederik Andersen
 CAR,Andrei Svechnikov
-CHI,Andreas Athanasiou
-CHI,Tyler Johnson
 CHI,Nikita Zaitsev
-CHI,Connor Murphy
+CHI,Tyler Johnson
+CHI,Andreas Athanasiou
 CHI,Anthony Beauvillier
+CHI,Connor Murphy
 CHI,Connor Bedard
 CHI,Taylor Hall
 COL,Valeri Nichushkin
@@ -34,8 +34,8 @@ COL,Gabriel Landeskog
 CBJ,Adam Fantilli
 CBJ,Patrik Laine
 CBJ,Adam Boqvist
-DET,Ben Chiarot
 DET,Ville Husso
+DET,Ben Chiarot
 DET,Patrick Kane
 DET,Matt Luff
 FLA,Will Lockwood
@@ -43,6 +43,8 @@ FLA,Nick Cousins
 LAK,Blake Lizotte
 LAK,Viktor Arvidsson
 LAK,Pheonix Copley
+MIN,Declan Chisholm
+MIN,Jonas Brodin
 MIN,Pat Maroon
 MIN,Marc-Andre Fleury
 MIN,Marcus Foligno
@@ -55,12 +57,12 @@ MTL,Christian Dvorak
 MTL,Kirby Dach
 MTL,Carey Price
 NSH,Alexandre Carrier
+NJD,Jack Hughes
 NJD,Michael McLeod
 NJD,Cal Foote
-NJD,Dougie Hamilton
-NJD,Jack Hughes
-NJD,Brendan Smith
 NJD,Tomas Nosek
+NJD,Brendan Smith
+NJD,Dougie Hamilton
 NJD,Jonas Siegenthaler
 NYI,Hudson Fasching
 NYI,Robert Bortuzzo
@@ -78,8 +80,8 @@ PIT,Reilly Smith
 PIT,John Ludvig
 PIT,Matt Nieto
 SJS,Tomas Hertl
-SJS,Alexander Barabanov
 SJS,Ty Emberson
+SJS,Alexander Barabanov
 SJS,Givani Smith
 SJS,Mario Ferraro
 SJS,Henry Thrun
@@ -107,9 +109,9 @@ VAN,Carson Soucy
 VAN,Phillip Di Giuseppe
 VAN,Tucker Poolman
 VGK,Pavel Dorofeyev
-VGK,Ben Hutton
 VGK,Tobias Bjornfot
 VGK,William Carrier
+VGK,Ben Hutton
 VGK,Jack Eichel
 VGK,Shea Theodore
 VGK,Robin Lehner

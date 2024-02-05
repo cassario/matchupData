@@ -351,7 +351,7 @@ MTL,Jesse Ylonen,3rd line,RW,56,R,"6'1""",201,8481058.0,Montreal Canadiens
 MTL,Jordan Harris,3rd pair,LD,54,L,"5'11""",189,8480887.0,Montreal Canadiens
 MTL,Johnathan Kovacevic,3rd pair,RD,26,R,"6'5""",223,8480192.0,Montreal Canadiens
 MTL,Michael Pezzetta,4th line,LW,55,L,"6'1""",218,8479543.0,Montreal Canadiens
-MTL,Brandon Gignac,4th line,C,51,L,"5'11""",170,8479330.0,Montreal Canadiens
+MTL,Brandon Gignac,4th line,C,74,L,"5'11""",170,8479330.0,Montreal Canadiens
 MTL,Rafael Harvey-Pinard,4th line,RW,49,L,"5'9""",184,8481093.0,Montreal Canadiens
 MTL,Christian Dvorak,injured reserve,F,28.0,L,"6'1""",200.0,8477989.0,Montreal Canadiens
 MTL,Alex Newhook,injured reserve,F,15.0,L,"5'11""",199.0,8481618.0,Montreal Canadiens
@@ -635,9 +635,9 @@ VAN,J.T. Miller,1st line,C,9,L,"6'1""",218,8476468.0,Vancouver Canucks
 VAN,Brock Boeser,1st line,RW,6,R,"6'1""",208,8478444.0,Vancouver Canucks
 VAN,Quinn Hughes,1st pair,LD,43,L,"5'10""",170,8480800.0,Vancouver Canucks
 VAN,Filip Hronek,1st pair,RD,17,R,"6'0""",183,8479425.0,Vancouver Canucks
-VAN,Elias Pettersson,2nd line,LW,40,L,"6'2""",176,8480012.0,Vancouver Canucks
-VAN,Elias Lindholm,2nd line,C,23,R,"6'1""",195,8477496.0,Vancouver Canucks
-VAN,Ilya Mikheyev,2nd line,RW,65,L,"6'3""",195,8481624.0,Vancouver Canucks
+VAN,Ilya Mikheyev,2nd line,LW,65,L,"6'3""",195,8481624.0,Vancouver Canucks
+VAN,Elias Pettersson,2nd line,C,40,L,"6'2""",176,8480012.0,Vancouver Canucks
+VAN,Elias Lindholm,2nd line,RW,23,R,"6'1""",195,8477496.0,Vancouver Canucks
 VAN,Ian Cole,2nd pair,LD,82,L,"6'1""",225,8474013.0,Vancouver Canucks
 VAN,Tyler Myers,2nd pair,RD,57,R,"6'8""",229,8474574.0,Vancouver Canucks
 VAN,Dakota Joshua,3rd line,LW,81,L,"6'2""",183,8478057.0,Vancouver Canucks
@@ -666,7 +666,7 @@ VGK,Brayden McNabb,2nd pair,LD,3,L,"6'4""",213,8475188.0,Vegas Golden Knights
 VGK,Kaedan Korczak,2nd pair,RD,6,R,"6'3""",192,8481527.0,Vegas Golden Knights
 VGK,Brett Howden,3rd line,LW,21,L,"6'3""",197,8479353.0,Vegas Golden Knights
 VGK,William Karlsson,3rd line,C,71,L,"6'0""",195,8476448.0,Vegas Golden Knights
-VGK,Pavel Dorofeyev,3rd line,RW,16,L,"6'0""",176,8481604.0,Vegas Golden Knights
+VGK,Brendan Brisson,3rd line,RW,19,L,"5'11""",179,8482153.0,Vegas Golden Knights
 VGK,Nicolas Hague,3rd pair,LD,14,L,"6'6""",221,8479980.0,Vegas Golden Knights
 VGK,Zach Whitecloud,3rd pair,RD,2,R,"6'2""",209,8480727.0,Vegas Golden Knights
 VGK,Jonas Rondbjerg,4th line,LW,46,L,"6'0""",176,8480007.0,Vegas Golden Knights
@@ -678,6 +678,9 @@ VGK,Shea Theodore,injured reserve,D,27.0,L,"6'2""",195.0,8477447.0,Vegas Golden 
 VGK,Ben Hutton,injured reserve,D,17.0,L,"6'2""",206.0,8477018.0,Vegas Golden Knights
 VGK,Tobias Bjornfot,injured reserve,D,26.0,L,"6'0""",202.0,8481600.0,Vegas Golden Knights
 VGK,Robin Lehner,injured reserve,G,90.0,L,"6'4""",240.0,8475215.0,Vegas Golden Knights
+VGK,Sheldon Rempal,scratch,F,56.0,R,"5'10""",165.0,8480776.0,Vegas Golden Knights
+VGK,Pavel Dorofeyev,scratch,F,16.0,L,"6'0""",176.0,8481604.0,Vegas Golden Knights
+VGK,Daniil Miromanov,scratch,D,62.0,R,"6'4""",202.0,8482624.0,Vegas Golden Knights
 WPG,Kyle Connor,1st line,LW,81,L,"6'1""",182,8478398.0,Winnipeg Jets
 WPG,Mark Scheifele,1st line,C,55,R,"6'3""",207,8476460.0,Winnipeg Jets
 WPG,Gabriel Vilardi,1st line,RW,13,R,"6'2""",185,8480014.0,Winnipeg Jets
