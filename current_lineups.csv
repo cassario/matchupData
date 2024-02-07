@@ -46,7 +46,6 @@ ARI,Jakub Voracek,injured reserve,F,,L,"6'2""",214.0,8474161.0,Arizona Coyotes
 ARI,Bryan Little,injured reserve,F,,R,"6'0""",191.0,8473412.0,Arizona Coyotes
 ARI,Matt Dumba,injured reserve,D,24.0,R,"6'0""",180.0,8476856.0,Arizona Coyotes
 ARI,Troy Stecher,injured reserve,D,51.0,R,"5'10""",186.0,8479442.0,Arizona Coyotes
-ARI,Vladislav Kolyachonok,injured reserve,D,52.0,L,"6'1""",189.0,8481609.0,Arizona Coyotes
 ARI,Shea Weber,injured reserve,D,,R,"6'4""",230.0,8470642.0,Arizona Coyotes
 ARI,Adam Ruzicka,scratch,F,83.0,L,"6'4""",220.0,8480008.0,Arizona Coyotes
 BOS,Brad Marchand,1st line,LW,63,L,"5'9""",181,8473419.0,Boston Bruins
@@ -59,14 +58,14 @@ BOS,Pavel Zacha,2nd line,C,18,L,"6'3""",210,8478401.0,Boston Bruins
 BOS,David Pastrnak,2nd line,RW,88,R,"6'0""",194,8477956.0,Boston Bruins
 BOS,Hampus Lindholm,2nd pair,LD,27,L,"6'3""",208,8476854.0,Boston Bruins
 BOS,Brandon Carlo,2nd pair,RD,25,R,"6'5""",212,8478443.0,Boston Bruins
-BOS,Trent Frederic,3rd line,LW,11,L,"6'2""",203,8479365.0,Boston Bruins
+BOS,Jakub Lauko,3rd line,LW,94,L,"6'0""",179,8480880.0,Boston Bruins
 BOS,Morgan Geekie,3rd line,C,39,R,"6'2""",168,8479987.0,Boston Bruins
-BOS,Danton Heinen,3rd line,RW,43,L,"6'1""",188,8478046.0,Boston Bruins
+BOS,Trent Frederic,3rd line,RW,11,L,"6'2""",203,8479365.0,Boston Bruins
 BOS,Derek Forbort,3rd pair,LD,28,L,"6'4""",219,8475762.0,Boston Bruins
 BOS,Kevin Shattenkirk,3rd pair,RD,12,R,"6'0""",207,8474031.0,Boston Bruins
-BOS,Oskar Steen,4th line,LW,62,R,"5'9""",187,8479546.0,Boston Bruins
+BOS,Danton Heinen,4th line,LW,43,L,"6'1""",188,8478046.0,Boston Bruins
 BOS,Jesper Boqvist,4th line,C,70,L,"6'0""",180,8480003.0,Boston Bruins
-BOS,Jakub Lauko,4th line,RW,94,L,"6'0""",179,8480880.0,Boston Bruins
+BOS,Oskar Steen,4th line,RW,62,R,"5'9""",187,8479546.0,Boston Bruins
 BOS,Milan Lucic,injured reserve,F,17.0,L,"6'3""",231.0,8473473.0,Boston Bruins
 BOS,Matthew  B+  L Poitras,scratch,F,51.0,R,"5'11""",177.0,0.0,Boston Bruins
 BOS,Parker Wotherspoon,scratch,D,29.0,L,"6'0""",172.0,8478450.0,Boston Bruins
@@ -85,13 +84,13 @@ BUF,Casey Mittelstadt,3rd line,C,37,L,"6'1""",199,8479999.0,Buffalo Sabres
 BUF,Alex Tuch,3rd line,RW,89,R,"6'4""",220,8477949.0,Buffalo Sabres
 BUF,Ryan Johnson,3rd pair,LD,33,L,"6'0""",170,8481564.0,Buffalo Sabres
 BUF,Erik Johnson,3rd pair,RD,6,R,"6'4""",225,8473446.0,Buffalo Sabres
-BUF,Zemgus Girgensons,4th line,LW,28,L,"6'2""",211,8476878.0,Buffalo Sabres
+BUF,Eric Robinson,4th line,LW,50,L,"6'2""",197,8480762.0,Buffalo Sabres
 BUF,Peyton Krebs,4th line,C,19,L,"5'11""",180,8481522.0,Buffalo Sabres
-BUF,Eric Robinson,4th line,RW,50,L,"6'2""",197,8480762.0,Buffalo Sabres
+BUF,Zemgus Girgensons,4th line,RW,28,L,"6'2""",211,8476878.0,Buffalo Sabres
+BUF,Mattias Samuelsson,injured reserve,D,23.0,L,"6'4""",218.0,8480807.0,Buffalo Sabres
 BUF,Victor Olofsson,scratch,F,71.0,L,"5'11""",183.0,8478109.0,Buffalo Sabres
 BUF,Jack Quinn,scratch,F,22.0,R,"6'0""",176.0,8482097.0,Buffalo Sabres
 BUF,Jacob Bryson,scratch,D,78.0,L,"5'9""",185.0,8480196.0,Buffalo Sabres
-BUF,Mattias Samuelsson,scratch,D,23.0,L,"6'4""",218.0,8480807.0,Buffalo Sabres
 CAR,Jordan Martinook,1st line,LW,48,L,"6'0""",196,8476921.0,Carolina Hurricanes
 CAR,Sebastian Aho,1st line,C,20,L,"6'0""",176,8478427.0,Carolina Hurricanes
 CAR,Teuvo Teravainen,1st line,RW,86,L,"5'11""",191,8476882.0,Carolina Hurricanes
@@ -197,16 +196,16 @@ COL,Josh Manson,2nd pair,RD,42,R,"6'3""",218,8476312.0,Colorado Avalanche
 COL,Miles Wood,3rd line,LW,28,L,"6'2""",195,8477425.0,Colorado Avalanche
 COL,Ross Colton,3rd line,C,20,L,"6'0""",190,8479525.0,Colorado Avalanche
 COL,Logan O'Connor,3rd line,RW,25,R,"6'0""",175,8481186.0,Colorado Avalanche
-COL,Jack Johnson,3rd pair,LD,3,L,"6'1""",227,8471677.0,Colorado Avalanche
-COL,Bowen Byram,3rd pair,RD,4,L,"6'0""",195,8481524.0,Colorado Avalanche
+COL,Bowen Byram,3rd pair,LD,4,L,"6'0""",195,8481524.0,Colorado Avalanche
+COL,Sam Malinski,3rd pair,RD,70,R,"5'11""",190,8484258.0,Colorado Avalanche
 COL,Andrew Cogliano,4th line,LW,11,L,"5'10""",175,8471699.0,Colorado Avalanche
 COL,Fredrik Olofsson,4th line,C,22,L,"6'2""",196,8478028.0,Colorado Avalanche
 COL,Joel Kiviranta,4th line,RW,94,L,"5'10""",175,8481641.0,Colorado Avalanche
 COL,Gabriel Landeskog,injured reserve,F,92.0,L,"6'1""",215.0,8476455.0,Colorado Avalanche
 COL,Pavel Francouz,injured reserve,G,39.0,R,"6'0""",179.0,8480925.0,Colorado Avalanche
 COL,Kurtis MacDermid,scratch,F,56.0,L,"6'5""",233.0,8477073.0,Colorado Avalanche
+COL,Jack Johnson,scratch,D,3.0,L,"6'1""",227.0,8471677.0,Colorado Avalanche
 COL,Caleb Jones,scratch,D,82.0,L,"6'1""",194.0,8478452.0,Colorado Avalanche
-COL,Sam Malinski,scratch,D,70.0,R,"5'11""",190.0,8484258.0,Colorado Avalanche
 DAL,Jason Robertson,1st line,LW,21,L,"6'2""",194,8480027.0,Dallas Stars
 DAL,Roope Hintz,1st line,C,24,L,"6'3""",220,8478449.0,Dallas Stars
 DAL,Wyatt Johnston,1st line,RW,53,R,"6'1""",178,8482740.0,Dallas Stars
@@ -338,40 +337,40 @@ MIN,Jonas Brodin,scratch,D,25.0,L,"6'1""",194.0,8476463.0,Minnesota Wild
 MIN,Declan Chisholm,scratch,D,47.0,L,"6'1""",185.0,8480990.0,Minnesota Wild
 MTL,Cole Caufield,1st line,LW,22,R,"5'8""",176,8481540.0,Montreal Canadiens
 MTL,Nick Suzuki,1st line,C,14,R,"5'11""",212,8480018.0,Montreal Canadiens
-MTL,Josh Anderson,1st line,RW,17,R,"6'3""",227,8476981.0,Montreal Canadiens
+MTL,Juraj Slafkovsky,1st line,RW,20,L,"6'3""",238,8483515.0,Montreal Canadiens
 MTL,Mike Matheson,1st pair,LD,8,L,"6'2""",196,8476875.0,Montreal Canadiens
 MTL,Kaiden Guhle,1st pair,RD,21,L,"6'3""",205,8482087.0,Montreal Canadiens
-MTL,Juraj Slafkovsky,2nd line,LW,20,L,"6'3""",238,8483515.0,Montreal Canadiens
-MTL,Jake Evans,2nd line,C,71,R,"6'1""",190,8478133.0,Montreal Canadiens
-MTL,Joel Armia,2nd line,RW,40,R,"6'4""",218,8476469.0,Montreal Canadiens
+MTL,Joel Armia,2nd line,LW,40,R,"6'4""",218,8476469.0,Montreal Canadiens
+MTL,Brandon Gignac,2nd line,C,74,L,"5'11""",170,8479330.0,Montreal Canadiens
+MTL,Josh Anderson,2nd line,RW,17,R,"6'3""",227,8476981.0,Montreal Canadiens
 MTL,Jayden  C+  P Struble,2nd pair,LD,47,L,"6'0""",205,0.0,Montreal Canadiens
 MTL,David Savard,2nd pair,RD,58,R,"6'2""",234,8475233.0,Montreal Canadiens
 MTL,Tanner Pearson,3rd line,LW,70,L,"6'1""",207,8476871.0,Montreal Canadiens
-MTL,Lucas Condotta,3rd line,C,82,L,"6'2""",210,8483549.0,Montreal Canadiens
+MTL,Jake Evans,3rd line,C,71,R,"6'1""",190,8478133.0,Montreal Canadiens
 MTL,Jesse Ylonen,3rd line,RW,56,R,"6'1""",201,8481058.0,Montreal Canadiens
-MTL,Jordan Harris,3rd pair,LD,54,L,"5'11""",189,8480887.0,Montreal Canadiens
+MTL,Arber Xhekaj,3rd pair,LD,72,L,"6'4""",238,8482964.0,Montreal Canadiens
 MTL,Johnathan Kovacevic,3rd pair,RD,26,R,"6'5""",223,8480192.0,Montreal Canadiens
 MTL,Michael Pezzetta,4th line,LW,55,L,"6'1""",218,8479543.0,Montreal Canadiens
-MTL,Brandon Gignac,4th line,C,74,L,"5'11""",170,8479330.0,Montreal Canadiens
+MTL,Lucas Condotta,4th line,C,82,L,"6'2""",210,8483549.0,Montreal Canadiens
 MTL,Rafael Harvey-Pinard,4th line,RW,49,L,"5'9""",184,8481093.0,Montreal Canadiens
 MTL,Christian Dvorak,injured reserve,F,28.0,L,"6'1""",200.0,8477989.0,Montreal Canadiens
 MTL,Alex Newhook,injured reserve,F,15.0,L,"5'11""",199.0,8481618.0,Montreal Canadiens
 MTL,Kirby Dach,injured reserve,F,77.0,R,"6'4""",218.0,8481523.0,Montreal Canadiens
 MTL,Chris Wideman,injured reserve,D,6.0,R,"5'10""",183.0,8475227.0,Montreal Canadiens
 MTL,Carey Price,injured reserve,G,31.0,L,"6'3""",217.0,8471679.0,Montreal Canadiens
-MTL,Arber Xhekaj,scratch,D,72.0,L,"6'4""",238.0,8482964.0,Montreal Canadiens
-MTL,Cayden Primeau,scratch,G,30.0,L,"6'3""",200.0,8480051.0,Montreal Canadiens
+MTL,Jordan Harris,scratch,D,54.0,L,"5'11""",189.0,8480887.0,Montreal Canadiens
+MTL,Jake Allen,scratch,G,34.0,L,"6'2""",195.0,8474596.0,Montreal Canadiens
 NJD,Ondrej Palat,1st line,LW,18,L,"5'11""",194,8476292.0,New Jersey Devils
 NJD,Nico Hischier,1st line,C,13,L,"6'1""",175,8480002.0,New Jersey Devils
 NJD,Jesper Bratt,1st line,RW,63,L,"5'10""",175,8479407.0,New Jersey Devils
 NJD,Kevin Bahl,1st pair,LD,88,L,"6'6""",216,8480860.0,New Jersey Devils
 NJD,Simon Nemec,1st pair,RD,17,R,"6'0""",190,8483495.0,New Jersey Devils
-NJD,Tyler Toffoli,2nd line,LW,73,R,"6'0""",197,8475726.0,New Jersey Devils
+NJD,Timo Meier,2nd line,LW,28,L,"6'0""",210,8478414.0,New Jersey Devils
 NJD,Erik Haula,2nd line,C,56,L,"6'0""",193,8475287.0,New Jersey Devils
 NJD,Dawson Mercer,2nd line,RW,91,R,"6'0""",180,8482110.0,New Jersey Devils
 NJD,Luke  C+  P Hughes,2nd pair,LD,43,L,"6'2""",184,0.0,New Jersey Devils
 NJD,John Marino,2nd pair,RD,6,R,"6'1""",181,8478507.0,New Jersey Devils
-NJD,Timo Meier,3rd line,LW,28,L,"6'0""",210,8478414.0,New Jersey Devils
+NJD,Max Willman,3rd line,LW,46,L,"6'1""",198,8478051.0,New Jersey Devils
 NJD,Curtis Lazar,3rd line,C,42,R,"6'0""",211,8477508.0,New Jersey Devils
 NJD,Nathan Bastian,3rd line,RW,14,R,"6'4""",205,8479414.0,New Jersey Devils
 NJD,Santeri Hatakka,3rd pair,LD,82,L,"6'0""",174,8481701.0,New Jersey Devils
@@ -384,7 +383,7 @@ NJD,Nolan Foote,injured reserve,F,25.0,L,"6'3""",195.0,8481518.0,New Jersey Devi
 NJD,Dougie Hamilton,injured reserve,D,7.0,R,"6'6""",229.0,8476462.0,New Jersey Devils
 NJD,Jonas Siegenthaler,injured reserve,D,71.0,L,"6'3""",210.0,8478399.0,New Jersey Devils
 NJD,Brendan Smith,injured reserve,D,2.0,L,"6'2""",200.0,8474090.0,New Jersey Devils
-NJD,Max Willman,scratch,F,46.0,L,"6'1""",198.0,8478051.0,New Jersey Devils
+NJD,Tyler Toffoli,scratch,F,73.0,R,"6'0""",197.0,8475726.0,New Jersey Devils
 NJD,Nick DeSimone,scratch,D,57.0,R,"6'2""",190.0,8480084.0,New Jersey Devils
 NSH,Filip Forsberg,1st line,LW,9,R,"6'1""",205,8476887.0,Nashville Predators
 NSH,Ryan O'Reilly,1st line,C,90,L,"6'1""",216,8475158.0,Nashville Predators
@@ -486,34 +485,34 @@ PHI,Ryan Poehling,3rd line,C,25,L,"6'2""",204,8480068.0,Philadelphia Flyers
 PHI,Noah Cates,3rd line,RW,27,L,"6'1""",170,8480220.0,Philadelphia Flyers
 PHI,Nick Seeler,3rd pair,LD,24,L,"6'2""",201,8476372.0,Philadelphia Flyers
 PHI,Sean Walker,3rd pair,RD,26,R,"5'11""",196,8480336.0,Philadelphia Flyers
-PHI,Olle Lycksell,4th line,LW,62,L,"5'10""",165,8480245.0,Philadelphia Flyers
+PHI,Egor Zamula,3rd pair,LD,5,L,"6'3""",170,8481178.0,Philadelphia Flyers
 PHI,Scott Laughton,4th line,C,21,L,"6'1""",190,8476872.0,Philadelphia Flyers
 PHI,Garnet Hathaway,4th line,RW,19,R,"6'3""",210,8477903.0,Philadelphia Flyers
 PHI,Ryan Ellis,injured reserve,D,94.0,R,"5'10""",180.0,8475176.0,Philadelphia Flyers
 PHI,Nicolas Deslauriers,scratch,F,44.0,L,"6'3""",219.0,8475235.0,Philadelphia Flyers
-PHI,Egor Zamula,scratch,D,5.0,L,"6'3""",170.0,8481178.0,Philadelphia Flyers
+PHI,Olle Lycksell,scratch,F,62.0,L,"5'10""",165.0,8480245.0,Philadelphia Flyers
 PHI,Marc Staal,scratch,D,18.0,L,"6'4""",209.0,8471686.0,Philadelphia Flyers
 PIT,Jake Guentzel,1st line,LW,59,L,"5'11""",180,8477404.0,Pittsburgh Penguins
 PIT,Sidney Crosby,1st line,C,87,L,"5'11""",200,8471675.0,Pittsburgh Penguins
 PIT,Bryan Rust,1st line,RW,17,R,"5'11""",192,8475810.0,Pittsburgh Penguins
 PIT,Marcus Pettersson,1st pair,LD,28,L,"6'3""",177,8477969.0,Pittsburgh Penguins
 PIT,Kris Letang,1st pair,RD,58,R,"6'0""",201,8471724.0,Pittsburgh Penguins
-PIT,Drew O'Connor,2nd line,LW,10,L,"6'3""",205,8482055.0,Pittsburgh Penguins
+PIT,Reilly Smith,2nd line,LW,19,L,"6'1""",183,8475191.0,Pittsburgh Penguins
 PIT,Evgeni Malkin,2nd line,C,71,L,"6'3""",195,8471215.0,Pittsburgh Penguins
-PIT,Reilly Smith,2nd line,RW,19,L,"6'1""",183,8475191.0,Pittsburgh Penguins
+PIT,Drew O'Connor,2nd line,RW,10,L,"6'3""",205,8482055.0,Pittsburgh Penguins
 PIT,Ryan Graves,2nd pair,LD,27,L,"6'5""",220,8477435.0,Pittsburgh Penguins
 PIT,Erik Karlsson,2nd pair,RD,65,R,"6'0""",190,8474578.0,Pittsburgh Penguins
 PIT,Rickard Rakell,3rd line,LW,67,R,"6'0""",196,8476483.0,Pittsburgh Penguins
 PIT,Lars Eller,3rd line,C,20,L,"6'2""",205,8474189.0,Pittsburgh Penguins
 PIT,Jesse Puljujarvi,3rd line,RW,18,R,"6'4""",201,8479344.0,Pittsburgh Penguins
-PIT,John Ludvig,3rd pair,LD,7,L,"6'1""",201,8481206.0,Pittsburgh Penguins
+PIT,Pierre-Olivier Joseph,3rd pair,LD,73,L,"6'2""",185,8480058.0,Pittsburgh Penguins
 PIT,Chad Ruhwedel,3rd pair,RD,2,R,"5'11""",191,8477244.0,Pittsburgh Penguins
 PIT,Jansen Harkins,4th line,LW,43,L,"6'1""",183,8478424.0,Pittsburgh Penguins
 PIT,Noel Acciari,4th line,C,55,R,"5'10""",203,8478569.0,Pittsburgh Penguins
 PIT,Jeff Carter,4th line,RW,77,R,"6'3""",219,8470604.0,Pittsburgh Penguins
 PIT,Matt Nieto,injured reserve,F,83.0,L,"5'11""",185.0,8476442.0,Pittsburgh Penguins
 PIT,Colin White,scratch,F,36.0,R,"5'11""",191.0,8478400.0,Pittsburgh Penguins
-PIT,Pierre-Olivier Joseph,scratch,D,73.0,L,"6'2""",185.0,8480058.0,Pittsburgh Penguins
+PIT,John Ludvig,scratch,D,7.0,L,"6'1""",201.0,8481206.0,Pittsburgh Penguins
 SEA,Tomas Tatar,1st line,LW,90,L,"5'10""",183,8475193.0,Seattle Kraken
 SEA,Jared McCann,1st line,C,19,L,"6'1""",185,8477955.0,Seattle Kraken
 SEA,Jordan Eberle,1st line,RW,7,R,"5'11""",187,8474586.0,Seattle Kraken
@@ -631,14 +630,14 @@ TOR,Matt Murray,injured reserve,G,30.0,L,"6'4""",178.0,8476899.0,Toronto Maple L
 TOR,David Kampf,scratch,F,64.0,L,"6'2""",190.0,8480144.0,Toronto Maple Leafs
 TOR,Conor Timmins,scratch,D,25.0,R,"6'2""",185.0,8479982.0,Toronto Maple Leafs
 TOR,William Lagesson,scratch,D,85.0,L,"6'2""",196.0,8478021.0,Toronto Maple Leafs
-VAN,Pius Suter,1st line,LW,24,L,"5'11""",176,8480459.0,Vancouver Canucks
-VAN,J.T. Miller,1st line,C,9,L,"6'1""",218,8476468.0,Vancouver Canucks
-VAN,Brock Boeser,1st line,RW,6,R,"6'1""",208,8478444.0,Vancouver Canucks
+VAN,Ilya Mikheyev,1st line,LW,65,L,"6'3""",195,8481624.0,Vancouver Canucks
+VAN,Elias Pettersson,1st line,C,40,L,"6'2""",176,8480012.0,Vancouver Canucks
+VAN,Elias Lindholm,1st line,RW,23,R,"6'1""",195,8477496.0,Vancouver Canucks
 VAN,Quinn Hughes,1st pair,LD,43,L,"5'10""",170,8480800.0,Vancouver Canucks
 VAN,Filip Hronek,1st pair,RD,17,R,"6'0""",183,8479425.0,Vancouver Canucks
-VAN,Ilya Mikheyev,2nd line,LW,65,L,"6'3""",195,8481624.0,Vancouver Canucks
-VAN,Elias Pettersson,2nd line,C,40,L,"6'2""",176,8480012.0,Vancouver Canucks
-VAN,Elias Lindholm,2nd line,RW,23,R,"6'1""",195,8477496.0,Vancouver Canucks
+VAN,Pius Suter,2nd line,LW,24,L,"5'11""",176,8480459.0,Vancouver Canucks
+VAN,J.T. Miller,2nd line,C,9,L,"6'1""",218,8476468.0,Vancouver Canucks
+VAN,Brock Boeser,2nd line,RW,6,R,"6'1""",208,8478444.0,Vancouver Canucks
 VAN,Ian Cole,2nd pair,LD,82,L,"6'1""",225,8474013.0,Vancouver Canucks
 VAN,Tyler Myers,2nd pair,RD,57,R,"6'8""",229,8474574.0,Vancouver Canucks
 VAN,Dakota Joshua,3rd line,LW,81,L,"6'2""",183,8478057.0,Vancouver Canucks
@@ -707,16 +706,16 @@ WPG,Logan Stanley,scratch,D,64.0,L,"6'6""",216.0,8479378.0,Winnipeg Jets
 WSH,Alex Ovechkin,1st line,LW,8,R,"6'3""",236,8471214.0,Washington Capitals
 WSH,Dylan Strome,1st line,C,17,L,"6'3""",200,8478440.0,Washington Capitals
 WSH,Tom Wilson,1st line,RW,43,R,"6'4""",220,8476880.0,Washington Capitals
-WSH,Martin Fehervary,1st pair,LD,42,L,"6'2""",200,8480796.0,Washington Capitals
+WSH,Rasmus Sandin,1st pair,LD,38,L,"5'11""",183,8480873.0,Washington Capitals
 WSH,John Carlson,1st pair,RD,74,R,"6'3""",217,8474590.0,Washington Capitals
 WSH,Max Pacioretty,2nd line,LW,67,L,"6'2""",215,8474157.0,Washington Capitals
 WSH,Connor McMichael,2nd line,C,24,L,"5'11""",182,8481580.0,Washington Capitals
 WSH,T.J. Oshie,2nd line,RW,77,R,"6'0""",195,8471698.0,Washington Capitals
-WSH,Rasmus Sandin,2nd pair,LD,38,L,"5'11""",183,8480873.0,Washington Capitals
+WSH,Martin Fehervary,2nd pair,LD,42,L,"6'2""",200,8480796.0,Washington Capitals
 WSH,Trevor van Riemsdyk,2nd pair,RD,57,R,"6'2""",192,8477845.0,Washington Capitals
-WSH,Anthony Mantha,3rd line,LW,39,L,"6'5""",234,8477511.0,Washington Capitals
+WSH,Aliaksei Protas,3rd line,LW,21,L,"6'6""",225,8481656.0,Washington Capitals
 WSH,Michael Sgarbossa,3rd line,C,23,L,"6'0""",185,8475958.0,Washington Capitals
-WSH,Aliaksei Protas,3rd line,RW,21,L,"6'6""",225,8481656.0,Washington Capitals
+WSH,Anthony Mantha,3rd line,RW,39,L,"6'5""",234,8477511.0,Washington Capitals
 WSH,Joel Edmundson,3rd pair,LD,6,L,"6'5""",224,8476441.0,Washington Capitals
 WSH,Nick Jensen,3rd pair,RD,3,R,"6'1""",196,8475324.0,Washington Capitals
 WSH,Beck Malenstyn,4th line,LW,47,L,"6'3""",200,8479359.0,Washington Capitals
