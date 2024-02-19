@@ -2,9 +2,9 @@ team,line,LD,player_id_LD,num_LD,RD,player_id_RD,num_RD,full
 ANA,1st pair,4 Cam Fowler,8475764.0,4,28 Gustav Lindstrom,8480184.0,28,Anaheim Ducks
 ANA,2nd pair,5 Urho Vaakanainen,8480001.0,5,7 Radko Gudas,8475462.0,7,Anaheim Ducks
 ANA,3rd pair,34 Pavel Mintyukov,8483490.0,34,46 Ilya Lyubushkin,8480950.0,46,Anaheim Ducks
-ARI,1st pair,90 J.J. Moser,8482655.0,90,50 Sean Durzi,8480434.0,50,Arizona Coyotes
-ARI,2nd pair,33 Travis Dermott,8478408.0,33,24 Matt Dumba,8476856.0,24,Arizona Coyotes
-ARI,3rd pair,4 Juuso Valimaki,8479976.0,4,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
+ARI,1st pair,90 J.J. Moser,8482655.0,90,24 Matt Dumba,8476856.0,24,Arizona Coyotes
+ARI,2nd pair,50 Sean Durzi,8480434.0,50,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
+ARI,3rd pair,4 Juuso Valimaki,8479976.0,4,3 Josh Brown,8477384.0,3,Arizona Coyotes
 BOS,1st pair,48 Matt Grzelcyk,8476891.0,48,73 Charlie McAvoy,8479325.0,73,Boston Bruins
 BOS,2nd pair,27 Hampus Lindholm,8476854.0,27,25 Brandon Carlo,8478443.0,25,Boston Bruins
 BOS,3rd pair,28 Derek Forbort,8475762.0,28,12 Kevin Shattenkirk,8474031.0,12,Boston Bruins
@@ -83,7 +83,7 @@ TBL,2nd pair,7 Haydn Fleury,8477938.0,7,81 Erik Cernak,8478416.0,81,Tampa Bay Li
 TBL,3rd pair,78 Emil Lilleberg,0.0,78,48 Nick Perbix,8480246.0,48,Tampa Bay Lightning
 TOR,1st pair,78 TJ Brodie,8474673.0,78,37 Timothy Liljegren,8480043.0,37,Toronto Maple Leafs
 TOR,2nd pair,2 Simon Benoit,8481122.0,2,22 Jake McCabe,8476931.0,22,Toronto Maple Leafs
-TOR,3rd pair,48 Maxime Lajoie,8479320.0,48,85 William Lagesson,8478021.0,85,Toronto Maple Leafs
+TOR,3rd pair,48 Maxime Lajoie,8479320.0,48,83 Marshall Rifai,0.0,83,Toronto Maple Leafs
 VAN,1st pair,43 Quinn Hughes,8480800.0,43,17 Filip Hronek,8479425.0,17,Vancouver Canucks
 VAN,2nd pair,82 Ian Cole,8474013.0,82,57 Tyler Myers,8474574.0,57,Vancouver Canucks
 VAN,3rd pair,91 Nikita Zadorov,8477507.0,91,47 Noah Juulsen,8478454.0,47,Vancouver Canucks
