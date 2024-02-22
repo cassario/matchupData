@@ -1,7 +1,7 @@
 team,line,LD,player_id_LD,num_LD,RD,player_id_RD,num_RD,full
-ANA,1st pair,4 Cam Fowler,8475764.0,4,5 Urho Vaakanainen,8480001.0,5,Anaheim Ducks
-ANA,2nd pair,60 Jackson LaCombe,8481605.0,60,7 Radko Gudas,8475462.0,7,Anaheim Ducks
-ANA,3rd pair,34 Pavel Mintyukov,8483490.0,34,46 Ilya Lyubushkin,8480950.0,46,Anaheim Ducks
+ANA,1st pair,5 Urho Vaakanainen,8480001.0,5,4 Cam Fowler,8475764.0,4,Anaheim Ducks
+ANA,2nd pair,34 Pavel Mintyukov,8483490.0,34,46 Ilya Lyubushkin,8480950.0,46,Anaheim Ducks
+ANA,3rd pair,60 Jackson LaCombe,8481605.0,60,7 Radko Gudas,8475462.0,7,Anaheim Ducks
 ARI,1st pair,90 J.J. Moser,8482655.0,90,24 Matt Dumba,8476856.0,24,Arizona Coyotes
 ARI,2nd pair,50 Sean Durzi,8480434.0,50,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
 ARI,3rd pair,4 Juuso Valimaki,8479976.0,4,3 Josh Brown,8477384.0,3,Arizona Coyotes
@@ -62,10 +62,10 @@ NYR,3rd pair,4 Braden Schneider,8482073.0,4,56 Erik Gustafsson,8476979.0,56,New 
 OTT,1st pair,85 Jake Sanderson,8482105.0,85,2 Artem Zub,8482245.0,2,Ottawa Senators
 OTT,2nd pair,72 Thomas Chabot,8478469.0,72,24 Jacob Bernard-Docker,8480879.0,24,Ottawa Senators
 OTT,3rd pair,6 Jakob Chychrun,8479345.0,6,26 Erik Brannstrom,8480073.0,26,Ottawa Senators
-PHI,1st pair,8 Cam York,8481546.0,8,6 Travis Sanheim,8477948.0,6,Philadelphia Flyers
-PHI,2nd pair,18 Marc Staal,8471686.0,18,9 Jamie Drysdale,8482142.0,9,Philadelphia Flyers
-PHI,3rd pair,24 Nick Seeler,8476372.0,24,26 Sean Walker,8480336.0,26,Philadelphia Flyers
-PHI,Extra,5 Egor Zamula,8481178.0,5,,,,Philadelphia Flyers
+PHI,1st pair,8 Cam York,8481546.0,8,9 Jamie Drysdale,8482142.0,9,Philadelphia Flyers
+PHI,2nd pair,24 Nick Seeler,8476372.0,24,26 Sean Walker,8480336.0,26,Philadelphia Flyers
+PHI,3rd pair,5 Egor Zamula,8481178.0,5,6 Travis Sanheim,8477948.0,6,Philadelphia Flyers
+PHI,Extra,18 Marc Staal,8471686.0,18,,,,Philadelphia Flyers
 PIT,1st pair,73 Pierre-Olivier Joseph,8480058.0,73,58 Kris Letang,8471724.0,58,Pittsburgh Penguins
 PIT,2nd pair,28 Marcus Pettersson,8477969.0,28,65 Erik Karlsson,8474578.0,65,Pittsburgh Penguins
 PIT,3rd pair,27 Ryan Graves,8477435.0,27,2 Chad Ruhwedel,8477244.0,2,Pittsburgh Penguins
@@ -81,9 +81,9 @@ STL,3rd pair,6 Marco Scandella,8474618.0,6,48 Scott Perunovich,8481059.0,48,St. 
 TBL,1st pair,77 Victor Hedman,8475167.0,77,43 Darren Raddysh,8478178.0,43,Tampa Bay Lightning
 TBL,2nd pair,7 Haydn Fleury,8477938.0,7,81 Erik Cernak,8478416.0,81,Tampa Bay Lightning
 TBL,3rd pair,78 Emil Lilleberg,0.0,78,48 Nick Perbix,8480246.0,48,Tampa Bay Lightning
-TOR,1st pair,78 TJ Brodie,8474673.0,78,37 Timothy Liljegren,8480043.0,37,Toronto Maple Leafs
+TOR,1st pair,44 Morgan Rielly,8476853.0,44,78 TJ Brodie,8474673.0,78,Toronto Maple Leafs
 TOR,2nd pair,2 Simon Benoit,8481122.0,2,22 Jake McCabe,8476931.0,22,Toronto Maple Leafs
-TOR,3rd pair,83 Marshall Rifai,8483546.0,83,48 Maxime Lajoie,8479320.0,48,Toronto Maple Leafs
+TOR,3rd pair,48 Maxime Lajoie,8479320.0,48,37 Timothy Liljegren,8480043.0,37,Toronto Maple Leafs
 VAN,1st pair,43 Quinn Hughes,8480800.0,43,17 Filip Hronek,8479425.0,17,Vancouver Canucks
 VAN,2nd pair,82 Ian Cole,8474013.0,82,57 Tyler Myers,8474574.0,57,Vancouver Canucks
 VAN,3rd pair,91 Nikita Zadorov,8477507.0,91,47 Noah Juulsen,8478454.0,47,Vancouver Canucks
