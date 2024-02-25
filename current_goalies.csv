@@ -1,8 +1,8 @@
 team,pos,num,cf_name,positions_played,age,handedness,ht,wt,player_id,player,dupe_names,drop,confirmed,w,l,starter
 COL,G,40,Alexandar Georgiev,G,28,L,"6'1""",178,8480382.0,Alexandar Georgiev,,,,,,
 COL,G,60,Justus Annunen,G,23,L,"6'4""",210,8481020.0,Justus Annunen,,,,,,
-CHI,G,40,Arvid Soderblom,G,24,L,"6'3""",180,8482821.0,Arvid Soderblom,,,,,,
 CHI,G,34,Petr Mrazek,G,32,L,"6'1""",190,8475852.0,Petr Mrazek,,,Confirmed Starter,13,22,starter
+CHI,G,40,Arvid Soderblom,G,24,L,"6'3""",180,8482821.0,Arvid Soderblom,,,,,,
 CBJ,G,90,Elvis Merzlikins,G,29,L,"6'3""",181,8478007.0,Elvis Merzlikins,,,Confirmed Starter,10,12,starter
 CBJ,G,40,Daniil Tarasov,G,24,L,"6'3""",154,8480193.0,Daniil Tarasov,Active,,,,,
 STL,G,50,Jordan Binnington,G,30,L,"6'1""",174,8476412.0,Jordan Binnington,,,,,,
@@ -23,12 +23,12 @@ ANA,G,36,John Gibson,G,30,L,"6'2""",215,8476434.0,John Gibson,,,,,,
 ANA,G,1,Lukas Dostal,G,23,L,"6'2""",191,8480843.0,Lukas Dostal,,,Projected Starter,8,0,starter
 CGY,G,80,Daniel Vladar,G,26,L,"6'5""",185,8478435.0,Dan Vladar,,,,,,
 CGY,G,25,Jacob Markstrom,G,34,L,"6'6""",206,8474593.0,Jacob Markstrom,,,,,,
+PHI,G,40,Cal Petersen,G,29,R,"6'1""",185,8477361.0,Cal Petersen,,,Confirmed Starter,2,1,starter
 PHI,G,33,Samuel Ersson,G,24,L,"6'2""",176,8481035.0,Samuel Ersson,,,,,,
-PHI,G,40,Cal Petersen,G,29,R,"6'1""",185,8477361.0,Cal Petersen,,,Projected Starter,2,1,starter
 VGK,G,36,Logan Thompson,G,27,R,"6'4""",190,8480313.0,Logan Thompson,,,,,,
 VGK,G,33,Adin Hill,G,27,L,"6'6""",202,8478499.0,Adin Hill,,,,,,
+CAR,G,41,Spencer Martin,G,28,L,"6'3""",205,8477484.0,Spencer Martin,,,Confirmed Starter,6,8,starter
 CAR,G,52,Pyotr Kochetkov,G,24,L,"6'3""",205,8481611.0,Pyotr Kochetkov,,,,,,
-CAR,G,41,Spencer Martin,G,28,L,"6'3""",205,8477484.0,Spencer Martin,,,Projected Starter,6,8,starter
 NYI,G,30,Ilya Sorokin,G,28,L,"6'2""",172,8478009.0,Ilya Sorokin,,,,,,
 NYI,G,40,Semyon Varlamov,G,35,L,"6'2""",205,8473575.0,Semyon Varlamov,,,,,,
 WPG,G,37,Connor Hellebuyck,G,30,L,"6'4""",207,8476945.0,Connor Hellebuyck,,,Confirmed Starter,27,11,starter
@@ -45,14 +45,14 @@ EDM,G,30,Calvin Pickard,G,31,L,"6'1""",210,8475717.0,Calvin Pickard,,,,,,
 EDM,G,74,Stuart Skinner,G,25,L,"6'4""",207,8479973.0,Stuart Skinner,,,,,,
 FLA,G,41,Anthony Stolarz,G,30,L,"6'6""",240,8476932.0,Anthony Stolarz,,,,,,
 FLA,G,72,Sergei Bobrovsky,G,35,L,"6'2""",187,8475683.0,Sergei Bobrovsky,,,,,,
-PIT,G,35,Tristan Jarry,G,28,L,"6'2""",194,8477465.0,Tristan Jarry,,,,,,
+PIT,G,35,Tristan Jarry,G,28,L,"6'2""",194,8477465.0,Tristan Jarry,,,Confirmed Starter,15,17,starter
 PIT,G,39,Alex Nedeljkovic,G,28,L,"6'0""",189,8477968.0,Alex Nedeljkovic,,,,,,
 NSH,G,74,Juuse Saros,G,28,L,"5'11""",180,8477424.0,Juuse Saros,,,,,,
 NSH,G,32,Kevin Lankinen,G,28,L,"6'2""",185,8480947.0,Kevin Lankinen,,,Projected Starter,7,4,starter
+NYR,G,32,Jonathan Quick,G,38,L,"6'1""",216,8471734.0,Jonathan Quick,,,Confirmed Starter,13,4,starter
 NYR,G,31,Igor Shesterkin,G,28,L,"6'2""",192,8478048.0,Igor Shesterkin,,,,,,
-NYR,G,32,Jonathan Quick,G,38,L,"6'1""",216,8471734.0,Jonathan Quick,,,Projected Starter,13,4,starter
-DET,G,34,Alex Lyon,G,31,L,"6'1""",201,8479312.0,Alex Lyon,,,,,,
 DET,G,47,James Reimer,G,35,L,"6'2""",220,8473503.0,James Reimer,,,Confirmed Starter,5,6,starter
+DET,G,34,Alex Lyon,G,31,L,"6'1""",201,8479312.0,Alex Lyon,,,,,,
 BUF,G,1,Ukko-Pekka Luukkonen,G,24,L,"6'4""",190,8480045.0,Ukko-Pekka Luukkonen,,,Confirmed Starter,16,14,starter
 BUF,G,31,Eric Comrie,G,28,L,"6'1""",175,8477480.0,Eric Comrie,,,,,,
 OTT,G,31,Anton Forsberg,G,31,L,"6'3""",192,8476341.0,Anton Forsberg,,,,,,
