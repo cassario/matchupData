@@ -1,6 +1,6 @@
 team,line,LW,player_id_LW,num_LW,C,player_id_C,num_C,RW,player_id_RW,num_RW,full
 ANA,1st line,14 Adam Henrique,8474641.0,14,91 Leo Carlsson,8484153.0,91,17 Alex Killorn,8473986.0,17,Anaheim Ducks
-ANA,2nd line,77 Frank Vatrano,8478366.0,77,23 Mason McTavish,8482745.0,23,19 Troy Terry,8478873.0,19,Anaheim Ducks
+ANA,2nd line,77 Frank Vatrano,8478366.0,77,23 Mason McTavish,8482745.0,23,20 Brett Leason,8481517.0,20,Anaheim Ducks
 ANA,3rd line,21 Isac Lundestrom,8480806.0,21,16 Ryan Strome,8476458.0,16,33 Jakob Silfverberg,8475164.0,33,Anaheim Ducks
 ANA,4th line,44 Ross Johnston,8477527.0,44,39 Sam Carrick,8475842.0,39,49 Max Jones,8479368.0,49,Anaheim Ducks
 ARI,1st line,9 Clayton Keller,8479343.0,9,29 Barrett Hayton,8480849.0,29,8 Nick Schmaltz,8477951.0,8,Arizona Coyotes
@@ -36,8 +36,8 @@ COL,2nd line,9 Zach Parise,8470610.0,9,12 Ryan Johansen,8475793.0,12,62 Artturi 
 COL,3rd line,28 Miles Wood,8477425.0,28,20 Ross Colton,8479525.0,20,25 Logan O'Connor,8481186.0,25,Colorado Avalanche
 COL,4th line,11 Andrew Cogliano,8471699.0,11,14 Chris Wagner,8475780.0,14,94 Joel Kiviranta,8481641.0,94,Colorado Avalanche
 DAL,1st line,21 Jason Robertson,8480027.0,21,24 Roope Hintz,8478449.0,24,16 Joe Pavelski,8470794.0,16,Dallas Stars
-DAL,2nd line,27 Mason Marchment,8478975.0,27,95 Matt Duchene,8475168.0,95,91 Tyler Seguin,8475794.0,91,Dallas Stars
-DAL,3rd line,14 Jamie Benn,8473994.0,14,53 Wyatt Johnston,8482740.0,53,10 Ty Dellandrea,8480848.0,10,Dallas Stars
+DAL,2nd line,27 Mason Marchment,8478975.0,27,95 Matt Duchene,8475168.0,95,10 Ty Dellandrea,8480848.0,10,Dallas Stars
+DAL,3rd line,14 Jamie Benn,8473994.0,14,53 Wyatt Johnston,8482740.0,53,11 Logan Stankoven,8482702.0,11,Dallas Stars
 DAL,4th line,18 Sam Steel,8479351.0,18,12 Radek Faksa,8476889.0,12,15 Craig Smith,8475225.0,15,Dallas Stars
 DET,1st line,93 Alex DeBrincat,8479337.0,93,71 Dylan Larkin,8477946.0,71,88 Patrick Kane,8474141.0,88,Detroit Red Wings
 DET,2nd line,27 Michael Rasmussen,8479992.0,27,37 J.T. Compher,8477456.0,37,23 Lucas Raymond,8482078.0,23,Detroit Red Wings
@@ -66,7 +66,7 @@ MTL,4th line,70 Tanner Pearson,8476871.0,70,,,,56 Jesse Ylonen,8481058.0,56,Mont
 NJD,1st line,28 Timo Meier,8478414.0,28,13 Nico Hischier,8480002.0,13,63 Jesper Bratt,8479407.0,63,New Jersey Devils
 NJD,2nd line,73 Tyler Toffoli,8475726.0,73,86 Jack Hughes,8481559.0,86,91 Dawson Mercer,8482110.0,91,New Jersey Devils
 NJD,3rd line,18 Ondrej Palat,8476292.0,18,56 Erik Haula,8475287.0,56,42 Curtis Lazar,8477508.0,42,New Jersey Devils
-NJD,4th line,10 Alexander Holtz,8482125.0,10,92 Tomas Nosek,8477931.0,92,48 Brian Halonen,0.0,48,New Jersey Devils
+NJD,4th line,10 Alexander Holtz,8482125.0,10,92 Tomas Nosek,8477931.0,92,48 Brian Halonen,8483531.0,48,New Jersey Devils
 NSH,1st line,9 Filip Forsberg,8476887.0,9,90 Ryan O'Reilly,8475158.0,90,14 Gustav Nyquist,8474679.0,14,Nashville Predators
 NSH,2nd line,13 Yakov Trenin,8478508.0,13,10 Colton Sissons,8476925.0,10,8 Cody Glass,8479996.0,8,Nashville Predators
 NSH,3rd line,17 Mark Jankowski,8476873.0,17,82 Tommy Novak,8478438.0,82,77 Luke Evangelista,8482146.0,77,Nashville Predators
@@ -124,6 +124,6 @@ WPG,2nd line,9 Alex Iafallo,8480113.0,9,7 Vladislav Namestnikov,8476480.0,7,27 N
 WPG,3rd line,62 Nino Niederreiter,8475799.0,62,17 Adam Lowry,8476392.0,17,22 Mason Appleton,8478891.0,22,Winnipeg Jets
 WPG,4th line,91 Cole Perfetti,8482149.0,91,15 Rasmus Kupari,8480845.0,15,36 Morgan Barron,8480289.0,36,Winnipeg Jets
 WSH,1st line,8 Alex Ovechkin,8471214.0,8,24 Connor McMichael,8481580.0,24,96 Nicolas Aube-Kubel,8477979.0,96,Washington Capitals
-WSH,2nd line,39 Anthony Mantha,8477511.0,39,17 Dylan Strome,8478440.0,17,43 Tom Wilson,8476880.0,43,Washington Capitals
+WSH,2nd line,21 Aliaksei Protas,8481656.0,21,17 Dylan Strome,8478440.0,17,43 Tom Wilson,8476880.0,43,Washington Capitals
 WSH,3rd line,67 Max Pacioretty,8474157.0,67,23 Michael Sgarbossa,8475958.0,23,15 Sonny Milano,8477947.0,15,Washington Capitals
-WSH,4th line,47 Beck Malenstyn,8479359.0,47,21 Aliaksei Protas,8481656.0,21,72 Pierrick Dube,8483920.0,72,Washington Capitals
+WSH,4th line,47 Beck Malenstyn,8479359.0,47,29 Hendrix Lapierre,8482148.0,29,72 Pierrick Dube,8483920.0,72,Washington Capitals
