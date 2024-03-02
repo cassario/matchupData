@@ -1,11 +1,11 @@
 team,line,LD,player_id_LD,num_LD,RD,player_id_RD,num_RD,full
-ANA,1st pair,60 Jackson LaCombe,8481605.0,60,4 Cam Fowler,8475764.0,4,Anaheim Ducks
-ANA,2nd pair,34 Pavel Mintyukov,8483490.0,34,7 Radko Gudas,8475462.0,7,Anaheim Ducks
-ANA,3rd pair,5 Urho Vaakanainen,8480001.0,5,28 Gustav Lindstrom,8480184.0,28,Anaheim Ducks
+ANA,1st pair,34 Pavel Mintyukov,8483490.0,34,7 Radko Gudas,8475462.0,7,Anaheim Ducks
+ANA,2nd pair,5 Urho Vaakanainen,8480001.0,5,51 Olen Zellweger,8482803.0,51,Anaheim Ducks
+ANA,3rd pair,60 Jackson LaCombe,8481605.0,60,28 Gustav Lindstrom,8480184.0,28,Anaheim Ducks
 ARI,1st pair,90 J.J. Moser,8482655.0,90,24 Matt Dumba,8476856.0,24,Arizona Coyotes
 ARI,2nd pair,50 Sean Durzi,8480434.0,50,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
 ARI,3rd pair,4 Juuso Valimaki,8479976.0,4,51 Troy Stecher,8479442.0,51,Arizona Coyotes
-BOS,1st pair,48 Matt Grzelcyk,8476891.0,48,73 Charlie McAvoy,8479325.0,73,Boston Bruins
+BOS,1st pair,28 Derek Forbort,8475762.0,28,73 Charlie McAvoy,8479325.0,73,Boston Bruins
 BOS,2nd pair,6 Mason Lohrei,8482511.0,6,25 Brandon Carlo,8478443.0,25,Boston Bruins
 BOS,3rd pair,29 Parker Wotherspoon,8478450.0,29,12 Kevin Shattenkirk,8474031.0,12,Boston Bruins
 BUF,1st pair,26 Rasmus Dahlin,8480839.0,26,10 Henri Jokiharju,8480035.0,10,Buffalo Sabres
@@ -83,9 +83,9 @@ TBL,1st pair,77 Victor Hedman,8475167.0,77,43 Darren Raddysh,8478178.0,43,Tampa 
 TBL,2nd pair,7 Haydn Fleury,8477938.0,7,81 Erik Cernak,8478416.0,81,Tampa Bay Lightning
 TBL,3rd pair,44 Calvin de Haan,8475177.0,44,48 Nick Perbix,8480246.0,48,Tampa Bay Lightning
 TBL,Extra,65 Maxwell Crozier,8481719.0,65,,,,Tampa Bay Lightning
-TOR,1st pair,78 TJ Brodie,8474673.0,78,44 Morgan Rielly,8476853.0,44,Toronto Maple Leafs
-TOR,2nd pair,2 Simon Benoit,8481122.0,2,22 Jake McCabe,8476931.0,22,Toronto Maple Leafs
-TOR,3rd pair,85 William Lagesson,8478021.0,85,0 Ilya Lyubushkin,8480950.0,0,Toronto Maple Leafs
+TOR,1st pair,44 Morgan Rielly,8476853.0,44,46 Ilya Lyubushkin,8480950.0,46,Toronto Maple Leafs
+TOR,2nd pair,78 TJ Brodie,8474673.0,78,37 Timothy Liljegren,8480043.0,37,Toronto Maple Leafs
+TOR,3rd pair,2 Simon Benoit,8481122.0,2,22 Jake McCabe,8476931.0,22,Toronto Maple Leafs
 VAN,1st pair,43 Quinn Hughes,8480800.0,43,47 Noah Juulsen,8478454.0,47,Vancouver Canucks
 VAN,2nd pair,82 Ian Cole,8474013.0,82,57 Tyler Myers,8474574.0,57,Vancouver Canucks
 VAN,3rd pair,91 Nikita Zadorov,8477507.0,91,17 Filip Hronek,8479425.0,17,Vancouver Canucks
