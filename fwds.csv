@@ -77,8 +77,8 @@ NYI,3rd line,18 Pierre Engvall,8478115.0,18,53 Casey Cizikas,8475231.0,53,10 Sim
 NYI,4th line,17 Matt Martin,8474709.0,17,32 Kyle MacLean,8481237.0,32,15 Cal Clutterbuck,8473504.0,15,New York Islanders
 NYR,1st line,10 Artemi Panarin,8478550.0,10,16 Vincent Trocheck,8476389.0,16,13 Alexis Lafreniere,8482109.0,13,New York Rangers
 NYR,2nd line,20 Chris Kreider,8475184.0,20,93 Mika Zibanejad,8476459.0,93,24 Kaapo Kakko,8481554.0,24,New York Rangers
-NYR,3rd line,50 Will Cuylle,8482157.0,50,22 Jonny Brodzinski,8477380.0,22,26 Jimmy Vesey,8476918.0,26,New York Rangers
-NYR,4th line,84 Adam Edstrom,8481726.0,84,21 Barclay Goodrow,8476624.0,21,73 Matt Rempe,8482460.0,73,New York Rangers
+NYR,3rd line,50 Will Cuylle,8482157.0,50,21 Barclay Goodrow,8476624.0,21,26 Jimmy Vesey,8476918.0,26,New York Rangers
+NYR,4th line,84 Adam Edstrom,8481726.0,84,22 Jonny Brodzinski,8477380.0,22,73 Matt Rempe,8482460.0,73,New York Rangers
 OTT,1st line,19 Drake Batherson,8480208.0,19,18 Tim Stutzle,8482116.0,18,28 Claude Giroux,8473512.0,28,Ottawa Senators
 OTT,2nd line,21 Mathieu Joseph,8478472.0,21,57 Shane Pinto,8481596.0,57,91 Vladimir Tarasenko,8475765.0,91,Ottawa Senators
 OTT,3rd line,81 Dominik Kubalik,8477330.0,81,71 Ridly Greig,8482092.0,71,27 Parker Kelly,8480448.0,27,Ottawa Senators
@@ -86,7 +86,7 @@ OTT,4th line,,,,12 Mark Kastelic,8480355.0,12,17 Zack MacEwen,8479772.0,17,Ottaw
 PHI,1st line,86 Joel Farabee,8480797.0,86,21 Scott Laughton,8476872.0,21,71 Tyson Foerster,8482159.0,71,Philadelphia Flyers
 PHI,2nd line,74 Owen Tippett,8480015.0,74,48 Morgan Frost,8480028.0,48,89 Cam Atkinson,8474715.0,89,Philadelphia Flyers
 PHI,3rd line,27 Noah Cates,8480220.0,27,25 Ryan Poehling,8480068.0,25,19 Garnet Hathaway,8477903.0,19,Philadelphia Flyers
-PHI,4th line,44 Nicolas Deslauriers,8475235.0,44,14 Sean Couturier,8476461.0,14,10 Bobby Brink,8481553.0,10,Philadelphia Flyers
+PHI,4th line,62 Olle Lycksell,8480245.0,62,14 Sean Couturier,8476461.0,14,10 Bobby Brink,8481553.0,10,Philadelphia Flyers
 PIT,1st line,10 Drew O'Connor,8482055.0,10,87 Sidney Crosby,8471675.0,87,67 Rickard Rakell,8476483.0,67,Pittsburgh Penguins
 PIT,2nd line,19 Reilly Smith,8475191.0,19,71 Evgeni Malkin,8471215.0,71,48 Valtteri Puustinen,8481703.0,48,Pittsburgh Penguins
 PIT,3rd line,44 Jonathan Gruden,8480836.0,44,20 Lars Eller,8474189.0,20,52 Emil Bemstrom,8480205.0,52,Pittsburgh Penguins
@@ -115,10 +115,10 @@ VAN,1st line,21 Nils Hoglander,8481535.0,21,40 Elias Pettersson,8480012.0,40,24 
 VAN,2nd line,65 Ilya Mikheyev,8481624.0,65,9 J.T. Miller,8476468.0,9,6 Brock Boeser,8478444.0,6,Vancouver Canucks
 VAN,3rd line,92 Vasily Podkolzin,8481617.0,92,23 Elias Lindholm,8477496.0,23,8 Conor Garland,8478856.0,8,Vancouver Canucks
 VAN,4th line,34 Phillip Di Giuseppe,8476858.0,34,53 Teddy Blueger,8476927.0,53,18 Sam Lafferty,8478043.0,18,Vancouver Canucks
-VGK,1st line,19 Brendan Brisson,8482153.0,19,71 William Karlsson,8476448.0,71,81 Jonathan Marchessault,8476539.0,81,Vegas Golden Knights
-VGK,2nd line,49 Ivan Barbashev,8477964.0,49,9 Jack Eichel,8478403.0,9,22 Michael Amadio,8478020.0,22,Vegas Golden Knights
-VGK,3rd line,43 Paul Cotter,8481032.0,43,20 Chandler Stephenson,8476905.0,20,55 Keegan Kolesar,8478434.0,55,Vegas Golden Knights
-VGK,4th line,11 Mason Morelli,8481462.0,11,10 Nicolas Roy,8478462.0,10,54 Grigori Denisenko,8480844.0,54,Vegas Golden Knights
+VGK,1st line,49 Ivan Barbashev,8477964.0,49,9 Jack Eichel,8478403.0,9,81 Jonathan Marchessault,8476539.0,81,Vegas Golden Knights
+VGK,2nd line,20 Chandler Stephenson,8476905.0,20,71 William Karlsson,8476448.0,71,22 Michael Amadio,8478020.0,22,Vegas Golden Knights
+VGK,3rd line,43 Paul Cotter,8481032.0,43,10 Nicolas Roy,8478462.0,10,54 Grigori Denisenko,8480844.0,54,Vegas Golden Knights
+VGK,4th line,11 Mason Morelli,8481462.0,11,51 Byron Froese,8475278.0,51,55 Keegan Kolesar,8478434.0,55,Vegas Golden Knights
 WPG,1st line,81 Kyle Connor,8478398.0,81,55 Mark Scheifele,8476460.0,55,27 Nikolaj Ehlers,8477940.0,27,Winnipeg Jets
 WPG,2nd line,7 Vladislav Namestnikov,8476480.0,7,23 Sean Monahan,8477497.0,23,9 Alex Iafallo,8480113.0,9,Winnipeg Jets
 WPG,3rd line,62 Nino Niederreiter,8475799.0,62,17 Adam Lowry,8476392.0,17,22 Mason Appleton,8478891.0,22,Winnipeg Jets

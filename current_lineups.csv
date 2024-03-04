@@ -443,12 +443,12 @@ NYR,Kaapo Kakko,2nd line,RW,24,L,"6'3""",199,8481554.0,New York Rangers
 NYR,K'Andre Miller,2nd pair,LD,79,L,"6'5""",210,8480817.0,New York Rangers
 NYR,Jacob Trouba,2nd pair,RD,8,R,"6'3""",209,8476885.0,New York Rangers
 NYR,Will Cuylle,3rd line,LW,50,L,"6'3""",204,8482157.0,New York Rangers
-NYR,Jonny Brodzinski,3rd line,C,22,R,"6'1""",215,8477380.0,New York Rangers
+NYR,Barclay Goodrow,3rd line,C,21,L,"6'2""",215,8476624.0,New York Rangers
 NYR,Jimmy Vesey,3rd line,RW,26,L,"6'3""",202,8476918.0,New York Rangers
 NYR,Erik Gustafsson,3rd pair,LD,56,L,"6'0""",197,8476979.0,New York Rangers
 NYR,Braden Schneider,3rd pair,RD,4,R,"6'2""",202,8482073.0,New York Rangers
 NYR,Adam Edstrom,4th line,LW,84,L,"6'6""",210,8481726.0,New York Rangers
-NYR,Barclay Goodrow,4th line,C,21,L,"6'2""",215,8476624.0,New York Rangers
+NYR,Jonny Brodzinski,4th line,C,22,R,"6'1""",215,8477380.0,New York Rangers
 NYR,Matt Rempe,4th line,RW,73,R,"6'8""",205,8482460.0,New York Rangers
 NYR,Blake Wheeler,injured reserve,F,17.0,R,"6'5""",225.0,8471218.0,New York Rangers
 NYR,Filip Chytil,injured reserve,F,72.0,L,"6'2""",206.0,8480078.0,New York Rangers
@@ -490,13 +490,13 @@ PHI,Ryan Poehling,3rd line,C,25,L,"6'2""",204,8480068.0,Philadelphia Flyers
 PHI,Garnet Hathaway,3rd line,RW,19,R,"6'3""",210,8477903.0,Philadelphia Flyers
 PHI,Marc Staal,3rd pair,LD,18,L,"6'4""",209,8471686.0,Philadelphia Flyers
 PHI,Egor Zamula,3rd pair,RD,5,L,"6'3""",170,8481178.0,Philadelphia Flyers
-PHI,Nicolas Deslauriers,4th line,LW,44,L,"6'3""",219,8475235.0,Philadelphia Flyers
+PHI,Olle Lycksell,4th line,LW,62,L,"5'10""",165,8480245.0,Philadelphia Flyers
 PHI,Sean Couturier,4th line,C,14,L,"6'3""",211,8476461.0,Philadelphia Flyers
 PHI,Bobby Brink,4th line,RW,10,R,"5'8""",165,8481553.0,Philadelphia Flyers
 PHI,Jamie Drysdale,injured reserve,D,9.0,R,"5'11""",187.0,8482142.0,Philadelphia Flyers
 PHI,Rasmus Ristolainen,injured reserve,D,55.0,R,"6'4""",220.0,8477499.0,Philadelphia Flyers
 PHI,Ryan Ellis,injured reserve,D,94.0,R,"5'10""",180.0,8475176.0,Philadelphia Flyers
-PHI,Olle Lycksell,scratch,F,62.0,L,"5'10""",165.0,8480245.0,Philadelphia Flyers
+PHI,Nicolas Deslauriers,scratch,F,44.0,L,"6'3""",219.0,8475235.0,Philadelphia Flyers
 PHI,Travis Konecny,scratch,F,11.0,R,"5'10""",175.0,8478439.0,Philadelphia Flyers
 PHI,Ronnie Attard,scratch,D,23.0,R,"6'3""",205.0,8481521.0,Philadelphia Flyers
 PIT,Drew O'Connor,1st line,LW,10,L,"6'3""",205,8482055.0,Pittsburgh Penguins
@@ -665,30 +665,29 @@ VAN,Guillaume Brisebois,injured reserve,D,55.0,L,"6'2""",175.0,8478465.0,Vancouv
 VAN,Tucker Poolman,injured reserve,D,5.0,R,"6'2""",199.0,8477359.0,Vancouver Canucks
 VAN,Nils Aman,scratch,F,88.0,L,"6'2""",179.0,8482496.0,Vancouver Canucks
 VAN,Tyler Myers,scratch,D,57.0,R,"6'8""",229.0,8474574.0,Vancouver Canucks
-VGK,Brendan Brisson,1st line,LW,19,L,"5'11""",179,8482153.0,Vegas Golden Knights
-VGK,William Karlsson,1st line,C,71,L,"6'0""",195,8476448.0,Vegas Golden Knights
+VGK,Ivan Barbashev,1st line,LW,49,L,"6'0""",187,8477964.0,Vegas Golden Knights
+VGK,Jack Eichel,1st line,C,9,R,"6'2""",203,8478403.0,Vegas Golden Knights
 VGK,Jonathan Marchessault,1st line,RW,81,R,"5'9""",180,8476539.0,Vegas Golden Knights
 VGK,Alec Martinez,1st pair,LD,23,L,"6'1""",209,8474166.0,Vegas Golden Knights
 VGK,Alex Pietrangelo,1st pair,RD,7,R,"6'3""",210,8474565.0,Vegas Golden Knights
-VGK,Ivan Barbashev,2nd line,LW,49,L,"6'0""",187,8477964.0,Vegas Golden Knights
-VGK,Jack Eichel,2nd line,C,9,R,"6'2""",203,8478403.0,Vegas Golden Knights
+VGK,Chandler Stephenson,2nd line,LW,20,L,"6'0""",208,8476905.0,Vegas Golden Knights
+VGK,William Karlsson,2nd line,C,71,L,"6'0""",195,8476448.0,Vegas Golden Knights
 VGK,Michael Amadio,2nd line,RW,22,R,"6'1""",204,8478020.0,Vegas Golden Knights
 VGK,Brayden McNabb,2nd pair,LD,3,L,"6'4""",213,8475188.0,Vegas Golden Knights
 VGK,Shea Theodore,2nd pair,RD,27,L,"6'2""",195,8477447.0,Vegas Golden Knights
 VGK,Paul Cotter,3rd line,LW,43,L,"6'0""",185,8481032.0,Vegas Golden Knights
-VGK,Chandler Stephenson,3rd line,C,20,L,"6'0""",208,8476905.0,Vegas Golden Knights
-VGK,Keegan Kolesar,3rd line,RW,55,R,"6'2""",216,8478434.0,Vegas Golden Knights
+VGK,Nicolas Roy,3rd line,C,10,R,"6'4""",200,8478462.0,Vegas Golden Knights
+VGK,Grigori Denisenko,3rd line,RW,54,R,"5'11""",175,8480844.0,Vegas Golden Knights
 VGK,Nicolas Hague,3rd pair,LD,14,L,"6'6""",221,8479980.0,Vegas Golden Knights
 VGK,Zach Whitecloud,3rd pair,RD,2,R,"6'2""",209,8480727.0,Vegas Golden Knights
 VGK,Mason Morelli,4th line,LW,11,L,"6'1""",201,8481462.0,Vegas Golden Knights
-VGK,Nicolas Roy,4th line,C,10,R,"6'4""",200,8478462.0,Vegas Golden Knights
-VGK,Grigori Denisenko,4th line,RW,54,R,"5'11""",175,8480844.0,Vegas Golden Knights
+VGK,Byron Froese,4th line,C,51,R,"5'11""",190,8475278.0,Vegas Golden Knights
+VGK,Keegan Kolesar,4th line,RW,55,R,"6'2""",216,8478434.0,Vegas Golden Knights
 VGK,Mark Stone,injured reserve,F,61.0,R,"6'3""",202.0,8475913.0,Vegas Golden Knights
 VGK,Brett Howden,injured reserve,F,21.0,L,"6'3""",197.0,8479353.0,Vegas Golden Knights
 VGK,Pavel Dorofeyev,injured reserve,F,16.0,L,"6'0""",176.0,8481604.0,Vegas Golden Knights
 VGK,William Carrier,injured reserve,F,28.0,L,"6'2""",218.0,8477478.0,Vegas Golden Knights
 VGK,Robin Lehner,injured reserve,G,90.0,L,"6'4""",240.0,8475215.0,Vegas Golden Knights
-VGK,Byron Froese,scratch,F,51.0,R,"5'11""",190.0,8475278.0,Vegas Golden Knights
 VGK,Sheldon Rempal,scratch,F,56.0,R,"5'10""",165.0,8480776.0,Vegas Golden Knights
 VGK,Daniil Miromanov,scratch,D,62.0,R,"6'4""",202.0,8482624.0,Vegas Golden Knights
 VGK,Ben Hutton,scratch,D,17.0,L,"6'2""",206.0,8477018.0,Vegas Golden Knights
