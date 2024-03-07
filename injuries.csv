@@ -1,8 +1,8 @@
 team,player
-ANA,Brock McGinn
-ANA,Troy Terry
 ANA,Leo Carlsson
+ANA,Troy Terry
 ANA,Mason McTavish
+ANA,Brock McGinn
 ANA,Trevor Zegras
 ARI,Jason Zucker
 ARI,Travis Boyd
@@ -11,7 +11,6 @@ ARI,Jakub Voracek
 BOS,Hampus Lindholm
 BOS,Matthew Poitras
 BOS,Milan Lucic
-BUF,Bowen Byram
 BUF,Erik Johnson
 BUF,Jack Quinn
 BUF,Mattias Samuelsson
@@ -23,8 +22,9 @@ CHI,Connor Murphy
 CHI,Andreas Athanasiou
 CHI,Nikita Zaitsev
 CHI,Taylor Hall
-COL,Valeri Nichushkin
+COL,Chris Wagner
 COL,Logan O'Connor
+COL,Valeri Nichushkin
 COL,Pavel Francouz
 COL,Gabriel Landeskog
 CBJ,Elvis Merzlikins
@@ -35,8 +35,8 @@ DAL,Tyler Seguin
 DAL,Evgenii Dadonov
 DET,Ville Husso
 DET,Dylan Larkin
-LAK,Mikey Anderson
 LAK,Carl Grundstrom
+LAK,Mikey Anderson
 LAK,Adrian Kempe
 LAK,Viktor Arvidsson
 LAK,Pheonix Copley
@@ -56,11 +56,12 @@ NJD,Nathan Bastian
 NJD,Dougie Hamilton
 NJD,Cal Foote
 NJD,Michael McLeod
-NYI,Robert Bortuzzo
 NYI,Scott Mayfield
+NYI,Robert Bortuzzo
 NYR,Filip Chytil
 NYR,Blake Wheeler
 OTT,Joonas Korpisalo
+OTT,Thomas Chabot
 OTT,Travis Hamonic
 OTT,Zack MacEwen
 OTT,Josh Norris
@@ -71,15 +72,15 @@ PHI,Jamie Drysdale
 PHI,Rasmus Ristolainen
 PHI,Carter Hart
 PHI,Ryan Ellis
-PIT,Noel Acciari
 PIT,Jansen Harkins
-PIT,Drew O'Connor
-PIT,Bryan Rust
+PIT,Noel Acciari
 PIT,Matt Nieto
+PIT,Bryan Rust
+PIT,Drew O'Connor
 PIT,Jake Guentzel
 SJS,MacKenzie Blackwood
-SJS,Ty Emberson
 SJS,William Eklund
+SJS,Ty Emberson
 SJS,Logan Couture
 SJS,Tomas Hertl
 SJS,Matt Benning
@@ -104,9 +105,9 @@ VGK,William Carrier
 VGK,Brett Howden
 VGK,Pavel Dorofeyev
 VGK,Robin Lehner
-WSH,T.J. Oshie
 WSH,Nic Dowd
 WSH,Martin Fehervary
+WSH,T.J. Oshie
 WSH,Nicklas Backstrom
 WPG,Nate Schmidt
 WPG,Gabriel Vilardi
