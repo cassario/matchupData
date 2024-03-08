@@ -11,7 +11,6 @@ BOS,3rd pair,29 Parker Wotherspoon,8478450.0,29,12 Kevin Shattenkirk,8474031.0,1
 BUF,1st pair,4 Bowen Byram,8481524.0,4,26 Rasmus Dahlin,8480839.0,26,Buffalo Sabres
 BUF,2nd pair,25 Owen Power,8482671.0,25,10 Henri Jokiharju,8480035.0,10,Buffalo Sabres
 BUF,3rd pair,78 Jacob Bryson,8480196.0,78,75 Connor Clifton,8477365.0,75,Buffalo Sabres
-BUF,Extra,33 Ryan Johnson,8481564.0,33,,,,Buffalo Sabres
 CAR,1st pair,74 Jaccob Slavin,8476958.0,74,8 Brent Burns,8470613.0,8,Carolina Hurricanes
 CAR,2nd pair,76 Brady Skjei,8476869.0,76,22 Brett Pesce,8477488.0,22,Carolina Hurricanes
 CAR,3rd pair,7 Dmitry Orlov,8475200.0,7,5 Jalen Chatfield,8478970.0,5,Carolina Hurricanes
@@ -66,8 +65,8 @@ OTT,1st pair,85 Jake Sanderson,8482105.0,85,2 Artem Zub,8482245.0,2,Ottawa Senat
 OTT,2nd pair,6 Jakob Chychrun,8479345.0,6,50 Maxence Guenette,8481679.0,50,Ottawa Senators
 OTT,3rd pair,26 Erik Brannstrom,8480073.0,26,24 Jacob Bernard-Docker,8480879.0,24,Ottawa Senators
 PHI,1st pair,8 Cam York,8481546.0,8,6 Travis Sanheim,8477948.0,6,Philadelphia Flyers
-PHI,2nd pair,18 Marc Staal,8471686.0,18,5 Egor Zamula,8481178.0,5,Philadelphia Flyers
-PHI,3rd pair,50 Adam Ginning,8480874.0,50,23 Ronnie Attard,8481521.0,23,Philadelphia Flyers
+PHI,2nd pair,18 Marc Staal,8471686.0,18,0 Erik Johnson,8473446.0,0,Philadelphia Flyers
+PHI,3rd pair,5 Egor Zamula,8481178.0,5,23 Ronnie Attard,8481521.0,23,Philadelphia Flyers
 PIT,1st pair,73 Pierre-Olivier Joseph,8480058.0,73,58 Kris Letang,8471724.0,58,Pittsburgh Penguins
 PIT,2nd pair,28 Marcus Pettersson,8477969.0,28,65 Erik Karlsson,8474578.0,65,Pittsburgh Penguins
 PIT,3rd pair,27 Ryan Graves,8477435.0,27,7 John Ludvig,8481206.0,7,Pittsburgh Penguins
@@ -82,8 +81,7 @@ STL,2nd pair,47 Torey Krug,8476792.0,47,72 Justin Faulk,8475753.0,72,St. Louis B
 STL,3rd pair,6 Marco Scandella,8474618.0,6,48 Scott Perunovich,8481059.0,48,St. Louis Blues
 TBL,1st pair,77 Victor Hedman,8475167.0,77,43 Darren Raddysh,8478178.0,43,Tampa Bay Lightning
 TBL,2nd pair,44 Calvin de Haan,8475177.0,44,81 Erik Cernak,8478416.0,81,Tampa Bay Lightning
-TBL,3rd pair,78 Emil Lilleberg,0.0,78,48 Nick Perbix,8480246.0,48,Tampa Bay Lightning
-TBL,Extra,65 Maxwell Crozier,8481719.0,65,,,,Tampa Bay Lightning
+TBL,3rd pair,0 Matt Dumba,8476856.0,0,48 Nick Perbix,8480246.0,48,Tampa Bay Lightning
 TOR,1st pair,78 TJ Brodie,8474673.0,78,22 Jake McCabe,8476931.0,22,Toronto Maple Leafs
 TOR,2nd pair,44 Morgan Rielly,8476853.0,44,46 Ilya Lyubushkin,8480950.0,46,Toronto Maple Leafs
 TOR,3rd pair,2 Simon Benoit,8481122.0,2,37 Timothy Liljegren,8480043.0,37,Toronto Maple Leafs
