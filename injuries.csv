@@ -1,7 +1,7 @@
 team,player
-ANA,Troy Terry
 ANA,Leo Carlsson
 ANA,Mason McTavish
+ANA,Troy Terry
 ANA,Brock McGinn
 ANA,Trevor Zegras
 ARI,Jason Zucker
@@ -14,6 +14,7 @@ BOS,Derek Forbort
 BOS,Hampus Lindholm
 BOS,Matthew Poitras
 BOS,Milan Lucic
+BUF,Tage Thompson
 BUF,Erik Johnson
 BUF,Jack Quinn
 BUF,Mattias Samuelsson
@@ -21,7 +22,6 @@ CGY,Daniil Miromanov
 CGY,Connor Zary
 CGY,A.J. Greer
 CGY,Dillon Dube
-CAR,Michael Bunting
 CHI,Nikita Zaitsev
 CHI,Connor Murphy
 CHI,Andreas Athanasiou
@@ -36,8 +36,8 @@ CBJ,Patrik Laine
 CBJ,Adam Fantilli
 DAL,Tyler Seguin
 DAL,Evgenii Dadonov
-DET,Ville Husso
 DET,Dylan Larkin
+DET,Ville Husso
 LAK,Carl Grundstrom
 LAK,Mikey Anderson
 LAK,Adrian Kempe
@@ -45,9 +45,9 @@ LAK,Viktor Arvidsson
 LAK,Pheonix Copley
 MIN,Marat Khusnutdinov
 MIN,Marcus Johansson
+MIN,Jacob Middleton
 MIN,Pat Maroon
 MIN,Marcus Foligno
-MIN,Mats Zuccarello
 MIN,Jared Spurgeon
 MTL,Colin White
 MTL,Chris Wideman
@@ -58,16 +58,16 @@ NJD,Tyler Toffoli
 NJD,Nathan Bastian
 NJD,Vitek Vanecek
 NJD,Dougie Hamilton
-NJD,Michael McLeod
 NJD,Cal Foote
-NYI,Robert Bortuzzo
+NJD,Michael McLeod
 NYI,Scott Mayfield
+NYI,Robert Bortuzzo
 NYR,Jacob Trouba
 NYR,Filip Chytil
 NYR,Blake Wheeler
+OTT,Matthew Highmore
 OTT,Thomas Chabot
 OTT,Travis Hamonic
-OTT,Matthew Highmore
 OTT,Zack MacEwen
 OTT,Josh Norris
 PHI,Nick Seeler
@@ -76,13 +76,12 @@ PHI,Jamie Drysdale
 PHI,Carter Hart
 PHI,Ryan Ellis
 PIT,Jake Guentzel
-PIT,Bryan Rust
 PIT,Matt Nieto
+PIT,Bryan Rust
 PIT,Drew O'Connor
 SJS,Alexander Barabanov
 SJS,Ty Emberson
 SJS,MacKenzie Blackwood
-SJS,William Eklund
 SJS,Logan Couture
 SJS,Tomas Hertl
 SJS,Matt Benning
@@ -92,6 +91,7 @@ STL,MacKenzie MacEachern
 TBL,Tanner Jeannot
 TBL,Logan Brown
 TBL,Mikhail Sergachev
+TOR,Matthew Knies
 TOR,Conor Timmins
 TOR,Mark Giordano
 TOR,John Klingberg
@@ -108,9 +108,9 @@ VGK,Pavel Dorofeyev
 VGK,Robin Lehner
 WSH,Martin Fehervary
 WSH,Darcy Kuemper
-WSH,T.J. Oshie
 WSH,Nic Dowd
+WSH,T.J. Oshie
 WSH,Nicklas Backstrom
-WPG,Connor Hellebuyck
 WPG,Gabriel Vilardi
+WPG,Connor Hellebuyck
 WPG,Nate Schmidt
