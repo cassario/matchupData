@@ -59,8 +59,8 @@ NYI,1st pair,3 Adam Pelech,8476917.0,3,8 Noah Dobson,8480865.0,8,New York Island
 NYI,2nd pair,28 Alexander Romanov,8481014.0,28,6 Ryan Pulock,8477506.0,6,New York Islanders
 NYI,3rd pair,2 Mike Reilly,8476422.0,2,25 Sebastian Aho,8480222.0,25,New York Islanders
 NYR,1st pair,55 Ryan Lindgren,8479324.0,55,23 Adam Fox,8479323.0,23,New York Rangers
-NYR,2nd pair,79 K'Andre Miller,8480817.0,79,8 Jacob Trouba,8476885.0,8,New York Rangers
-NYR,3rd pair,56 Erik Gustafsson,8476979.0,56,4 Braden Schneider,8482073.0,4,New York Rangers
+NYR,2nd pair,79 K'Andre Miller,8480817.0,79,4 Braden Schneider,8482073.0,4,New York Rangers
+NYR,3rd pair,56 Erik Gustafsson,8476979.0,56,6 Zac Jones,8481708.0,6,New York Rangers
 OTT,1st pair,85 Jake Sanderson,8482105.0,85,2 Artem Zub,8482245.0,2,Ottawa Senators
 OTT,2nd pair,6 Jakob Chychrun,8479345.0,6,50 Maxence Guenette,8481679.0,50,Ottawa Senators
 OTT,3rd pair,26 Erik Brannstrom,8480073.0,26,24 Jacob Bernard-Docker,8480879.0,24,Ottawa Senators
@@ -84,13 +84,14 @@ TBL,2nd pair,44 Calvin de Haan,8475177.0,44,81 Erik Cernak,8478416.0,81,Tampa Ba
 TBL,3rd pair,0 Matt Dumba,8476856.0,0,48 Nick Perbix,8480246.0,48,Tampa Bay Lightning
 TOR,1st pair,78 TJ Brodie,8474673.0,78,22 Jake McCabe,8476931.0,22,Toronto Maple Leafs
 TOR,2nd pair,44 Morgan Rielly,8476853.0,44,46 Ilya Lyubushkin,8480950.0,46,Toronto Maple Leafs
-TOR,3rd pair,2 Simon Benoit,8481122.0,2,37 Timothy Liljegren,8480043.0,37,Toronto Maple Leafs
+TOR,3rd pair,20 Joel Edmundson,8476441.0,20,37 Timothy Liljegren,8480043.0,37,Toronto Maple Leafs
 VAN,1st pair,43 Quinn Hughes,8480800.0,43,17 Filip Hronek,8479425.0,17,Vancouver Canucks
 VAN,2nd pair,91 Nikita Zadorov,8477507.0,91,47 Noah Juulsen,8478454.0,47,Vancouver Canucks
 VAN,3rd pair,82 Ian Cole,8474013.0,82,7 Carson Soucy,8477369.0,7,Vancouver Canucks
 VGK,1st pair,15 Noah Hanifin,8478396.0,15,7 Alex Pietrangelo,8474565.0,7,Vegas Golden Knights
 VGK,2nd pair,3 Brayden McNabb,8475188.0,3,27 Shea Theodore,8477447.0,27,Vegas Golden Knights
 VGK,3rd pair,14 Nicolas Hague,8479980.0,14,2 Zach Whitecloud,8480727.0,2,Vegas Golden Knights
+VGK,Extra,17 Ben Hutton,8477018.0,17,,,,Vegas Golden Knights
 WPG,1st pair,44 Josh Morrissey,8477504.0,44,2 Dylan DeMelo,8476331.0,2,Winnipeg Jets
 WPG,2nd pair,5 Brenden Dillon,8475455.0,5,4 Neal Pionk,8480145.0,4,Winnipeg Jets
 WPG,3rd pair,54 Dylan Samberg,8480049.0,54,64 Logan Stanley,8479378.0,64,Winnipeg Jets
