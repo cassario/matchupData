@@ -36,13 +36,13 @@ COL,2nd line,27 Jonathan Drouin,8477494.0,27,37 Casey Mittelstadt,8479999.0,37,1
 COL,3rd line,28 Miles Wood,8477425.0,28,20 Ross Colton,8479525.0,20,15 Yakov Trenin,8478508.0,15,Colorado Avalanche
 COL,4th line,12 Brandon Duhaime,8479520.0,12,11 Andrew Cogliano,8471699.0,11,94 Joel Kiviranta,8481641.0,94,Colorado Avalanche
 DAL,1st line,21 Jason Robertson,8480027.0,21,24 Roope Hintz,8478449.0,24,16 Joe Pavelski,8470794.0,16,Dallas Stars
-DAL,2nd line,27 Mason Marchment,8478975.0,27,95 Matt Duchene,8475168.0,95,10 Ty Dellandrea,8480848.0,10,Dallas Stars
+DAL,2nd line,27 Mason Marchment,8478975.0,27,95 Matt Duchene,8475168.0,95,18 Sam Steel,8479351.0,18,Dallas Stars
 DAL,3rd line,14 Jamie Benn,8473994.0,14,53 Wyatt Johnston,8482740.0,53,11 Logan Stankoven,8482702.0,11,Dallas Stars
-DAL,4th line,12 Radek Faksa,8476889.0,12,18 Sam Steel,8479351.0,18,,,,Dallas Stars
-DET,1st line,93 Alex DeBrincat,8479337.0,93,90 Joe Veleno,8480813.0,90,88 Patrick Kane,8474141.0,88,Detroit Red Wings
-DET,2nd line,27 Michael Rasmussen,8479992.0,27,37 J.T. Compher,8477456.0,37,23 Lucas Raymond,8482078.0,23,Detroit Red Wings
-DET,3rd line,48 Jonatan Berggren,8481013.0,48,18 Andrew Copp,8477429.0,18,17 Daniel Sprong,8478466.0,17,Detroit Red Wings
-DET,4th line,14 Robby Fabbri,8477952.0,14,36 Christian Fischer,8478432.0,36,57 David Perron,8474102.0,57,Detroit Red Wings
+DAL,4th line,10 Ty Dellandrea,8480848.0,10,12 Radek Faksa,8476889.0,12,15 Craig Smith,8475225.0,15,Dallas Stars
+DET,1st line,93 Alex DeBrincat,8479337.0,93,37 J.T. Compher,8477456.0,37,88 Patrick Kane,8474141.0,88,Detroit Red Wings
+DET,2nd line,48 Jonatan Berggren,8481013.0,48,90 Joe Veleno,8480813.0,90,23 Lucas Raymond,8482078.0,23,Detroit Red Wings
+DET,3rd line,27 Michael Rasmussen,8479992.0,27,18 Andrew Copp,8477429.0,18,57 David Perron,8474102.0,57,Detroit Red Wings
+DET,4th line,14 Robby Fabbri,8477952.0,14,36 Christian Fischer,8478432.0,36,17 Daniel Sprong,8478466.0,17,Detroit Red Wings
 EDM,1st line,93 Ryan Nugent-Hopkins,8476454.0,93,97 Connor McDavid,8478402.0,97,18 Zach Hyman,8475786.0,18,Edmonton Oilers
 EDM,2nd line,71 Ryan McLeod,8480802.0,71,29 Leon Draisaitl,8477934.0,29,37 Warren Foegele,8477998.0,37,Edmonton Oilers
 EDM,3rd line,91 Evander Kane,8475169.0,91,19 Adam Henrique,8474641.0,19,90 Corey Perry,8470621.0,90,Edmonton Oilers
@@ -53,8 +53,8 @@ FLA,3rd line,27 Eetu Luostarinen,8480185.0,27,15 Anton Lundell,8482113.0,15,17 E
 FLA,4th line,21 Nick Cousins,8476393.0,21,82 Kevin Stenlund,8478831.0,82,94 Ryan Lomberg,8479066.0,94,Florida Panthers
 LAK,1st line,55 Quinton Byfield,8482124.0,55,11 Anze Kopitar,8471685.0,11,9 Adrian Kempe,8477960.0,9,Los Angeles Kings
 LAK,2nd line,12 Trevor Moore,8479675.0,12,24 Phillip Danault,8476479.0,24,22 Kevin Fiala,8477942.0,22,Los Angeles Kings
-LAK,3rd line,78 Alex Laferriere,8482155.0,78,80 Pierre-Luc Dubois,8479400.0,80,61 Trevor Lewis,8473453.0,61,Los Angeles Kings
-LAK,4th line,34 Arthur Kaliyev,8481560.0,34,46 Blake Lizotte,8481481.0,46,38 Alex Turcotte,8481532.0,38,Los Angeles Kings
+LAK,3rd line,46 Blake Lizotte,8481481.0,46,80 Pierre-Luc Dubois,8479400.0,80,78 Alex Laferriere,8482155.0,78,Los Angeles Kings
+LAK,4th line,61 Trevor Lewis,8473453.0,61,38 Alex Turcotte,8481532.0,38,34 Arthur Kaliyev,8481560.0,34,Los Angeles Kings
 MIN,1st line,97 Kirill Kaprizov,8478864.0,97,14 Joel Eriksson Ek,8478493.0,14,12 Matt Boldy,8481557.0,12,Minnesota Wild
 MIN,2nd line,36 Mats Zuccarello,8475692.0,36,23 Marco Rossi,8482079.0,23,38 Ryan Hartman,8477451.0,38,Minnesota Wild
 MIN,3rd line,17 Marcus Foligno,8475220.0,17,89 Frederick Gaudreau,8477919.0,89,11 Adam Beckman,8481550.0,11,Minnesota Wild
@@ -123,7 +123,7 @@ VGK,4th line,43 Paul Cotter,8481032.0,43,10 Nicolas Roy,8478462.0,10,55 Keegan K
 WPG,1st line,81 Kyle Connor,8478398.0,81,55 Mark Scheifele,8476460.0,55,7 Vladislav Namestnikov,8476480.0,7,Winnipeg Jets
 WPG,2nd line,27 Nikolaj Ehlers,8477940.0,27,23 Sean Monahan,8477497.0,23,9 Alex Iafallo,8480113.0,9,Winnipeg Jets
 WPG,3rd line,62 Nino Niederreiter,8475799.0,62,17 Adam Lowry,8476392.0,17,22 Mason Appleton,8478891.0,22,Winnipeg Jets
-WPG,4th line,36 Morgan Barron,8480289.0,36,15 Rasmus Kupari,8480845.0,15,91 Cole Perfetti,8482149.0,91,Winnipeg Jets
+WPG,4th line,36 Morgan Barron,8480289.0,36,19 David Gustafsson,8481019.0,19,15 Rasmus Kupari,8480845.0,15,Winnipeg Jets
 WSH,1st line,8 Alex Ovechkin,8471214.0,8,29 Hendrix Lapierre,8482148.0,29,21 Aliaksei Protas,8481656.0,21,Washington Capitals
 WSH,2nd line,67 Max Pacioretty,8474157.0,67,24 Connor McMichael,8481580.0,24,43 Tom Wilson,8476880.0,43,Washington Capitals
 WSH,3rd line,63 Ivan Miroshnichenko,8483491.0,63,17 Dylan Strome,8478440.0,17,15 Sonny Milano,8477947.0,15,Washington Capitals
