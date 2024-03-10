@@ -16,9 +16,9 @@ BUF,2nd line,9 Zach Benson,8484145.0,9,24 Dylan Cozens,8481528.0,24,50 Eric Robi
 BUF,3rd line,53 Jeff Skinner,8475784.0,53,19 Peyton Krebs,8481522.0,19,77 JJ Peterka,8482175.0,77,Buffalo Sabres
 BUF,4th line,13 Lukas Rousek,8481751.0,13,17 Tyson Jost,8479370.0,17,71 Victor Olofsson,8478109.0,71,Buffalo Sabres
 CAR,1st line,37 Andrei Svechnikov,8480830.0,37,20 Sebastian Aho,8478427.0,20,86 Teuvo Teravainen,8476882.0,86,Carolina Hurricanes
-CAR,2nd line,23 Stefan Noesen,8476474.0,23,18 Jack Drury,8480835.0,18,88 Martin Necas,8480039.0,88,Carolina Hurricanes
+CAR,2nd line,23 Stefan Noesen,8476474.0,23,92 Evgeny Kuznetsov,8475744.0,92,88 Martin Necas,8480039.0,88,Carolina Hurricanes
 CAR,3rd line,48 Jordan Martinook,8476921.0,48,11 Jordan Staal,8473533.0,11,24 Seth Jarvis,8482093.0,24,Carolina Hurricanes
-CAR,4th line,82 Jesperi Kotkaniemi,8480829.0,82,92 Evgeny Kuznetsov,8475744.0,92,71 Jesper Fast,8475855.0,71,Carolina Hurricanes
+CAR,4th line,28 Brendan Lemieux,8477962.0,28,82 Jesperi Kotkaniemi,8480829.0,82,71 Jesper Fast,8475855.0,71,Carolina Hurricanes
 CBJ,1st line,13 Johnny Gaudreau,8476346.0,13,38 Boone Jenner,8476432.0,38,59 Yegor Chinakhov,8482475.0,59,Columbus Blue Jackets
 CBJ,2nd line,64 Trey Fix-Wolansky,8480441.0,64,10 Dmitri Voronkov,8481716.0,10,86 Kirill Marchenko,8480893.0,86,Columbus Blue Jackets
 CBJ,3rd line,42 Alexandre Texier,8480074.0,42,4 Cole Sillinger,8482705.0,4,92 Alexander Nylander,8479423.0,92,Columbus Blue Jackets
@@ -45,8 +45,8 @@ DET,3rd line,27 Michael Rasmussen,8479992.0,27,18 Andrew Copp,8477429.0,18,57 Da
 DET,4th line,14 Robby Fabbri,8477952.0,14,36 Christian Fischer,8478432.0,36,17 Daniel Sprong,8478466.0,17,Detroit Red Wings
 EDM,1st line,93 Ryan Nugent-Hopkins,8476454.0,93,97 Connor McDavid,8478402.0,97,18 Zach Hyman,8475786.0,18,Edmonton Oilers
 EDM,2nd line,71 Ryan McLeod,8480802.0,71,29 Leon Draisaitl,8477934.0,29,37 Warren Foegele,8477998.0,37,Edmonton Oilers
-EDM,3rd line,91 Evander Kane,8475169.0,91,19 Adam Henrique,8474641.0,19,90 Corey Perry,8470621.0,90,Edmonton Oilers
-EDM,4th line,13 Mattias Janmark,8477406.0,13,39 Sam Carrick,8475842.0,39,28 Connor Brown,8477015.0,28,Edmonton Oilers
+EDM,3rd line,91 Evander Kane,8475169.0,91,19 Adam Henrique,8474641.0,19,28 Connor Brown,8477015.0,28,Edmonton Oilers
+EDM,4th line,13 Mattias Janmark,8477406.0,13,10 Derek Ryan,8478585.0,10,90 Corey Perry,8470621.0,90,Edmonton Oilers
 FLA,1st line,10 Vladimir Tarasenko,8475765.0,10,16 Aleksander Barkov,8477493.0,16,13 Sam Reinhart,8477933.0,13,Florida Panthers
 FLA,2nd line,23 Carter Verhaeghe,8477409.0,23,9 Sam Bennett,8477935.0,9,19 Matthew Tkachuk,8479314.0,19,Florida Panthers
 FLA,3rd line,27 Eetu Luostarinen,8480185.0,27,15 Anton Lundell,8482113.0,15,17 Evan Rodrigues,8478542.0,17,Florida Panthers
@@ -88,9 +88,9 @@ PHI,2nd line,86 Joel Farabee,8480797.0,86,21 Scott Laughton,8476872.0,21,74 Owen
 PHI,3rd line,44 Nicolas Deslauriers,8475235.0,44,48 Morgan Frost,8480028.0,48,89 Cam Atkinson,8474715.0,89,Philadelphia Flyers
 PHI,4th line,27 Noah Cates,8480220.0,27,25 Ryan Poehling,8480068.0,25,19 Garnet Hathaway,8477903.0,19,Philadelphia Flyers
 PHI,Extra,15 Denis Gurianov,8478495.0,15,,,,,,,Philadelphia Flyers
-PIT,1st line,8 Michael Bunting,8478047.0,8,87 Sidney Crosby,8471675.0,87,67 Rickard Rakell,8476483.0,67,Pittsburgh Penguins
+PIT,1st line,8 Michael Bunting,8478047.0,8,87 Sidney Crosby,8471675.0,87,17 Bryan Rust,8475810.0,17,Pittsburgh Penguins
 PIT,2nd line,19 Reilly Smith,8475191.0,19,71 Evgeni Malkin,8471215.0,71,48 Valtteri Puustinen,8481703.0,48,Pittsburgh Penguins
-PIT,3rd line,18 Jesse Puljujarvi,8479344.0,18,20 Lars Eller,8474189.0,20,52 Emil Bemstrom,8480205.0,52,Pittsburgh Penguins
+PIT,3rd line,67 Rickard Rakell,8476483.0,67,20 Lars Eller,8474189.0,20,52 Emil Bemstrom,8480205.0,52,Pittsburgh Penguins
 PIT,4th line,44 Jonathan Gruden,8480836.0,44,55 Noel Acciari,8478569.0,55,77 Jeff Carter,8470604.0,77,Pittsburgh Penguins
 SEA,1st line,90 Tomas Tatar,8475193.0,90,10 Matty Beniers,8482665.0,10,7 Jordan Eberle,8474586.0,7,Seattle Kraken
 SEA,2nd line,17 Jaden Schwartz,8475768.0,17,19 Jared McCann,8477955.0,19,22 Oliver Bjorkstrand,8477416.0,22,Seattle Kraken
