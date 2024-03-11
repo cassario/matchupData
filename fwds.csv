@@ -3,9 +3,9 @@ ANA,1st line,49 Max Jones,8479368.0,49,23 Mason McTavish,8482745.0,23,17 Alex Ki
 ANA,2nd line,77 Frank Vatrano,8478366.0,77,16 Ryan Strome,8476458.0,16,19 Troy Terry,8478873.0,19,Anaheim Ducks
 ANA,3rd line,39 Ben Meyers,8483570.0,39,21 Isac Lundestrom,8480806.0,21,33 Jakob Silfverberg,8475164.0,33,Anaheim Ducks
 ANA,4th line,44 Ross Johnston,8477527.0,44,24 Benoit-Olivier Groulx,8480870.0,24,20 Brett Leason,8481517.0,20,Anaheim Ducks
-ARI,1st line,9 Clayton Keller,8479343.0,9,29 Barrett Hayton,8480849.0,29,8 Nick Schmaltz,8477951.0,8,Arizona Coyotes
-ARI,2nd line,63 Matias Maccelli,8481711.0,63,17 Nick Bjugstad,8475760.0,17,15 Alexander Kerfoot,8477021.0,15,Arizona Coyotes
-ARI,3rd line,67 Lawson Crouse,8478474.0,67,92 Logan Cooley,8483431.0,92,11 Dylan Guenther,8482699.0,11,Arizona Coyotes
+ARI,1st line,9 Clayton Keller,8479343.0,9,92 Logan Cooley,8483431.0,92,11 Dylan Guenther,8482699.0,11,Arizona Coyotes
+ARI,2nd line,63 Matias Maccelli,8481711.0,63,17 Nick Bjugstad,8475760.0,17,67 Lawson Crouse,8478474.0,67,Arizona Coyotes
+ARI,3rd line,15 Alexander Kerfoot,8477021.0,15,29 Barrett Hayton,8480849.0,29,8 Nick Schmaltz,8477951.0,8,Arizona Coyotes
 ARI,4th line,53 Michael Carcone,8479619.0,53,22 Jack McBain,8480855.0,22,38 Liam O'Brien,8477070.0,38,Arizona Coyotes
 BOS,1st line,63 Brad Marchand,8473419.0,63,13 Charlie Coyle,8475745.0,13,74 Jake DeBrusk,8478498.0,74,Boston Bruins
 BOS,2nd line,43 Danton Heinen,8478046.0,43,18 Pavel Zacha,8478401.0,18,88 David Pastrnak,8477956.0,88,Boston Bruins
@@ -22,7 +22,7 @@ CAR,4th line,28 Brendan Lemieux,8477962.0,28,82 Jesperi Kotkaniemi,8480829.0,82,
 CBJ,1st line,13 Johnny Gaudreau,8476346.0,13,38 Boone Jenner,8476432.0,38,59 Yegor Chinakhov,8482475.0,59,Columbus Blue Jackets
 CBJ,2nd line,64 Trey Fix-Wolansky,8480441.0,64,10 Dmitri Voronkov,8481716.0,10,86 Kirill Marchenko,8480893.0,86,Columbus Blue Jackets
 CBJ,3rd line,42 Alexandre Texier,8480074.0,42,4 Cole Sillinger,8482705.0,4,92 Alexander Nylander,8479423.0,92,Columbus Blue Jackets
-CBJ,4th line,,,,7 Sean Kuraly,8476374.0,7,24 Mathieu Olivier,8479671.0,24,Columbus Blue Jackets
+CBJ,4th line,72 Carson Meyer,8480292.0,72,7 Sean Kuraly,8476374.0,7,24 Mathieu Olivier,8479671.0,24,Columbus Blue Jackets
 CGY,1st line,88 Andrew Mangiapane,8478233.0,88,11 Mikael Backlund,8474150.0,11,20 Blake Coleman,8476399.0,20,Calgary Flames
 CGY,2nd line,22 Jakob Pelletier,8481592.0,22,91 Nazem Kadri,8475172.0,91,96 Andrei Kuzmenko,8483808.0,96,Calgary Flames
 CGY,3rd line,10 Jonathan Huberdeau,8476456.0,10,17 Yegor Sharangovich,8481068.0,17,27 Matt Coronato,8482679.0,27,Calgary Flames
