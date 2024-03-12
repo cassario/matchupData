@@ -54,7 +54,7 @@ FLA,4th line,21 Nick Cousins,8476393.0,21,82 Kevin Stenlund,8478831.0,82,94 Ryan
 LAK,1st line,38 Alex Turcotte,8481532.0,38,11 Anze Kopitar,8471685.0,11,55 Quinton Byfield,8482124.0,55,Los Angeles Kings
 LAK,2nd line,12 Trevor Moore,8479675.0,12,24 Phillip Danault,8476479.0,24,22 Kevin Fiala,8477942.0,22,Los Angeles Kings
 LAK,3rd line,78 Alex Laferriere,8482155.0,78,80 Pierre-Luc Dubois,8479400.0,80,9 Adrian Kempe,8477960.0,9,Los Angeles Kings
-LAK,4th line,34 Arthur Kaliyev,8481560.0,34,46 Blake Lizotte,8481481.0,46,61 Trevor Lewis,8473453.0,61,Los Angeles Kings
+LAK,4th line,,,,46 Blake Lizotte,8481481.0,46,61 Trevor Lewis,8473453.0,61,Los Angeles Kings
 MIN,1st line,97 Kirill Kaprizov,8478864.0,97,14 Joel Eriksson Ek,8478493.0,14,12 Matt Boldy,8481557.0,12,Minnesota Wild
 MIN,2nd line,36 Mats Zuccarello,8475692.0,36,23 Marco Rossi,8482079.0,23,38 Ryan Hartman,8477451.0,38,Minnesota Wild
 MIN,3rd line,17 Marcus Foligno,8475220.0,17,89 Frederick Gaudreau,8477919.0,89,11 Adam Beckman,8481550.0,11,Minnesota Wild
@@ -74,7 +74,7 @@ NSH,4th line,36 Cole Smith,8482062.0,36,47 Michael McCarron,8477446.0,47,44 Kief
 NYI,1st line,29 Brock Nelson,8475754.0,29,14 Bo Horvat,8477500.0,14,13 Mathew Barzal,8478445.0,13,New York Islanders
 NYI,2nd line,27 Anders Lee,8475314.0,27,44 Jean-Gabriel Pageau,8476419.0,44,21 Kyle Palmieri,8475151.0,21,New York Islanders
 NYI,3rd line,18 Pierre Engvall,8478115.0,18,53 Casey Cizikas,8475231.0,53,10 Simon Holmstrom,8481601.0,10,New York Islanders
-NYI,4th line,17 Matt Martin,8474709.0,17,32 Kyle MacLean,8481237.0,32,15 Cal Clutterbuck,8473504.0,15,New York Islanders
+NYI,4th line,20 Hudson Fasching,8477392.0,20,32 Kyle MacLean,8481237.0,32,15 Cal Clutterbuck,8473504.0,15,New York Islanders
 NYR,1st line,10 Artemi Panarin,8478550.0,10,16 Vincent Trocheck,8476389.0,16,13 Alexis Lafreniere,8482109.0,13,New York Rangers
 NYR,2nd line,20 Chris Kreider,8475184.0,20,93 Mika Zibanejad,8476459.0,93,96 Jack Roslovic,8478458.0,96,New York Rangers
 NYR,3rd line,50 Will Cuylle,8482157.0,50,91 Alexander Wennberg,8477505.0,91,24 Kaapo Kakko,8481554.0,24,New York Rangers
@@ -125,6 +125,6 @@ WPG,2nd line,9 Alex Iafallo,8480113.0,9,23 Sean Monahan,8477497.0,23,73 Tyler To
 WPG,3rd line,62 Nino Niederreiter,8475799.0,62,17 Adam Lowry,8476392.0,17,22 Mason Appleton,8478891.0,22,Winnipeg Jets
 WPG,4th line,36 Morgan Barron,8480289.0,36,7 Vladislav Namestnikov,8476480.0,7,91 Cole Perfetti,8482149.0,91,Winnipeg Jets
 WSH,1st line,8 Alex Ovechkin,8471214.0,8,29 Hendrix Lapierre,8482148.0,29,21 Aliaksei Protas,8481656.0,21,Washington Capitals
-WSH,2nd line,67 Max Pacioretty,8474157.0,67,24 Connor McMichael,8481580.0,24,43 Tom Wilson,8476880.0,43,Washington Capitals
-WSH,3rd line,15 Sonny Milano,8477947.0,15,17 Dylan Strome,8478440.0,17,77 T.J. Oshie,8471698.0,77,Washington Capitals
+WSH,2nd line,67 Max Pacioretty,8474157.0,67,24 Connor McMichael,8481580.0,24,77 T.J. Oshie,8471698.0,77,Washington Capitals
+WSH,3rd line,15 Sonny Milano,8477947.0,15,17 Dylan Strome,8478440.0,17,63 Ivan Miroshnichenko,8483491.0,63,Washington Capitals
 WSH,4th line,47 Beck Malenstyn,8479359.0,47,23 Michael Sgarbossa,8475958.0,23,96 Nicolas Aube-Kubel,8477979.0,96,Washington Capitals
