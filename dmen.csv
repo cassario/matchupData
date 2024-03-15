@@ -1,7 +1,7 @@
 team,line,LD,player_id_LD,num_LD,RD,player_id_RD,num_RD,full
 ANA,1st pair,4 Cam Fowler,8475764.0,4,51 Olen Zellweger,8482803.0,51,Anaheim Ducks
-ANA,2nd pair,34 Pavel Mintyukov,8483490.0,34,7 Radko Gudas,8475462.0,7,Anaheim Ducks
-ANA,3rd pair,5 Urho Vaakanainen,8480001.0,5,28 Gustav Lindstrom,8480184.0,28,Anaheim Ducks
+ANA,2nd pair,60 Jackson LaCombe,8481605.0,60,7 Radko Gudas,8475462.0,7,Anaheim Ducks
+ANA,3rd pair,34 Pavel Mintyukov,8483490.0,34,5 Urho Vaakanainen,8480001.0,5,Anaheim Ducks
 ARI,1st pair,90 J.J. Moser,8482655.0,90,50 Sean Durzi,8480434.0,50,Arizona Coyotes
 ARI,2nd pair,4 Juuso Valimaki,8479976.0,4,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
 ARI,3rd pair,33 Travis Dermott,8478408.0,33,3 Josh Brown,8477384.0,3,Arizona Coyotes
@@ -37,7 +37,7 @@ EDM,2nd pair,25 Darnell Nurse,8477498.0,25,73 Vincent Desharnais,8479576.0,73,Ed
 EDM,3rd pair,51 Troy Stecher,8479442.0,51,5 Cody Ceci,8476879.0,5,Edmonton Oilers
 FLA,1st pair,42 Gustav Forsling,8478055.0,42,91 Oliver Ekman-Larsson,8475171.0,91,Florida Panthers
 FLA,2nd pair,77 Niko Mikkola,8478859.0,77,62 Brandon Montour,8477986.0,62,Florida Panthers
-FLA,3rd pair,7 Dmitry Kulikov,8475179.0,7,28 Josh Mahura,8479372.0,28,Florida Panthers
+FLA,3rd pair,28 Josh Mahura,8479372.0,28,7 Dmitry Kulikov,8475179.0,7,Florida Panthers
 LAK,1st pair,44 Mikey Anderson,8479998.0,44,8 Drew Doughty,8474563.0,8,Los Angeles Kings
 LAK,2nd pair,84 Vladislav Gavrikov,8478882.0,84,3 Matt Roy,8478911.0,3,Los Angeles Kings
 LAK,3rd pair,5 Andreas Englund,8477971.0,5,21 Jordan Spence,8481606.0,21,Los Angeles Kings
@@ -70,10 +70,10 @@ PIT,2nd pair,27 Ryan Graves,8477435.0,27,65 Erik Karlsson,8474578.0,65,Pittsburg
 PIT,3rd pair,7 John Ludvig,8481206.0,7,73 Pierre-Olivier Joseph,8480058.0,73,Pittsburgh Penguins
 SEA,1st pair,8 Brian Dumoulin,8475208.0,8,6 Adam Larsson,8476457.0,6,Seattle Kraken
 SEA,2nd pair,24 Jamie Oleksiak,8476467.0,24,3 Will Borgen,8478840.0,3,Seattle Kraken
-SEA,3rd pair,41 Ryker Evans,8482858.0,41,4 Justin Schultz,8474602.0,4,Seattle Kraken
+SEA,3rd pair,39 Ryker Evans,8482858.0,39,4 Justin Schultz,8474602.0,4,Seattle Kraken
 SJS,1st pair,38 Mario Ferraro,8479983.0,38,4 Kyle Burroughs,8477335.0,4,San Jose Sharks
 SJS,2nd pair,3 Henry Thrun,8481567.0,3,44 Marc-Edouard Vlasic,8471709.0,44,San Jose Sharks
-SJS,3rd pair,9 Jacob MacDonald,8479439.0,9,33 Calen Addison,8480884.0,33,San Jose Sharks
+SJS,3rd pair,,,,33 Calen Addison,8480884.0,33,San Jose Sharks
 STL,1st pair,4 Nick Leddy,8475181.0,4,55 Colton Parayko,8476892.0,55,St. Louis Blues
 STL,2nd pair,47 Torey Krug,8476792.0,47,51 Matthew Kessel,8482516.0,51,St. Louis Blues
 STL,3rd pair,48 Scott Perunovich,8481059.0,48,72 Justin Faulk,8475753.0,72,St. Louis Blues
@@ -84,8 +84,8 @@ TOR,1st pair,78 TJ Brodie,8474673.0,78,22 Jake McCabe,8476931.0,22,Toronto Maple
 TOR,2nd pair,44 Morgan Rielly,8476853.0,44,46 Ilya Lyubushkin,8480950.0,46,Toronto Maple Leafs
 TOR,3rd pair,20 Joel Edmundson,8476441.0,20,37 Timothy Liljegren,8480043.0,37,Toronto Maple Leafs
 VAN,1st pair,43 Quinn Hughes,8480800.0,43,17 Filip Hronek,8479425.0,17,Vancouver Canucks
-VAN,2nd pair,82 Ian Cole,8474013.0,82,7 Carson Soucy,8477369.0,7,Vancouver Canucks
-VAN,3rd pair,91 Nikita Zadorov,8477507.0,91,47 Noah Juulsen,8478454.0,47,Vancouver Canucks
+VAN,2nd pair,7 Carson Soucy,8477369.0,7,57 Tyler Myers,8474574.0,57,Vancouver Canucks
+VAN,3rd pair,82 Ian Cole,8474013.0,82,91 Nikita Zadorov,8477507.0,91,Vancouver Canucks
 VGK,1st pair,15 Noah Hanifin,8478396.0,15,7 Alex Pietrangelo,8474565.0,7,Vegas Golden Knights
 VGK,2nd pair,3 Brayden McNabb,8475188.0,3,27 Shea Theodore,8477447.0,27,Vegas Golden Knights
 VGK,3rd pair,14 Nicolas Hague,8479980.0,14,2 Zach Whitecloud,8480727.0,2,Vegas Golden Knights
@@ -94,4 +94,4 @@ WPG,2nd pair,5 Brenden Dillon,8475455.0,5,4 Neal Pionk,8480145.0,4,Winnipeg Jets
 WPG,3rd pair,54 Dylan Samberg,8480049.0,54,6 Colin Miller,8476525.0,6,Winnipeg Jets
 WSH,1st pair,42 Martin Fehervary,8480796.0,42,74 John Carlson,8474590.0,74,Washington Capitals
 WSH,2nd pair,38 Rasmus Sandin,8480873.0,38,3 Nick Jensen,8475324.0,3,Washington Capitals
-WSH,3rd pair,57 Trevor van Riemsdyk,8477845.0,57,25 Ethan Bear,8478451.0,25,Washington Capitals
+WSH,3rd pair,27 Alexander Alexeyev,8480823.0,27,57 Trevor van Riemsdyk,8477845.0,57,Washington Capitals
