@@ -1,7 +1,8 @@
 team,line,LD,player_id_LD,num_LD,RD,player_id_RD,num_RD,full
 ANA,1st pair,4 Cam Fowler,8475764.0,4,51 Olen Zellweger,8482803.0,51,Anaheim Ducks
-ANA,2nd pair,60 Jackson LaCombe,8481605.0,60,7 Radko Gudas,8475462.0,7,Anaheim Ducks
-ANA,3rd pair,34 Pavel Mintyukov,8483490.0,34,5 Urho Vaakanainen,8480001.0,5,Anaheim Ducks
+ANA,2nd pair,34 Pavel Mintyukov,8483490.0,34,60 Jackson LaCombe,8481605.0,60,Anaheim Ducks
+ANA,3rd pair,5 Urho Vaakanainen,8480001.0,5,28 Gustav Lindstrom,8480184.0,28,Anaheim Ducks
+ANA,Extra,37 William Lagesson,8478021.0,37,,,,Anaheim Ducks
 ARI,1st pair,90 J.J. Moser,8482655.0,90,50 Sean Durzi,8480434.0,50,Arizona Coyotes
 ARI,2nd pair,4 Juuso Valimaki,8479976.0,4,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
 ARI,3rd pair,33 Travis Dermott,8478408.0,33,3 Josh Brown,8477384.0,3,Arizona Coyotes
@@ -41,6 +42,7 @@ FLA,3rd pair,28 Josh Mahura,8479372.0,28,7 Dmitry Kulikov,8475179.0,7,Florida Pa
 LAK,1st pair,44 Mikey Anderson,8479998.0,44,8 Drew Doughty,8474563.0,8,Los Angeles Kings
 LAK,2nd pair,84 Vladislav Gavrikov,8478882.0,84,3 Matt Roy,8478911.0,3,Los Angeles Kings
 LAK,3rd pair,5 Andreas Englund,8477971.0,5,21 Jordan Spence,8481606.0,21,Los Angeles Kings
+LAK,Extra,43 Jacob Moverare,8479421.0,43,,,,Los Angeles Kings
 MIN,1st pair,5 Jake Middleton,8478136.0,5,7 Brock Faber,8482122.0,7,Minnesota Wild
 MIN,2nd pair,25 Jonas Brodin,8476463.0,25,24 Zach Bogosian,8474567.0,24,Minnesota Wild
 MIN,3rd pair,4 Jon Merrill,8475750.0,4,47 Declan Chisholm,8480990.0,47,Minnesota Wild
@@ -91,7 +93,7 @@ VGK,2nd pair,3 Brayden McNabb,8475188.0,3,27 Shea Theodore,8477447.0,27,Vegas Go
 VGK,3rd pair,14 Nicolas Hague,8479980.0,14,2 Zach Whitecloud,8480727.0,2,Vegas Golden Knights
 WPG,1st pair,44 Josh Morrissey,8477504.0,44,2 Dylan DeMelo,8476331.0,2,Winnipeg Jets
 WPG,2nd pair,5 Brenden Dillon,8475455.0,5,4 Neal Pionk,8480145.0,4,Winnipeg Jets
-WPG,3rd pair,54 Dylan Samberg,8480049.0,54,6 Colin Miller,8476525.0,6,Winnipeg Jets
+WPG,3rd pair,64 Logan Stanley,8479378.0,64,88 Nate Schmidt,8477220.0,88,Winnipeg Jets
 WSH,1st pair,42 Martin Fehervary,8480796.0,42,74 John Carlson,8474590.0,74,Washington Capitals
 WSH,2nd pair,38 Rasmus Sandin,8480873.0,38,3 Nick Jensen,8475324.0,3,Washington Capitals
 WSH,3rd pair,27 Alexander Alexeyev,8480823.0,27,57 Trevor van Riemsdyk,8477845.0,57,Washington Capitals
