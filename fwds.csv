@@ -16,9 +16,9 @@ BUF,2nd line,12 Jordan Greenway,8478413.0,12,24 Dylan Cozens,8481528.0,24,9 Zach
 BUF,3rd line,28 Zemgus Girgensons,8476878.0,28,19 Peyton Krebs,8481522.0,19,53 Jeff Skinner,8475784.0,53,Buffalo Sabres
 BUF,4th line,50 Eric Robinson,8480762.0,50,17 Tyson Jost,8479370.0,17,71 Victor Olofsson,8478109.0,71,Buffalo Sabres
 CAR,1st line,59 Jake Guentzel,8477404.0,59,20 Sebastian Aho,8478427.0,20,24 Seth Jarvis,8482093.0,24,Carolina Hurricanes
-CAR,2nd line,37 Andrei Svechnikov,8480830.0,37,92 Evgeny Kuznetsov,8475744.0,92,88 Martin Necas,8480039.0,88,Carolina Hurricanes
-CAR,3rd line,48 Jordan Martinook,8476921.0,48,11 Jordan Staal,8473533.0,11,23 Stefan Noesen,8476474.0,23,Carolina Hurricanes
-CAR,4th line,28 Brendan Lemieux,8477962.0,28,82 Jesperi Kotkaniemi,8480829.0,82,,,,Carolina Hurricanes
+CAR,2nd line,86 Teuvo Teravainen,8476882.0,86,92 Evgeny Kuznetsov,8475744.0,92,88 Martin Necas,8480039.0,88,Carolina Hurricanes
+CAR,3rd line,37 Andrei Svechnikov,8480830.0,37,11 Jordan Staal,8473533.0,11,48 Jordan Martinook,8476921.0,48,Carolina Hurricanes
+CAR,4th line,28 Brendan Lemieux,8477962.0,28,82 Jesperi Kotkaniemi,8480829.0,82,23 Stefan Noesen,8476474.0,23,Carolina Hurricanes
 CBJ,1st line,13 Johnny Gaudreau,8476346.0,13,38 Boone Jenner,8476432.0,38,92 Alexander Nylander,8479423.0,92,Columbus Blue Jackets
 CBJ,2nd line,42 Alexandre Texier,8480074.0,42,4 Cole Sillinger,8482705.0,4,86 Kirill Marchenko,8480893.0,86,Columbus Blue Jackets
 CBJ,3rd line,64 Trey Fix-Wolansky,8480441.0,64,10 Dmitri Voronkov,8481716.0,10,82 Mikael Pyyhtia,8482451.0,82,Columbus Blue Jackets
@@ -90,7 +90,7 @@ PHI,4th line,44 Nicolas Deslauriers,8475235.0,44,27 Noah Cates,8480220.0,27,62 O
 PIT,1st line,10 Drew O'Connor,8482055.0,10,87 Sidney Crosby,8471675.0,87,17 Bryan Rust,8475810.0,17,Pittsburgh Penguins
 PIT,2nd line,8 Michael Bunting,8478047.0,8,71 Evgeni Malkin,8471215.0,71,67 Rickard Rakell,8476483.0,67,Pittsburgh Penguins
 PIT,3rd line,19 Reilly Smith,8475191.0,19,20 Lars Eller,8474189.0,20,48 Valtteri Puustinen,8481703.0,48,Pittsburgh Penguins
-PIT,4th line,18 Jesse Puljujarvi,8479344.0,18,55 Noel Acciari,8478569.0,55,52 Emil Bemstrom,8480205.0,52,Pittsburgh Penguins
+PIT,4th line,52 Emil Bemstrom,8480205.0,52,55 Noel Acciari,8478569.0,55,18 Jesse Puljujarvi,8479344.0,18,Pittsburgh Penguins
 SEA,1st line,20 Eeli Tolvanen,8480009.0,20,10 Matty Beniers,8482665.0,10,7 Jordan Eberle,8474586.0,7,Seattle Kraken
 SEA,2nd line,17 Jaden Schwartz,8475768.0,17,19 Jared McCann,8477955.0,19,95 Andre Burakovsky,8477444.0,95,Seattle Kraken
 SEA,3rd line,52 Tye Kartye,8481789.0,52,37 Yanni Gourde,8476826.0,37,13 Brandon Tanev,8479293.0,13,Seattle Kraken
@@ -122,8 +122,8 @@ VGK,4th line,21 Brett Howden,8479353.0,21,10 Nicolas Roy,8478462.0,10,55 Keegan 
 WPG,1st line,81 Kyle Connor,8478398.0,81,55 Mark Scheifele,8476460.0,55,9 Alex Iafallo,8480113.0,9,Winnipeg Jets
 WPG,2nd line,27 Nikolaj Ehlers,8477940.0,27,23 Sean Monahan,8477497.0,23,73 Tyler Toffoli,8475726.0,73,Winnipeg Jets
 WPG,3rd line,62 Nino Niederreiter,8475799.0,62,17 Adam Lowry,8476392.0,17,22 Mason Appleton,8478891.0,22,Winnipeg Jets
-WPG,4th line,36 Morgan Barron,8480289.0,36,19 David Gustafsson,8481019.0,19,7 Vladislav Namestnikov,8476480.0,7,Winnipeg Jets
-WSH,1st line,8 Alex Ovechkin,8471214.0,8,24 Connor McMichael,8481580.0,24,23 Michael Sgarbossa,8475958.0,23,Washington Capitals
-WSH,2nd line,63 Ivan Miroshnichenko,8483491.0,63,17 Dylan Strome,8478440.0,17,45 Matthew Phillips,8479547.0,45,Washington Capitals
-WSH,3rd line,67 Max Pacioretty,8474157.0,67,29 Hendrix Lapierre,8482148.0,29,15 Sonny Milano,8477947.0,15,Washington Capitals
-WSH,4th line,47 Beck Malenstyn,8479359.0,47,26 Nic Dowd,8475343.0,26,96 Nicolas Aube-Kubel,8477979.0,96,Washington Capitals
+WPG,4th line,36 Morgan Barron,8480289.0,36,7 Vladislav Namestnikov,8476480.0,7,91 Cole Perfetti,8482149.0,91,Winnipeg Jets
+WSH,1st line,8 Alex Ovechkin,8471214.0,8,24 Connor McMichael,8481580.0,24,96 Nicolas Aube-Kubel,8477979.0,96,Washington Capitals
+WSH,2nd line,15 Sonny Milano,8477947.0,15,17 Dylan Strome,8478440.0,17,63 Ivan Miroshnichenko,8483491.0,63,Washington Capitals
+WSH,3rd line,67 Max Pacioretty,8474157.0,67,29 Hendrix Lapierre,8482148.0,29,45 Matthew Phillips,8479547.0,45,Washington Capitals
+WSH,4th line,47 Beck Malenstyn,8479359.0,47,26 Nic Dowd,8475343.0,26,23 Michael Sgarbossa,8475958.0,23,Washington Capitals
