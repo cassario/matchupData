@@ -7730,9 +7730,9 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023021144,MTL,,5on5,"Joel Armia (12), Alex Newhook (13), Kaiden Guhle (14)",1,14:53,2-1
 20232024,2023021145,CBJ,,5on4,"Boone Jenner (22), Johnny Gaudreau (42), Zach Werenski (40)",1,11:45,1-0
 20232024,2023021145,ARI,,5on4,"Matias Maccelli (12), Sean Durzi (26), Clayton Keller (33)",2,14:55,1-1
-20232024,2023021145,ARI,,5on5,,2,16:33,2-1
+20232024,2023021145,ARI,,5on5,Josh Doan (1),2,16:33,2-1
 20232024,2023021145,CBJ,,5on4,"Zach Werenski (6), Boone Jenner (13), Johnny Gaudreau (43)",2,19:21,2-2
-20232024,2023021145,ARI,,5on5,,3,11:32,3-2
+20232024,2023021145,ARI,,5on5,"Josh Doan (2), Matias Maccelli (36), Michael Kesselring (12)",3,11:32,3-2
 20232024,2023021145,ARI,,5on5,"Nick Bjugstad (19), Nick Schmaltz (32), Sean Durzi (27)",3,14:49,4-2
 20232024,2023021145,ARI,,4on5,"Nick Schmaltz (20), Karel Vejmelka (2)",3,16:02,5-2
 20232024,2023021145,ARI,,4on5,Dylan Guenther (12),3,19:49,6-2
@@ -7749,3 +7749,15 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023021147,SJS,,5on5,"Klim Kostin (6), Mikael Granlund (38)",2,08:58,3-4
 20232024,2023021147,DAL,,5on5,"Wyatt Johnston (28), Jamie Benn (35), Joe Pavelski (35)",2,10:13,5-3
 20232024,2023021147,DAL,,5on4,"Jason Robertson (26), Miro Heiskanen (40), Roope Hintz (32)",3,11:45,6-3
+20232024,2023021148,OTT,,5on5,"Artem Zub (4), Mark Kastelic (3), Boris Katchouk (6)",1,02:37,1-0
+20232024,2023021148,OTT,,5on5,"Boris Katchouk (6), Parker Kelly (9), Mark Kastelic (4)",1,04:56,2-0
+20232024,2023021148,OTT,,5on5,"Drake Batherson (26), Brady Tkachuk (31), Shane Pinto (15)",1,06:01,3-0
+20232024,2023021148,OTT,,5on5,"Jakob Chychrun (12), Shane Pinto (16)",1,08:49,4-0
+20232024,2023021148,OTT,,other,"Brady Tkachuk (32), Thomas Chabot (20), Shane Pinto (17)",1,19:11,5-0
+20232024,2023021148,BUF,,5on5,"JJ Peterka (25), Alex Tuch (30), Jacob Bryson (6)",2,02:54,1-5
+20232024,2023021148,BUF,,5on5,"Connor Clifton (4), Jacob Bryson (7)",2,13:07,2-5
+20232024,2023021148,OTT,,other,"Shane Pinto (8), Drake Batherson (31), Jakob Chychrun (24)",3,16:43,6-2
+20232024,2023021149,TBL,,5on5,"Mitchell Chaffee (4), Nick Paul (20), Michael Eyssimont (11)",1,10:06,1-0
+20232024,2023021149,BOS,,5on5,"Danton Heinen (15), Pavel Zacha (32)",1,17:11,1-1
+20232024,2023021149,TBL,,5on5,"Brayden Point (42), Emil Martinsen Lilleberg (4), Nick Perbix (21)",2,06:50,2-1
+20232024,2023021149,TBL,,other,"Nikita Kucherov (42), Victor Hedman (58), Andrei Vasilevskiy (2)",3,19:33,3-1
