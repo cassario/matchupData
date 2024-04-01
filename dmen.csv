@@ -1,7 +1,7 @@
 team,line,LD,player_id_LD,num_LD,RD,player_id_RD,num_RD,full
 ANA,1st pair,4 Cam Fowler,8475764.0,4,51 Olen Zellweger,8482803.0,51,Anaheim Ducks
-ANA,2nd pair,34 Pavel Mintyukov,8483490.0,34,28 Gustav Lindstrom,8480184.0,28,Anaheim Ducks
-ANA,3rd pair,37 William Lagesson,8478021.0,37,5 Urho Vaakanainen,8480001.0,5,Anaheim Ducks
+ANA,2nd pair,60 Jackson LaCombe,8481605.0,60,28 Gustav Lindstrom,8480184.0,28,Anaheim Ducks
+ANA,3rd pair,5 Urho Vaakanainen,8480001.0,5,37 William Lagesson,8478021.0,37,Anaheim Ducks
 ARI,1st pair,90 J.J. Moser,8482655.0,90,50 Sean Durzi,8480434.0,50,Arizona Coyotes
 ARI,2nd pair,4 Juuso Valimaki,8479976.0,4,5 Michael Kesselring,8480891.0,5,Arizona Coyotes
 ARI,3rd pair,33 Travis Dermott,8478408.0,33,3 Josh Brown,8477384.0,3,Arizona Coyotes
@@ -45,9 +45,9 @@ LAK,Extra,43 Jacob Moverare,8479421.0,43,,,,Los Angeles Kings
 MIN,1st pair,5 Jake Middleton,8478136.0,5,7 Brock Faber,8482122.0,7,Minnesota Wild
 MIN,2nd pair,25 Jonas Brodin,8476463.0,25,24 Zach Bogosian,8474567.0,24,Minnesota Wild
 MIN,3rd pair,4 Jon Merrill,8475750.0,4,47 Declan Chisholm,8480990.0,47,Minnesota Wild
-MTL,1st pair,8 Mike Matheson,8476875.0,8,54 Jordan Harris,8480887.0,54,Montreal Canadiens
+MTL,1st pair,8 Mike Matheson,8476875.0,8,21 Kaiden Guhle,8482087.0,21,Montreal Canadiens
 MTL,2nd pair,72 Arber Xhekaj,8482964.0,72,58 David Savard,8475233.0,58,Montreal Canadiens
-MTL,3rd pair,47 Jayden Struble,8481593.0,47,26 Johnathan Kovacevic,8480192.0,26,Montreal Canadiens
+MTL,3rd pair,47 Jayden Struble,8481593.0,47,54 Jordan Harris,8480887.0,54,Montreal Canadiens
 NJD,1st pair,88 Kevin Bahl,8480860.0,88,6 John Marino,8478507.0,6,New Jersey Devils
 NJD,2nd pair,43 Luke Hughes,8482684.0,43,57 Nick DeSimone,8480084.0,57,New Jersey Devils
 NJD,3rd pair,2 Brendan Smith,8474090.0,2,17 Simon Nemec,8483495.0,17,New Jersey Devils
@@ -86,7 +86,7 @@ TOR,2nd pair,2 Simon Benoit,8481122.0,2,22 Jake McCabe,8476931.0,22,Toronto Mapl
 TOR,3rd pair,55 Mark Giordano,8470966.0,55,25 Conor Timmins,8479982.0,25,Toronto Maple Leafs
 VAN,1st pair,43 Quinn Hughes,8480800.0,43,17 Filip Hronek,8479425.0,17,Vancouver Canucks
 VAN,2nd pair,7 Carson Soucy,8477369.0,7,57 Tyler Myers,8474574.0,57,Vancouver Canucks
-VAN,3rd pair,91 Nikita Zadorov,8477507.0,91,82 Ian Cole,8474013.0,82,Vancouver Canucks
+VAN,3rd pair,82 Ian Cole,8474013.0,82,47 Noah Juulsen,8478454.0,47,Vancouver Canucks
 VGK,1st pair,15 Noah Hanifin,8478396.0,15,14 Nicolas Hague,8479980.0,14,Vegas Golden Knights
 VGK,2nd pair,3 Brayden McNabb,8475188.0,3,27 Shea Theodore,8477447.0,27,Vegas Golden Knights
 VGK,3rd pair,23 Alec Martinez,8474166.0,23,7 Alex Pietrangelo,8474565.0,7,Vegas Golden Knights
