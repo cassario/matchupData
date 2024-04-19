@@ -8649,7 +8649,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023021295,OTT,,5on5,"Jakob Chychrun (14), Drake Batherson (38), Brady Tkachuk (37)",2,10:54,2-0
 20232024,2023021295,BOS,,5on4,"Pavel Zacha (21), Kevin Shattenkirk (18), David Pastrnak (63)",3,12:44,1-2
 20232024,2023021295,OTT,,other,Artem Zub (5),3,18:12,3-1
-20232024,2023021296,CBJ,,5on5,,1,03:37,1-0
+20232024,2023021296,CBJ,,5on5,"Luca Del Bel Belluz (1), Mikael Pyyhtia (2), Zach Werenski (45)",1,03:37,1-0
 20232024,2023021296,CBJ,,5on5,"Zach Werenski (10), Cole Sillinger (19), Kirill Marchenko (19)",1,05:24,2-0
 20232024,2023021296,CAR,,5on5,"Jesperi Kotkaniemi (12), Max Comtois (1), Stefan Noesen (22)",1,07:10,1-2
 20232024,2023021296,CAR,,5on5,"Teuvo Teravainen (24), Jesperi Kotkaniemi (15), Brent Burns (32)",1,18:16,2-2
@@ -8665,7 +8665,7 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023021297,FLA,,5on5,"Sam Reinhart (56), Aleksander Barkov (56)",2,10:42,3-2
 20232024,2023021297,FLA,,5on5,"Brandon Montour (8), Aleksander Barkov (57), Vladimir Tarasenko (32)",2,13:42,4-2
 20232024,2023021297,FLA,,other,"Sam Reinhart (57), Eetu Luostarinen (15)",3,17:40,5-2
-20232024,2023021298,MTL,,5on5,"Alex Newhook (15), Brendan Gallagher (15)",1,11:32,1-0
+20232024,2023021298,MTL,,5on5,"Alex Newhook (15), Brendan Gallagher (15), Logan Mailloux (1)",1,11:32,1-0
 20232024,2023021298,DET,,5on5,"Moritz Seider (9), Dylan Larkin (36), Lucas Raymond (41)",1,18:29,1-1
 20232024,2023021298,MTL,,5on5,"Brendan Gallagher (16), Joel Armia (8), Jayden Struble (7)",2,06:17,2-1
 20232024,2023021298,MTL,,5on5,"Cole Caufield (28), Juraj Slafkovsky (30), Nick Suzuki (44)",2,10:09,3-1
@@ -8692,3 +8692,70 @@ season,game_id,team,desc_new,strength,desc,game_period,time_elapsed,goal_desc
 20232024,2023021302,VAN,,5on5,"Dakota Joshua (18), Conor Garland (26), Tyler Myers (24)",2,01:58,3-0
 20232024,2023021302,CGY,,5on5,"Brayden Pachal (2), Nazem Kadri (46), Ilya Solovyov (3)",3,10:56,1-3
 20232024,2023021302,VAN,,5on5,"J.T. Miller (37), Pius Suter (15)",3,15:02,4-1
+20232024,2023021303,NYI,,5on5,"Brock Nelson (34), Simon Holmstrom (10)",1,04:56,1-0
+20232024,2023021303,PIT,,5on5,"Rickard Rakell (15), Michael Bunting (35), Evgeni Malkin (40)",1,18:29,1-1
+20232024,2023021303,PIT,,5on4,"Evgeni Malkin (27), Sidney Crosby (51), Erik Karlsson (45)",2,06:14,2-1
+20232024,2023021303,NYI,,5on5,"Casey Cizikas (10), Alexander Romanov (15), Samuel Bolduc (3)",2,13:19,2-2
+20232024,2023021303,PIT,,5on5,Valtteri Puustinen (5),2,14:37,3-2
+20232024,2023021303,NYI,,5on4,"Kyle Palmieri (30), Brock Nelson (35), Mike Reilly (18)",2,19:44,3-3
+20232024,2023021303,NYI,,5on4,"Samuel Bolduc (2), Ryan Pulock (14), Ruslan Iskhakov (1)",3,01:36,4-3
+20232024,2023021303,PIT,,5on4,"Jeff Carter (11), Sidney Crosby (52), Michael Bunting (36)",3,10:56,4-4
+20232024,2023021303,NYI,,5on5,"Simon Holmstrom (15), Kyle MacLean (5)",3,14:27,5-4
+20232024,2023021304,TBL,,5on5,"Nick Paul (24), Anthony Duclair (18), Matt Dumba (8)",1,03:58,1-0
+20232024,2023021304,TBL,,5on5,"Nikita Kucherov (44), Brandon Hagel (49), Steven Stamkos (40)",1,06:14,2-0
+20232024,2023021304,TOR,,5on5,"Ryan Reaves (4), David Kampf (10), Connor Dewar (7)",1,13:18,1-2
+20232024,2023021304,TBL,,5on5,"Anthony Duclair (24), Nick Paul (22), Steven Stamkos (41)",2,06:37,3-1
+20232024,2023021304,TBL,,5on4,"Brayden Point (46), Nikita Kucherov (100), Darren Raddysh (27)",2,17:05,4-1
+20232024,2023021304,TBL,,5on5,"Brandon Hagel (26), Calvin de Haan (7)",2,17:57,5-1
+20232024,2023021304,TBL,,5on5,"Tanner Jeannot (7), Michael Eyssimont (14), Mitchell Chaffee (3)",3,11:27,6-1
+20232024,2023021304,TOR,,other,"TJ Brodie (1), Connor Dewar (8), David Kampf (11)",3,14:02,2-6
+20232024,2023021304,TOR,,5on5,"Pontus Holmberg (7), Nicholas Robertson (13)",3,16:20,3-6
+20232024,2023021304,TOR,,other,"John Tavares (29), William Nylander (58), Conor Timmins (9)",3,19:25,4-6
+20232024,2023021305,STL,,5on5,"Robert Thomas (26), Zachary Bolduc (4), Brayden Schenn (26)",2,17:19,1-0
+20232024,2023021305,DAL,,5on5,"Mason Marchment (22), Matt Duchene (40), Esa Lindell (21)",3,05:11,1-1
+20232024,2023021306,ARI,,5on5,"Liam O'Brien (5), Juuso Valimaki (15), Michael Kesselring (16)",1,02:18,1-0
+20232024,2023021306,EDM,,5on5,"Sam Carrick (10), Mattias Ekholm (34), Evan Bouchard (64)",1,13:06,1-1
+20232024,2023021306,ARI,,5on5,"Matias Maccelli (17), Jack McBain (18), Aku Raty (1)",2,15:05,2-1
+20232024,2023021306,ARI,,5on5,"Lawson Crouse (23), Vladislav Kolyachonok (3), Dylan Guenther (17)",3,04:55,3-1
+20232024,2023021306,EDM,,5on5,"Warren Foegele (20), Philip Broberg (1)",3,08:01,2-3
+20232024,2023021306,ARI,,5on4,"Dylan Guenther (18), Clayton Keller (43), Alexander Kerfoot (32)",3,14:27,4-2
+20232024,2023021306,ARI,,other,Sean Durzi (9),3,15:45,5-2
+20232024,2023021307,MIN,,5on4,Kirill Kaprizov (46),1,04:04,1-0
+20232024,2023021307,SEA,,5on4,"Matty Beniers (15), Justin Schultz (19), Oliver Bjorkstrand (38)",2,11:00,1-1
+20232024,2023021307,SEA,,5on4,"Yanni Gourde (10), Brandon Tanev (8)",3,06:38,2-1
+20232024,2023021307,MIN,,5on5,"Mats Zuccarello (12), Matt Boldy (39), Jake Middleton (18)",3,11:13,2-2
+20232024,2023021307,SEA,,5on5,"Tye Kartye (11), Oliver Bjorkstrand (39), Jared McCann (33)",3,17:20,3-2
+20232024,2023021307,SEA,,other,"Yanni Gourde (11), Brandon Tanev (9), Jamie Oleksiak (13)",3,18:14,4-2
+20232024,2023021307,MIN,,other,"Brock Faber (8), Matt Boldy (40), Ryan Hartman (24)",3,18:55,3-4
+20232024,2023021308,VAN,,5on5,Conor Garland (20),1,05:22,1-0
+20232024,2023021308,WPG,,5on5,"Gabriel Vilardi (22), Alex Iafallo (16)",1,11:26,1-1
+20232024,2023021308,WPG,,5on5,"Cole Perfetti (18), Mason Appleton (22), Nate Schmidt (12)",2,00:55,2-1
+20232024,2023021308,VAN,,5on4,"Elias Lindholm (15), Quinn Hughes (75), Conor Garland (27)",2,17:11,2-2
+20232024,2023021308,WPG,,5on5,,3,05:18,3-2
+20232024,2023021308,WPG,,other,Cole Perfetti (19),3,17:55,4-2
+20232024,2023021309,CGY,,5on5,Adam Klapka (1),1,12:13,1-0
+20232024,2023021309,CGY,,5on5,"Blake Coleman (30), Connor Zary (20), Rasmus Andersson (30)",1,14:40,2-0
+20232024,2023021309,CGY,,5on5,"Oliver Kylington (3), Andrei Kuzmenko (24), Andrew Mangiapane (26)",2,03:53,3-0
+20232024,2023021309,CGY,,5on5,"Kevin Rooney (3), Martin Pospisil (16), Matt Coronato (6)",2,05:59,4-0
+20232024,2023021309,CGY,,5on5,"MacKenzie Weegar (20), Daniil Miromanov (4), Blake Coleman (24)",2,06:56,5-0
+20232024,2023021309,SJS,,5on4,"Fabian Zetterlund (24), Mikael Granlund (48), Collin Graf (2)",3,19:51,1-5
+20232024,2023021310,COL,,5on5,"Valeri Nichushkin (27), Artturi Lehkonen (18), Casey Mittelstadt (39)",1,01:19,1-0
+20232024,2023021310,COL,,5on5,"Mikko Rantanen (42), Devon Toews (38), Nathan MacKinnon (88)",1,05:48,2-0
+20232024,2023021310,COL,,5on4,"Valeri Nichushkin (28), Nathan MacKinnon (89), Cale Makar (69)",1,07:37,3-0
+20232024,2023021310,COL,,5on5,"Josh Manson (8), Sean Walker (19), Yakov Trenin (5)",1,10:17,4-0
+20232024,2023021310,EDM,,5on4,"Dylan Holloway (6), Philip Broberg (2), Brett Kulak (13)",1,15:22,1-4
+20232024,2023021310,COL,,5on5,"Zach Parise (5), Ross Colton (23), Miles Wood (17)",2,12:00,5-1
+20232024,2023021311,ANA,,5on4,"Frank Vatrano (35), Cam Fowler (34), Ryan Strome (29)",2,04:25,1-0
+20232024,2023021311,VGK,,5on4,"Jack Eichel (31), Shea Theodore (37), William Karlsson (30)",2,18:47,1-1
+20232024,2023021311,ANA,,5on5,"Jackson LaCombe (2), Leo Carlsson (17)",3,00:51,2-1
+20232024,2023021311,ANA,,5on5,"Frank Vatrano (36), Ryan Strome (30), Trevor Zegras (9)",3,01:20,3-1
+20232024,2023021311,ANA,,other,"Frank Vatrano (37), Jackson LaCombe (15)",3,19:45,4-1
+20232024,2023021312,CHI,,5on5,Lukas Reichel (5),1,15:39,1-0
+20232024,2023021312,LAK,,5on5,"Viktor Arvidsson (5), Phillip Danault (28), Trevor Moore (26)",2,04:37,1-1
+20232024,2023021312,LAK,,5on4,"Quinton Byfield (20), Phillip Danault (29), Jordan Spence (22)",2,16:04,2-1
+20232024,2023021312,LAK,,5on5,"Trevor Moore (31), Viktor Arvidsson (9), Phillip Danault (30)",2,17:24,3-1
+20232024,2023021312,CHI,,5on4,"Tyler Johnson (17), Kevin Korchinski (10), Ryan Donato (18)",3,01:28,2-3
+20232024,2023021312,CHI,,5on5,"Joey Anderson (5), Landon Slaggert (3)",3,03:42,3-3
+20232024,2023021312,CHI,,5on5,"Ryan Donato (12), MacKenzie Entwistle (6)",3,06:28,4-3
+20232024,2023021312,LAK,,other,"Viktor Arvidsson (6), Quinton Byfield (35), Adrian Kempe (47)",3,18:39,4-4
+20232024,2023021312,LAK,,other,Adrian Kempe (28),4,00:06,5-4
