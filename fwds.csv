@@ -46,11 +46,11 @@ DET,4th line,85 Elmer Soderblom,8481725.0,85,92 Marco Kasper,8483464.0,92,,,,Det
 EDM,1st line,19 Adam Henrique,8474641.0,19,97 Connor McDavid,8478402.0,97,18 Zach Hyman,8475786.0,18,Edmonton Oilers
 EDM,2nd line,93 Ryan Nugent-Hopkins,8476454.0,93,29 Leon Draisaitl,8477934.0,29,37 Warren Foegele,8477998.0,37,Edmonton Oilers
 EDM,3rd line,55 Dylan Holloway,8482077.0,55,71 Ryan McLeod,8480802.0,71,90 Corey Perry,8470621.0,90,Edmonton Oilers
-EDM,4th line,10 Derek Ryan,8478585.0,10,39 Sam Carrick,8475842.0,39,28 Connor Brown,8477015.0,28,Edmonton Oilers
+EDM,4th line,91 Evander Kane,8475169.0,91,39 Sam Carrick,8475842.0,39,13 Mattias Janmark,8477406.0,13,Edmonton Oilers
 FLA,1st line,10 Vladimir Tarasenko,8475765.0,10,16 Aleksander Barkov,8477493.0,16,13 Sam Reinhart,8477933.0,13,Florida Panthers
 FLA,2nd line,23 Carter Verhaeghe,8477409.0,23,9 Sam Bennett,8477935.0,9,19 Matthew Tkachuk,8479314.0,19,Florida Panthers
 FLA,3rd line,27 Eetu Luostarinen,8480185.0,27,15 Anton Lundell,8482113.0,15,17 Evan Rodrigues,8478542.0,17,Florida Panthers
-FLA,4th line,12 Jonah Gadjovich,8479981.0,12,82 Kevin Stenlund,8478831.0,82,21 Nick Cousins,8476393.0,21,Florida Panthers
+FLA,4th line,94 Ryan Lomberg,8479066.0,94,82 Kevin Stenlund,8478831.0,82,21 Nick Cousins,8476393.0,21,Florida Panthers
 LAK,1st line,78 Alex Laferriere,8482155.0,78,11 Anze Kopitar,8471685.0,11,9 Adrian Kempe,8477960.0,9,Los Angeles Kings
 LAK,2nd line,12 Trevor Moore,8479675.0,12,24 Phillip Danault,8476479.0,24,33 Viktor Arvidsson,8478042.0,33,Los Angeles Kings
 LAK,3rd line,22 Kevin Fiala,8477942.0,22,46 Blake Lizotte,8481481.0,46,61 Trevor Lewis,8473453.0,61,Los Angeles Kings
@@ -106,18 +106,18 @@ STL,4th line,26 Nathan Walker,8477573.0,26,59 Nikita Alexandrov,8481543.0,59,70 
 TBL,1st line,10 Anthony Duclair,8477407.0,10,21 Brayden Point,8478010.0,21,86 Nikita Kucherov,8476453.0,86,Tampa Bay Lightning
 TBL,2nd line,91 Steven Stamkos,8474564.0,91,71 Anthony Cirelli,8478519.0,71,38 Brandon Hagel,8479542.0,38,Tampa Bay Lightning
 TBL,3rd line,23 Michael Eyssimont,8479591.0,23,20 Nick Paul,8477426.0,20,41 Mitchell Chaffee,8482070.0,41,Tampa Bay Lightning
-TBL,4th line,84 Tanner Jeannot,8479661.0,84,73 Conor Sheary,8477839.0,73,51 Austin Watson,8475766.0,51,Tampa Bay Lightning
+TBL,4th line,84 Tanner Jeannot,8479661.0,84,11 Luke Glendening,8476822.0,11,64 Tyler Motte,8477353.0,64,Tampa Bay Lightning
 TOR,1st line,59 Tyler Bertuzzi,8477479.0,59,34 Auston Matthews,8479318.0,34,11 Max Domi,8477503.0,11,Toronto Maple Leafs
 TOR,2nd line,23 Matthew Knies,8482720.0,23,91 John Tavares,8475166.0,91,16 Mitchell Marner,8478483.0,16,Toronto Maple Leafs
 TOR,3rd line,89 Nicholas Robertson,8481582.0,89,29 Pontus Holmberg,8480995.0,29,19 Calle Jarnkrok,8475714.0,19,Toronto Maple Leafs
 TOR,4th line,24 Connor Dewar,8480980.0,24,64 David Kampf,8480144.0,64,75 Ryan Reaves,8471817.0,75,Toronto Maple Leafs
 VAN,1st line,24 Pius Suter,8480459.0,24,9 J.T. Miller,8476468.0,9,6 Brock Boeser,8478444.0,6,Vancouver Canucks
-VAN,2nd line,21 Nils Hoglander,8481535.0,21,40 Elias Pettersson,8480012.0,40,65 Ilya Mikheyev,8481624.0,65,Vancouver Canucks
+VAN,2nd line,21 Nils Hoglander,8481535.0,21,40 Elias Pettersson,8480012.0,40,18 Sam Lafferty,8478043.0,18,Vancouver Canucks
 VAN,3rd line,81 Dakota Joshua,8478057.0,81,23 Elias Lindholm,8477496.0,23,8 Conor Garland,8478856.0,8,Vancouver Canucks
-VAN,4th line,92 Vasily Podkolzin,8481617.0,92,53 Teddy Blueger,8476927.0,53,18 Sam Lafferty,8478043.0,18,Vancouver Canucks
-VGK,1st line,21 Brett Howden,8479353.0,21,9 Jack Eichel,8478403.0,9,81 Jonathan Marchessault,8476539.0,81,Vegas Golden Knights
-VGK,2nd line,49 Ivan Barbashev,8477964.0,49,48 Tomas Hertl,8476881.0,48,16 Pavel Dorofeyev,8481604.0,16,Vegas Golden Knights
-VGK,3rd line,46 Jonas Rondbjerg,8480007.0,46,71 William Karlsson,8476448.0,71,22 Michael Amadio,8478020.0,22,Vegas Golden Knights
+VAN,4th line,34 Phillip Di Giuseppe,8476858.0,34,53 Teddy Blueger,8476927.0,53,65 Ilya Mikheyev,8481624.0,65,Vancouver Canucks
+VGK,1st line,49 Ivan Barbashev,8477964.0,49,9 Jack Eichel,8478403.0,9,81 Jonathan Marchessault,8476539.0,81,Vegas Golden Knights
+VGK,2nd line,20 Chandler Stephenson,8476905.0,20,48 Tomas Hertl,8476881.0,48,61 Mark Stone,8475913.0,61,Vegas Golden Knights
+VGK,3rd line,21 Brett Howden,8479353.0,21,71 William Karlsson,8476448.0,71,39 Anthony Mantha,8477511.0,39,Vegas Golden Knights
 VGK,4th line,43 Paul Cotter,8481032.0,43,10 Nicolas Roy,8478462.0,10,55 Keegan Kolesar,8478434.0,55,Vegas Golden Knights
 WPG,1st line,81 Kyle Connor,8478398.0,81,55 Mark Scheifele,8476460.0,55,13 Gabriel Vilardi,8480014.0,13,Winnipeg Jets
 WPG,2nd line,27 Nikolaj Ehlers,8477940.0,27,23 Sean Monahan,8477497.0,23,73 Tyler Toffoli,8475726.0,73,Winnipeg Jets
