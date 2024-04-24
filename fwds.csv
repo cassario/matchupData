@@ -7,9 +7,9 @@ ARI,1st line,9 Clayton Keller,8479343.0,9,17 Nick Bjugstad,8475760.0,17,8 Nick S
 ARI,2nd line,67 Lawson Crouse,8478474.0,67,29 Barrett Hayton,8480849.0,29,11 Dylan Guenther,8482699.0,11,Arizona Coyotes
 ARI,3rd line,63 Matias Maccelli,8481711.0,63,92 Logan Cooley,8483431.0,92,91 Josh Doan,8482659.0,91,Arizona Coyotes
 ARI,4th line,53 Michael Carcone,8479619.0,53,22 Jack McBain,8480855.0,22,15 Alexander Kerfoot,8477021.0,15,Arizona Coyotes
-BOS,1st line,63 Brad Marchand,8473419.0,63,13 Charlie Coyle,8475745.0,13,74 Jake DeBrusk,8478498.0,74,Boston Bruins
-BOS,2nd line,43 Danton Heinen,8478046.0,43,18 Pavel Zacha,8478401.0,18,88 David Pastrnak,8477956.0,88,Boston Bruins
-BOS,3rd line,94 Jakub Lauko,8480880.0,94,39 Morgan Geekie,8479987.0,39,11 Trent Frederic,8479365.0,11,Boston Bruins
+BOS,1st line,74 Jake DeBrusk,8478498.0,74,18 Pavel Zacha,8478401.0,18,88 David Pastrnak,8477956.0,88,Boston Bruins
+BOS,2nd line,63 Brad Marchand,8473419.0,63,13 Charlie Coyle,8475745.0,13,39 Morgan Geekie,8479987.0,39,Boston Bruins
+BOS,3rd line,21 James van Riemsdyk,8474037.0,21,11 Trent Frederic,8479365.0,11,43 Danton Heinen,8478046.0,43,Boston Bruins
 BOS,4th line,19 John Beecher,8481556.0,19,70 Jesper Boqvist,8480003.0,70,61 Pat Maroon,8474034.0,61,Boston Bruins
 BUF,1st line,77 JJ Peterka,8482175.0,77,72 Tage Thompson,8479420.0,72,89 Alex Tuch,8477949.0,89,Buffalo Sabres
 BUF,2nd line,9 Zach Benson,8484145.0,9,24 Dylan Cozens,8481528.0,24,22 Jack Quinn,8482097.0,22,Buffalo Sabres
@@ -48,13 +48,13 @@ EDM,2nd line,93 Ryan Nugent-Hopkins,8476454.0,93,29 Leon Draisaitl,8477934.0,29,
 EDM,3rd line,91 Evander Kane,8475169.0,91,71 Ryan McLeod,8480802.0,71,90 Corey Perry,8470621.0,90,Edmonton Oilers
 EDM,4th line,55 Dylan Holloway,8482077.0,55,39 Sam Carrick,8475842.0,39,13 Mattias Janmark,8477406.0,13,Edmonton Oilers
 FLA,1st line,10 Vladimir Tarasenko,8475765.0,10,16 Aleksander Barkov,8477493.0,16,13 Sam Reinhart,8477933.0,13,Florida Panthers
-FLA,2nd line,23 Carter Verhaeghe,8477409.0,23,9 Sam Bennett,8477935.0,9,19 Matthew Tkachuk,8479314.0,19,Florida Panthers
-FLA,3rd line,27 Eetu Luostarinen,8480185.0,27,15 Anton Lundell,8482113.0,15,17 Evan Rodrigues,8478542.0,17,Florida Panthers
-FLA,4th line,21 Nick Cousins,8476393.0,21,82 Kevin Stenlund,8478831.0,82,18 Steven Lorentz,8478904.0,18,Florida Panthers
+FLA,2nd line,23 Carter Verhaeghe,8477409.0,23,15 Anton Lundell,8482113.0,15,19 Matthew Tkachuk,8479314.0,19,Florida Panthers
+FLA,3rd line,21 Nick Cousins,8476393.0,21,27 Eetu Luostarinen,8480185.0,27,17 Evan Rodrigues,8478542.0,17,Florida Panthers
+FLA,4th line,18 Steven Lorentz,8478904.0,18,82 Kevin Stenlund,8478831.0,82,8 Kyle Okposo,8473449.0,8,Florida Panthers
 LAK,1st line,78 Alex Laferriere,8482155.0,78,11 Anze Kopitar,8471685.0,11,9 Adrian Kempe,8477960.0,9,Los Angeles Kings
 LAK,2nd line,12 Trevor Moore,8479675.0,12,24 Phillip Danault,8476479.0,24,33 Viktor Arvidsson,8478042.0,33,Los Angeles Kings
-LAK,3rd line,22 Kevin Fiala,8477942.0,22,46 Blake Lizotte,8481481.0,46,61 Trevor Lewis,8473453.0,61,Los Angeles Kings
-LAK,4th line,91 Carl Grundstrom,8479336.0,91,80 Pierre-Luc Dubois,8479400.0,80,55 Quinton Byfield,8482124.0,55,Los Angeles Kings
+LAK,3rd line,22 Kevin Fiala,8477942.0,22,80 Pierre-Luc Dubois,8479400.0,80,55 Quinton Byfield,8482124.0,55,Los Angeles Kings
+LAK,4th line,91 Carl Grundstrom,8479336.0,91,46 Blake Lizotte,8481481.0,46,61 Trevor Lewis,8473453.0,61,Los Angeles Kings
 MIN,1st line,97 Kirill Kaprizov,8478864.0,97,14 Joel Eriksson Ek,8478493.0,14,12 Matt Boldy,8481557.0,12,Minnesota Wild
 MIN,2nd line,90 Marcus Johansson,8475149.0,90,23 Marco Rossi,8482079.0,23,36 Mats Zuccarello,8475692.0,36,Minnesota Wild
 MIN,3rd line,17 Marcus Foligno,8475220.0,17,22 Marat Khusnutdinov,8482177.0,22,38 Ryan Hartman,8477451.0,38,Minnesota Wild
@@ -72,7 +72,7 @@ NSH,2nd line,16 Jason Zucker,8475722.0,16,10 Colton Sissons,8476925.0,10,21 Anth
 NSH,3rd line,17 Mark Jankowski,8476873.0,17,82 Tommy Novak,8478438.0,82,77 Luke Evangelista,8482146.0,77,Nashville Predators
 NSH,4th line,44 Kiefer Sherwood,8480748.0,44,47 Michael McCarron,8477446.0,47,36 Cole Smith,8482062.0,36,Nashville Predators
 NYI,1st line,53 Casey Cizikas,8475231.0,53,14 Bo Horvat,8477500.0,14,13 Mathew Barzal,8478445.0,13,New York Islanders
-NYI,2nd line,10 Simon Holmstrom,8481601.0,10,29 Brock Nelson,8475754.0,29,21 Kyle Palmieri,8475151.0,21,New York Islanders
+NYI,2nd line,20 Hudson Fasching,8477392.0,20,29 Brock Nelson,8475754.0,29,21 Kyle Palmieri,8475151.0,21,New York Islanders
 NYI,3rd line,27 Anders Lee,8475314.0,27,44 Jean-Gabriel Pageau,8476419.0,44,18 Pierre Engvall,8478115.0,18,New York Islanders
 NYI,4th line,17 Matt Martin,8474709.0,17,32 Kyle MacLean,8481237.0,32,15 Cal Clutterbuck,8473504.0,15,New York Islanders
 NYR,1st line,10 Artemi Panarin,8478550.0,10,16 Vincent Trocheck,8476389.0,16,13 Alexis Lafreniere,8482109.0,13,New York Rangers
