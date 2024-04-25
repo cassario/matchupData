@@ -281,13 +281,13 @@ FLA,Anton Lundell,2nd line,C,15,L,"6'1""",185,8482113.0,Florida Panthers
 FLA,Matthew Tkachuk,2nd line,RW,19,L,"6'2""",202,8479314.0,Florida Panthers
 FLA,Niko Mikkola,2nd pair,LD,77,L,"6'4""",185,8478859.0,Florida Panthers
 FLA,Brandon Montour,2nd pair,RD,62,R,"6'0""",189,8477986.0,Florida Panthers
-FLA,Nick Cousins,3rd line,LW,21,L,"5'11""",183,8476393.0,Florida Panthers
-FLA,Eetu Luostarinen,3rd line,C,27,L,"6'3""",184,8480185.0,Florida Panthers
+FLA,Eetu Luostarinen,3rd line,LW,27,L,"6'3""",184,8480185.0,Florida Panthers
+FLA,Kevin Stenlund,3rd line,C,82,R,"6'4""",210,8478831.0,Florida Panthers
 FLA,Evan Rodrigues,3rd line,RW,17,R,"5'11""",184,8478542.0,Florida Panthers
 FLA,Oliver Ekman-Larsson,3rd pair,LD,91,L,"6'2""",200,8475171.0,Florida Panthers
 FLA,Dmitry Kulikov,3rd pair,RD,7,L,"6'1""",199,8475179.0,Florida Panthers
-FLA,Steven Lorentz,4th line,LW,18,L,"6'3""",192,8478904.0,Florida Panthers
-FLA,Kevin Stenlund,4th line,C,82,R,"6'4""",210,8478831.0,Florida Panthers
+FLA,Nick Cousins,4th line,LW,21,L,"5'11""",183,8476393.0,Florida Panthers
+FLA,Steven Lorentz,4th line,C,18,L,"6'3""",192,8478904.0,Florida Panthers
 FLA,Kyle Okposo,4th line,RW,8,R,"6'0""",216,8473449.0,Florida Panthers
 FLA,Jonah Gadjovich,scratch,F,12.0,L,"6'2""",200.0,8479981.0,Florida Panthers
 FLA,Sam Bennett,scratch,F,9.0,L,"6'1""",195.0,8477935.0,Florida Panthers
@@ -403,6 +403,7 @@ NSH,Michael McCarron,4th line,C,47,R,"6'5""",237,8477446.0,Nashville Predators
 NSH,Cole Smith,4th line,RW,36,L,"6'3""",195,8482062.0,Nashville Predators
 NSH,Cody Glass,scratch,F,8.0,R,"6'2""",192.0,8479996.0,Nashville Predators
 NSH,Jaret Anderson-Dolan,scratch,F,28.0,L,"5'11""",188.0,8479994.0,Nashville Predators
+NSH,Juuso Parssinen,scratch,F,75.0,L,"6'2""",203.0,8481704.0,Nashville Predators
 NSH,Dante Fabbro,scratch,D,57.0,R,"6'0""",189.0,8479371.0,Nashville Predators
 NSH,Tyson Barrie,scratch,D,22.0,R,"5'11""",197.0,8475197.0,Nashville Predators
 NSH,Gustavs Grigals,scratch,G,,L,"6'2""",196.0,0.0,Nashville Predators
@@ -692,9 +693,18 @@ VGK,Paul Cotter,scratch,F,43.0,L,"6'0""",185.0,8481032.0,Vegas Golden Knights
 VGK,Pavel Dorofeyev,scratch,F,16.0,L,"6'0""",176.0,8481604.0,Vegas Golden Knights
 VGK,Jonas Rondbjerg,scratch,F,46.0,L,"6'0""",176.0,8480007.0,Vegas Golden Knights
 VGK,Michael Amadio,scratch,F,22.0,R,"6'1""",204.0,8478020.0,Vegas Golden Knights
+VGK,Brendan Brisson,scratch,F,19.0,L,"5'11""",179.0,8482153.0,Vegas Golden Knights
+VGK,Mason Morelli,scratch,F,11.0,L,"6'1""",201.0,8481462.0,Vegas Golden Knights
+VGK,Byron Froese,scratch,F,51.0,R,"5'11""",190.0,8475278.0,Vegas Golden Knights
+VGK,Grigori Denisenko,scratch,F,54.0,R,"5'11""",175.0,8480844.0,Vegas Golden Knights
 VGK,Ben Hutton,scratch,D,17.0,L,"6'2""",206.0,8477018.0,Vegas Golden Knights
+VGK,Kaedan Korczak,scratch,D,6.0,R,"6'3""",192.0,8481527.0,Vegas Golden Knights
+VGK,Dysin Mayo,scratch,D,65.0,R,"6'0""",185.0,8478062.0,Vegas Golden Knights
+VGK,Christoffer Sedoff,scratch,D,15.0,L,"6'1""",190.0,0.0,Vegas Golden Knights
 VGK,Nicolas Hague,scratch,D,14.0,L,"6'6""",221.0,8479980.0,Vegas Golden Knights
 VGK,Jiri Patera,scratch,G,30.0,L,"6'2""",209.0,8480238.0,Vegas Golden Knights
+VGK,Isaiah Saville,scratch,G,31.0,R,"6'1""",195.0,0.0,Vegas Golden Knights
+VGK,Jesper Vikman,scratch,G,32.0,L,"6'3""",179.0,0.0,Vegas Golden Knights
 WPG,Kyle Connor,1st line,LW,81,L,"6'1""",182,8478398.0,Winnipeg Jets
 WPG,Mark Scheifele,1st line,C,55,R,"6'3""",207,8476460.0,Winnipeg Jets
 WPG,Gabriel Vilardi,1st line,RW,13,R,"6'2""",185,8480014.0,Winnipeg Jets
