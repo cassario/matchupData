@@ -204,10 +204,19 @@ COL,Logan O'Connor,injured reserve,F,25.0,R,"6'0""",175.0,8481186.0,Colorado Ava
 COL,Gabriel Landeskog,injured reserve,F,92.0,L,"6'1""",215.0,8476455.0,Colorado Avalanche
 COL,Pavel Francouz,injured reserve,G,39.0,R,"6'0""",179.0,8480925.0,Colorado Avalanche
 COL,Chris Wagner,scratch,F,14.0,R,"6'0""",198.0,8475780.0,Colorado Avalanche
+COL,Fredrik Olofsson,scratch,F,22.0,L,"6'2""",196.0,8478028.0,Colorado Avalanche
+COL,Riley Tufte,scratch,F,10.0,L,"6'6""",220.0,8479362.0,Colorado Avalanche
+COL,Jean-Luc Foudy,scratch,F,93.0,R,"5'11""",177.0,8482147.0,Colorado Avalanche
 COL,Joel Kiviranta,scratch,F,94.0,L,"5'10""",175.0,8481641.0,Colorado Avalanche
 COL,Jonathan Drouin,scratch,F,27.0,L,"6'0""",203.0,8477494.0,Colorado Avalanche
 COL,Caleb Jones,scratch,D,82.0,L,"6'1""",194.0,8478452.0,Colorado Avalanche
+COL,Brad Hunt,scratch,D,17.0,L,"5'9""",176.0,8476779.0,Colorado Avalanche
+COL,Keaton Middleton,scratch,D,67.0,L,"6'5""",234.0,8479387.0,Colorado Avalanche
+COL,Sam Malinski,scratch,D,70.0,R,"5'11""",190.0,8484258.0,Colorado Avalanche
+COL,Jack Ahcan,scratch,D,18.0,L,"5'8""",185.0,8482072.0,Colorado Avalanche
+COL,Ivan Prosvetov,scratch,G,50.0,L,"6'3""",161.0,8481031.0,Colorado Avalanche
 COL,Arvid Holm,scratch,G,31.0,L,"6'4""",214.0,0.0,Colorado Avalanche
+COL,Trent Miner,scratch,G,50.0,L,"6'1""",185.0,0.0,Colorado Avalanche
 DAL,Jason Robertson,1st line,LW,21,L,"6'2""",194,8480027.0,Dallas Stars
 DAL,Roope Hintz,1st line,C,24,L,"6'3""",220,8478449.0,Dallas Stars
 DAL,Wyatt Johnston,1st line,RW,53,R,"6'1""",178,8482740.0,Dallas Stars
@@ -219,8 +228,8 @@ DAL,Logan Stankoven,2nd line,RW,11,R,"5'8""",170,8482702.0,Dallas Stars
 DAL,Esa Lindell,2nd pair,LD,23,L,"6'3""",215,8476902.0,Dallas Stars
 DAL,Chris Tanev,2nd pair,RD,3,R,"6'2""",197,8475690.0,Dallas Stars
 DAL,Evgenii Dadonov,3rd line,LW,63,L,"5'11""",189,8474149.0,Dallas Stars
-DAL,Joe Pavelski,3rd line,C,16,R,"5'11""",195,8470794.0,Dallas Stars
-DAL,Tyler Seguin,3rd line,RW,91,R,"6'1""",200,8475794.0,Dallas Stars
+DAL,Tyler Seguin,3rd line,C,91,R,"6'1""",200,8475794.0,Dallas Stars
+DAL,Joe Pavelski,3rd line,RW,16,R,"5'11""",195,8470794.0,Dallas Stars
 DAL,Ryan Suter,3rd pair,LD,20,L,"6'2""",206,8470600.0,Dallas Stars
 DAL,Nils Lundkvist,3rd pair,RD,5,R,"5'11""",187,8480878.0,Dallas Stars
 DAL,Ty Dellandrea,4th line,LW,10,R,"6'0""",184,8480848.0,Dallas Stars
@@ -277,7 +286,6 @@ EDM,Sam Gagner,scratch,F,89.0,R,"5'11""",200.0,8474040.0,Edmonton Oilers
 EDM,Troy Stecher,scratch,D,51.0,R,"5'10""",186.0,8479442.0,Edmonton Oilers
 EDM,Philip Broberg,scratch,D,86.0,L,"6'3""",200.0,8481598.0,Edmonton Oilers
 EDM,Jack Campbell,scratch,G,36.0,L,"6'2""",197.0,8475789.0,Edmonton Oilers
-EDM,Ryan Fanti,scratch,G,50.0,L,"6'3""",195.0,0.0,Edmonton Oilers
 FLA,Vladimir Tarasenko,1st line,LW,10,L,"6'0""",225,8475765.0,Florida Panthers
 FLA,Aleksander Barkov,1st line,C,16,L,"6'3""",210,8477493.0,Florida Panthers
 FLA,Sam Reinhart,1st line,RW,13,R,"6'1""",194,8477933.0,Florida Panthers
