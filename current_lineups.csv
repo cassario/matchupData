@@ -45,28 +45,28 @@ ARI,Maksymilian Szuber,scratch,D,55.0,L,"6'3""",190.0,8483763.0,Arizona Coyotes
 BOS,Jake DeBrusk,1st line,LW,74,L,"6'0""",188,8478498.0,Boston Bruins
 BOS,Pavel Zacha,1st line,C,18,L,"6'3""",210,8478401.0,Boston Bruins
 BOS,David Pastrnak,1st line,RW,88,R,"6'0""",194,8477956.0,Boston Bruins
-BOS,Mason Lohrei,1st pair,LD,6,L,"6'4""",195,8482511.0,Boston Bruins
+BOS,Hampus Lindholm,1st pair,LD,27,L,"6'3""",208,8476854.0,Boston Bruins
 BOS,Charlie McAvoy,1st pair,RD,73,R,"6'0""",208,8479325.0,Boston Bruins
 BOS,Brad Marchand,2nd line,LW,63,L,"5'9""",181,8473419.0,Boston Bruins
 BOS,Charlie Coyle,2nd line,C,13,R,"6'3""",220,8475745.0,Boston Bruins
 BOS,Morgan Geekie,2nd line,RW,39,R,"6'2""",168,8479987.0,Boston Bruins
-BOS,Hampus Lindholm,2nd pair,LD,27,L,"6'3""",208,8476854.0,Boston Bruins
+BOS,Mason Lohrei,2nd pair,LD,6,L,"6'4""",195,8482511.0,Boston Bruins
 BOS,Brandon Carlo,2nd pair,RD,25,R,"6'5""",212,8478443.0,Boston Bruins
 BOS,James van Riemsdyk,3rd line,LW,21,L,"6'3""",217,8474037.0,Boston Bruins
 BOS,Trent Frederic,3rd line,C,11,L,"6'2""",203,8479365.0,Boston Bruins
 BOS,Justin Brazeau,3rd line,RW,55,R,"6'5""",220,8479638.0,Boston Bruins
-BOS,Parker Wotherspoon,3rd pair,LD,29,L,"6'0""",172,8478450.0,Boston Bruins
-BOS,Kevin Shattenkirk,3rd pair,RD,12,R,"6'0""",207,8474031.0,Boston Bruins
+BOS,Derek Forbort,3rd pair,LD,28,L,"6'4""",219,8475762.0,Boston Bruins
+BOS,Parker Wotherspoon,3rd pair,RD,29,L,"6'0""",172,8478450.0,Boston Bruins
 BOS,John Beecher,4th line,LW,19,L,"6'3""",210,8481556.0,Boston Bruins
-BOS,Jesper Boqvist,4th line,C,70,L,"6'0""",180,8480003.0,Boston Bruins
+BOS,Patrick Brown,4th line,C,38,R,"5'11""",214,8477887.0,Boston Bruins
 BOS,Pat Maroon,4th line,RW,61,L,"6'2""",236,8474034.0,Boston Bruins
 BOS,Matthew Poitras,injured reserve,F,51.0,R,"5'11""",177.0,8483505.0,Boston Bruins
 BOS,Milan Lucic,injured reserve,F,17.0,L,"6'3""",231.0,8473473.0,Boston Bruins
+BOS,Jesper Boqvist,scratch,F,70.0,L,"6'0""",180.0,8480003.0,Boston Bruins
 BOS,Jakub Lauko,scratch,F,94.0,L,"6'0""",179.0,8480880.0,Boston Bruins
-BOS,Patrick Brown,scratch,F,38.0,R,"5'11""",214.0,8477887.0,Boston Bruins
 BOS,Danton Heinen,scratch,F,43.0,L,"6'1""",188.0,8478046.0,Boston Bruins
+BOS,Kevin Shattenkirk,scratch,D,12.0,R,"6'0""",207.0,8474031.0,Boston Bruins
 BOS,Matt Grzelcyk,scratch,D,48.0,L,"5'9""",174.0,8476891.0,Boston Bruins
-BOS,Derek Forbort,scratch,D,28.0,L,"6'4""",219.0,8475762.0,Boston Bruins
 BOS,Andrew Peeke,scratch,D,52.0,R,"6'3""",194.0,8479369.0,Boston Bruins
 BUF,JJ Peterka,1st line,LW,77,L,"5'11""",192,8482175.0,Buffalo Sabres
 BUF,Tage Thompson,1st line,C,72,R,"6'6""",215,8479420.0,Buffalo Sabres
@@ -319,6 +319,7 @@ FLA,Rasmus Asplund,scratch,F,74.0,L,"5'11""",190.0,8479335.0,Florida Panthers
 FLA,William Lockwood,scratch,F,67.0,R,"5'11""",172.0,8479367.0,Florida Panthers
 FLA,Mackie Samoskevich,scratch,F,25.0,R,"5'11""",190.0,8482713.0,Florida Panthers
 FLA,Justin Sourdif,scratch,F,24.0,R,"5'11""",173.0,8482088.0,Florida Panthers
+FLA,Patrick Giles,scratch,F,36.0,R,"6'4""",201.0,0.0,Florida Panthers
 FLA,Uvis Balinskis,scratch,D,26.0,L,"6'0""",187.0,8484304.0,Florida Panthers
 FLA,Josh Mahura,scratch,D,28.0,L,"6'0""",190.0,8479372.0,Florida Panthers
 FLA,Tobias Bjornfot,scratch,D,2.0,L,"6'0""",202.0,8481600.0,Florida Panthers
