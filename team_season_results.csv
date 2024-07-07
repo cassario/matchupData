@@ -1,399 +1,431 @@
-season,team,conference,division,points,wins,reg_wins,nhl_place,conference_place,division_place,round_numeric,description
-20102011,VAN,Western,Northwest,117,54,46,1,1.0,1,4.0,Stanley-Cup-Final: Lost to BOS in 7 games
-20102011,WSH,Eastern,Southeast,107,48,34,2,1.0,1,2.0,Conference-Semifinals: Lost to TBL in 4 games
-20102011,PHI,Eastern,Atlantic,106,47,41,3,2.0,1,2.0,Conference-Semifinals: Lost to BOS in 4 games
-20102011,PIT,Eastern,Atlantic,106,49,34,4,3.0,2,1.0,Conference-Quarterfinals: Lost to TBL in 7 games
-20102011,SJS,Western,Pacific,105,48,38,5,2.0,1,3.0,Conference-Finals: Lost to VAN in 5 games
-20102011,DET,Western,Central,104,47,34,6,3.0,1,2.0,Conference-Semifinals: Lost to SJS in 7 games
-20102011,BOS,Eastern,Northeast,103,46,43,7,4.0,1,4.0,Stanley-Cup-Final: Defeated VAN in 7 games
-20102011,TBL,Eastern,Southeast,103,46,32,8,5.0,2,3.0,Conference-Finals: Lost to BOS in 7 games
-20102011,ANA,Western,Pacific,99,47,34,9,4.0,2,1.0,Conference-Quarterfinals: Lost to NSH in 6 games
-20102011,NSH,Western,Central,99,44,36,10,5.0,2,2.0,Conference-Semifinals: Lost to VAN in 6 games
-20102011,PHX,Western,Pacific,99,43,36,11,6.0,3,1.0,Conference-Quarterfinals: Lost to DET in 4 games
-20102011,LAK,Western,Pacific,98,46,35,12,7.0,4,1.0,Conference-Quarterfinals: Lost to SJS in 6 games
-20102011,CHI,Western,Central,97,44,34,13,8.0,3,1.0,Conference-Quarterfinals: Lost to VAN in 7 games
-20102011,MTL,Eastern,Northeast,96,44,36,14,6.0,2,1.0,Conference-Quarterfinals: Lost to BOS in 7 games
-20102011,BUF,Eastern,Northeast,96,43,28,15,7.0,3,1.0,Conference-Quarterfinals: Lost to PHI in 7 games
-20102011,DAL,Western,Pacific,95,42,32,16,9.0,5,0.0,
-20102011,CGY,Western,Northwest,94,41,30,17,10.0,2,0.0,
-20102011,NYR,Eastern,Atlantic,93,44,32,18,8.0,3,1.0,Conference-Quarterfinals: Lost to WSH in 5 games
-20102011,CAR,Eastern,Southeast,91,40,29,19,9.0,3,0.0,
-20102011,STL,Western,Central,87,38,31,20,11.0,4,0.0,
-20102011,MIN,Western,Northwest,86,39,31,21,12.0,3,0.0,
-20102011,TOR,Eastern,Northeast,85,37,30,22,10.0,4,0.0,
-20102011,NJD,Eastern,Atlantic,81,38,28,23,11.0,4,0.0,
-20102011,CBJ,Western,Central,81,34,24,24,13.0,5,0.0,
-20102011,ATL,Eastern,Southeast,80,34,19,25,12.0,4,0.0,
-20102011,OTT,Eastern,Northeast,74,32,28,26,13.0,5,0.0,
-20102011,NYI,Eastern,Atlantic,73,30,19,27,14.0,5,0.0,
-20102011,FLA,Eastern,Southeast,72,30,20,28,15.0,5,0.0,
-20102011,COL,Western,Northwest,68,30,18,29,14.0,4,0.0,
-20102011,EDM,Western,Northwest,62,25,21,30,15.0,5,0.0,
-20112012,VAN,Western,Northwest,111,51,36,1,1.0,1,1.0,Conference-Quarterfinals: Lost to LAK in 5 games
-20112012,NYR,Eastern,Atlantic,109,51,39,2,1.0,1,3.0,Conference-Finals: Lost to NJD in 6 games
-20112012,STL,Western,Central,109,49,42,3,2.0,1,2.0,Conference-Semifinals: Lost to LAK in 4 games
-20112012,PIT,Eastern,Atlantic,108,51,40,4,2.0,2,1.0,Conference-Quarterfinals: Lost to PHI in 6 games
-20112012,NSH,Western,Central,104,48,40,5,3.0,2,2.0,Conference-Semifinals: Lost to PHX in 5 games
-20112012,PHI,Eastern,Atlantic,103,47,37,6,3.0,3,2.0,Conference-Semifinals: Lost to NJD in 5 games
-20112012,BOS,Eastern,Northeast,102,49,38,7,4.0,1,1.0,Conference-Quarterfinals: Lost to WSH in 7 games
-20112012,DET,Western,Central,102,48,36,8,4.0,3,1.0,Conference-Quarterfinals: Lost to NSH in 5 games
-20112012,NJD,Eastern,Atlantic,102,48,32,9,5.0,4,4.0,Stanley-Cup-Final: Lost to LAK in 6 games
-20112012,CHI,Western,Central,101,45,34,10,5.0,4,1.0,Conference-Quarterfinals: Lost to PHX in 6 games
-20112012,PHX,Western,Pacific,97,42,33,11,6.0,1,3.0,Conference-Finals: Lost to LAK in 5 games
-20112012,SJS,Western,Pacific,96,43,31,12,7.0,2,1.0,Conference-Quarterfinals: Lost to STL in 5 games
-20112012,LAK,Western,Pacific,95,40,31,13,8.0,3,4.0,Stanley-Cup-Final: Defeated NJD in 6 games
-20112012,FLA,Eastern,Southeast,94,38,31,14,6.0,1,1.0,Conference-Quarterfinals: Lost to NJD in 7 games
-20112012,WSH,Eastern,Southeast,92,42,31,15,7.0,2,2.0,Conference-Semifinals: Lost to NYR in 7 games
-20112012,OTT,Eastern,Northeast,92,41,30,16,8.0,2,1.0,Conference-Quarterfinals: Lost to NYR in 7 games
-20112012,CGY,Western,Northwest,90,37,32,17,9.0,2,0.0,
-20112012,DAL,Western,Pacific,89,42,31,18,10.0,4,0.0,
-20112012,BUF,Eastern,Northeast,89,39,27,19,9.0,3,0.0,
-20112012,COL,Western,Northwest,88,41,25,20,11.0,3,0.0,
-20112012,TBL,Eastern,Southeast,84,38,25,21,10.0,3,0.0,
-20112012,WPG,Eastern,Southeast,84,37,27,22,11.0,4,0.0,
-20112012,CAR,Eastern,Southeast,82,33,29,23,12.0,5,0.0,
-20112012,MIN,Western,Northwest,81,35,22,24,12.0,4,0.0,
-20112012,ANA,Western,Pacific,80,34,29,25,13.0,5,0.0,
-20112012,TOR,Eastern,Northeast,80,35,26,26,13.0,4,0.0,
-20112012,NYI,Eastern,Atlantic,79,34,24,27,14.0,5,0.0,
-20112012,MTL,Eastern,Northeast,78,31,24,28,15.0,5,0.0,
-20112012,EDM,Western,Northwest,74,32,25,29,14.0,5,0.0,
-20112012,CBJ,Western,Central,65,29,23,30,15.0,5,0.0,
-20122013,CHI,Western,Central,77,36,25,1,1.0,1,4.0,Stanley-Cup-Final: Defeated BOS in 6 games
-20122013,PIT,Eastern,Atlantic,72,36,31,2,1.0,1,3.0,Conference-Finals: Lost to BOS in 4 games
-20122013,ANA,Western,Pacific,66,30,23,3,2.0,1,1.0,Conference-Quarterfinals: Lost to DET in 7 games
-20122013,MTL,Eastern,Northeast,63,29,24,4,2.0,1,1.0,Conference-Quarterfinals: Lost to OTT in 5 games
-20122013,BOS,Eastern,Northeast,62,28,23,5,3.0,2,4.0,Stanley-Cup-Final: Lost to CHI in 6 games
-20122013,STL,Western,Central,60,29,20,6,3.0,2,1.0,Conference-Quarterfinals: Lost to LAK in 6 games
-20122013,LAK,Western,Pacific,59,27,24,7,4.0,2,3.0,Conference-Finals: Lost to CHI in 5 games
-20122013,VAN,Western,Northwest,59,26,20,8,5.0,1,1.0,Conference-Quarterfinals: Lost to SJS in 4 games
-20122013,TOR,Eastern,Northeast,57,26,24,9,4.0,3,1.0,Conference-Quarterfinals: Lost to BOS in 7 games
-20122013,WSH,Eastern,Southeast,57,27,20,10,5.0,1,1.0,Conference-Quarterfinals: Lost to NYR in 7 games
-20122013,SJS,Western,Pacific,57,25,17,11,6.0,3,2.0,Conference-Semifinals: Lost to LAK in 7 games
-20122013,NYR,Eastern,Atlantic,56,26,18,12,6.0,2,2.0,Conference-Semifinals: Lost to BOS in 5 games
-20122013,DET,Western,Central,56,24,20,13,7.0,3,2.0,Conference-Semifinals: Lost to CHI in 7 games
-20122013,OTT,Eastern,Northeast,56,25,19,14,7.0,4,2.0,Conference-Semifinals: Lost to PIT in 5 games
-20122013,MIN,Western,Northwest,55,26,19,15,8.0,2,1.0,Conference-Quarterfinals: Lost to CHI in 5 games
-20122013,NYI,Eastern,Atlantic,55,24,18,16,8.0,3,1.0,Conference-Quarterfinals: Lost to PIT in 6 games
-20122013,CBJ,Western,Central,55,24,14,17,9.0,4,0.0,
-20122013,WPG,Eastern,Southeast,51,24,18,18,9.0,2,0.0,
-20122013,PHX,Western,Pacific,51,21,16,19,10.0,4,0.0,
-20122013,PHI,Eastern,Atlantic,49,23,20,20,10.0,4,0.0,
-20122013,DAL,Western,Pacific,48,22,18,21,11.0,5,0.0,
-20122013,NJD,Eastern,Atlantic,48,19,16,22,11.0,5,0.0,
-20122013,BUF,Eastern,Northeast,48,21,13,23,12.0,5,0.0,
-20122013,EDM,Western,Northwest,45,19,15,24,12.0,3,0.0,
-20122013,CGY,Western,Northwest,42,19,17,25,13.0,4,0.0,
-20122013,CAR,Eastern,Southeast,42,19,17,26,13.0,3,0.0,
-20122013,NSH,Western,Central,41,16,11,27,14.0,5,0.0,
-20122013,TBL,Eastern,Southeast,40,18,16,28,14.0,4,0.0,
-20122013,COL,Western,Northwest,39,16,11,29,15.0,5,0.0,
-20122013,FLA,Eastern,Southeast,36,15,11,30,15.0,5,0.0,
-20132014,BOS,Eastern,Atlantic,117,54,47,1,1.0,1,2.0,2Nd-Round: Lost to MTL in 7 games
-20132014,ANA,Western,Pacific,116,54,44,2,1.0,1,2.0,2Nd-Round: Lost to LAK in 7 games
-20132014,COL,Western,Central,112,52,37,3,2.0,1,1.0,1St-Round: Lost to MIN in 7 games
-20132014,STL,Western,Central,111,52,40,4,3.0,2,1.0,1St-Round: Lost to CHI in 6 games
-20132014,SJS,Western,Pacific,111,51,37,5,4.0,2,1.0,1St-Round: Lost to LAK in 7 games
-20132014,PIT,Eastern,Metropolitan,109,51,40,6,2.0,1,2.0,2Nd-Round: Lost to NYR in 7 games
-20132014,CHI,Western,Central,107,46,39,7,5.0,3,3.0,Conference-Finals: Lost to LAK in 7 games
-20132014,TBL,Eastern,Atlantic,101,46,32,8,3.0,2,1.0,1St-Round: Lost to MTL in 4 games
-20132014,MTL,Eastern,Atlantic,100,46,33,9,4.0,3,3.0,Conference-Finals: Lost to NYR in 6 games
-20132014,LAK,Western,Pacific,100,46,34,10,6.0,3,4.0,Stanley-Cup-Final: Defeated NYR in 5 games
-20132014,MIN,Western,Central,98,43,32,11,7.0,4,2.0,2Nd-Round: Lost to CHI in 6 games
-20132014,NYR,Eastern,Metropolitan,96,45,39,12,5.0,2,4.0,Stanley-Cup-Final: Lost to LAK in 5 games
-20132014,PHI,Eastern,Metropolitan,94,42,35,13,6.0,3,1.0,1St-Round: Lost to NYR in 7 games
-20132014,CBJ,Eastern,Metropolitan,93,43,35,14,7.0,4,1.0,1St-Round: Lost to PIT in 6 games
-20132014,DET,Eastern,Atlantic,93,39,30,15,8.0,4,1.0,1St-Round: Lost to BOS in 5 games
-20132014,DAL,Western,Central,91,40,34,16,8.0,5,1.0,1St-Round: Lost to ANA in 6 games
-20132014,WSH,Eastern,Metropolitan,90,38,24,17,9.0,5,0.0,
-20132014,PHX,Western,Pacific,89,37,28,18,9.0,4,0.0,
-20132014,NSH,Western,Central,88,38,33,19,10.0,6,0.0,
-20132014,NJD,Eastern,Metropolitan,88,35,26,20,10.0,6,0.0,
-20132014,OTT,Eastern,Atlantic,88,37,27,21,11.0,5,0.0,
-20132014,WPG,Western,Central,84,37,24,22,11.0,7,0.0,
-20132014,TOR,Eastern,Atlantic,84,38,24,23,12.0,6,0.0,
-20132014,CAR,Eastern,Metropolitan,83,36,30,24,13.0,7,0.0,
-20132014,VAN,Western,Pacific,83,36,25,25,12.0,5,0.0,
-20132014,NYI,Eastern,Metropolitan,79,34,21,26,14.0,8,0.0,
-20132014,CGY,Western,Pacific,77,35,21,27,13.0,6,0.0,
-20132014,EDM,Western,Pacific,67,29,20,28,14.0,7,0.0,
-20132014,FLA,Eastern,Atlantic,66,29,21,29,15.0,7,0.0,
-20132014,BUF,Eastern,Atlantic,52,21,11,30,16.0,8,0.0,
-20142015,NYR,Eastern,Metropolitan,113,53,43,1,1.0,1,3.0,Conference-Finals: Lost to TBL in 7 games
-20142015,MTL,Eastern,Atlantic,110,50,37,2,2.0,1,2.0,2Nd-Round: Lost to TBL in 6 games
-20142015,ANA,Western,Pacific,109,51,35,3,1.0,1,3.0,Conference-Finals: Lost to CHI in 7 games
-20142015,STL,Western,Central,109,51,37,4,2.0,1,1.0,1St-Round: Lost to MIN in 6 games
-20142015,TBL,Eastern,Atlantic,108,50,43,5,3.0,2,4.0,Stanley-Cup-Final: Lost to CHI in 6 games
-20142015,NSH,Western,Central,104,47,33,6,3.0,2,1.0,1St-Round: Lost to CHI in 6 games
-20142015,CHI,Western,Central,102,48,36,7,4.0,3,4.0,Stanley-Cup-Final: Defeated TBL in 6 games
-20142015,VAN,Western,Pacific,101,48,36,8,5.0,2,1.0,1St-Round: Lost to CGY in 6 games
-20142015,WSH,Eastern,Metropolitan,101,45,35,9,4.0,2,2.0,2Nd-Round: Lost to NYR in 7 games
-20142015,NYI,Eastern,Metropolitan,101,47,34,10,5.0,3,1.0,1St-Round: Lost to WSH in 7 games
-20142015,MIN,Western,Central,100,46,38,11,6.0,4,2.0,2Nd-Round: Lost to CHI in 4 games
-20142015,DET,Eastern,Atlantic,100,43,32,12,6.0,3,1.0,1St-Round: Lost to TBL in 7 games
-20142015,OTT,Eastern,Atlantic,99,43,30,13,7.0,4,1.0,1St-Round: Lost to MTL in 6 games
-20142015,WPG,Western,Central,99,43,32,14,7.0,5,1.0,1St-Round: Lost to ANA in 4 games
-20142015,PIT,Eastern,Metropolitan,98,43,33,15,8.0,4,1.0,1St-Round: Lost to NYR in 5 games
-20142015,CGY,Western,Pacific,97,45,32,16,8.0,3,2.0,2Nd-Round: Lost to ANA in 5 games
-20142015,BOS,Eastern,Atlantic,96,41,28,17,9.0,5,0.0,
-20142015,LAK,Western,Pacific,95,40,37,18,9.0,4,0.0,
-20142015,DAL,Western,Central,92,41,33,19,10.0,6,0.0,
-20142015,FLA,Eastern,Atlantic,91,38,29,20,10.0,6,0.0,
-20142015,COL,Western,Central,90,39,27,21,11.0,7,0.0,
-20142015,SJS,Western,Pacific,89,40,34,22,12.0,5,0.0,
-20142015,CBJ,Eastern,Metropolitan,89,42,28,23,11.0,5,0.0,
-20142015,PHI,Eastern,Metropolitan,84,33,25,24,12.0,6,0.0,
-20142015,NJD,Eastern,Metropolitan,78,32,26,25,13.0,7,0.0,
-20142015,CAR,Eastern,Metropolitan,71,30,24,26,14.0,8,0.0,
-20142015,TOR,Eastern,Atlantic,68,30,22,27,15.0,7,0.0,
-20142015,EDM,Western,Pacific,62,24,17,28,13.0,6,0.0,
-20142015,ARI,Western,Pacific,56,24,14,29,14.0,7,0.0,
-20142015,BUF,Eastern,Atlantic,54,23,14,30,16.0,8,0.0,
-20152016,WSH,Eastern,Metropolitan,120,56,45,1,1.0,1,2.0,2Nd-Round: Lost to PIT in 6 games
-20152016,DAL,Western,Central,109,50,42,2,1.0,1,2.0,2Nd-Round: Lost to STL in 7 games
-20152016,STL,Western,Central,107,49,36,3,2.0,2,3.0,Conference-Finals: Lost to SJS in 6 games
-20152016,PIT,Eastern,Metropolitan,104,48,38,4,2.0,2,4.0,Stanley-Cup-Final: Defeated SJS in 6 games
-20152016,CHI,Western,Central,103,47,36,5,3.0,3,1.0,1St-Round: Lost to STL in 7 games
-20152016,ANA,Western,Pacific,103,46,39,6,4.0,1,1.0,1St-Round: Lost to NSH in 7 games
-20152016,FLA,Eastern,Atlantic,103,47,39,7,3.0,1,1.0,1St-Round: Lost to NYI in 6 games
-20152016,LAK,Western,Pacific,102,48,34,8,5.0,2,1.0,1St-Round: Lost to SJS in 5 games
-20152016,NYR,Eastern,Metropolitan,101,46,39,9,4.0,3,1.0,1St-Round: Lost to PIT in 5 games
-20152016,NYI,Eastern,Metropolitan,100,45,34,10,5.0,4,2.0,2Nd-Round: Lost to TBL in 5 games
-20152016,SJS,Western,Pacific,98,46,37,11,6.0,3,4.0,Stanley-Cup-Final: Lost to PIT in 6 games
-20152016,TBL,Eastern,Atlantic,97,46,36,12,6.0,2,3.0,Conference-Finals: Lost to PIT in 7 games
-20152016,PHI,Eastern,Metropolitan,96,41,28,13,7.0,5,1.0,1St-Round: Lost to WSH in 6 games
-20152016,NSH,Western,Central,96,41,35,14,7.0,4,2.0,2Nd-Round: Lost to SJS in 7 games
-20152016,DET,Eastern,Atlantic,93,41,30,15,8.0,3,1.0,1St-Round: Lost to TBL in 5 games
-20152016,BOS,Eastern,Atlantic,93,42,33,16,9.0,4,0.0,
-20152016,MIN,Western,Central,87,38,34,17,8.0,5,1.0,1St-Round: Lost to DAL in 6 games
-20152016,CAR,Eastern,Metropolitan,86,35,25,18,10.0,6,0.0,
-20152016,OTT,Eastern,Atlantic,85,38,26,19,11.0,5,0.0,
-20152016,NJD,Eastern,Metropolitan,84,38,27,20,12.0,7,0.0,
-20152016,COL,Western,Central,82,39,33,21,9.0,6,0.0,
-20152016,MTL,Eastern,Atlantic,82,38,30,22,13.0,6,0.0,
-20152016,BUF,Eastern,Atlantic,81,35,29,23,14.0,7,0.0,
-20152016,ARI,Western,Pacific,78,35,29,24,10.0,4,0.0,
-20152016,WPG,Western,Central,78,35,29,25,11.0,7,0.0,
-20152016,CGY,Western,Pacific,77,35,24,26,12.0,5,0.0,
-20152016,CBJ,Eastern,Metropolitan,76,34,26,27,15.0,8,0.0,
-20152016,VAN,Western,Pacific,75,31,22,28,13.0,6,0.0,
-20152016,EDM,Western,Pacific,70,31,20,29,14.0,7,0.0,
-20152016,TOR,Eastern,Atlantic,69,29,20,30,16.0,8,0.0,
-20162017,WSH,Eastern,Metropolitan,118,55,45,1,1.0,1,2.0,2Nd-Round: Lost to PIT in 7 games
-20162017,PIT,Eastern,Metropolitan,111,50,40,2,2.0,2,4.0,Stanley-Cup-Final: Defeated NSH in 6 games
-20162017,CHI,Western,Central,109,50,37,3,1.0,1,1.0,1St-Round: Lost to NSH in 4 games
-20162017,CBJ,Eastern,Metropolitan,108,50,39,4,3.0,3,1.0,1St-Round: Lost to PIT in 5 games
-20162017,MIN,Western,Central,106,49,42,5,2.0,2,1.0,1St-Round: Lost to STL in 5 games
-20162017,ANA,Western,Pacific,105,46,40,6,3.0,1,3.0,Conference-Finals: Lost to NSH in 6 games
-20162017,MTL,Eastern,Atlantic,103,47,33,7,4.0,1,1.0,1St-Round: Lost to NYR in 6 games
-20162017,EDM,Western,Pacific,103,47,37,8,4.0,2,2.0,2Nd-Round: Lost to ANA in 7 games
-20162017,NYR,Eastern,Metropolitan,102,48,40,9,5.0,4,2.0,2Nd-Round: Lost to OTT in 6 games
-20162017,STL,Western,Central,99,46,38,10,5.0,3,2.0,2Nd-Round: Lost to NSH in 6 games
-20162017,SJS,Western,Pacific,99,46,38,11,6.0,3,1.0,1St-Round: Lost to EDM in 6 games
-20162017,OTT,Eastern,Atlantic,98,44,34,12,6.0,2,3.0,Conference-Finals: Lost to PIT in 7 games
-20162017,BOS,Eastern,Atlantic,95,44,38,13,7.0,3,1.0,1St-Round: Lost to OTT in 6 games
-20162017,TOR,Eastern,Atlantic,95,40,33,14,8.0,4,1.0,1St-Round: Lost to WSH in 6 games
-20162017,CGY,Western,Pacific,94,45,32,15,7.0,4,1.0,1St-Round: Lost to ANA in 4 games
-20162017,NSH,Western,Central,94,41,35,16,8.0,4,4.0,Stanley-Cup-Final: Lost to PIT in 6 games
-20162017,NYI,Eastern,Metropolitan,94,41,33,17,9.0,5,0.0,
-20162017,TBL,Eastern,Atlantic,94,42,32,18,10.0,5,0.0,
-20162017,PHI,Eastern,Metropolitan,88,39,25,19,11.0,6,0.0,
-20162017,WPG,Western,Central,87,40,33,20,9.0,5,0.0,
-20162017,CAR,Eastern,Metropolitan,87,36,28,21,12.0,7,0.0,
-20162017,LAK,Western,Pacific,86,39,25,22,10.0,5,0.0,
-20162017,FLA,Eastern,Atlantic,81,35,23,23,13.0,6,0.0,
-20162017,DAL,Western,Central,79,34,28,24,11.0,6,0.0,
-20162017,DET,Eastern,Atlantic,79,33,17,25,14.0,7,0.0,
-20162017,BUF,Eastern,Atlantic,78,33,25,26,15.0,8,0.0,
-20162017,NJD,Eastern,Metropolitan,70,28,18,27,16.0,8,0.0,
-20162017,ARI,Western,Pacific,70,30,20,28,12.0,6,0.0,
-20162017,VAN,Western,Pacific,69,30,19,29,13.0,7,0.0,
-20162017,COL,Western,Central,48,22,14,30,14.0,7,0.0,
-20172018,NSH,Western,Central,117,53,42,1,1.0,1,2.0,2Nd-Round: Lost to WPG in 7 games
-20172018,WPG,Western,Central,114,52,43,2,2.0,2,3.0,Conference-Finals: Lost to VGK in 5 games
-20172018,TBL,Eastern,Atlantic,113,54,42,3,1.0,1,3.0,Conference-Finals: Lost to WSH in 7 games
-20172018,BOS,Eastern,Atlantic,112,50,41,4,2.0,2,2.0,2Nd-Round: Lost to TBL in 5 games
-20172018,VGK,Western,Pacific,109,51,39,5,3.0,1,4.0,Stanley-Cup-Final: Lost to WSH in 5 games
-20172018,WSH,Eastern,Metropolitan,105,49,38,6,3.0,1,4.0,Stanley-Cup-Final: Defeated VGK in 5 games
-20172018,TOR,Eastern,Atlantic,105,49,37,7,4.0,3,1.0,1St-Round: Lost to BOS in 7 games
-20172018,MIN,Western,Central,101,45,38,8,4.0,3,1.0,1St-Round: Lost to WPG in 5 games
-20172018,ANA,Western,Pacific,101,44,35,9,5.0,2,1.0,1St-Round: Lost to SJS in 4 games
-20172018,PIT,Eastern,Metropolitan,100,47,33,10,5.0,2,2.0,2Nd-Round: Lost to WSH in 6 games
-20172018,SJS,Western,Pacific,100,45,35,11,6.0,3,2.0,2Nd-Round: Lost to VGK in 6 games
-20172018,LAK,Western,Pacific,98,45,34,12,7.0,4,1.0,1St-Round: Lost to VGK in 4 games
-20172018,PHI,Eastern,Metropolitan,98,42,31,13,6.0,3,1.0,1St-Round: Lost to PIT in 6 games
-20172018,CBJ,Eastern,Metropolitan,97,45,30,14,7.0,4,1.0,1St-Round: Lost to WSH in 6 games
-20172018,NJD,Eastern,Metropolitan,97,44,33,15,8.0,5,1.0,1St-Round: Lost to TBL in 5 games
-20172018,FLA,Eastern,Atlantic,96,44,38,16,9.0,4,0.0,
-20172018,COL,Western,Central,95,43,35,17,8.0,4,1.0,1St-Round: Lost to NSH in 6 games
-20172018,STL,Western,Central,94,44,33,18,9.0,5,0.0,
-20172018,DAL,Western,Central,92,42,33,19,10.0,6,0.0,
-20172018,CGY,Western,Pacific,84,37,28,20,11.0,5,0.0,
-20172018,CAR,Eastern,Metropolitan,83,36,30,21,10.0,6,0.0,
-20172018,NYI,Eastern,Metropolitan,80,35,25,22,11.0,7,0.0,
-20172018,EDM,Western,Pacific,78,36,24,23,12.0,6,0.0,
-20172018,NYR,Eastern,Metropolitan,77,34,24,24,12.0,8,0.0,
-20172018,CHI,Western,Central,76,33,26,25,13.0,7,0.0,
-20172018,VAN,Western,Pacific,73,31,25,26,14.0,7,0.0,
-20172018,DET,Eastern,Atlantic,73,30,22,27,13.0,5,0.0,
-20172018,MTL,Eastern,Atlantic,71,29,24,28,14.0,6,0.0,
-20172018,ARI,Western,Pacific,70,29,20,29,15.0,8,0.0,
-20172018,OTT,Eastern,Atlantic,67,28,18,30,15.0,7,0.0,
-20172018,BUF,Eastern,Atlantic,62,25,19,31,16.0,8,0.0,
-20182019,TBL,Eastern,Atlantic,128,62,49,1,1.0,1,1.0,1St-Round: Lost to CBJ in 4 games
-20182019,CGY,Western,Pacific,107,50,45,2,1.0,1,1.0,1St-Round: Lost to COL in 5 games
-20182019,BOS,Eastern,Atlantic,107,49,38,3,2.0,2,4.0,Stanley-Cup-Final: Lost to STL in 7 games
-20182019,WSH,Eastern,Metropolitan,104,48,39,4,3.0,1,1.0,1St-Round: Lost to CAR in 7 games
-20182019,NYI,Eastern,Metropolitan,103,48,37,5,4.0,2,2.0,2Nd-Round: Lost to CAR in 4 games
-20182019,SJS,Western,Pacific,101,46,38,6,2.0,2,3.0,Conference-Finals: Lost to STL in 6 games
-20182019,TOR,Eastern,Atlantic,100,46,40,7,5.0,3,1.0,1St-Round: Lost to BOS in 7 games
-20182019,NSH,Western,Central,100,47,38,8,3.0,1,1.0,1St-Round: Lost to DAL in 6 games
-20182019,PIT,Eastern,Metropolitan,100,44,37,9,6.0,3,1.0,1St-Round: Lost to NYI in 4 games
-20182019,WPG,Western,Central,99,47,38,10,4.0,2,1.0,1St-Round: Lost to STL in 6 games
-20182019,CAR,Eastern,Metropolitan,99,46,39,11,7.0,4,3.0,Conference-Finals: Lost to BOS in 4 games
-20182019,STL,Western,Central,99,45,36,12,5.0,3,4.0,Stanley-Cup-Final: Defeated BOS in 7 games
-20182019,CBJ,Eastern,Metropolitan,98,47,37,13,8.0,5,2.0,2Nd-Round: Lost to BOS in 6 games
-20182019,MTL,Eastern,Atlantic,96,44,37,14,9.0,4,0.0,
-20182019,DAL,Western,Central,93,43,36,15,6.0,4,2.0,2Nd-Round: Lost to STL in 7 games
-20182019,VGK,Western,Pacific,93,43,36,16,7.0,3,1.0,1St-Round: Lost to SJS in 7 games
-20182019,COL,Western,Central,90,38,33,17,8.0,5,2.0,2Nd-Round: Lost to SJS in 7 games
-20182019,ARI,Western,Pacific,86,39,30,18,9.0,4,0.0,
-20182019,FLA,Eastern,Atlantic,86,36,26,19,10.0,5,0.0,
-20182019,CHI,Western,Central,84,36,24,20,10.0,6,0.0,
-20182019,MIN,Western,Central,83,37,33,21,11.0,7,0.0,
-20182019,PHI,Eastern,Metropolitan,82,37,28,22,11.0,6,0.0,
-20182019,VAN,Western,Pacific,81,35,22,23,12.0,5,0.0,
-20182019,ANA,Western,Pacific,80,35,27,24,13.0,6,0.0,
-20182019,EDM,Western,Pacific,79,35,24,25,14.0,7,0.0,
-20182019,NYR,Eastern,Metropolitan,78,32,23,26,12.0,7,0.0,
-20182019,BUF,Eastern,Atlantic,76,33,21,27,13.0,6,0.0,
-20182019,DET,Eastern,Atlantic,74,32,20,28,14.0,7,0.0,
-20182019,NJD,Eastern,Metropolitan,72,31,24,29,15.0,8,0.0,
-20182019,LAK,Western,Pacific,71,31,22,30,15.0,8,0.0,
-20182019,OTT,Eastern,Atlantic,64,29,23,31,16.0,8,0.0,
-20192020,BOS,Eastern,Atlantic,100,44,38,1,1.0,1,2.0,2Nd-Round: Lost to TBL in 5 games
-20192020,STL,Western,Central,94,42,33,2,1.0,1,1.0,1St-Round: Lost to VAN in 6 games
-20192020,COL,Western,Central,92,42,37,3,2.0,2,2.0,2Nd-Round: Lost to DAL in 7 games
-20192020,TBL,Eastern,Atlantic,92,43,35,4,2.0,2,4.0,Stanley-Cup-Final: Defeated DAL in 6 games
-20192020,WSH,Eastern,Metropolitan,90,41,31,5,3.0,1,1.0,1St-Round: Lost to NYI in 5 games
-20192020,PHI,Eastern,Metropolitan,89,41,31,6,4.0,2,2.0,2Nd-Round: Lost to NYI in 7 games
-20192020,PIT,Eastern,Metropolitan,86,40,29,7,5.0,3,0.0,Stanley-Cup-Qualifiers: Lost to MTL in 4 games
-20192020,VGK,Western,Pacific,86,39,30,8,3.0,1,3.0,Conference-Finals: Lost to DAL in 5 games
-20192020,CAR,Eastern,Metropolitan,81,38,27,9,6.0,4,1.0,1St-Round: Lost to BOS in 5 games
-20192020,DAL,Western,Central,82,37,26,10,4.0,3,4.0,Stanley-Cup-Final: Lost to TBL in 6 games
-20192020,NYI,Eastern,Metropolitan,80,35,24,11,7.0,5,3.0,Conference-Finals: Lost to TBL in 6 games
-20192020,EDM,Western,Pacific,83,37,31,12,5.0,2,0.0,Stanley-Cup-Qualifiers: Lost to CHI in 4 games
-20192020,TOR,Eastern,Atlantic,81,36,28,13,8.0,3,0.0,Stanley-Cup-Qualifiers: Lost to CBJ in 5 games
-20192020,CBJ,Eastern,Metropolitan,81,33,25,14,9.0,6,1.0,1St-Round: Lost to TBL in 5 games
-20192020,FLA,Eastern,Atlantic,78,35,30,15,10.0,4,0.0,Stanley-Cup-Qualifiers: Lost to NYI in 4 games
-20192020,NSH,Western,Central,78,35,28,16,6.0,4,0.0,Stanley-Cup-Qualifiers: Lost to ARI in 4 games
-20192020,VAN,Western,Pacific,78,36,27,17,7.0,3,2.0,2Nd-Round: Lost to VGK in 7 games
-20192020,NYR,Eastern,Metropolitan,79,37,31,18,11.0,7,0.0,Stanley-Cup-Qualifiers: Lost to CAR in 3 games
-20192020,CGY,Western,Pacific,79,36,25,19,8.0,4,1.0,1St-Round: Lost to DAL in 6 games
-20192020,WPG,Western,Central,80,37,30,20,9.0,5,0.0,Stanley-Cup-Qualifiers: Lost to CGY in 4 games
-20192020,MIN,Western,Central,77,35,30,21,10.0,6,0.0,Stanley-Cup-Qualifiers: Lost to VAN in 4 games
-20192020,ARI,Western,Pacific,74,33,26,22,11.0,5,1.0,1St-Round: Lost to COL in 5 games
-20192020,CHI,Western,Central,72,32,23,23,12.0,7,1.0,1St-Round: Lost to VGK in 5 games
-20192020,MTL,Eastern,Atlantic,71,31,19,24,12.0,5,1.0,1St-Round: Lost to PHI in 6 games
-20192020,BUF,Eastern,Atlantic,68,30,22,25,13.0,6,0.0,
-20192020,NJD,Eastern,Metropolitan,68,28,22,26,14.0,8,0.0,
-20192020,ANA,Western,Pacific,67,29,20,27,13.0,6,0.0,
-20192020,LAK,Western,Pacific,64,29,21,28,14.0,7,0.0,
-20192020,SJS,Western,Pacific,63,29,22,29,15.0,8,0.0,
-20192020,OTT,Eastern,Atlantic,62,25,18,30,15.0,7,0.0,
-20192020,DET,Eastern,Atlantic,39,17,13,31,16.0,8,0.0,
-20202021,COL,,Honda West,82,39,35,1,,1,2.0,2Nd-Round: Lost to VGK in 6 games
-20202021,VGK,,Honda West,82,40,30,2,,2,3.0,Stanley-Cup-Semifinals: Lost to MTL in 6 games
-20202021,CAR,,Discover Central,80,36,27,3,,1,2.0,2Nd-Round: Lost to TBL in 5 games
-20202021,FLA,,Discover Central,79,37,26,4,,2,1.0,1St-Round: Lost to TBL in 6 games
-20202021,PIT,,MassMutual East,77,37,29,5,,1,1.0,1St-Round: Lost to NYI in 6 games
-20202021,TOR,,Scotia North,77,35,29,6,,1,1.0,1St-Round: Lost to MTL in 7 games
-20202021,WSH,,MassMutual East,77,36,29,7,,2,1.0,1St-Round: Lost to BOS in 5 games
-20202021,TBL,,Discover Central,75,36,29,8,,3,4.0,Stanley-Cup-Final: Defeated MTL in 5 games
-20202021,MIN,,Honda West,75,35,27,9,,3,1.0,1St-Round: Lost to VGK in 7 games
-20202021,BOS,,MassMutual East,73,33,25,10,,3,2.0,2Nd-Round: Lost to NYI in 6 games
-20202021,EDM,,Scotia North,72,35,31,11,,2,1.0,1St-Round: Lost to WPG in 4 games
-20202021,NYI,,MassMutual East,71,32,24,12,,4,3.0,Stanley-Cup-Semifinals: Lost to TBL in 7 games
-20202021,NSH,,Discover Central,64,31,21,13,,4,1.0,1St-Round: Lost to CAR in 6 games
-20202021,WPG,,Scotia North,63,30,24,14,,3,2.0,2Nd-Round: Lost to MTL in 4 games
-20202021,STL,,Honda West,63,27,19,15,,4,1.0,1St-Round: Lost to COL in 4 games
-20202021,NYR,,MassMutual East,60,27,24,16,,5,0.0,
-20202021,DAL,,Discover Central,60,23,17,17,,5,0.0,
-20202021,MTL,,Scotia North,59,24,20,18,,4,4.0,Stanley-Cup-Final: Lost to TBL in 5 games
-20202021,PHI,,MassMutual East,58,25,17,19,,6,0.0,
-20202021,CGY,,Scotia North,55,26,22,20,,5,0.0,
-20202021,CHI,,Discover Central,55,24,15,21,,6,0.0,
-20202021,ARI,,Honda West,54,24,19,22,,5,0.0,
-20202021,OTT,,Scotia North,51,23,18,23,,6,0.0,
-20202021,VAN,,Scotia North,50,23,17,24,,7,0.0,
-20202021,LAK,,Honda West,49,21,19,25,,6,0.0,
-20202021,SJS,,Honda West,49,21,15,26,,7,0.0,
-20202021,DET,,Discover Central,48,19,16,27,,7,0.0,
-20202021,CBJ,,Discover Central,48,18,12,28,,8,0.0,
-20202021,NJD,,MassMutual East,45,19,15,29,,7,0.0,
-20202021,ANA,,Honda West,43,17,11,30,,8,0.0,
-20202021,BUF,,MassMutual East,37,15,11,31,,8,0.0,
-20212022,FLA,Eastern,Atlantic,122,58,42,1,1.0,1,2.0,2Nd-Round: Lost to TBL in 4 games
-20212022,COL,Western,Central,119,56,46,2,1.0,1,4.0,Stanley-Cup-Final: Defeated TBL in 6 games
-20212022,CAR,Eastern,Metropolitan,116,54,47,3,2.0,1,2.0,2Nd-Round: Lost to NYR in 7 games
-20212022,TOR,Eastern,Atlantic,115,54,45,4,3.0,2,1.0,1St-Round: Lost to TBL in 7 games
-20212022,MIN,Western,Central,113,53,37,5,2.0,2,1.0,1St-Round: Lost to STL in 6 games
-20212022,CGY,Western,Pacific,111,50,44,6,3.0,1,2.0,2Nd-Round: Lost to EDM in 5 games
-20212022,NYR,Eastern,Metropolitan,110,52,44,7,4.0,2,3.0,Conference-Finals: Lost to TBL in 6 games
-20212022,TBL,Eastern,Atlantic,110,51,39,8,5.0,3,4.0,Stanley-Cup-Final: Lost to COL in 6 games
-20212022,STL,Western,Central,109,49,43,9,4.0,3,2.0,2Nd-Round: Lost to COL in 6 games
-20212022,BOS,Eastern,Atlantic,107,51,40,10,6.0,4,1.0,1St-Round: Lost to CAR in 7 games
-20212022,EDM,Western,Pacific,104,49,38,11,5.0,2,3.0,Conference-Finals: Lost to COL in 4 games
-20212022,PIT,Eastern,Metropolitan,103,46,37,12,7.0,3,1.0,1St-Round: Lost to NYR in 7 games
-20212022,WSH,Eastern,Metropolitan,100,44,35,13,8.0,4,1.0,1St-Round: Lost to FLA in 6 games
-20212022,LAK,Western,Pacific,99,44,35,14,6.0,3,1.0,1St-Round: Lost to EDM in 7 games
-20212022,DAL,Western,Central,98,46,31,15,7.0,4,1.0,1St-Round: Lost to CGY in 7 games
-20212022,NSH,Western,Central,97,45,35,16,8.0,5,1.0,1St-Round: Lost to COL in 4 games
-20212022,VGK,Western,Pacific,94,43,34,17,9.0,4,0.0,
-20212022,VAN,Western,Pacific,92,40,32,18,10.0,5,0.0,
-20212022,WPG,Western,Central,89,39,32,19,11.0,6,0.0,
-20212022,NYI,Eastern,Metropolitan,84,37,34,20,9.0,5,0.0,
-20212022,CBJ,Eastern,Metropolitan,81,37,26,21,10.0,6,0.0,
-20212022,SJS,Western,Pacific,77,32,22,22,12.0,6,0.0,
-20212022,ANA,Western,Pacific,76,31,22,23,13.0,7,0.0,
-20212022,BUF,Eastern,Atlantic,75,32,25,24,11.0,5,0.0,
-20212022,DET,Eastern,Atlantic,74,32,21,25,12.0,6,0.0,
-20212022,OTT,Eastern,Atlantic,73,33,26,26,13.0,7,0.0,
-20212022,CHI,Western,Central,68,28,16,27,14.0,7,0.0,
-20212022,NJD,Eastern,Metropolitan,63,27,19,28,14.0,7,0.0,
-20212022,PHI,Eastern,Metropolitan,61,25,20,29,15.0,8,0.0,
-20212022,SEA,Western,Pacific,60,27,23,30,15.0,8,0.0,
-20212022,ARI,Western,Central,57,25,18,31,16.0,8,0.0,
-20212022,MTL,Eastern,Atlantic,55,22,16,32,16.0,8,0.0,
-20222023,BOS,Eastern,Atlantic,135,65,54,1,1.0,1,1.0,1St-Round: Lost to FLA in 7 games
-20222023,CAR,Eastern,Metropolitan,113,52,39,2,2.0,1,3.0,Conference-Finals: Lost to FLA in 4 games
-20222023,NJD,Eastern,Metropolitan,112,52,39,3,3.0,2,2.0,2Nd-Round: Lost to CAR in 5 games
-20222023,TOR,Eastern,Atlantic,111,50,42,4,4.0,2,2.0,2Nd-Round: Lost to FLA in 5 games
-20222023,VGK,Western,Pacific,111,51,38,5,1.0,1,4.0,Stanley-Cup-Final: Defeated FLA in 5 games
-20222023,EDM,Western,Pacific,109,50,45,6,2.0,2,2.0,2Nd-Round: Lost to VGK in 6 games
-20222023,COL,Western,Central,109,51,36,7,3.0,1,1.0,1St-Round: Lost to SEA in 7 games
-20222023,DAL,Western,Central,108,47,39,8,4.0,2,3.0,Conference-Finals: Lost to VGK in 6 games
-20222023,NYR,Eastern,Metropolitan,107,47,37,9,5.0,3,1.0,1St-Round: Lost to NJD in 7 games
-20222023,LAK,Western,Pacific,104,47,37,10,5.0,3,1.0,1St-Round: Lost to EDM in 6 games
-20222023,MIN,Western,Central,103,46,34,11,6.0,3,1.0,1St-Round: Lost to DAL in 6 games
-20222023,SEA,Western,Pacific,100,46,37,12,7.0,4,2.0,2Nd-Round: Lost to DAL in 7 games
-20222023,TBL,Eastern,Atlantic,98,46,38,13,6.0,3,1.0,1St-Round: Lost to TOR in 6 games
-20222023,WPG,Western,Central,95,46,36,14,8.0,4,1.0,1St-Round: Lost to VGK in 5 games
-20222023,NYI,Eastern,Metropolitan,93,42,36,15,7.0,4,1.0,1St-Round: Lost to CAR in 6 games
-20222023,CGY,Western,Pacific,93,38,31,16,9.0,5,0.0,
-20222023,FLA,Eastern,Atlantic,92,42,36,17,8.0,4,4.0,Stanley-Cup-Final: Lost to VGK in 5 games
-20222023,NSH,Western,Central,92,42,29,18,10.0,5,0.0,
-20222023,PIT,Eastern,Metropolitan,91,40,31,19,9.0,5,0.0,
-20222023,BUF,Eastern,Atlantic,91,42,30,20,10.0,5,0.0,
-20222023,OTT,Eastern,Atlantic,86,39,31,21,11.0,6,0.0,
-20222023,VAN,Western,Pacific,83,38,24,22,11.0,6,0.0,
-20222023,STL,Western,Central,81,37,27,23,12.0,6,0.0,
-20222023,DET,Eastern,Atlantic,80,35,28,24,12.0,7,0.0,
-20222023,WSH,Eastern,Metropolitan,80,35,27,25,13.0,6,0.0,
-20222023,PHI,Eastern,Metropolitan,75,31,26,26,14.0,7,0.0,
-20222023,ARI,Western,Central,70,28,20,27,13.0,7,0.0,
-20222023,MTL,Eastern,Atlantic,68,31,21,28,15.0,8,0.0,
-20222023,SJS,Western,Pacific,60,22,16,29,14.0,7,0.0,
-20222023,CHI,Western,Central,59,26,18,30,15.0,8,0.0,
-20222023,CBJ,Eastern,Metropolitan,59,25,15,31,16.0,8,0.0,
-20222023,ANA,Western,Pacific,58,23,13,32,16.0,8,0.0,
+season,team,conference,division,points,wins,reg_wins,nhl_place,conference_place,division_place,round_numeric,description,W%,league_playoff_min,season_mod,GP,W,L,PTS,OTL
+20102011,VAN,Western,Northwest,117,54,46,1,1.0,1,4.0,Stanley-Cup-Final: Lost to BOS in 7 games,,,,82.0,54.0,19.0,117.0,9.0
+20102011,WSH,Eastern,Southeast,107,48,34,2,1.0,1,2.0,Conference-Semifinals: Lost to TBL in 4 games,,,,82.0,48.0,23.0,107.0,11.0
+20102011,PHI,Eastern,Atlantic,106,47,41,3,2.0,1,2.0,Conference-Semifinals: Lost to BOS in 4 games,,,,82.0,47.0,23.0,106.0,12.0
+20102011,PIT,Eastern,Atlantic,106,49,34,4,3.0,2,1.0,Conference-Quarterfinals: Lost to TBL in 7 games,,,,82.0,49.0,25.0,106.0,8.0
+20102011,SJS,Western,Pacific,105,48,38,5,2.0,1,3.0,Conference-Finals: Lost to VAN in 5 games,,,,82.0,48.0,25.0,105.0,9.0
+20102011,DET,Western,Central,104,47,34,6,3.0,1,2.0,Conference-Semifinals: Lost to SJS in 7 games,,,,82.0,47.0,25.0,104.0,10.0
+20102011,BOS,Eastern,Northeast,103,46,43,7,4.0,1,4.0,Stanley-Cup-Final: Defeated VAN in 7 games,,,,82.0,46.0,25.0,103.0,11.0
+20102011,TBL,Eastern,Southeast,103,46,32,8,5.0,2,3.0,Conference-Finals: Lost to BOS in 7 games,,,,82.0,46.0,25.0,103.0,11.0
+20102011,ANA,Western,Pacific,99,47,34,9,4.0,2,1.0,Conference-Quarterfinals: Lost to NSH in 6 games,,,,82.0,47.0,30.0,99.0,5.0
+20102011,NSH,Western,Central,99,44,36,10,5.0,2,2.0,Conference-Semifinals: Lost to VAN in 6 games,,,,82.0,44.0,27.0,99.0,11.0
+20102011,ARI,Western,Pacific,99,43,36,11,6.0,3,1.0,Conference-Quarterfinals: Lost to DET in 4 games,,,,,,,,
+20102011,LAK,Western,Pacific,98,46,35,12,7.0,4,1.0,Conference-Quarterfinals: Lost to SJS in 6 games,,,,82.0,46.0,30.0,98.0,6.0
+20102011,CHI,Western,Central,97,44,34,13,8.0,3,1.0,Conference-Quarterfinals: Lost to VAN in 7 games,,,,82.0,44.0,29.0,97.0,9.0
+20102011,MTL,Eastern,Northeast,96,44,36,14,6.0,2,1.0,Conference-Quarterfinals: Lost to BOS in 7 games,,,,82.0,44.0,30.0,96.0,8.0
+20102011,BUF,Eastern,Northeast,96,43,28,15,7.0,3,1.0,Conference-Quarterfinals: Lost to PHI in 7 games,,,,82.0,43.0,29.0,96.0,10.0
+20102011,DAL,Western,Pacific,95,42,32,16,9.0,5,0.0,,,,,82.0,42.0,29.0,95.0,11.0
+20102011,CGY,Western,Northwest,94,41,30,17,10.0,2,0.0,,,,,82.0,41.0,29.0,94.0,12.0
+20102011,NYR,Eastern,Atlantic,93,44,32,18,8.0,3,1.0,Conference-Quarterfinals: Lost to WSH in 5 games,,,,82.0,44.0,33.0,93.0,5.0
+20102011,CAR,Eastern,Southeast,91,40,29,19,9.0,3,0.0,,,,,82.0,40.0,31.0,91.0,11.0
+20102011,STL,Western,Central,87,38,31,20,11.0,4,0.0,,,,,82.0,38.0,33.0,87.0,11.0
+20102011,MIN,Western,Northwest,86,39,31,21,12.0,3,0.0,,,,,82.0,39.0,35.0,86.0,8.0
+20102011,TOR,Eastern,Northeast,85,37,30,22,10.0,4,0.0,,,,,82.0,37.0,34.0,85.0,11.0
+20102011,NJD,Eastern,Atlantic,81,38,28,23,11.0,4,0.0,,,,,82.0,38.0,39.0,81.0,5.0
+20102011,CBJ,Western,Central,81,34,24,24,13.0,5,0.0,,,,,82.0,34.0,35.0,81.0,13.0
+20102011,WPG,Eastern,Southeast,80,34,19,25,12.0,4,0.0,,,,,,,,,
+20102011,OTT,Eastern,Northeast,74,32,28,26,13.0,5,0.0,,,,,82.0,32.0,40.0,74.0,10.0
+20102011,NYI,Eastern,Atlantic,73,30,19,27,14.0,5,0.0,,,,,82.0,30.0,39.0,73.0,13.0
+20102011,FLA,Eastern,Southeast,72,30,20,28,15.0,5,0.0,,,,,82.0,30.0,40.0,72.0,12.0
+20102011,COL,Western,Northwest,68,30,18,29,14.0,4,0.0,,,,,82.0,30.0,44.0,68.0,8.0
+20102011,EDM,Western,Northwest,62,25,21,30,15.0,5,0.0,,,,,82.0,25.0,45.0,62.0,12.0
+20112012,VAN,Western,Northwest,111,51,36,1,1.0,1,1.0,Conference-Quarterfinals: Lost to LAK in 5 games,0.6219512195121951,0.4634146341463415,11/12,82.0,51.0,22.0,111.0,9.0
+20112012,NYR,Eastern,Atlantic,109,51,39,2,1.0,1,3.0,Conference-Finals: Lost to NJD in 6 games,0.6219512195121951,0.4634146341463415,11/12,82.0,51.0,24.0,109.0,7.0
+20112012,STL,Western,Central,109,49,42,3,2.0,1,2.0,Conference-Semifinals: Lost to LAK in 4 games,0.5975609756097561,0.4634146341463415,11/12,82.0,49.0,22.0,109.0,11.0
+20112012,PIT,Eastern,Atlantic,108,51,40,4,2.0,2,1.0,Conference-Quarterfinals: Lost to PHI in 6 games,0.6219512195121951,0.4634146341463415,11/12,82.0,51.0,25.0,108.0,6.0
+20112012,NSH,Western,Central,104,48,40,5,3.0,2,2.0,Conference-Semifinals: Lost to PHX in 5 games,0.5853658536585366,0.4634146341463415,11/12,82.0,48.0,26.0,104.0,8.0
+20112012,PHI,Eastern,Atlantic,103,47,37,6,3.0,3,2.0,Conference-Semifinals: Lost to NJD in 5 games,0.573170731707317,0.4634146341463415,11/12,82.0,47.0,26.0,103.0,9.0
+20112012,BOS,Eastern,Northeast,102,49,38,7,4.0,1,1.0,Conference-Quarterfinals: Lost to WSH in 7 games,0.5975609756097561,0.4634146341463415,11/12,82.0,49.0,29.0,102.0,4.0
+20112012,DET,Western,Central,102,48,36,8,4.0,3,1.0,Conference-Quarterfinals: Lost to NSH in 5 games,0.5853658536585366,0.4634146341463415,11/12,82.0,48.0,28.0,102.0,6.0
+20112012,NJD,Eastern,Atlantic,102,48,32,9,5.0,4,4.0,Stanley-Cup-Final: Lost to LAK in 6 games,0.5853658536585366,0.4634146341463415,11/12,82.0,48.0,28.0,102.0,6.0
+20112012,CHI,Western,Central,101,45,34,10,5.0,4,1.0,Conference-Quarterfinals: Lost to PHX in 6 games,0.5487804878048781,0.4634146341463415,11/12,82.0,45.0,26.0,101.0,11.0
+20112012,ARI,Western,Pacific,97,42,33,11,6.0,1,3.0,Conference-Finals: Lost to LAK in 5 games,0.5121951219512195,0.4634146341463415,11/12,,,,,
+20112012,SJS,Western,Pacific,96,43,31,12,7.0,2,1.0,Conference-Quarterfinals: Lost to STL in 5 games,0.524390243902439,0.4634146341463415,11/12,82.0,43.0,29.0,96.0,10.0
+20112012,LAK,Western,Pacific,95,40,31,13,8.0,3,4.0,Stanley-Cup-Final: Defeated NJD in 6 games,0.4878048780487805,0.4634146341463415,11/12,82.0,40.0,27.0,95.0,15.0
+20112012,FLA,Eastern,Southeast,94,38,31,14,6.0,1,1.0,Conference-Quarterfinals: Lost to NJD in 7 games,0.4634146341463415,0.4634146341463415,11/12,82.0,38.0,26.0,94.0,18.0
+20112012,WSH,Eastern,Southeast,92,42,31,15,7.0,2,2.0,Conference-Semifinals: Lost to NYR in 7 games,0.5121951219512195,0.4634146341463415,11/12,82.0,42.0,32.0,92.0,8.0
+20112012,OTT,Eastern,Northeast,92,41,30,16,8.0,2,1.0,Conference-Quarterfinals: Lost to NYR in 7 games,0.5,0.4634146341463415,11/12,82.0,41.0,31.0,92.0,10.0
+20112012,CGY,Western,Northwest,90,37,32,17,9.0,2,0.0,,0.4512195121951219,0.4634146341463415,11/12,82.0,37.0,29.0,90.0,16.0
+20112012,DAL,Western,Pacific,89,42,31,18,10.0,4,0.0,,0.5121951219512195,0.4634146341463415,11/12,82.0,42.0,35.0,89.0,5.0
+20112012,BUF,Eastern,Northeast,89,39,27,19,9.0,3,0.0,,0.4756097560975609,0.4634146341463415,11/12,82.0,39.0,32.0,89.0,11.0
+20112012,COL,Western,Northwest,88,41,25,20,11.0,3,0.0,,0.5,0.4634146341463415,11/12,82.0,41.0,35.0,88.0,6.0
+20112012,TBL,Eastern,Southeast,84,38,25,21,10.0,3,0.0,,0.4634146341463415,0.4634146341463415,11/12,82.0,38.0,36.0,84.0,8.0
+20112012,WPG,Eastern,Southeast,84,37,27,22,11.0,4,0.0,,0.4512195121951219,0.4634146341463415,11/12,82.0,37.0,35.0,84.0,10.0
+20112012,CAR,Eastern,Southeast,82,33,29,23,12.0,5,0.0,,0.4024390243902439,0.4634146341463415,11/12,82.0,33.0,33.0,82.0,16.0
+20112012,MIN,Western,Northwest,81,35,22,24,12.0,4,0.0,,0.4268292682926829,0.4634146341463415,11/12,82.0,35.0,36.0,81.0,11.0
+20112012,ANA,Western,Pacific,80,34,29,25,13.0,5,0.0,,0.4146341463414634,0.4634146341463415,11/12,82.0,34.0,36.0,80.0,12.0
+20112012,TOR,Eastern,Northeast,80,35,26,26,13.0,4,0.0,,0.4268292682926829,0.4634146341463415,11/12,82.0,35.0,37.0,80.0,10.0
+20112012,NYI,Eastern,Atlantic,79,34,24,27,14.0,5,0.0,,0.4146341463414634,0.4634146341463415,11/12,82.0,34.0,37.0,79.0,11.0
+20112012,MTL,Eastern,Northeast,78,31,24,28,15.0,5,0.0,,0.3780487804878049,0.4634146341463415,11/12,82.0,31.0,35.0,78.0,16.0
+20112012,EDM,Western,Northwest,74,32,25,29,14.0,5,0.0,,0.3902439024390244,0.4634146341463415,11/12,82.0,32.0,40.0,74.0,10.0
+20112012,CBJ,Western,Central,65,29,23,30,15.0,5,0.0,,0.3536585365853658,0.4634146341463415,11/12,82.0,29.0,46.0,65.0,7.0
+20122013,CHI,Western,Central,77,36,25,1,1.0,1,4.0,Stanley-Cup-Final: Defeated BOS in 6 games,0.75,0.5,12/13,48.0,36.0,7.0,77.0,5.0
+20122013,PIT,Eastern,Atlantic,72,36,31,2,1.0,1,3.0,Conference-Finals: Lost to BOS in 4 games,0.75,0.5,12/13,48.0,36.0,12.0,72.0,0.0
+20122013,ANA,Western,Pacific,66,30,23,3,2.0,1,1.0,Conference-Quarterfinals: Lost to DET in 7 games,0.625,0.5,12/13,48.0,30.0,12.0,66.0,6.0
+20122013,MTL,Eastern,Northeast,63,29,24,4,2.0,1,1.0,Conference-Quarterfinals: Lost to OTT in 5 games,0.6041666666666666,0.5,12/13,48.0,29.0,14.0,63.0,5.0
+20122013,BOS,Eastern,Northeast,62,28,23,5,3.0,2,4.0,Stanley-Cup-Final: Lost to CHI in 6 games,0.5833333333333334,0.5,12/13,48.0,28.0,14.0,62.0,6.0
+20122013,STL,Western,Central,60,29,20,6,3.0,2,1.0,Conference-Quarterfinals: Lost to LAK in 6 games,0.6041666666666666,0.5,12/13,48.0,29.0,17.0,60.0,2.0
+20122013,LAK,Western,Pacific,59,27,24,7,4.0,2,3.0,Conference-Finals: Lost to CHI in 5 games,0.5625,0.5,12/13,48.0,27.0,16.0,59.0,5.0
+20122013,VAN,Western,Northwest,59,26,20,8,5.0,1,1.0,Conference-Quarterfinals: Lost to SJS in 4 games,0.5416666666666666,0.5,12/13,48.0,26.0,15.0,59.0,7.0
+20122013,TOR,Eastern,Northeast,57,26,24,9,4.0,3,1.0,Conference-Quarterfinals: Lost to BOS in 7 games,0.5416666666666666,0.5,12/13,48.0,26.0,17.0,57.0,5.0
+20122013,WSH,Eastern,Southeast,57,27,20,10,5.0,1,1.0,Conference-Quarterfinals: Lost to NYR in 7 games,0.5625,0.5,12/13,48.0,27.0,18.0,57.0,3.0
+20122013,SJS,Western,Pacific,57,25,17,11,6.0,3,2.0,Conference-Semifinals: Lost to LAK in 7 games,0.5208333333333334,0.5,12/13,48.0,25.0,16.0,57.0,7.0
+20122013,NYR,Eastern,Atlantic,56,26,18,12,6.0,2,2.0,Conference-Semifinals: Lost to BOS in 5 games,0.5416666666666666,0.5,12/13,48.0,26.0,18.0,56.0,4.0
+20122013,DET,Western,Central,56,24,20,13,7.0,3,2.0,Conference-Semifinals: Lost to CHI in 7 games,0.5,0.5,12/13,48.0,24.0,16.0,56.0,8.0
+20122013,OTT,Eastern,Northeast,56,25,19,14,7.0,4,2.0,Conference-Semifinals: Lost to PIT in 5 games,0.5208333333333334,0.5,12/13,48.0,25.0,17.0,56.0,6.0
+20122013,MIN,Western,Northwest,55,26,19,15,8.0,2,1.0,Conference-Quarterfinals: Lost to CHI in 5 games,0.5416666666666666,0.5,12/13,48.0,26.0,19.0,55.0,3.0
+20122013,NYI,Eastern,Atlantic,55,24,18,16,8.0,3,1.0,Conference-Quarterfinals: Lost to PIT in 6 games,0.5,0.5,12/13,48.0,24.0,17.0,55.0,7.0
+20122013,CBJ,Western,Central,55,24,14,17,9.0,4,0.0,,0.5,0.5,12/13,48.0,24.0,17.0,55.0,7.0
+20122013,WPG,Eastern,Southeast,51,24,18,18,9.0,2,0.0,,0.5,0.5,12/13,48.0,24.0,21.0,51.0,3.0
+20122013,ARI,Western,Pacific,51,21,16,19,10.0,4,0.0,,0.4375,0.5,12/13,,,,,
+20122013,PHI,Eastern,Atlantic,49,23,20,20,10.0,4,0.0,,0.4791666666666667,0.5,12/13,48.0,23.0,22.0,49.0,3.0
+20122013,DAL,Western,Pacific,48,22,18,21,11.0,5,0.0,,0.4583333333333333,0.5,12/13,48.0,22.0,22.0,48.0,4.0
+20122013,NJD,Eastern,Atlantic,48,19,16,22,11.0,5,0.0,,0.3958333333333333,0.5,12/13,48.0,19.0,19.0,48.0,10.0
+20122013,BUF,Eastern,Northeast,48,21,13,23,12.0,5,0.0,,0.4375,0.5,12/13,48.0,21.0,21.0,48.0,6.0
+20122013,EDM,Western,Northwest,45,19,15,24,12.0,3,0.0,,0.3958333333333333,0.5,12/13,48.0,19.0,22.0,45.0,7.0
+20122013,CGY,Western,Northwest,42,19,17,25,13.0,4,0.0,,0.3958333333333333,0.5,12/13,48.0,19.0,25.0,42.0,4.0
+20122013,CAR,Eastern,Southeast,42,19,17,26,13.0,3,0.0,,0.3958333333333333,0.5,12/13,48.0,19.0,25.0,42.0,4.0
+20122013,NSH,Western,Central,41,16,11,27,14.0,5,0.0,,0.3333333333333333,0.5,12/13,48.0,16.0,23.0,41.0,9.0
+20122013,TBL,Eastern,Southeast,40,18,16,28,14.0,4,0.0,,0.375,0.5,12/13,48.0,18.0,26.0,40.0,4.0
+20122013,COL,Western,Northwest,39,16,11,29,15.0,5,0.0,,0.3333333333333333,0.5,12/13,48.0,16.0,25.0,39.0,7.0
+20122013,FLA,Eastern,Southeast,36,15,11,30,15.0,5,0.0,,0.3125,0.5,12/13,48.0,15.0,27.0,36.0,6.0
+20132014,BOS,Eastern,Atlantic,117,54,47,1,1.0,1,2.0,2Nd-Round: Lost to MTL in 7 games,0.6585365853658537,0.4756097560975609,13/14,82.0,54.0,19.0,117.0,9.0
+20132014,ANA,Western,Pacific,116,54,44,2,1.0,1,2.0,2Nd-Round: Lost to LAK in 7 games,0.6585365853658537,0.4756097560975609,13/14,82.0,54.0,20.0,116.0,8.0
+20132014,COL,Western,Central,112,52,37,3,2.0,1,1.0,1st round: Lost to MIN in 7 games,0.6341463414634146,0.4756097560975609,13/14,82.0,52.0,22.0,112.0,8.0
+20132014,STL,Western,Central,111,52,40,4,3.0,2,1.0,1st round: Lost to CHI in 6 games,0.6341463414634146,0.4756097560975609,13/14,82.0,52.0,23.0,111.0,7.0
+20132014,SJS,Western,Pacific,111,51,37,5,4.0,2,1.0,1st round: Lost to LAK in 7 games,0.6219512195121951,0.4756097560975609,13/14,82.0,51.0,22.0,111.0,9.0
+20132014,PIT,Eastern,Metropolitan,109,51,40,6,2.0,1,2.0,2Nd-Round: Lost to NYR in 7 games,0.6219512195121951,0.4756097560975609,13/14,82.0,51.0,24.0,109.0,7.0
+20132014,CHI,Western,Central,107,46,39,7,5.0,3,3.0,Conference-Finals: Lost to LAK in 7 games,0.5609756097560976,0.4756097560975609,13/14,82.0,46.0,21.0,107.0,15.0
+20132014,TBL,Eastern,Atlantic,101,46,32,8,3.0,2,1.0,1st round: Lost to MTL in 4 games,0.5609756097560976,0.4756097560975609,13/14,82.0,46.0,27.0,101.0,9.0
+20132014,MTL,Eastern,Atlantic,100,46,33,9,4.0,3,3.0,Conference-Finals: Lost to NYR in 6 games,0.5609756097560976,0.4756097560975609,13/14,82.0,46.0,28.0,100.0,8.0
+20132014,LAK,Western,Pacific,100,46,34,10,6.0,3,4.0,Stanley-Cup-Final: Defeated NYR in 5 games,0.5609756097560976,0.4756097560975609,13/14,82.0,46.0,28.0,100.0,8.0
+20132014,MIN,Western,Central,98,43,32,11,7.0,4,2.0,2Nd-Round: Lost to CHI in 6 games,0.524390243902439,0.4756097560975609,13/14,82.0,43.0,27.0,98.0,12.0
+20132014,NYR,Eastern,Metropolitan,96,45,39,12,5.0,2,4.0,Stanley-Cup-Final: Lost to LAK in 5 games,0.5487804878048781,0.4756097560975609,13/14,82.0,45.0,31.0,96.0,6.0
+20132014,PHI,Eastern,Metropolitan,94,42,35,13,6.0,3,1.0,1st round: Lost to NYR in 7 games,0.5121951219512195,0.4756097560975609,13/14,82.0,42.0,30.0,94.0,10.0
+20132014,CBJ,Eastern,Metropolitan,93,43,35,14,7.0,4,1.0,1st round: Lost to PIT in 6 games,0.524390243902439,0.4756097560975609,13/14,81.0,42.0,32.0,91.0,7.0
+20132014,DET,Eastern,Atlantic,93,39,30,15,8.0,4,1.0,1st round: Lost to BOS in 5 games,0.4756097560975609,0.4756097560975609,13/14,82.0,39.0,28.0,93.0,15.0
+20132014,DAL,Western,Central,91,40,34,16,8.0,5,1.0,1st round: Lost to ANA in 6 games,0.4878048780487805,0.4756097560975609,13/14,81.0,40.0,30.0,91.0,11.0
+20132014,WSH,Eastern,Metropolitan,90,38,24,17,9.0,5,0.0,,0.4634146341463415,0.4756097560975609,13/14,82.0,38.0,30.0,90.0,14.0
+20132014,ARI,Western,Pacific,89,37,28,18,9.0,4,0.0,,0.4512195121951219,0.4756097560975609,13/14,,,,,
+20132014,NSH,Western,Central,88,38,33,19,10.0,6,0.0,,0.4634146341463415,0.4756097560975609,13/14,82.0,38.0,32.0,88.0,12.0
+20132014,NJD,Eastern,Metropolitan,88,35,26,20,10.0,6,0.0,,0.4268292682926829,0.4756097560975609,13/14,82.0,35.0,29.0,88.0,18.0
+20132014,OTT,Eastern,Atlantic,88,37,27,21,11.0,5,0.0,,0.4512195121951219,0.4756097560975609,13/14,82.0,37.0,31.0,88.0,14.0
+20132014,WPG,Western,Central,84,37,24,22,11.0,7,0.0,,0.4512195121951219,0.4756097560975609,13/14,82.0,37.0,35.0,84.0,10.0
+20132014,TOR,Eastern,Atlantic,84,38,24,23,12.0,6,0.0,,0.4634146341463415,0.4756097560975609,13/14,82.0,38.0,36.0,84.0,8.0
+20132014,CAR,Eastern,Metropolitan,83,36,30,24,13.0,7,0.0,,0.4390243902439024,0.4756097560975609,13/14,82.0,36.0,35.0,83.0,11.0
+20132014,VAN,Western,Pacific,83,36,25,25,12.0,5,0.0,,0.4390243902439024,0.4756097560975609,13/14,82.0,36.0,35.0,83.0,11.0
+20132014,NYI,Eastern,Metropolitan,79,34,21,26,14.0,8,0.0,,0.4146341463414634,0.4756097560975609,13/14,82.0,34.0,37.0,79.0,11.0
+20132014,CGY,Western,Pacific,77,35,21,27,13.0,6,0.0,,0.4268292682926829,0.4756097560975609,13/14,82.0,35.0,40.0,77.0,7.0
+20132014,EDM,Western,Pacific,67,29,20,28,14.0,7,0.0,,0.3536585365853658,0.4756097560975609,13/14,82.0,29.0,44.0,67.0,9.0
+20132014,FLA,Eastern,Atlantic,66,29,21,29,15.0,7,0.0,,0.3536585365853658,0.4756097560975609,13/14,82.0,29.0,45.0,66.0,8.0
+20132014,BUF,Eastern,Atlantic,52,21,11,30,16.0,8,0.0,,0.2560975609756097,0.4756097560975609,13/14,82.0,21.0,51.0,52.0,10.0
+20142015,NYR,Eastern,Metropolitan,113,53,43,1,1.0,1,3.0,Conference-Finals: Lost to TBL in 7 games,0.6463414634146342,0.524390243902439,14/15,82.0,53.0,22.0,113.0,7.0
+20142015,MTL,Eastern,Atlantic,110,50,37,2,2.0,1,2.0,2Nd-Round: Lost to TBL in 6 games,0.6097560975609756,0.524390243902439,14/15,82.0,50.0,22.0,110.0,10.0
+20142015,ANA,Western,Pacific,109,51,35,3,1.0,1,3.0,Conference-Finals: Lost to CHI in 7 games,0.6219512195121951,0.524390243902439,14/15,82.0,51.0,24.0,109.0,7.0
+20142015,STL,Western,Central,109,51,37,4,2.0,1,1.0,1st round: Lost to MIN in 6 games,0.6219512195121951,0.524390243902439,14/15,82.0,51.0,24.0,109.0,7.0
+20142015,TBL,Eastern,Atlantic,108,50,43,5,3.0,2,4.0,Stanley-Cup-Final: Lost to CHI in 6 games,0.6097560975609756,0.524390243902439,14/15,82.0,50.0,24.0,108.0,8.0
+20142015,NSH,Western,Central,104,47,33,6,3.0,2,1.0,1st round: Lost to CHI in 6 games,0.573170731707317,0.524390243902439,14/15,82.0,47.0,25.0,104.0,10.0
+20142015,CHI,Western,Central,102,48,36,7,4.0,3,4.0,Stanley-Cup-Final: Defeated TBL in 6 games,0.5853658536585366,0.524390243902439,14/15,82.0,48.0,28.0,102.0,6.0
+20142015,VAN,Western,Pacific,101,48,36,8,5.0,2,1.0,1st round: Lost to CGY in 6 games,0.5853658536585366,0.524390243902439,14/15,82.0,48.0,29.0,101.0,5.0
+20142015,WSH,Eastern,Metropolitan,101,45,35,9,4.0,2,2.0,2Nd-Round: Lost to NYR in 7 games,0.5487804878048781,0.524390243902439,14/15,82.0,45.0,26.0,101.0,11.0
+20142015,NYI,Eastern,Metropolitan,101,47,34,10,5.0,3,1.0,1st round: Lost to WSH in 7 games,0.573170731707317,0.524390243902439,14/15,82.0,47.0,28.0,101.0,7.0
+20142015,MIN,Western,Central,100,46,38,11,6.0,4,2.0,2Nd-Round: Lost to CHI in 4 games,0.5609756097560976,0.524390243902439,14/15,82.0,46.0,28.0,100.0,8.0
+20142015,DET,Eastern,Atlantic,100,43,32,12,6.0,3,1.0,1st round: Lost to TBL in 7 games,0.524390243902439,0.524390243902439,14/15,82.0,43.0,25.0,100.0,14.0
+20142015,OTT,Eastern,Atlantic,99,43,30,13,7.0,4,1.0,1st round: Lost to MTL in 6 games,0.524390243902439,0.524390243902439,14/15,82.0,43.0,26.0,99.0,13.0
+20142015,WPG,Western,Central,99,43,32,14,7.0,5,1.0,1st round: Lost to ANA in 4 games,0.524390243902439,0.524390243902439,14/15,82.0,43.0,26.0,99.0,13.0
+20142015,PIT,Eastern,Metropolitan,98,43,33,15,8.0,4,1.0,1st round: Lost to NYR in 5 games,0.524390243902439,0.524390243902439,14/15,82.0,43.0,27.0,98.0,12.0
+20142015,CGY,Western,Pacific,97,45,32,16,8.0,3,2.0,2Nd-Round: Lost to ANA in 5 games,0.5487804878048781,0.524390243902439,14/15,82.0,45.0,30.0,97.0,7.0
+20142015,BOS,Eastern,Atlantic,96,41,28,17,9.0,5,0.0,,0.5,0.524390243902439,14/15,82.0,41.0,27.0,96.0,14.0
+20142015,LAK,Western,Pacific,95,40,37,18,9.0,4,0.0,,0.4878048780487805,0.524390243902439,14/15,82.0,40.0,27.0,95.0,15.0
+20142015,DAL,Western,Central,92,41,33,19,10.0,6,0.0,,0.5,0.524390243902439,14/15,82.0,41.0,31.0,92.0,10.0
+20142015,FLA,Eastern,Atlantic,91,38,29,20,10.0,6,0.0,,0.4634146341463415,0.524390243902439,14/15,82.0,38.0,29.0,91.0,15.0
+20142015,COL,Western,Central,90,39,27,21,11.0,7,0.0,,0.4756097560975609,0.524390243902439,14/15,82.0,39.0,31.0,90.0,12.0
+20142015,SJS,Western,Pacific,89,40,34,22,12.0,5,0.0,,0.4878048780487805,0.524390243902439,14/15,82.0,40.0,33.0,89.0,9.0
+20142015,CBJ,Eastern,Metropolitan,89,42,28,23,11.0,5,0.0,,0.5121951219512195,0.524390243902439,14/15,82.0,42.0,35.0,89.0,5.0
+20142015,PHI,Eastern,Metropolitan,84,33,25,24,12.0,6,0.0,,0.4024390243902439,0.524390243902439,14/15,82.0,33.0,31.0,84.0,18.0
+20142015,NJD,Eastern,Metropolitan,78,32,26,25,13.0,7,0.0,,0.3902439024390244,0.524390243902439,14/15,82.0,32.0,36.0,78.0,14.0
+20142015,CAR,Eastern,Metropolitan,71,30,24,26,14.0,8,0.0,,0.3658536585365853,0.524390243902439,14/15,82.0,30.0,41.0,71.0,11.0
+20142015,TOR,Eastern,Atlantic,68,30,22,27,15.0,7,0.0,,0.3658536585365853,0.524390243902439,14/15,82.0,30.0,44.0,68.0,8.0
+20142015,EDM,Western,Pacific,62,24,17,28,13.0,6,0.0,,0.2926829268292683,0.524390243902439,14/15,82.0,24.0,44.0,62.0,14.0
+20142015,ARI,Western,Pacific,56,24,14,29,14.0,7,0.0,,0.2926829268292683,0.524390243902439,14/15,82.0,24.0,50.0,56.0,8.0
+20142015,BUF,Eastern,Atlantic,54,23,14,30,16.0,8,0.0,,0.2804878048780488,0.524390243902439,14/15,82.0,23.0,51.0,54.0,8.0
+20152016,WSH,Eastern,Metropolitan,120,56,45,1,1.0,1,2.0,2Nd-Round: Lost to PIT in 6 games,0.6829268292682927,0.4634146341463415,15/16,81.0,55.0,18.0,118.0,8.0
+20152016,DAL,Western,Central,109,50,42,2,1.0,1,2.0,2Nd-Round: Lost to STL in 7 games,0.6097560975609756,0.4634146341463415,15/16,82.0,50.0,23.0,109.0,9.0
+20152016,STL,Western,Central,107,49,36,3,2.0,2,3.0,Conference-Finals: Lost to SJS in 6 games,0.5975609756097561,0.4634146341463415,15/16,82.0,49.0,24.0,107.0,9.0
+20152016,PIT,Eastern,Metropolitan,104,48,38,4,2.0,2,4.0,Stanley-Cup-Final: Defeated SJS in 6 games,0.5853658536585366,0.4634146341463415,15/16,82.0,48.0,26.0,104.0,8.0
+20152016,CHI,Western,Central,103,47,36,5,3.0,3,1.0,1st round: Lost to STL in 7 games,0.573170731707317,0.4634146341463415,15/16,82.0,47.0,26.0,103.0,9.0
+20152016,ANA,Western,Pacific,103,46,39,6,4.0,1,1.0,1st round: Lost to NSH in 7 games,0.5609756097560976,0.4634146341463415,15/16,82.0,46.0,25.0,103.0,11.0
+20152016,FLA,Eastern,Atlantic,103,47,39,7,3.0,1,1.0,1st round: Lost to NYI in 6 games,0.573170731707317,0.4634146341463415,15/16,82.0,47.0,26.0,103.0,9.0
+20152016,LAK,Western,Pacific,102,48,34,8,5.0,2,1.0,1st round: Lost to SJS in 5 games,0.5853658536585366,0.4634146341463415,15/16,82.0,48.0,28.0,102.0,6.0
+20152016,NYR,Eastern,Metropolitan,101,46,39,9,4.0,3,1.0,1st round: Lost to PIT in 5 games,0.5609756097560976,0.4634146341463415,15/16,81.0,46.0,26.0,101.0,9.0
+20152016,NYI,Eastern,Metropolitan,100,45,34,10,5.0,4,2.0,2Nd-Round: Lost to TBL in 5 games,0.5487804878048781,0.4634146341463415,15/16,82.0,45.0,27.0,100.0,10.0
+20152016,SJS,Western,Pacific,98,46,37,11,6.0,3,4.0,Stanley-Cup-Final: Lost to PIT in 6 games,0.5609756097560976,0.4634146341463415,15/16,82.0,46.0,30.0,98.0,6.0
+20152016,TBL,Eastern,Atlantic,97,46,36,12,6.0,2,3.0,Conference-Finals: Lost to PIT in 7 games,0.5609756097560976,0.4634146341463415,15/16,82.0,46.0,31.0,97.0,5.0
+20152016,PHI,Eastern,Metropolitan,96,41,28,13,7.0,5,1.0,1st round: Lost to WSH in 6 games,0.5,0.4634146341463415,15/16,82.0,41.0,27.0,96.0,14.0
+20152016,NSH,Western,Central,96,41,35,14,7.0,4,2.0,2Nd-Round: Lost to SJS in 7 games,0.5,0.4634146341463415,15/16,82.0,41.0,27.0,96.0,14.0
+20152016,DET,Eastern,Atlantic,93,41,30,15,8.0,3,1.0,1st round: Lost to TBL in 5 games,0.5,0.4634146341463415,15/16,82.0,41.0,30.0,93.0,11.0
+20152016,BOS,Eastern,Atlantic,93,42,33,16,9.0,4,0.0,,0.5121951219512195,0.4634146341463415,15/16,82.0,42.0,31.0,93.0,9.0
+20152016,MIN,Western,Central,87,38,34,17,8.0,5,1.0,1st round: Lost to DAL in 6 games,0.4634146341463415,0.4634146341463415,15/16,82.0,38.0,33.0,87.0,11.0
+20152016,CAR,Eastern,Metropolitan,86,35,25,18,10.0,6,0.0,,0.4268292682926829,0.4634146341463415,15/16,82.0,35.0,31.0,86.0,16.0
+20152016,OTT,Eastern,Atlantic,85,38,26,19,11.0,5,0.0,,0.4634146341463415,0.4634146341463415,15/16,82.0,38.0,35.0,85.0,9.0
+20152016,NJD,Eastern,Metropolitan,84,38,27,20,12.0,7,0.0,,0.4634146341463415,0.4634146341463415,15/16,82.0,38.0,36.0,84.0,8.0
+20152016,COL,Western,Central,82,39,33,21,9.0,6,0.0,,0.4756097560975609,0.4634146341463415,15/16,82.0,39.0,39.0,82.0,4.0
+20152016,MTL,Eastern,Atlantic,82,38,30,22,13.0,6,0.0,,0.4634146341463415,0.4634146341463415,15/16,82.0,38.0,38.0,82.0,6.0
+20152016,BUF,Eastern,Atlantic,81,35,29,23,14.0,7,0.0,,0.4268292682926829,0.4634146341463415,15/16,82.0,35.0,36.0,81.0,11.0
+20152016,ARI,Western,Pacific,78,35,29,24,10.0,4,0.0,,0.4268292682926829,0.4634146341463415,15/16,82.0,35.0,39.0,78.0,8.0
+20152016,WPG,Western,Central,78,35,29,25,11.0,7,0.0,,0.4268292682926829,0.4634146341463415,15/16,82.0,35.0,39.0,78.0,8.0
+20152016,CGY,Western,Pacific,77,35,24,26,12.0,5,0.0,,0.4268292682926829,0.4634146341463415,15/16,82.0,35.0,40.0,77.0,7.0
+20152016,CBJ,Eastern,Metropolitan,76,34,26,27,15.0,8,0.0,,0.4146341463414634,0.4634146341463415,15/16,82.0,34.0,40.0,76.0,8.0
+20152016,VAN,Western,Pacific,75,31,22,28,13.0,6,0.0,,0.3780487804878049,0.4634146341463415,15/16,82.0,31.0,38.0,75.0,13.0
+20152016,EDM,Western,Pacific,70,31,20,29,14.0,7,0.0,,0.3780487804878049,0.4634146341463415,15/16,82.0,31.0,43.0,70.0,8.0
+20152016,TOR,Eastern,Atlantic,69,29,20,30,16.0,8,0.0,,0.3536585365853658,0.4634146341463415,15/16,82.0,29.0,42.0,69.0,11.0
+20162017,WSH,Eastern,Metropolitan,118,55,45,1,1.0,1,2.0,2Nd-Round: Lost to PIT in 7 games,0.6707317073170732,0.4878048780487805,16/17,82.0,55.0,19.0,118.0,8.0
+20162017,PIT,Eastern,Metropolitan,111,50,40,2,2.0,2,4.0,Stanley-Cup-Final: Defeated NSH in 6 games,0.6097560975609756,0.4878048780487805,16/17,82.0,50.0,21.0,111.0,11.0
+20162017,CHI,Western,Central,109,50,37,3,1.0,1,1.0,1st round: Lost to NSH in 4 games,0.6097560975609756,0.4878048780487805,16/17,82.0,50.0,23.0,109.0,9.0
+20162017,CBJ,Eastern,Metropolitan,108,50,39,4,3.0,3,1.0,1st round: Lost to PIT in 5 games,0.6097560975609756,0.4878048780487805,16/17,82.0,50.0,24.0,108.0,8.0
+20162017,MIN,Western,Central,106,49,42,5,2.0,2,1.0,1st round: Lost to STL in 5 games,0.5975609756097561,0.4878048780487805,16/17,82.0,49.0,25.0,106.0,8.0
+20162017,ANA,Western,Pacific,105,46,40,6,3.0,1,3.0,Conference-Finals: Lost to NSH in 6 games,0.5609756097560976,0.4878048780487805,16/17,82.0,46.0,23.0,105.0,13.0
+20162017,MTL,Eastern,Atlantic,103,47,33,7,4.0,1,1.0,1st round: Lost to NYR in 6 games,0.573170731707317,0.4878048780487805,16/17,82.0,47.0,26.0,103.0,9.0
+20162017,EDM,Western,Pacific,103,47,37,8,4.0,2,2.0,2Nd-Round: Lost to ANA in 7 games,0.573170731707317,0.4878048780487805,16/17,82.0,47.0,26.0,103.0,9.0
+20162017,NYR,Eastern,Metropolitan,102,48,40,9,5.0,4,2.0,2Nd-Round: Lost to OTT in 6 games,0.5853658536585366,0.4878048780487805,16/17,82.0,48.0,28.0,102.0,6.0
+20162017,STL,Western,Central,99,46,38,10,5.0,3,2.0,2Nd-Round: Lost to NSH in 6 games,0.5609756097560976,0.4878048780487805,16/17,82.0,46.0,29.0,99.0,7.0
+20162017,SJS,Western,Pacific,99,46,38,11,6.0,3,1.0,1st round: Lost to EDM in 6 games,0.5609756097560976,0.4878048780487805,16/17,82.0,46.0,29.0,99.0,7.0
+20162017,OTT,Eastern,Atlantic,98,44,34,12,6.0,2,3.0,Conference-Finals: Lost to PIT in 7 games,0.5365853658536586,0.4878048780487805,16/17,82.0,44.0,28.0,98.0,10.0
+20162017,BOS,Eastern,Atlantic,95,44,38,13,7.0,3,1.0,1st round: Lost to OTT in 6 games,0.5365853658536586,0.4878048780487805,16/17,82.0,44.0,31.0,95.0,7.0
+20162017,TOR,Eastern,Atlantic,95,40,33,14,8.0,4,1.0,1st round: Lost to WSH in 6 games,0.4878048780487805,0.4878048780487805,16/17,82.0,40.0,27.0,95.0,15.0
+20162017,CGY,Western,Pacific,94,45,32,15,7.0,4,1.0,1st round: Lost to ANA in 4 games,0.5487804878048781,0.4878048780487805,16/17,82.0,45.0,33.0,94.0,4.0
+20162017,NSH,Western,Central,94,41,35,16,8.0,4,4.0,Stanley-Cup-Final: Lost to PIT in 6 games,0.5,0.4878048780487805,16/17,82.0,41.0,29.0,94.0,12.0
+20162017,NYI,Eastern,Metropolitan,94,41,33,17,9.0,5,0.0,,0.5,0.4878048780487805,16/17,82.0,41.0,29.0,94.0,12.0
+20162017,TBL,Eastern,Atlantic,94,42,32,18,10.0,5,0.0,,0.5121951219512195,0.4878048780487805,16/17,82.0,42.0,30.0,94.0,10.0
+20162017,PHI,Eastern,Metropolitan,88,39,25,19,11.0,6,0.0,,0.4756097560975609,0.4878048780487805,16/17,82.0,39.0,33.0,88.0,10.0
+20162017,WPG,Western,Central,87,40,33,20,9.0,5,0.0,,0.4878048780487805,0.4878048780487805,16/17,82.0,40.0,35.0,87.0,7.0
+20162017,CAR,Eastern,Metropolitan,87,36,28,21,12.0,7,0.0,,0.4390243902439024,0.4878048780487805,16/17,82.0,36.0,31.0,87.0,15.0
+20162017,LAK,Western,Pacific,86,39,25,22,10.0,5,0.0,,0.4756097560975609,0.4878048780487805,16/17,82.0,39.0,35.0,86.0,8.0
+20162017,FLA,Eastern,Atlantic,81,35,23,23,13.0,6,0.0,,0.4268292682926829,0.4878048780487805,16/17,82.0,35.0,36.0,81.0,11.0
+20162017,DAL,Western,Central,79,34,28,24,11.0,6,0.0,,0.4146341463414634,0.4878048780487805,16/17,82.0,34.0,37.0,79.0,11.0
+20162017,DET,Eastern,Atlantic,79,33,17,25,14.0,7,0.0,,0.4024390243902439,0.4878048780487805,16/17,82.0,33.0,36.0,79.0,13.0
+20162017,BUF,Eastern,Atlantic,78,33,25,26,15.0,8,0.0,,0.4024390243902439,0.4878048780487805,16/17,82.0,33.0,37.0,78.0,12.0
+20162017,NJD,Eastern,Metropolitan,70,28,18,27,16.0,8,0.0,,0.3414634146341463,0.4878048780487805,16/17,82.0,28.0,40.0,70.0,14.0
+20162017,ARI,Western,Pacific,70,30,20,28,12.0,6,0.0,,0.3658536585365853,0.4878048780487805,16/17,82.0,30.0,42.0,70.0,10.0
+20162017,VAN,Western,Pacific,69,30,19,29,13.0,7,0.0,,0.3658536585365853,0.4878048780487805,16/17,82.0,30.0,43.0,69.0,9.0
+20162017,COL,Western,Central,48,22,14,30,14.0,7,0.0,,0.2682926829268293,0.4878048780487805,16/17,82.0,22.0,56.0,48.0,4.0
+20172018,NSH,Western,Central,117,53,42,1,1.0,1,2.0,2Nd-Round: Lost to WPG in 7 games,0.6463414634146342,0.5121951219512195,17/18,82.0,53.0,18.0,117.0,11.0
+20172018,WPG,Western,Central,114,52,43,2,2.0,2,3.0,Conference-Finals: Lost to VGK in 5 games,0.6341463414634146,0.5121951219512195,17/18,82.0,52.0,20.0,114.0,10.0
+20172018,TBL,Eastern,Atlantic,113,54,42,3,1.0,1,3.0,Conference-Finals: Lost to WSH in 7 games,0.6585365853658537,0.5121951219512195,17/18,82.0,54.0,23.0,113.0,5.0
+20172018,BOS,Eastern,Atlantic,112,50,41,4,2.0,2,2.0,2Nd-Round: Lost to TBL in 5 games,0.6097560975609756,0.5121951219512195,17/18,82.0,50.0,20.0,112.0,12.0
+20172018,VGK,Western,Pacific,109,51,39,5,3.0,1,4.0,Stanley-Cup-Final: Lost to WSH in 5 games,0.6219512195121951,0.5121951219512195,17/18,82.0,51.0,24.0,109.0,7.0
+20172018,WSH,Eastern,Metropolitan,105,49,38,6,3.0,1,4.0,Stanley-Cup-Final: Defeated VGK in 5 games,0.5975609756097561,0.5121951219512195,17/18,82.0,49.0,26.0,105.0,7.0
+20172018,TOR,Eastern,Atlantic,105,49,37,7,4.0,3,1.0,1st round: Lost to BOS in 7 games,0.5975609756097561,0.5121951219512195,17/18,82.0,49.0,26.0,105.0,7.0
+20172018,MIN,Western,Central,101,45,38,8,4.0,3,1.0,1st round: Lost to WPG in 5 games,0.5487804878048781,0.5121951219512195,17/18,82.0,45.0,26.0,101.0,11.0
+20172018,ANA,Western,Pacific,101,44,35,9,5.0,2,1.0,1st round: Lost to SJS in 4 games,0.5365853658536586,0.5121951219512195,17/18,82.0,44.0,25.0,101.0,13.0
+20172018,PIT,Eastern,Metropolitan,100,47,33,10,5.0,2,2.0,2Nd-Round: Lost to WSH in 6 games,0.573170731707317,0.5121951219512195,17/18,82.0,47.0,29.0,100.0,6.0
+20172018,SJS,Western,Pacific,100,45,35,11,6.0,3,2.0,2Nd-Round: Lost to VGK in 6 games,0.5487804878048781,0.5121951219512195,17/18,82.0,45.0,27.0,100.0,10.0
+20172018,LAK,Western,Pacific,98,45,34,12,7.0,4,1.0,1st round: Lost to VGK in 4 games,0.5487804878048781,0.5121951219512195,17/18,82.0,45.0,29.0,98.0,8.0
+20172018,PHI,Eastern,Metropolitan,98,42,31,13,6.0,3,1.0,1st round: Lost to PIT in 6 games,0.5121951219512195,0.5121951219512195,17/18,82.0,42.0,26.0,98.0,14.0
+20172018,CBJ,Eastern,Metropolitan,97,45,30,14,7.0,4,1.0,1st round: Lost to WSH in 6 games,0.5487804878048781,0.5121951219512195,17/18,82.0,45.0,30.0,97.0,7.0
+20172018,NJD,Eastern,Metropolitan,97,44,33,15,8.0,5,1.0,1st round: Lost to TBL in 5 games,0.5365853658536586,0.5121951219512195,17/18,82.0,44.0,29.0,97.0,9.0
+20172018,FLA,Eastern,Atlantic,96,44,38,16,9.0,4,0.0,,0.5365853658536586,0.5121951219512195,17/18,82.0,44.0,30.0,96.0,8.0
+20172018,COL,Western,Central,95,43,35,17,8.0,4,1.0,1st round: Lost to NSH in 6 games,0.524390243902439,0.5121951219512195,17/18,82.0,43.0,30.0,95.0,9.0
+20172018,STL,Western,Central,94,44,33,18,9.0,5,0.0,,0.5365853658536586,0.5121951219512195,17/18,82.0,44.0,32.0,94.0,6.0
+20172018,DAL,Western,Central,92,42,33,19,10.0,6,0.0,,0.5121951219512195,0.5121951219512195,17/18,82.0,42.0,32.0,92.0,8.0
+20172018,CGY,Western,Pacific,84,37,28,20,11.0,5,0.0,,0.4512195121951219,0.5121951219512195,17/18,82.0,37.0,35.0,84.0,10.0
+20172018,CAR,Eastern,Metropolitan,83,36,30,21,10.0,6,0.0,,0.4390243902439024,0.5121951219512195,17/18,82.0,36.0,35.0,83.0,11.0
+20172018,NYI,Eastern,Metropolitan,80,35,25,22,11.0,7,0.0,,0.4268292682926829,0.5121951219512195,17/18,82.0,35.0,37.0,80.0,10.0
+20172018,EDM,Western,Pacific,78,36,24,23,12.0,6,0.0,,0.4390243902439024,0.5121951219512195,17/18,82.0,36.0,40.0,78.0,6.0
+20172018,NYR,Eastern,Metropolitan,77,34,24,24,12.0,8,0.0,,0.4146341463414634,0.5121951219512195,17/18,82.0,34.0,39.0,77.0,9.0
+20172018,CHI,Western,Central,76,33,26,25,13.0,7,0.0,,0.4024390243902439,0.5121951219512195,17/18,82.0,33.0,39.0,76.0,10.0
+20172018,VAN,Western,Pacific,73,31,25,26,14.0,7,0.0,,0.3780487804878049,0.5121951219512195,17/18,82.0,31.0,40.0,73.0,11.0
+20172018,DET,Eastern,Atlantic,73,30,22,27,13.0,5,0.0,,0.3658536585365853,0.5121951219512195,17/18,82.0,30.0,39.0,73.0,13.0
+20172018,MTL,Eastern,Atlantic,71,29,24,28,14.0,6,0.0,,0.3536585365853658,0.5121951219512195,17/18,82.0,29.0,40.0,71.0,13.0
+20172018,ARI,Western,Pacific,70,29,20,29,15.0,8,0.0,,0.3536585365853658,0.5121951219512195,17/18,82.0,29.0,41.0,70.0,12.0
+20172018,OTT,Eastern,Atlantic,67,28,18,30,15.0,7,0.0,,0.3414634146341463,0.5121951219512195,17/18,82.0,28.0,43.0,67.0,11.0
+20172018,BUF,Eastern,Atlantic,62,25,19,31,16.0,8,0.0,,0.3048780487804878,0.5121951219512195,17/18,82.0,25.0,45.0,62.0,12.0
+20182019,TBL,Eastern,Atlantic,128,62,49,1,1.0,1,1.0,1st round: Lost to CBJ in 4 games,0.7560975609756098,0.4634146341463415,18/19,82.0,62.0,16.0,128.0,4.0
+20182019,CGY,Western,Pacific,107,50,45,2,1.0,1,1.0,1st round: Lost to COL in 5 games,0.6097560975609756,0.4634146341463415,18/19,82.0,50.0,25.0,107.0,7.0
+20182019,BOS,Eastern,Atlantic,107,49,38,3,2.0,2,4.0,Stanley-Cup-Final: Lost to STL in 7 games,0.5975609756097561,0.4634146341463415,18/19,82.0,49.0,24.0,107.0,9.0
+20182019,WSH,Eastern,Metropolitan,104,48,39,4,3.0,1,1.0,1st round: Lost to CAR in 7 games,0.5853658536585366,0.4634146341463415,18/19,82.0,48.0,26.0,104.0,8.0
+20182019,NYI,Eastern,Metropolitan,103,48,37,5,4.0,2,2.0,2Nd-Round: Lost to CAR in 4 games,0.5853658536585366,0.4634146341463415,18/19,82.0,48.0,27.0,103.0,7.0
+20182019,SJS,Western,Pacific,101,46,38,6,2.0,2,3.0,Conference-Finals: Lost to STL in 6 games,0.5609756097560976,0.4634146341463415,18/19,82.0,46.0,27.0,101.0,9.0
+20182019,TOR,Eastern,Atlantic,100,46,40,7,5.0,3,1.0,1st round: Lost to BOS in 7 games,0.5609756097560976,0.4634146341463415,18/19,82.0,46.0,28.0,100.0,8.0
+20182019,NSH,Western,Central,100,47,38,8,3.0,1,1.0,1st round: Lost to DAL in 6 games,0.573170731707317,0.4634146341463415,18/19,82.0,47.0,29.0,100.0,6.0
+20182019,PIT,Eastern,Metropolitan,100,44,37,9,6.0,3,1.0,1st round: Lost to NYI in 4 games,0.5365853658536586,0.4634146341463415,18/19,82.0,44.0,26.0,100.0,12.0
+20182019,WPG,Western,Central,99,47,38,10,4.0,2,1.0,1st round: Lost to STL in 6 games,0.573170731707317,0.4634146341463415,18/19,82.0,47.0,30.0,99.0,5.0
+20182019,CAR,Eastern,Metropolitan,99,46,39,11,7.0,4,3.0,Conference-Finals: Lost to BOS in 4 games,0.5609756097560976,0.4634146341463415,18/19,82.0,46.0,29.0,99.0,7.0
+20182019,STL,Western,Central,99,45,36,12,5.0,3,4.0,Stanley-Cup-Final: Defeated BOS in 7 games,0.5487804878048781,0.4634146341463415,18/19,82.0,45.0,28.0,99.0,9.0
+20182019,CBJ,Eastern,Metropolitan,98,47,37,13,8.0,5,2.0,2Nd-Round: Lost to BOS in 6 games,0.573170731707317,0.4634146341463415,18/19,82.0,47.0,31.0,98.0,4.0
+20182019,MTL,Eastern,Atlantic,96,44,37,14,9.0,4,0.0,,0.5365853658536586,0.4634146341463415,18/19,82.0,44.0,30.0,96.0,8.0
+20182019,DAL,Western,Central,93,43,36,15,6.0,4,2.0,2Nd-Round: Lost to STL in 7 games,0.524390243902439,0.4634146341463415,18/19,82.0,43.0,32.0,93.0,7.0
+20182019,VGK,Western,Pacific,93,43,36,16,7.0,3,1.0,1st round: Lost to SJS in 7 games,0.524390243902439,0.4634146341463415,18/19,82.0,43.0,32.0,93.0,7.0
+20182019,COL,Western,Central,90,38,33,17,8.0,5,2.0,2Nd-Round: Lost to SJS in 7 games,0.4634146341463415,0.4634146341463415,18/19,82.0,38.0,30.0,90.0,14.0
+20182019,ARI,Western,Pacific,86,39,30,18,9.0,4,0.0,,0.4756097560975609,0.4634146341463415,18/19,82.0,39.0,35.0,86.0,8.0
+20182019,FLA,Eastern,Atlantic,86,36,26,19,10.0,5,0.0,,0.4390243902439024,0.4634146341463415,18/19,82.0,36.0,32.0,86.0,14.0
+20182019,CHI,Western,Central,84,36,24,20,10.0,6,0.0,,0.4390243902439024,0.4634146341463415,18/19,82.0,36.0,34.0,84.0,12.0
+20182019,MIN,Western,Central,83,37,33,21,11.0,7,0.0,,0.4512195121951219,0.4634146341463415,18/19,82.0,37.0,36.0,83.0,9.0
+20182019,PHI,Eastern,Metropolitan,82,37,28,22,11.0,6,0.0,,0.4512195121951219,0.4634146341463415,18/19,82.0,37.0,37.0,82.0,8.0
+20182019,VAN,Western,Pacific,81,35,22,23,12.0,5,0.0,,0.4268292682926829,0.4634146341463415,18/19,82.0,35.0,36.0,81.0,11.0
+20182019,ANA,Western,Pacific,80,35,27,24,13.0,6,0.0,,0.4268292682926829,0.4634146341463415,18/19,82.0,35.0,37.0,80.0,10.0
+20182019,EDM,Western,Pacific,79,35,24,25,14.0,7,0.0,,0.4268292682926829,0.4634146341463415,18/19,82.0,35.0,38.0,79.0,9.0
+20182019,NYR,Eastern,Metropolitan,78,32,23,26,12.0,7,0.0,,0.3902439024390244,0.4634146341463415,18/19,82.0,32.0,36.0,78.0,14.0
+20182019,BUF,Eastern,Atlantic,76,33,21,27,13.0,6,0.0,,0.4024390243902439,0.4634146341463415,18/19,82.0,33.0,39.0,76.0,10.0
+20182019,DET,Eastern,Atlantic,74,32,20,28,14.0,7,0.0,,0.3902439024390244,0.4634146341463415,18/19,82.0,32.0,40.0,74.0,10.0
+20182019,NJD,Eastern,Metropolitan,72,31,24,29,15.0,8,0.0,,0.3780487804878049,0.4634146341463415,18/19,82.0,31.0,41.0,72.0,10.0
+20182019,LAK,Western,Pacific,71,31,22,30,15.0,8,0.0,,0.3780487804878049,0.4634146341463415,18/19,82.0,31.0,42.0,71.0,9.0
+20182019,OTT,Eastern,Atlantic,64,29,23,31,16.0,8,0.0,,0.3536585365853658,0.4634146341463415,18/19,82.0,29.0,47.0,64.0,6.0
+20192020,BOS,Eastern,Atlantic,100,44,38,1,1.0,1,2.0,2Nd-Round: Lost to TBL in 5 games,0.6285714285714286,0.4366197183098591,19/20,70.0,44.0,14.0,100.0,12.0
+20192020,STL,Western,Central,94,42,33,2,1.0,1,1.0,1st round: Lost to VAN in 6 games,0.5915492957746479,0.4366197183098591,19/20,71.0,42.0,19.0,94.0,10.0
+20192020,COL,Western,Central,92,42,37,3,2.0,2,2.0,2Nd-Round: Lost to DAL in 7 games,0.6,0.4366197183098591,19/20,70.0,42.0,20.0,92.0,8.0
+20192020,TBL,Eastern,Atlantic,92,43,35,4,2.0,2,4.0,Stanley-Cup-Final: Defeated DAL in 6 games,0.6142857142857143,0.4366197183098591,19/20,70.0,43.0,21.0,92.0,6.0
+20192020,WSH,Eastern,Metropolitan,90,41,31,5,3.0,1,1.0,1st round: Lost to NYI in 5 games,0.5942028985507246,0.4366197183098591,19/20,69.0,41.0,20.0,90.0,8.0
+20192020,PHI,Eastern,Metropolitan,89,41,31,6,4.0,2,2.0,2Nd-Round: Lost to NYI in 7 games,0.5942028985507246,0.4366197183098591,19/20,69.0,41.0,21.0,89.0,7.0
+20192020,PIT,Eastern,Metropolitan,86,40,29,7,5.0,3,0.0,Stanley-Cup-Qualifiers: Lost to MTL in 4 games,0.5797101449275363,0.4366197183098591,19/20,69.0,40.0,23.0,86.0,6.0
+20192020,VGK,Western,Pacific,86,39,30,8,3.0,1,3.0,Conference-Finals: Lost to DAL in 5 games,0.5492957746478874,0.4366197183098591,19/20,71.0,39.0,24.0,86.0,8.0
+20192020,CAR,Eastern,Metropolitan,81,38,27,9,6.0,4,1.0,1st round: Lost to BOS in 5 games,0.5588235294117647,0.4366197183098591,19/20,68.0,38.0,25.0,81.0,5.0
+20192020,DAL,Western,Central,82,37,26,10,4.0,3,4.0,Stanley-Cup-Final: Lost to TBL in 6 games,0.5362318840579711,0.4366197183098591,19/20,69.0,37.0,24.0,82.0,8.0
+20192020,NYI,Eastern,Metropolitan,80,35,24,11,7.0,5,3.0,Conference-Finals: Lost to TBL in 6 games,0.5147058823529411,0.4366197183098591,19/20,68.0,35.0,23.0,80.0,10.0
+20192020,EDM,Western,Pacific,83,37,31,12,5.0,2,0.0,Stanley-Cup-Qualifiers: Lost to CHI in 4 games,0.5211267605633803,0.4366197183098591,19/20,71.0,37.0,25.0,83.0,9.0
+20192020,TOR,Eastern,Atlantic,81,36,28,13,8.0,3,0.0,Stanley-Cup-Qualifiers: Lost to CBJ in 5 games,0.5142857142857142,0.4366197183098591,19/20,70.0,36.0,25.0,81.0,9.0
+20192020,CBJ,Eastern,Metropolitan,81,33,25,14,9.0,6,1.0,1st round: Lost to TBL in 5 games,0.4714285714285714,0.4366197183098591,19/20,70.0,33.0,22.0,81.0,15.0
+20192020,FLA,Eastern,Atlantic,78,35,30,15,10.0,4,0.0,Stanley-Cup-Qualifiers: Lost to NYI in 4 games,0.5072463768115942,0.4366197183098591,19/20,69.0,35.0,26.0,78.0,8.0
+20192020,NSH,Western,Central,78,35,28,16,6.0,4,0.0,Stanley-Cup-Qualifiers: Lost to ARI in 4 games,0.5072463768115942,0.4366197183098591,19/20,69.0,35.0,26.0,78.0,8.0
+20192020,VAN,Western,Pacific,78,36,27,17,7.0,3,2.0,2Nd-Round: Lost to VGK in 7 games,0.5217391304347826,0.4366197183098591,19/20,69.0,36.0,27.0,78.0,6.0
+20192020,NYR,Eastern,Metropolitan,79,37,31,18,11.0,7,0.0,Stanley-Cup-Qualifiers: Lost to CAR in 3 games,0.5285714285714286,0.4366197183098591,19/20,70.0,37.0,28.0,79.0,5.0
+20192020,CGY,Western,Pacific,79,36,25,19,8.0,4,1.0,1st round: Lost to DAL in 6 games,0.5142857142857142,0.4366197183098591,19/20,70.0,36.0,27.0,79.0,7.0
+20192020,WPG,Western,Central,80,37,30,20,9.0,5,0.0,Stanley-Cup-Qualifiers: Lost to CGY in 4 games,0.5211267605633803,0.4366197183098591,19/20,71.0,37.0,28.0,80.0,6.0
+20192020,MIN,Western,Central,77,35,30,21,10.0,6,0.0,Stanley-Cup-Qualifiers: Lost to VAN in 4 games,0.5072463768115942,0.4366197183098591,19/20,69.0,35.0,27.0,77.0,7.0
+20192020,ARI,Western,Pacific,74,33,26,22,11.0,5,1.0,1st round: Lost to COL in 5 games,0.4714285714285714,0.4366197183098591,19/20,70.0,33.0,29.0,74.0,8.0
+20192020,CHI,Western,Central,72,32,23,23,12.0,7,1.0,1st round: Lost to VGK in 5 games,0.4571428571428571,0.4366197183098591,19/20,70.0,32.0,30.0,72.0,8.0
+20192020,MTL,Eastern,Atlantic,71,31,19,24,12.0,5,1.0,1st round: Lost to PHI in 6 games,0.4366197183098591,0.4366197183098591,19/20,71.0,31.0,31.0,71.0,9.0
+20192020,BUF,Eastern,Atlantic,68,30,22,25,13.0,6,0.0,,0.4347826086956521,0.4366197183098591,19/20,69.0,30.0,31.0,68.0,8.0
+20192020,NJD,Eastern,Metropolitan,68,28,22,26,14.0,8,0.0,,0.4057971014492754,0.4366197183098591,19/20,69.0,28.0,29.0,68.0,12.0
+20192020,ANA,Western,Pacific,67,29,20,27,13.0,6,0.0,,0.4084507042253521,0.4366197183098591,19/20,71.0,29.0,33.0,67.0,9.0
+20192020,LAK,Western,Pacific,64,29,21,28,14.0,7,0.0,,0.4142857142857143,0.4366197183098591,19/20,70.0,29.0,35.0,64.0,6.0
+20192020,SJS,Western,Pacific,63,29,22,29,15.0,8,0.0,,0.4142857142857143,0.4366197183098591,19/20,70.0,29.0,36.0,63.0,5.0
+20192020,OTT,Eastern,Atlantic,62,25,18,30,15.0,7,0.0,,0.352112676056338,0.4366197183098591,19/20,71.0,25.0,34.0,62.0,12.0
+20192020,DET,Eastern,Atlantic,39,17,13,31,16.0,8,0.0,,0.2394366197183098,0.4366197183098591,19/20,71.0,17.0,49.0,39.0,5.0
+20202021,COL,,Honda West,82,39,35,1,,1,2.0,2Nd-Round: Lost to VGK in 6 games,0.6964285714285714,0.4285714285714285,20/21,56.0,39.0,13.0,82.0,4.0
+20202021,VGK,,Honda West,82,40,30,2,,2,3.0,Stanley-Cup-Semifinals: Lost to MTL in 6 games,0.7142857142857143,0.4285714285714285,20/21,56.0,40.0,14.0,82.0,2.0
+20202021,CAR,,Discover Central,80,36,27,3,,1,2.0,2Nd-Round: Lost to TBL in 5 games,0.6428571428571429,0.4285714285714285,20/21,56.0,36.0,12.0,80.0,8.0
+20202021,FLA,,Discover Central,79,37,26,4,,2,1.0,1st round: Lost to TBL in 6 games,0.6607142857142857,0.4285714285714285,20/21,56.0,37.0,14.0,79.0,5.0
+20202021,PIT,,MassMutual East,77,37,29,5,,1,1.0,1st round: Lost to NYI in 6 games,0.6607142857142857,0.4285714285714285,20/21,56.0,37.0,16.0,77.0,3.0
+20202021,TOR,,Scotia North,77,35,29,6,,1,1.0,1st round: Lost to MTL in 7 games,0.625,0.4285714285714285,20/21,56.0,35.0,14.0,77.0,7.0
+20202021,WSH,,MassMutual East,77,36,29,7,,2,1.0,1st round: Lost to BOS in 5 games,0.6428571428571429,0.4285714285714285,20/21,56.0,36.0,15.0,77.0,5.0
+20202021,TBL,,Discover Central,75,36,29,8,,3,4.0,Stanley-Cup-Final: Defeated MTL in 5 games,0.6428571428571429,0.4285714285714285,20/21,56.0,36.0,17.0,75.0,3.0
+20202021,MIN,,Honda West,75,35,27,9,,3,1.0,1st round: Lost to VGK in 7 games,0.625,0.4285714285714285,20/21,56.0,35.0,16.0,75.0,5.0
+20202021,BOS,,MassMutual East,73,33,25,10,,3,2.0,2Nd-Round: Lost to NYI in 6 games,0.5892857142857143,0.4285714285714285,20/21,56.0,33.0,16.0,73.0,7.0
+20202021,EDM,,Scotia North,72,35,31,11,,2,1.0,1st round: Lost to WPG in 4 games,0.625,0.4285714285714285,20/21,56.0,35.0,19.0,72.0,2.0
+20202021,NYI,,MassMutual East,71,32,24,12,,4,3.0,Stanley-Cup-Semifinals: Lost to TBL in 7 games,0.5714285714285714,0.4285714285714285,20/21,56.0,32.0,17.0,71.0,7.0
+20202021,NSH,,Discover Central,64,31,21,13,,4,1.0,1st round: Lost to CAR in 6 games,0.5535714285714286,0.4285714285714285,20/21,56.0,31.0,23.0,64.0,2.0
+20202021,WPG,,Scotia North,63,30,24,14,,3,2.0,2Nd-Round: Lost to MTL in 4 games,0.5357142857142857,0.4285714285714285,20/21,56.0,30.0,23.0,63.0,3.0
+20202021,STL,,Honda West,63,27,19,15,,4,1.0,1st round: Lost to COL in 4 games,0.4821428571428571,0.4285714285714285,20/21,56.0,27.0,20.0,63.0,9.0
+20202021,NYR,,MassMutual East,60,27,24,16,,5,0.0,,0.4821428571428571,0.4285714285714285,20/21,56.0,27.0,23.0,60.0,6.0
+20202021,DAL,,Discover Central,60,23,17,17,,5,0.0,,0.4107142857142857,0.4285714285714285,20/21,56.0,23.0,19.0,60.0,14.0
+20202021,MTL,,Scotia North,59,24,20,18,,4,4.0,Stanley-Cup-Final: Lost to TBL in 5 games,0.4285714285714285,0.4285714285714285,20/21,56.0,24.0,21.0,59.0,11.0
+20202021,PHI,,MassMutual East,58,25,17,19,,6,0.0,,0.4464285714285714,0.4285714285714285,20/21,56.0,25.0,23.0,58.0,8.0
+20202021,CGY,,Scotia North,55,26,22,20,,5,0.0,,0.4642857142857143,0.4285714285714285,20/21,56.0,26.0,27.0,55.0,3.0
+20202021,CHI,,Discover Central,55,24,15,21,,6,0.0,,0.4285714285714285,0.4285714285714285,20/21,56.0,24.0,25.0,55.0,7.0
+20202021,ARI,,Honda West,54,24,19,22,,5,0.0,,0.4285714285714285,0.4285714285714285,20/21,56.0,24.0,26.0,54.0,6.0
+20202021,OTT,,Scotia North,51,23,18,23,,6,0.0,,0.4107142857142857,0.4285714285714285,20/21,56.0,23.0,28.0,51.0,5.0
+20202021,VAN,,Scotia North,50,23,17,24,,7,0.0,,0.4107142857142857,0.4285714285714285,20/21,56.0,23.0,29.0,50.0,4.0
+20202021,LAK,,Honda West,49,21,19,25,,6,0.0,,0.375,0.4285714285714285,20/21,56.0,21.0,28.0,49.0,7.0
+20202021,SJS,,Honda West,49,21,15,26,,7,0.0,,0.375,0.4285714285714285,20/21,56.0,21.0,28.0,49.0,7.0
+20202021,DET,,Discover Central,48,19,16,27,,7,0.0,,0.3392857142857143,0.4285714285714285,20/21,56.0,19.0,27.0,48.0,10.0
+20202021,CBJ,,Discover Central,48,18,12,28,,8,0.0,,0.3214285714285714,0.4285714285714285,20/21,56.0,18.0,26.0,48.0,12.0
+20202021,NJD,,MassMutual East,45,19,15,29,,7,0.0,,0.3392857142857143,0.4285714285714285,20/21,56.0,19.0,30.0,45.0,7.0
+20202021,ANA,,Honda West,43,17,11,30,,8,0.0,,0.3035714285714285,0.4285714285714285,20/21,56.0,17.0,30.0,43.0,9.0
+20202021,BUF,,MassMutual East,37,15,11,31,,8,0.0,,0.2678571428571428,0.4285714285714285,20/21,56.0,15.0,34.0,37.0,7.0
+20212022,FLA,Eastern,Atlantic,122,58,42,1,1.0,1,2.0,2Nd-Round: Lost to TBL in 4 games,0.7073170731707317,0.5365853658536586,21/22,82.0,58.0,18.0,122.0,6.0
+20212022,COL,Western,Central,119,56,46,2,1.0,1,4.0,Stanley-Cup-Final: Defeated TBL in 6 games,0.6829268292682927,0.5365853658536586,21/22,82.0,56.0,19.0,119.0,7.0
+20212022,CAR,Eastern,Metropolitan,116,54,47,3,2.0,1,2.0,2Nd-Round: Lost to NYR in 7 games,0.6585365853658537,0.5365853658536586,21/22,82.0,54.0,20.0,116.0,8.0
+20212022,TOR,Eastern,Atlantic,115,54,45,4,3.0,2,1.0,1st round: Lost to TBL in 7 games,0.6585365853658537,0.5365853658536586,21/22,82.0,54.0,21.0,115.0,7.0
+20212022,MIN,Western,Central,113,53,37,5,2.0,2,1.0,1st round: Lost to STL in 6 games,0.6463414634146342,0.5365853658536586,21/22,82.0,53.0,22.0,113.0,7.0
+20212022,CGY,Western,Pacific,111,50,44,6,3.0,1,2.0,2Nd-Round: Lost to EDM in 5 games,0.6097560975609756,0.5365853658536586,21/22,82.0,50.0,21.0,111.0,11.0
+20212022,NYR,Eastern,Metropolitan,110,52,44,7,4.0,2,3.0,Conference-Finals: Lost to TBL in 6 games,0.6341463414634146,0.5365853658536586,21/22,82.0,52.0,24.0,110.0,6.0
+20212022,TBL,Eastern,Atlantic,110,51,39,8,5.0,3,4.0,Stanley-Cup-Final: Lost to COL in 6 games,0.6219512195121951,0.5365853658536586,21/22,82.0,51.0,23.0,110.0,8.0
+20212022,STL,Western,Central,109,49,43,9,4.0,3,2.0,2Nd-Round: Lost to COL in 6 games,0.5975609756097561,0.5365853658536586,21/22,82.0,49.0,22.0,109.0,11.0
+20212022,BOS,Eastern,Atlantic,107,51,40,10,6.0,4,1.0,1st round: Lost to CAR in 7 games,0.6219512195121951,0.5365853658536586,21/22,82.0,51.0,26.0,107.0,5.0
+20212022,EDM,Western,Pacific,104,49,38,11,5.0,2,3.0,Conference-Finals: Lost to COL in 4 games,0.5975609756097561,0.5365853658536586,21/22,82.0,49.0,27.0,104.0,6.0
+20212022,PIT,Eastern,Metropolitan,103,46,37,12,7.0,3,1.0,1st round: Lost to NYR in 7 games,0.5609756097560976,0.5365853658536586,21/22,82.0,46.0,25.0,103.0,11.0
+20212022,WSH,Eastern,Metropolitan,100,44,35,13,8.0,4,1.0,1st round: Lost to FLA in 6 games,0.5365853658536586,0.5365853658536586,21/22,82.0,44.0,26.0,100.0,12.0
+20212022,LAK,Western,Pacific,99,44,35,14,6.0,3,1.0,1st round: Lost to EDM in 7 games,0.5365853658536586,0.5365853658536586,21/22,82.0,44.0,27.0,99.0,11.0
+20212022,DAL,Western,Central,98,46,31,15,7.0,4,1.0,1st round: Lost to CGY in 7 games,0.5609756097560976,0.5365853658536586,21/22,82.0,46.0,30.0,98.0,6.0
+20212022,NSH,Western,Central,97,45,35,16,8.0,5,1.0,1st round: Lost to COL in 4 games,0.5487804878048781,0.5365853658536586,21/22,82.0,45.0,30.0,97.0,7.0
+20212022,VGK,Western,Pacific,94,43,34,17,9.0,4,0.0,,0.524390243902439,0.5365853658536586,21/22,82.0,43.0,31.0,94.0,8.0
+20212022,VAN,Western,Pacific,92,40,32,18,10.0,5,0.0,,0.4878048780487805,0.5365853658536586,21/22,82.0,40.0,30.0,92.0,12.0
+20212022,WPG,Western,Central,89,39,32,19,11.0,6,0.0,,0.4756097560975609,0.5365853658536586,21/22,82.0,39.0,32.0,89.0,11.0
+20212022,NYI,Eastern,Metropolitan,84,37,34,20,9.0,5,0.0,,0.4512195121951219,0.5365853658536586,21/22,82.0,37.0,35.0,84.0,10.0
+20212022,CBJ,Eastern,Metropolitan,81,37,26,21,10.0,6,0.0,,0.4512195121951219,0.5365853658536586,21/22,82.0,37.0,38.0,81.0,7.0
+20212022,SJS,Western,Pacific,77,32,22,22,12.0,6,0.0,,0.3902439024390244,0.5365853658536586,21/22,82.0,32.0,37.0,77.0,13.0
+20212022,ANA,Western,Pacific,76,31,22,23,13.0,7,0.0,,0.3780487804878049,0.5365853658536586,21/22,82.0,31.0,37.0,76.0,14.0
+20212022,BUF,Eastern,Atlantic,75,32,25,24,11.0,5,0.0,,0.3902439024390244,0.5365853658536586,21/22,82.0,32.0,39.0,75.0,11.0
+20212022,DET,Eastern,Atlantic,74,32,21,25,12.0,6,0.0,,0.3902439024390244,0.5365853658536586,21/22,82.0,32.0,40.0,74.0,10.0
+20212022,OTT,Eastern,Atlantic,73,33,26,26,13.0,7,0.0,,0.4024390243902439,0.5365853658536586,21/22,82.0,33.0,42.0,73.0,7.0
+20212022,CHI,Western,Central,68,28,16,27,14.0,7,0.0,,0.3414634146341463,0.5365853658536586,21/22,82.0,28.0,42.0,68.0,12.0
+20212022,NJD,Eastern,Metropolitan,63,27,19,28,14.0,7,0.0,,0.3292682926829268,0.5365853658536586,21/22,82.0,27.0,46.0,63.0,9.0
+20212022,PHI,Eastern,Metropolitan,61,25,20,29,15.0,8,0.0,,0.3048780487804878,0.5365853658536586,21/22,82.0,25.0,46.0,61.0,11.0
+20212022,SEA,Western,Pacific,60,27,23,30,15.0,8,0.0,,0.3292682926829268,0.5365853658536586,21/22,82.0,27.0,49.0,60.0,6.0
+20212022,ARI,Western,Central,57,25,18,31,16.0,8,0.0,,0.3048780487804878,0.5365853658536586,21/22,82.0,25.0,50.0,57.0,7.0
+20212022,MTL,Eastern,Atlantic,55,22,16,32,16.0,8,0.0,,0.2682926829268293,0.5365853658536586,21/22,82.0,22.0,49.0,55.0,11.0
+20222023,BOS,Eastern,Atlantic,135,65,54,1,1.0,1,1.0,1st round: Lost to FLA in 7 games,0.7926829268292683,0.5121951219512195,22/23,82.0,65.0,12.0,135.0,5.0
+20222023,CAR,Eastern,Metropolitan,113,52,39,2,2.0,1,3.0,Conference-Finals: Lost to FLA in 4 games,0.6341463414634146,0.5121951219512195,22/23,82.0,52.0,21.0,113.0,9.0
+20222023,NJD,Eastern,Metropolitan,112,52,39,3,3.0,2,2.0,2Nd-Round: Lost to CAR in 5 games,0.6341463414634146,0.5121951219512195,22/23,82.0,52.0,22.0,112.0,8.0
+20222023,TOR,Eastern,Atlantic,111,50,42,4,4.0,2,2.0,2Nd-Round: Lost to FLA in 5 games,0.6097560975609756,0.5121951219512195,22/23,82.0,50.0,21.0,111.0,11.0
+20222023,VGK,Western,Pacific,111,51,38,5,1.0,1,4.0,Stanley-Cup-Final: Defeated FLA in 5 games,0.6219512195121951,0.5121951219512195,22/23,82.0,51.0,22.0,111.0,9.0
+20222023,EDM,Western,Pacific,109,50,45,6,2.0,2,2.0,2Nd-Round: Lost to VGK in 6 games,0.6097560975609756,0.5121951219512195,22/23,82.0,50.0,23.0,109.0,9.0
+20222023,COL,Western,Central,109,51,36,7,3.0,1,1.0,1st round: Lost to SEA in 7 games,0.6219512195121951,0.5121951219512195,22/23,82.0,51.0,24.0,109.0,7.0
+20222023,DAL,Western,Central,108,47,39,8,4.0,2,3.0,Conference-Finals: Lost to VGK in 6 games,0.573170731707317,0.5121951219512195,22/23,82.0,47.0,21.0,108.0,14.0
+20222023,NYR,Eastern,Metropolitan,107,47,37,9,5.0,3,1.0,1st round: Lost to NJD in 7 games,0.573170731707317,0.5121951219512195,22/23,82.0,47.0,22.0,107.0,13.0
+20222023,LAK,Western,Pacific,104,47,37,10,5.0,3,1.0,1st round: Lost to EDM in 6 games,0.573170731707317,0.5121951219512195,22/23,82.0,47.0,25.0,104.0,10.0
+20222023,MIN,Western,Central,103,46,34,11,6.0,3,1.0,1st round: Lost to DAL in 6 games,0.5609756097560976,0.5121951219512195,22/23,82.0,46.0,25.0,103.0,11.0
+20222023,SEA,Western,Pacific,100,46,37,12,7.0,4,2.0,2Nd-Round: Lost to DAL in 7 games,0.5609756097560976,0.5121951219512195,22/23,82.0,46.0,28.0,100.0,8.0
+20222023,TBL,Eastern,Atlantic,98,46,38,13,6.0,3,1.0,1st round: Lost to TOR in 6 games,0.5609756097560976,0.5121951219512195,22/23,82.0,46.0,30.0,98.0,6.0
+20222023,WPG,Western,Central,95,46,36,14,8.0,4,1.0,1st round: Lost to VGK in 5 games,0.5609756097560976,0.5121951219512195,22/23,82.0,46.0,33.0,95.0,3.0
+20222023,NYI,Eastern,Metropolitan,93,42,36,15,7.0,4,1.0,1st round: Lost to CAR in 6 games,0.5121951219512195,0.5121951219512195,22/23,82.0,42.0,31.0,93.0,9.0
+20222023,CGY,Western,Pacific,93,38,31,16,9.0,5,0.0,,0.4634146341463415,0.5121951219512195,22/23,82.0,38.0,27.0,93.0,17.0
+20222023,FLA,Eastern,Atlantic,92,42,36,17,8.0,4,4.0,Stanley-Cup-Final: Lost to VGK in 5 games,0.5121951219512195,0.5121951219512195,22/23,82.0,42.0,32.0,92.0,8.0
+20222023,NSH,Western,Central,92,42,29,18,10.0,5,0.0,,0.5121951219512195,0.5121951219512195,22/23,82.0,42.0,32.0,92.0,8.0
+20222023,PIT,Eastern,Metropolitan,91,40,31,19,9.0,5,0.0,,0.4878048780487805,0.5121951219512195,22/23,82.0,40.0,31.0,91.0,11.0
+20222023,BUF,Eastern,Atlantic,91,42,30,20,10.0,5,0.0,,0.5060240963855421,0.5121951219512195,22/23,82.0,42.0,33.0,91.0,7.0
+20222023,OTT,Eastern,Atlantic,86,39,31,21,11.0,6,0.0,,0.4756097560975609,0.5121951219512195,22/23,82.0,39.0,35.0,86.0,8.0
+20222023,VAN,Western,Pacific,83,38,24,22,11.0,6,0.0,,0.4634146341463415,0.5121951219512195,22/23,82.0,38.0,37.0,83.0,7.0
+20222023,STL,Western,Central,81,37,27,23,12.0,6,0.0,,0.4512195121951219,0.5121951219512195,22/23,82.0,37.0,38.0,81.0,7.0
+20222023,DET,Eastern,Atlantic,80,35,28,24,12.0,7,0.0,,0.4268292682926829,0.5121951219512195,22/23,82.0,35.0,37.0,80.0,10.0
+20222023,WSH,Eastern,Metropolitan,80,35,27,25,13.0,6,0.0,,0.4268292682926829,0.5121951219512195,22/23,82.0,35.0,37.0,80.0,10.0
+20222023,PHI,Eastern,Metropolitan,75,31,26,26,14.0,7,0.0,,0.3855421686746988,0.5121951219512195,22/23,82.0,31.0,38.0,75.0,13.0
+20222023,ARI,Western,Central,70,28,20,27,13.0,7,0.0,,0.3414634146341463,0.5121951219512195,22/23,82.0,28.0,40.0,70.0,14.0
+20222023,MTL,Eastern,Atlantic,68,31,21,28,15.0,8,0.0,,0.3780487804878049,0.5121951219512195,22/23,82.0,31.0,45.0,68.0,6.0
+20222023,SJS,Western,Pacific,60,22,16,29,14.0,7,0.0,,0.2682926829268293,0.5121951219512195,22/23,82.0,22.0,44.0,60.0,16.0
+20222023,CHI,Western,Central,59,26,18,30,15.0,8,0.0,,0.3170731707317073,0.5121951219512195,22/23,82.0,26.0,49.0,59.0,7.0
+20222023,CBJ,Eastern,Metropolitan,59,25,15,31,16.0,8,0.0,,0.3048780487804878,0.5121951219512195,22/23,82.0,25.0,48.0,59.0,9.0
+20222023,ANA,Western,Pacific,58,23,13,32,16.0,8,0.0,,0.2804878048780488,0.5121951219512195,22/23,82.0,23.0,47.0,58.0,12.0
+20232024,NYR,Eastern,Metropolitan,114,55,43,1,1.0,1,3.0,Conference-Finals: Lost to FLA in 6 games,0.6707317073170732,0.47560975609756095,23/24,82.0,55.0,23.0,114.0,4.0
+20232024,DAL,Western,Central,113,52,40,2,1.0,1,3.0,Conference-Finals: Lost to EDM in 6 games,0.6341463414634146,0.47560975609756095,23/24,82.0,52.0,21.0,113.0,9.0
+20232024,CAR,Eastern,Metropolitan,111,52,44,3,2.0,2,2.0,2Nd-Round: Lost to NYR in 6 games,0.6341463414634146,0.47560975609756095,23/24,82.0,52.0,23.0,111.0,7.0
+20232024,WPG,Western,Central,110,52,46,4,2.0,2,1.0,1st round: Lost to COL in 5 games,0.6341463414634146,0.47560975609756095,23/24,82.0,52.0,24.0,110.0,6.0
+20232024,FLA,Eastern,Atlantic,110,52,42,5,3.0,1,4.0,Stanley-Cup-Final: Defeated EDM in 7 games,0.6341463414634146,0.47560975609756095,23/24,82.0,52.0,24.0,110.0,6.0
+20232024,VAN,Western,Pacific,109,50,44,6,3.0,1,2.0,2Nd-Round: Lost to EDM in 7 games,0.6097560975609756,0.47560975609756095,23/24,82.0,50.0,23.0,109.0,9.0
+20232024,BOS,Eastern,Atlantic,109,47,36,7,4.0,2,2.0,2Nd-Round: Lost to FLA in 6 games,0.573170731707317,0.47560975609756095,23/24,82.0,47.0,20.0,109.0,15.0
+20232024,COL,Western,Central,107,50,42,8,4.0,3,2.0,2Nd-Round: Lost to DAL in 6 games,0.6097560975609756,0.47560975609756095,23/24,82.0,50.0,25.0,107.0,7.0
+20232024,EDM,Western,Pacific,104,49,39,9,5.0,2,4.0,Stanley-Cup-Final: Lost to FLA in 7 games,0.5975609756097561,0.47560975609756095,23/24,82.0,49.0,27.0,104.0,6.0
+20232024,TOR,Eastern,Atlantic,102,46,33,10,5.0,3,1.0,1st round: Lost to BOS in 7 games,0.5609756097560976,0.47560975609756095,23/24,82.0,46.0,26.0,102.0,10.0
+20232024,NSH,Western,Central,99,47,38,11,6.0,4,1.0,1st round: Lost to VAN in 6 games,0.573170731707317,0.47560975609756095,23/24,82.0,47.0,30.0,99.0,5.0
+20232024,LAK,Western,Pacific,99,44,37,12,7.0,3,1.0,1st round: Lost to EDM in 5 games,0.5365853658536586,0.47560975609756095,23/24,82.0,44.0,27.0,99.0,11.0
+20232024,TBL,Eastern,Atlantic,98,45,37,13,6.0,4,1.0,1st round: Lost to FLA in 5 games,0.5487804878048781,0.47560975609756095,23/24,82.0,45.0,29.0,98.0,8.0
+20232024,VGK,Western,Pacific,98,45,34,14,8.0,4,1.0,1st round: Lost to DAL in 7 games,0.5487804878048781,0.47560975609756095,23/24,82.0,45.0,29.0,98.0,8.0
+20232024,NYI,Eastern,Metropolitan,94,39,29,15,7.0,3,1.0,1st round: Lost to CAR in 5 games,0.47560975609756095,0.47560975609756095,23/24,82.0,39.0,27.0,94.0,16.0
+20232024,STL,Western,Central,92,43,31,16,9.0,5,0.0,,0.524390243902439,0.47560975609756095,23/24,82.0,43.0,33.0,92.0,6.0
+20232024,WSH,Eastern,Metropolitan,91,40,32,17,8.0,4,1.0,1st round: Lost to NYR in 4 games,0.4878048780487805,0.47560975609756095,23/24,82.0,40.0,31.0,91.0,11.0
+20232024,DET,Eastern,Atlantic,91,41,27,18,9.0,5,0.0,,0.5,0.47560975609756095,23/24,82.0,41.0,32.0,91.0,9.0
+20232024,PIT,Eastern,Metropolitan,88,38,32,19,10.0,5,0.0,,0.4634146341463415,0.47560975609756095,23/24,82.0,38.0,32.0,88.0,12.0
+20232024,MIN,Western,Central,87,39,32,20,10.0,6,0.0,,0.47560975609756095,0.47560975609756095,23/24,82.0,39.0,33.0,88.0,10.0
+20232024,PHI,Eastern,Metropolitan,87,38,30,21,11.0,6,0.0,,0.4634146341463415,0.47560975609756095,23/24,82.0,38.0,33.0,87.0,11.0
+20232024,BUF,Eastern,Atlantic,84,39,33,22,12.0,6,0.0,,0.47560975609756095,0.47560975609756095,23/24,82.0,39.0,37.0,84.0,6.0
+20232024,NJD,Eastern,Metropolitan,81,38,33,23,13.0,7,0.0,,0.4634146341463415,0.47560975609756095,23/24,82.0,38.0,39.0,81.0,5.0
+20232024,CGY,Western,Pacific,81,38,32,24,11.0,5,0.0,,0.4634146341463415,0.47560975609756095,23/24,82.0,38.0,39.0,81.0,5.0
+20232024,SEA,Western,Pacific,81,34,28,25,12.0,6,0.0,,0.4146341463414634,0.47560975609756095,23/24,82.0,34.0,35.0,81.0,13.0
+20232024,OTT,Eastern,Atlantic,78,37,25,26,14.0,7,0.0,,0.45121951219512196,0.47560975609756095,23/24,82.0,37.0,41.0,78.0,4.0
+20232024,ARI,Western,Central,77,36,28,27,13.0,7,0.0,,0.43902439024390244,0.47560975609756095,23/24,82.0,36.0,41.0,77.0,5.0
+20232024,MTL,Eastern,Atlantic,76,30,20,28,15.0,8,0.0,,0.36585365853658536,0.47560975609756095,23/24,82.0,30.0,36.0,76.0,16.0
+20232024,CBJ,Eastern,Metropolitan,66,27,21,29,16.0,8,0.0,,0.32926829268292684,0.47560975609756095,23/24,82.0,27.0,43.0,66.0,12.0
+20232024,ANA,Western,Pacific,59,27,21,30,14.0,7,0.0,,0.32926829268292684,0.47560975609756095,23/24,82.0,27.0,50.0,59.0,5.0
+20232024,CHI,Western,Central,52,23,17,31,15.0,8,0.0,,0.2804878048780488,0.47560975609756095,23/24,82.0,23.0,53.0,52.0,6.0
+20232024,SJS,Western,Pacific,47,19,14,32,16.0,8,0.0,,0.23170731707317074,0.47560975609756095,23/24,82.0,19.0,54.0,47.0,9.0
