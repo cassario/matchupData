@@ -1,0 +1,749 @@
+team,position,num,cf_name,player_id,player,line
+ANA,LD,34,Pavel Mintyukov,8483490.0,Pavel Mintyukov,3rd pair
+ANA,F,44.0,Ross Johnston,8477527.0,Ross Johnston,Scratch
+ANA,G,1,Lukas Dostal,8480843.0,Lukas Dostal,Goalie
+ANA,G,36,John Gibson,8476434.0,John Gibson,Goalie
+ANA,RD,5,Urho Vaakanainen,8480001.0,Urho Vaakanainen,3rd pair
+ANA,RD,7,Radko Gudas,8475462.0,Radko Gudas,2nd pair
+ANA,LD,60,Jackson LaCombe,8481605.0,Jackson LaCombe,2nd pair
+ANA,RD,4,Cam Fowler,8475764.0,Cam Fowler,1st pair
+ANA,LD,,Brian Dumoulin,8475208.0,Brian Dumoulin,1st pair
+ANA,RW,20,Brett Leason,8481517.0,Brett Leason,4th line
+ANA,C,21,Isac Lundestrom,8480806.0,Isac Lundestrom,4th line
+ANA,LW,26,Brock McGinn,8476934.0,Brock McGinn,4th line
+ANA,RW,19,Troy Terry,8478873.0,Troy Terry,3rd line
+ANA,C,23,Mason McTavish,8482745.0,Mason McTavish,3rd line
+ANA,LW,,Robby Fabbri,8477952.0,Robby Fabbri,3rd line
+ANA,RW,16,Ryan Strome,8476458.0,Ryan Strome,2nd line
+ANA,C,11,Trevor Zegras,8481533.0,Trevor Zegras,2nd line
+ANA,LW,77,Frank Vatrano,8478366.0,Frank Vatrano,2nd line
+ANA,RW,17,Alex Killorn,8473986.0,Alex Killorn,1st line
+ANA,C,91,Leo Carlsson,8484153.0,Leo Carlsson,1st line
+ANA,LW,61,Cutter Gauthier,8483445.0,Cutter Gauthier,1st line
+ANA,D,51.0,Olen Zellweger,8482803.0,Olen Zellweger,Scratch
+ANA,F,,Jansen Harkins,8478424.0,Jansen Harkins,Scratch
+BOS,C,,Elias Lindholm,8477496.0,Elias Lindholm,1st line
+BOS,LW,63,Brad Marchand,8473419.0,Brad Marchand,1st line
+BOS,F,38.0,Patrick Brown,8477887.0,Patrick Brown,Scratch
+BOS,RW,88,David Pastrnak,8477956.0,David Pastrnak,1st line
+BOS,LW,18,Pavel Zacha,8478401.0,Pavel Zacha,2nd line
+BOS,C,13,Charlie Coyle,8475745.0,Charlie Coyle,2nd line
+BOS,RW,39,Morgan Geekie,8479987.0,Morgan Geekie,2nd line
+BOS,LW,11,Trent Frederic,8479365.0,Trent Frederic,3rd line
+BOS,D,6.0,Mason Lohrei,8482511.0,Mason Lohrei,Scratch
+BOS,RW,55,Justin Brazeau,8479638.0,Justin Brazeau,3rd line
+BOS,LW,,Max Jones,8479368.0,Max Jones,4th line
+BOS,C,19,John Beecher,8481556.0,John Beecher,4th line
+BOS,RW,,Mark Kastelic,8480355.0,Mark Kastelic,4th line
+BOS,C,51,Matthew Poitras,8483505.0,Matthew Poitras,3rd line
+BOS,RD,73,Charlie McAvoy,8479325.0,Charlie McAvoy,1st pair
+BOS,LD,,Nikita Zadorov,8477507.0,Nikita Zadorov,2nd pair
+BOS,RD,25,Brandon Carlo,8478443.0,Brandon Carlo,2nd pair
+BOS,LD,29,Parker Wotherspoon,8478450.0,Parker Wotherspoon,3rd pair
+BOS,RD,52,Andrew Peeke,8479369.0,Andrew Peeke,3rd pair
+BOS,G,1,Jeremy Swayman,8480280.0,Jeremy Swayman,Goalie
+BOS,G,,Joonas Korpisalo,8476914.0,Joonas Korpisalo,Goalie
+BOS,F,,Vinni Lettieri,8479968.0,Vinni Lettieri,Scratch
+BOS,LD,27,Hampus Lindholm,8476854.0,Hampus Lindholm,1st pair
+BUF,LD,25,Owen Power,8482671.0,Owen Power,2nd pair
+BUF,RD,10,Henri Jokiharju,8480035.0,Henri Jokiharju,2nd pair
+BUF,LD,4,Bowen Byram,8481524.0,Bowen Byram,3rd pair
+BUF,RD,75,Connor Clifton,8477365.0,Connor Clifton,3rd pair
+BUF,G,,James Reimer,8473503.0,James Reimer,Scratch
+BUF,G,27,Devon Levi,8482221.0,Devon Levi,Goalie
+BUF,F,19.0,Peyton Krebs,8481522.0,Peyton Krebs,Scratch
+BUF,D,78.0,Jacob Bryson,8480196.0,Jacob Bryson,Scratch
+BUF,RD,26,Rasmus Dahlin,8480839.0,Rasmus Dahlin,1st pair
+BUF,G,1,Ukko-Pekka Luukkonen,8480045.0,Ukko-Pekka Luukkonen,Goalie
+BUF,LD,23,Mattias Samuelsson,8480807.0,Mattias Samuelsson,1st pair
+BUF,LW,77,John-Jason Peterka,8482175.0,JJ Peterka,1st line
+BUF,C,,Sam Lafferty,8478043.0,Sam Lafferty,4th line
+BUF,LW,,Beck Malenstyn,8479359.0,Beck Malenstyn,4th line
+BUF,RW,12,Jordan Greenway,8478413.0,Jordan Greenway,3rd line
+BUF,C,,Ryan McLeod,8480802.0,Ryan McLeod,3rd line
+BUF,LW,9,Zach Benson,8484145.0,Zach Benson,3rd line
+BUF,RW,22,Jack Quinn,8482097.0,Jack Quinn,2nd line
+BUF,C,24,Dylan Cozens,8481528.0,Dylan Cozens,2nd line
+BUF,LW,,Jason Zucker,8475722.0,Jason Zucker,2nd line
+BUF,RW,89,Alex Tuch,8477949.0,Alex Tuch,1st line
+BUF,C,72,Tage Thompson,8479420.0,Tage Thompson,1st line
+BUF,RW,,Nicolas Aube-Kubel,8477979.0,Nicolas Aube-Kubel,4th line
+CAR,LW,,William Carrier,8477478.0,William Carrier,4th line
+CAR,RW,,Jack Roslovic,8478458.0,Jack Roslovic,3rd line
+CAR,C,92,Evgeny Kuznetsov,8475744.0,Evgeny Kuznetsov,3rd line
+CAR,RW,24,Seth Jarvis,8482093.0,Seth Jarvis,1st line
+CAR,RW,88,Martin Necas,8480039.0,Martin Necas,2nd line
+CAR,C,11,Jordan Staal,8473533.0,Jordan Staal,2nd line
+CAR,LW,48,Jordan Martinook,8476921.0,Jordan Martinook,2nd line
+CAR,C,18,Jack Drury,8480835.0,Jack Drury,4th line
+CAR,LW,82,Jesperi Kotkaniemi,8480829.0,Jesperi Kotkaniemi,3rd line
+CAR,RW,71,Jesper Fast,8475855.0,Jesper Fast,4th line
+CAR,LD,,Shayne Gostisbehere,8476906.0,Shayne Gostisbehere,3rd pair
+CAR,RD,8,Brent Burns,8470613.0,Brent Burns,1st pair
+CAR,LD,7,Dmitry Orlov,8475200.0,Dmitry Orlov,2nd pair
+CAR,RD,5,Jalen Chatfield,8478970.0,Jalen Chatfield,2nd pair
+CAR,RD,,Sean Walker,8480336.0,Sean Walker,3rd pair
+CAR,G,31,Frederik Andersen,8475883.0,Frederik Andersen,Goalie
+CAR,G,52,Pyotr Kochetkov,8481611.0,Pyotr Kochetkov,Goalie
+CAR,F,,Eric Robinson,8480762.0,Eric Robinson,Scratch
+CAR,F,28.0,Brendan Lemieux,8477962.0,Brendan Lemieux,Scratch
+CAR,D,56.0,Scott Morrow,8482666.0,Scott Morrow,Scratch
+CAR,LD,74,Jaccob Slavin,8476958.0,Jaccob Slavin,1st pair
+CAR,C,20,Sebastian Aho,8478427.0,Sebastian Aho,1st line
+CAR,LW,37,Andrei Svechnikov,8480830.0,Andrei Svechnikov,1st line
+CBJ,F,64.0,Trey Fix-Wolansky,8480441.0,Trey Fix-Wolansky,Scratch
+CBJ,G,90,Elvis Merzlikins,8478007.0,Elvis Merzlikins,Goalie
+CBJ,LD,3,Jack Johnson,8471677.0,Jack Johnson,3rd pair
+CBJ,F,67.0,James Malatesta,8482744.0,James Malatesta,Scratch
+CBJ,G,40,Daniil Tarasov,8480193.0,Daniil Tarasov,Goalie
+CBJ,D,23.0,Jake Christiansen,,Jake Christiansen,Scratch
+CBJ,F,91,Kent Johnson,8482660.0,Kent Johnson,IR
+CBJ,F,29,Patrik Laine,8479339.0,Patrik Laine,Error
+CBJ,RD,44,Erik Gudbranson,8475790.0,Erik Gudbranson,2nd pair
+CBJ,LD,9,Ivan Provorov,8478500.0,Ivan Provorov,2nd pair
+CBJ,RD,78,Damon Severson,8476923.0,Damon Severson,1st pair
+CBJ,LD,8,Zachary Werenski,8478460.0,Zach Werenski,1st pair
+CBJ,RW,24,Mathieu Olivier,8479671.0,Mathieu Olivier,4th line
+CBJ,C,7,Sean Kuraly,8476374.0,Sean Kuraly,4th line
+CBJ,LW,82,Mikael Pyyhtia,8482451.0,Mikael Pyyhtia,4th line
+CBJ,RD,55,David Jiricek,8483460.0,David Jiricek,3rd pair
+CBJ,C,4,Cole Sillinger,8482705.0,Cole Sillinger,3rd line
+CBJ,LW,10,Dmitri Voronkov,8481716.0,Dmitri Voronkov,3rd line
+CBJ,RW,59,Yegor Chinakhov,8482475.0,Yegor Chinakhov,2nd line
+CBJ,C,19,Adam Fantilli,8484166.0,Adam Fantilli,2nd line
+CBJ,LW,38,Boone Jenner,8476432.0,Boone Jenner,2nd line
+CBJ,RW,86,Kirill Marchenko,8480893.0,Kirill Marchenko,1st line
+CBJ,C,23,Sean Monahan,8477497.0,Sean Monahan,1st line
+CBJ,LW,13,Johnny Gaudreau,8476346.0,Johnny Gaudreau,1st line
+CBJ,RW,17,Justin Danforth,8479941.0,Justin Danforth,3rd line
+CGY,LD,52,MacKenzie Weegar,8477346.0,MacKenzie Weegar,1st pair
+CGY,RD,4,Rasmus Andersson,8478397.0,Rasmus Andersson,1st pair
+CGY,LD,7,Kevin Bahl,8480860.0,Kevin Bahl,2nd pair
+CGY,RD,62,Daniil Miromanov,8482624.0,Daniil Miromanov,2nd pair
+CGY,G,80,Daniel Vladar,8478435.0,Dan Vladar,Goalie
+CGY,RD,94,Brayden Pachal,8481167.0,Brayden Pachal,3rd pair
+CGY,G,32,Dustin Wolf,8481692.0,Dustin Wolf,Goalie
+CGY,RW,70,Ryan Lomberg,8479066.0,Ryan Lomberg,4th line
+CGY,F,15.0,Dryden Hunt,8478211.0,Dryden Hunt,Scratch
+CGY,D,44.0,Joel Hanley,8477810.0,Joel Hanley,Scratch
+CGY,LD,24,Jake Bean,8479402.0,Jake Bean,3rd pair
+CGY,F,71.0,Walker Duehr,8482652.0,Walker Duehr,Scratch
+CGY,LW,47,Connor Zary,8482074.0,Connor Zary,3rd line
+CGY,RW,96,Andrei Kuzmenko,8483808.0,Andrei Kuzmenko,3rd line
+CGY,C,76,Martin Pospisil,8481028.0,Martin Pospisil,3rd line
+CGY,RW,20,Blake Coleman,8476399.0,Blake Coleman,2nd line
+CGY,C,11,Mikael Backlund,8474150.0,Mikael Backlund,2nd line
+CGY,LW,17,Yegor Sharangovich,8481068.0,Yegor Sharangovich,2nd line
+CGY,RW,39,Anthony Mantha,8477511.0,Anthony Mantha,1st line
+CGY,C,91,Nazem Kadri,8475172.0,Nazem Kadri,1st line
+CGY,LW,10,Jonathan Huberdeau,8476456.0,Jonathan Huberdeau,1st line
+CGY,LW,22,Jakob Pelletier,8481592.0,Jakob Pelletier,4th line
+CGY,C,21,Kevin Rooney,8479291.0,Kevin Rooney,4th line
+CHI,F,,Craig Smith,8475225.0,Craig Smith,Scratch
+CHI,F,,Joey Anderson,8479315.0,Joey Anderson,Scratch
+CHI,D,41.0,Isaak Phillips,8482192.0,Isaak Phillips,Scratch
+CHI,C,98,Connor Bedard,8484144.0,Connor Bedard,1st line
+CHI,LD,72,Alex Vlasic,8481568.0,Alex Vlasic,1st pair
+CHI,LW,,Tyler Bertuzzi,8477479.0,Tyler Bertuzzi,2nd line
+CHI,C,16,Jason Dickinson,8477450.0,Jason Dickinson,2nd line
+CHI,RW,,Teuvo Teravainen,8476882.0,Teuvo Teravainen,2nd line
+CHI,LW,27,Lukas Reichel,8482117.0,Lukas Reichel,3rd line
+CHI,C,89,Andreas Athanasiou,8476960.0,Andreas Athanasiou,3rd line
+CHI,RW,,Ilya Mikheyev,8481624.0,Ilya Mikheyev,3rd line
+CHI,LW,17,Nick Foligno,8473422.0,Nick Foligno,4th line
+CHI,C,8,Ryan Donato,8477987.0,Ryan Donato,4th line
+CHI,RW,,Patrick Maroon,8474034.0,Pat Maroon,4th line
+CHI,RW,23,Philipp Kurashev,8480798.0,Philipp Kurashev,1st line
+CHI,LD,55,Kevin Korchinski,8483466.0,Kevin Korchinski,2nd pair
+CHI,RD,5,Connor Murphy,8476473.0,Connor Murphy,2nd pair
+CHI,LD,,Alec Martinez,8474166.0,Alec Martinez,3rd pair
+CHI,RD,,TJ Brodie,8474673.0,TJ Brodie,3rd pair
+CHI,G,34,Petr Mrazek,8475852.0,Petr Mrazek,Goalie
+CHI,G,,Laurent Brossoit,8476316.0,Laurent Brossoit,Goalie
+CHI,LW,71,Taylor Hall,8475791.0,Taylor Hall,1st line
+CHI,RD,4,Seth Jones,8477495.0,Seth Jones,1st pair
+COL,F,41.0,Jason Polin,8484255.0,Jason Polin,Scratch
+COL,F,13,Valeri Nichushkin,8477501.0,Valeri Nichushkin,Error
+COL,F,92,Gabriel Landeskog,8476455.0,Gabriel Landeskog,IR
+COL,D,,Jacob MacDonald,8479439.0,Jacob MacDonald,Scratch
+COL,D,70.0,Sam Malinski,8484258.0,Sam Malinski,Scratch
+COL,LW,27,Jonathan Drouin,8477494.0,Jonathan Drouin,1st line
+COL,LD,7,Devon Toews,8478038.0,Devon Toews,1st pair
+COL,G,40,Alexandar Georgiev,8480382.0,Alexandar Georgiev,Goalie
+COL,RD,,Erik Brannstrom,8480073.0,Erik Brannstrom,3rd pair
+COL,LD,,Calvin De Haan,8475177.0,Calvin de Haan,3rd pair
+COL,RD,42,Josh Manson,8476312.0,Josh Manson,2nd pair
+COL,LD,49,Samuel Girard,8479398.0,Samuel Girard,2nd pair
+COL,RD,8,Cale Makar,8480069.0,Cale Makar,1st pair
+COL,RW,94,Joel Kiviranta,8481641.0,Joel Kiviranta,4th line
+COL,C,14,Chris Wagner,8475780.0,Chris Wagner,4th line
+COL,RW,51,Nikolai Kovalenko,,Nikolai Kovalenko,3rd line
+COL,LW,,Parker Kelly,8480448.0,Parker Kelly,4th line
+COL,LW,28,Miles Wood,8477425.0,Miles Wood,3rd line
+COL,RW,25,Logan O'Connor,8481186.0,Logan O'Connor,2nd line
+COL,C,37,Casey Mittelstadt,8479999.0,Casey Mittelstadt,2nd line
+COL,LW,62,Artturi Lehkonen,8477476.0,Artturi Lehkonen,2nd line
+COL,RW,96,Mikko Rantanen,8478420.0,Mikko Rantanen,1st line
+COL,G,60,Justus Annunen,8481020.0,Justus Annunen,Goalie
+COL,C,29,Nathan MacKinnon,8477492.0,Nathan MacKinnon,1st line
+COL,C,20,Ross Colton,8479525.0,Ross Colton,3rd line
+DAL,RD,4,Miro Heiskanen,8480036.0,Miro Heiskanen,1st pair
+DAL,LD,55,Thomas Harley,8481581.0,Thomas Harley,1st pair
+DAL,RW,43,Colin Blackwell,8476278.0,Colin Blackwell,4th line
+DAL,LD,23,Esa Lindell,8476902.0,Esa Lindell,2nd pair
+DAL,LW,21,Jason Robertson,8480027.0,Jason Robertson,1st line
+DAL,LD,,Ilya Lyubushkin,8480950.0,Ilya Lyubushkin,3rd pair
+DAL,RD,,Nils Lundkvist,8480878.0,Nils Lundkvist,3rd pair
+DAL,C,18,Sam Steel,8479351.0,Sam Steel,4th line
+DAL,G,29,Jake Oettinger,8479979.0,Jake Oettinger,Goalie
+DAL,RD,,Matt Dumba,8476856.0,Matt Dumba,2nd pair
+DAL,LW,63,Evgeni Dadonov,8474149.0,Evgenii Dadonov,4th line
+DAL,G,,Casey DeSmith,8479193.0,Casey DeSmith,Goalie
+DAL,C,22,Mavrik Bourque,8482145.0,Mavrik Bourque,3rd line
+DAL,LW,14,Jamie Benn,8473994.0,Jamie Benn,3rd line
+DAL,RW,91,Tyler Seguin,8475794.0,Tyler Seguin,2nd line
+DAL,C,95,Matt Duchene,8475168.0,Matt Duchene,2nd line
+DAL,LW,27,Mason Marchment,8478975.0,Mason Marchment,2nd line
+DAL,RW,53,Wyatt Johnston,8482740.0,Wyatt Johnston,1st line
+DAL,C,24,Roope Hintz,8478449.0,Roope Hintz,1st line
+DAL,F,25.0,Matej Blumel,8481712.0,Matej Blumel,Scratch
+DAL,F,37.0,Oskar Back,,Oskar Back,Scratch
+DAL,D,,Brendan Smith,8474090.0,Brendan Smith,Scratch
+DAL,RW,11,Logan Stankoven,8482702.0,Logan Stankoven,3rd line
+DET,LD,2,Olli Maatta,8476874.0,Olli Maatta,3rd pair
+DET,RW,,Christian Fischer,8478432.0,Christian Fischer,4th line
+DET,LW,,Tyler Motte,8477353.0,Tyler Motte,3rd line
+DET,D,3.0,Justin Holl,8475718.0,Justin Holl,Scratch
+DET,F,,Joe Snively,8481441.0,Joe Snively,Scratch
+DET,G,,Cam Talbot,8475660.0,Cam Talbot,Goalie
+DET,LW,93,Alex DeBrincat,8479337.0,Alex DeBrincat,1st line
+DET,C,71,Dylan Larkin,8477946.0,Dylan Larkin,1st line
+DET,RW,23,Lucas Raymond,8482078.0,Lucas Raymond,1st line
+DET,LW,27,Michael Rasmussen,8479992.0,Michael Rasmussen,2nd line
+DET,C,37,J.T. Compher,8477456.0,J.T. Compher,2nd line
+DET,RW,88,Patrick Kane,8474141.0,Patrick Kane,2nd line
+DET,RD,,Erik Gustafsson,8476979.0,Erik Gustafsson,3rd pair
+DET,C,18,Andrew Copp,8477429.0,Andrew Copp,3rd line
+DET,RW,,Vladimir Tarasenko,8475765.0,Vladimir Tarasenko,3rd line
+DET,LW,48,Jonatan Berggren,8481013.0,Jonatan Berggren,4th line
+DET,C,90,Joseph Veleno,8480813.0,Joe Veleno,4th line
+DET,G,34,Alex Lyon,8479312.0,Alex Lyon,Goalie
+DET,LD,8,Ben Chiarot,8475279.0,Ben Chiarot,1st pair
+DET,RD,53,Moritz Seider,8481542.0,Moritz Seider,1st pair
+DET,LD,77,Simon Edvinsson,8482762.0,Simon Edvinsson,2nd pair
+DET,RD,46,Jeff Petry,8473507.0,Jeff Petry,2nd pair
+DET,G,35.0,Ville Husso,8478024.0,Ville Husso,Scratch
+EDM,G,74,Stuart Skinner,8479973.0,Stuart Skinner,Goalie
+EDM,D,,Joshua Brown,8477384.0,Josh Brown,Scratch
+EDM,F,28.0,Connor Brown,8477015.0,Connor Brown,Scratch
+EDM,RD,5,Cody Ceci,8476879.0,Cody Ceci,3rd pair
+EDM,LD,27,Brett Kulak,8476967.0,Brett Kulak,3rd pair
+EDM,RD,86,Philip Broberg,8481598.0,Philip Broberg,2nd pair
+EDM,LD,25,Darnell Nurse,8477498.0,Darnell Nurse,2nd pair
+EDM,RD,2,Evan Bouchard,8480803.0,Evan Bouchard,1st pair
+EDM,LD,14,Mattias Ekholm,8475218.0,Mattias Ekholm,1st pair
+EDM,RW,90,Corey Perry,8470621.0,Corey Perry,4th line
+EDM,C,10,Derek Ryan,8478585.0,Derek Ryan,4th line
+EDM,F,57.0,James Hamblin,8480468.0,James Hamblin,Scratch
+EDM,LW,13,Mattias Janmark,8477406.0,Mattias Janmark,4th line
+EDM,C,,Adam Henrique,8474641.0,Adam Henrique,3rd line
+EDM,LW,55,Dylan Holloway,8482077.0,Dylan Holloway,3rd line
+EDM,RW,,Viktor Arvidsson,8478042.0,Viktor Arvidsson,2nd line
+EDM,C,29,Leon Draisaitl,8477934.0,Leon Draisaitl,2nd line
+EDM,LW,91,Evander Kane,8475169.0,Evander Kane,2nd line
+EDM,RW,18,Zach Hyman,8475786.0,Zach Hyman,1st line
+EDM,C,97,Connor McDavid,8478402.0,Connor McDavid,1st line
+EDM,LW,93,Ryan Nugent-Hopkins,8476454.0,Ryan Nugent-Hopkins,1st line
+EDM,RW,,Jeff Skinner,8475784.0,Jeff Skinner,3rd line
+EDM,G,30,Calvin Pickard,8475717.0,Calvin Pickard,Goalie
+FLA,LW,23,Carter Verhaeghe,8477409.0,Carter Verhaeghe,1st line
+FLA,RW,,AJ Greer,8478421.0,A.J. Greer,4th line
+FLA,G,72,Sergei Bobrovsky,8475683.0,Sergei Bobrovsky,Goalie
+FLA,RD,,Nate Schmidt,8477220.0,Nate Schmidt,3rd pair
+FLA,LD,26,Uvis Balinskis,8484304.0,Uvis Balinskis,3rd pair
+FLA,RD,7,Dmitry Kulikov,8475179.0,Dmitry Kulikov,2nd pair
+FLA,LD,77,Niko Mikkola,8478859.0,Niko Mikkola,2nd pair
+FLA,RD,5,Aaron Ekblad,8477932.0,Aaron Ekblad,1st pair
+FLA,LD,42,Gustav Forsling,8478055.0,Gustav Forsling,1st pair
+FLA,C,,Tomas Nosek,8477931.0,Tomas Nosek,4th line
+FLA,LW,12,Jonah Gadjovich,8479981.0,Jonah Gadjovich,4th line
+FLA,RW,25,Mackie Samoskevich,8482713.0,Mackie Samoskevich,3rd line
+FLA,G,30,Spencer Knight,8481519.0,Spencer Knight,Goalie
+FLA,C,15,Anton Lundell,8482113.0,Anton Lundell,3rd line
+FLA,RW,19,Matthew Tkachuk,8479314.0,Matthew Tkachuk,2nd line
+FLA,C,9,Sam Bennett,8477935.0,Sam Bennett,2nd line
+FLA,LW,17,Evan Rodrigues,8478542.0,Evan Rodrigues,2nd line
+FLA,RW,13,Sam Reinhart,8477933.0,Sam Reinhart,1st line
+FLA,C,16,Aleksander Barkov,8477493.0,Aleksander Barkov,1st line
+FLA,F,,Jesper Boqvist,8480003.0,Jesper Boqvist,Scratch
+FLA,D,,Jaycob Megna,8477034.0,Jaycob Megna,Scratch
+FLA,LW,27,Eetu Luostarinen,8480185.0,Eetu Luostarinen,3rd line
+FLA,F,,Mackenzie Entwistle,8480025.0,MacKenzie Entwistle,Scratch
+LAK,C,55,Quinton Byfield,8482124.0,Quinton Byfield,2nd line
+LAK,RW,,Warren Foegele,8477998.0,Warren Foegele,2nd line
+LAK,LW,12,Trevor Moore,8479675.0,Trevor Moore,3rd line
+LAK,C,24,Phillip Danault,8476479.0,Phillip Danault,3rd line
+LAK,G,,Darcy Kuemper,8475311.0,Darcy Kuemper,Goalie
+LAK,RW,,Tanner Jeannot,8479661.0,Tanner Jeannot,3rd line
+LAK,RW,9,Adrian Kempe,8477960.0,Adrian Kempe,1st line
+LAK,C,11,Anze Kopitar,8471685.0,Anze Kopitar,1st line
+LAK,LW,78,Alex Laferriere,8482155.0,Alex Laferriere,1st line
+LAK,LW,22,Kevin Fiala,8477942.0,Kevin Fiala,2nd line
+LAK,RD,92,Brandt Clarke,8482730.0,Brandt Clarke,3rd pair
+LAK,LW,38,Alex Turcotte,8481532.0,Alex Turcotte,4th line
+LAK,RW,61,Trevor Lewis,8473453.0,Trevor Lewis,4th line
+LAK,C,41,Akil Thomas,8480851.0,Akil Thomas,4th line
+LAK,G,31,David Rittich,8479496.0,David Rittich,Goalie
+LAK,D,,Kyle Burroughs,8477335.0,Kyle Burroughs,Scratch
+LAK,D,5.0,Andreas Englund,8477971.0,Andreas Englund,Scratch
+LAK,F,34.0,Arthur Kaliyev,8481560.0,Arthur Kaliyev,Scratch
+LAK,RD,21,Jordan Spence,8481606.0,Jordan Spence,2nd pair
+LAK,LD,84,Vladislav Gavrikov,8478882.0,Vladislav Gavrikov,2nd pair
+LAK,RD,8,Drew Doughty,8474563.0,Drew Doughty,1st pair
+LAK,LD,44,Michael Anderson,8479998.0,Mikey Anderson,1st pair
+LAK,LD,,Joel Edmundson,8476441.0,Joel Edmundson,3rd pair
+MIN,LW,97,Kirill Kaprizov,8478864.0,Kirill Kaprizov,1st line
+MIN,LW,90,Marcus Johansson,8475149.0,Marcus Johansson,2nd line
+MIN,C,89,Frederick Gaudreau,8477919.0,Frederick Gaudreau,4th line
+MIN,C,23,Marco Rossi,8482079.0,Marco Rossi,2nd line
+MIN,RW,36,Mats Zuccarello,8475692.0,Mats Zuccarello,2nd line
+MIN,LW,17,Marcus Foligno,8475220.0,Marcus Foligno,3rd line
+MIN,C,22,Marat Khusnutdinov,8482177.0,Marat Khusnutdinov,3rd line
+MIN,RW,38,Ryan Hartman,8477451.0,Ryan Hartman,3rd line
+MIN,LW,,Yakov Trenin,8478508.0,Yakov Trenin,4th line
+MIN,RW,,Jakub Lauko,8480880.0,Jakub Lauko,4th line
+MIN,LD,47,Declan Chisholm,8480990.0,Declan Chisholm,3rd pair
+MIN,RD,7,Brock Faber,8482122.0,Brock Faber,1st pair
+MIN,LD,25,Jonas Brodin,8476463.0,Jonas Brodin,2nd pair
+MIN,RD,46,Jared Spurgeon,8474716.0,Jared Spurgeon,2nd pair
+MIN,RD,24,Zach Bogosian,8474567.0,Zach Bogosian,3rd pair
+MIN,G,32,Filip Gustavsson,8479406.0,Filip Gustavsson,Goalie
+MIN,G,29,Marc-Andre Fleury,8470594.0,Marc-Andre Fleury,Goalie
+MIN,F,,Reese Johnson,8481147.0,Reese Johnson,Scratch
+MIN,F,,Travis Boyd,8476329.0,Travis Boyd,Scratch
+MIN,RW,12,Matthew Boldy,8481557.0,Matt Boldy,1st line
+MIN,LD,5,Jake Middleton,8478136.0,Jake Middleton,1st pair
+MIN,C,14,Joel Eriksson Ek,8478493.0,Joel Eriksson Ek,1st line
+MIN,D,4.0,Jon Merrill,8475750.0,Jon Merrill,Scratch
+MTL,RD,58,David Savard,8475233.0,David Savard,2nd pair
+MTL,F,89.0,Joshua Roy,8482749.0,Joshua Roy,Scratch
+MTL,G,30,Cayden Primeau,8480051.0,Cayden Primeau,Goalie
+MTL,G,35,Samuel Montembeault,8478470.0,Sam Montembeault,Goalie
+MTL,RD,54,Jordan Harris,8480887.0,Jordan Harris,3rd pair
+MTL,LD,72,Arber Xhekaj,8482964.0,Arber Xhekaj,3rd pair
+MTL,LD,21,Kaiden Guhle,8482087.0,Kaiden Guhle,2nd pair
+MTL,C,14,Nick Suzuki,8480018.0,Nick Suzuki,1st line
+MTL,RW,20,Juraj Slafkovsky,8483515.0,Juraj Slafkovsky,1st line
+MTL,LW,11,Brendan Gallagher,8475848.0,Brendan Gallagher,2nd line
+MTL,C,15,Alex Newhook,8481618.0,Alex Newhook,2nd line
+MTL,RW,77,Kirby Dach,8481523.0,Kirby Dach,2nd line
+MTL,LW,22,Cole Caufield,8481540.0,Cole Caufield,1st line
+MTL,C,71,Jake Evans,8478133.0,Jake Evans,3rd line
+MTL,RW,17,Josh Anderson,8476981.0,Josh Anderson,3rd line
+MTL,LW,55,Michael Pezzetta,8479543.0,Michael Pezzetta,4th line
+MTL,C,28,Christian Dvorak,8477989.0,Christian Dvorak,4th line
+MTL,RW,40,Joel Armia,8476469.0,Joel Armia,4th line
+MTL,LD,8,Michael Matheson,8476875.0,Mike Matheson,1st pair
+MTL,RD,52,Justin Barron,8482111.0,Justin Barron,1st pair
+MTL,G,31.0,Carey Price,8471679.0,Carey Price,IR
+MTL,D,47.0,Jayden Struble,8481593.0,Jayden Struble,Scratch
+MTL,F,,Alex Barre-Boulet,8479718.0,Alex Barré-Boulet,Scratch
+MTL,LW,49,Rafael Harvey-Pinard,8481093.0,Rafael Harvey-Pinard,3rd line
+NJD,LD,71,Jonas Siegenthaler,8478399.0,Jonas Siegenthaler,1st pair
+NJD,RD,7,Dougie Hamilton,8476462.0,Dougie Hamilton,1st pair
+NJD,LD,43,Luke Hughes,8482684.0,Luke Hughes,2nd pair
+NJD,RD,22,Brett Pesce,8477488.0,Brett Pesce,2nd pair
+NJD,LD,5,Brenden Dillon,8475455.0,Brenden Dillon,3rd pair
+NJD,F,23.0,Kurtis MacDermid,8477073.0,Kurtis MacDermid,Scratch
+NJD,G,25,Jacob Markstrom,8474593.0,Jacob Markstrom,Goalie
+NJD,G,34,Jake Allen,8474596.0,Jake Allen,Goalie
+NJD,F,46.0,Max Willman,8478051.0,Max Willman,Scratch
+NJD,D,8.0,Johnathan Kovacevic,8480192.0,Johnathan Kovacevic,Scratch
+NJD,RD,17,Simon Nemec,8483495.0,Simon Nemec,3rd pair
+NJD,RW,14,Nathan Bastian,8479414.0,Nathan Bastian,4th line
+NJD,LW,47,Paul Cotter,8481032.0,Paul Cotter,4th line
+NJD,RW,,Tomas Tatar,8475193.0,Tomas Tatar,3rd line
+NJD,C,42,Curtis Lazar,8477508.0,Curtis Lazar,4th line
+NJD,LW,28,Timo Meier,8478414.0,Timo Meier,1st line
+NJD,C,13,Nico Hischier,8480002.0,Nico Hischier,1st line
+NJD,RW,63,Jesper Bratt,8479407.0,Jesper Bratt,1st line
+NJD,C,56,Erik Haula,8475287.0,Erik Haula,3rd line
+NJD,C,86,Jack Hughes,8481559.0,Jack Hughes,2nd line
+NJD,RW,91,Dawson Mercer,8482110.0,Dawson Mercer,2nd line
+NJD,LW,11,Stefan Noesen,8476474.0,Stefan Noesen,3rd line
+NJD,LW,18,Ondrej Palat,8476292.0,Ondrej Palat,2nd line
+NSH,D,24.0,Spencer Stastney,8481056.0,Spencer Stastney,Scratch
+NSH,F,26.0,Philip Tomasino,8481577.0,Philip Tomasino,Scratch
+NSH,F,8.0,Cody Glass,8479996.0,Cody Glass,Scratch
+NSH,G,41,Scott Wedgewood,8475809.0,Scott Wedgewood,Goalie
+NSH,G,74,Juuse Saros,8477424.0,Juuse Saros,Goalie
+NSH,RD,2,Luke Schenn,8474568.0,Luke Schenn,3rd pair
+NSH,LD,3,Jeremy Lauzon,8478468.0,Jeremy Lauzon,3rd pair
+NSH,RD,45,Alexandre Carrier,8478851.0,Alexandre Carrier,2nd pair
+NSH,LD,76,Brady Skjei,8476869.0,Brady Skjei,2nd pair
+NSH,RD,57,Dante Fabbro,8479371.0,Dante Fabbro,1st pair
+NSH,RW,47,Michael McCarron,8477446.0,Michael McCarron,4th line
+NSH,C,82,Thomas Novak,8478438.0,Tommy Novak,4th line
+NSH,LW,36,Cole Smith,8482062.0,Cole Smith,4th line
+NSH,C,75,Juuso Parssinen,8481704.0,Juuso Parssinen,3rd line
+NSH,LW,17,Mark Jankowski,8476873.0,Mark Jankowski,3rd line
+NSH,RW,81,Jonathan Marchessault,8476539.0,Jonathan Marchessault,2nd line
+NSH,C,10,Colton Sissons,8476925.0,Colton Sissons,2nd line
+NSH,LW,91,Steven Stamkos,8474564.0,Steven Stamkos,2nd line
+NSH,RW,14,Gustav Nyquist,8474679.0,Gustav Nyquist,1st line
+NSH,C,90,Ryan O'Reilly,8475158.0,Ryan O'Reilly,1st line
+NSH,LW,9,Filip Forsberg,8476887.0,Filip Forsberg,1st line
+NSH,LD,59,Roman Josi,8474600.0,Roman Josi,1st pair
+NSH,RW,77,Luke Evangelista,8482146.0,Luke Evangelista,3rd line
+NYI,RD,24,Scott Mayfield,8476429.0,Scott Mayfield,3rd pair
+NYI,D,,Mike Reilly,8476422.0,Mike Reilly,Scratch
+NYI,RD,6,Ryan Pulock,8477506.0,Ryan Pulock,2nd pair
+NYI,LD,3,Adam Pelech,8476917.0,Adam Pelech,2nd pair
+NYI,RD,8,Noah Dobson,8480865.0,Noah Dobson,1st pair
+NYI,RW,10,Simon Holmstrom,8481601.0,Simon Holmstrom,4th line
+NYI,LW,27,Anders Lee,8475314.0,Anders Lee,1st line
+NYI,C,14,Bo Horvat,8477500.0,Bo Horvat,1st line
+NYI,RW,13,Mathew Barzal,8478445.0,Mathew Barzal,1st line
+NYI,LW,,Anthony Duclair,8477407.0,Anthony Duclair,2nd line
+NYI,C,29,Brock Nelson,8475754.0,Brock Nelson,2nd line
+NYI,RW,21,Kyle Palmieri,8475151.0,Kyle Palmieri,2nd line
+NYI,LW,18,Pierre Engvall,8478115.0,Pierre Engvall,3rd line
+NYI,C,44,Jean-Gabriel Pageau,8476419.0,Jean-Gabriel Pageau,3rd line
+NYI,RW,,Maxim Tsyplakov,,Maxim Tsyplakov,3rd line
+NYI,LW,32,Kyle MacLean,8481237.0,Kyle MacLean,4th line
+NYI,C,53,Casey Cizikas,8475231.0,Casey Cizikas,4th line
+NYI,LD,4,Samuel Bolduc,8481541.0,Samuel Bolduc,3rd pair
+NYI,G,30,Ilya Sorokin,8478009.0,Ilya Sorokin,Goalie
+NYI,LD,28,Alexander Romanov,8481014.0,Alexander Romanov,1st pair
+NYI,F,26.0,Oliver Wahlstrom,8480789.0,Oliver Wahlstrom,Scratch
+NYI,F,20.0,Hudson Fasching,8477392.0,Hudson Fasching,Scratch
+NYI,G,40,Semyon Varlamov,8473575.0,Semyon Varlamov,Goalie
+NYR,C,,Sam Carrick,8475842.0,Sam Carrick,4th line
+NYR,LD,55,Ryan Lindgren,8479324.0,Ryan Lindgren,1st pair
+NYR,RW,73,Matt Rempe,8482460.0,Matt Rempe,4th line
+NYR,LW,50,Will Cuylle,8482157.0,Will Cuylle,4th line
+NYR,RW,24,Kaapo Kakko,8481554.0,Kaapo Kakko,3rd line
+NYR,C,72,Filip Chytil,8480078.0,Filip Chytil,3rd line
+NYR,LW,26,Jimmy Vesey,8476918.0,Jimmy Vesey,3rd line
+NYR,C,93,Mika Zibanejad,8476459.0,Mika Zibanejad,2nd line
+NYR,RD,23,Adam Fox,8479323.0,Adam Fox,1st pair
+NYR,LW,20,Chris Kreider,8475184.0,Chris Kreider,2nd line
+NYR,RW,13,Alexis Lafreniere,8482109.0,Alexis Lafrenière,1st line
+NYR,C,16,Vincent Trocheck,8476389.0,Vincent Trocheck,1st line
+NYR,LW,10,Artemi Panarin,8478550.0,Artemi Panarin,1st line
+NYR,RW,,Reilly Smith,8475191.0,Reilly Smith,2nd line
+NYR,LD,79,K'Andre Miller,8480817.0,K'Andre Miller,2nd pair
+NYR,G,32,Jonathan Quick,8471734.0,Jonathan Quick,Goalie
+NYR,LD,6,Zachary Jones,8481708.0,Zac Jones,3rd pair
+NYR,RD,8,Jacob Trouba,8476885.0,Jacob Trouba,3rd pair
+NYR,G,31,Igor Shesterkin,8478048.0,Igor Shesterkin,Goalie
+NYR,RD,4,Braden Schneider,8482073.0,Braden Schneider,2nd pair
+NYR,F,22.0,Jonny Brodzinski,8477380.0,Jonny Brodzinski,Scratch
+NYR,F,,Benoit-Olivier Groulx,8480870.0,Bo Groulx,Scratch
+NYR,D,14.0,Connor Mackey,8482067.0,Connor Mackey,Scratch
+OTT,RD,3,Nick Jensen,8475324.0,Nick Jensen,2nd pair
+OTT,LD,43,Tyler Kleven,8482095.0,Tyler Kleven,3rd pair
+OTT,G,31,Anton Forsberg,8476341.0,Anton Forsberg,Goalie
+OTT,RW,28,Claude Giroux,8473512.0,Claude Giroux,2nd line
+OTT,G,35,Linus Ullmark,8476999.0,Linus Ullmark,Goalie
+OTT,LD,72,Thomas Chabot,8478469.0,Thomas Chabot,2nd pair
+OTT,C,18,Tim Stutzle,8482116.0,Tim Stützle,1st line
+OTT,RW,19,Drake Batherson,8480208.0,Drake Batherson,1st line
+OTT,RD,24,Jacob Bernard-Docker,8480879.0,Jacob Bernard-Docker,3rd pair
+OTT,RD,2,Artem Zub,8482245.0,Artem Zub,1st pair
+OTT,LW,7,Brady Tkachuk,8480801.0,Brady Tkachuk,1st line
+OTT,RW,17,Zack MacEwen,8479772.0,Zack MacEwen,4th line
+OTT,LW,22,Michael Amadio,8478020.0,Michael Amadio,3rd line
+OTT,C,9,Joshua Norris,8480064.0,Josh Norris,3rd line
+OTT,RW,57,David Perron,8474102.0,David Perron,3rd line
+OTT,LW,,Noah Gregor,8479393.0,Noah Gregor,4th line
+OTT,F,15.0,Matthew Highmore,8478146.0,Matthew Highmore,Scratch
+OTT,D,23.0,Travis Hamonic,8474612.0,Travis Hamonic,Scratch
+OTT,C,12,Shane Pinto,8481596.0,Shane Pinto,2nd line
+OTT,C,38,Zack Ostapchuk,8482859.0,Zack Ostapchuk,4th line
+OTT,LD,85,Jake Sanderson,8482105.0,Jake Sanderson,1st pair
+OTT,LW,71,Ridly Greig,8482092.0,Ridly Greig,2nd line
+OTT,F,59.0,Angus Crookshank,8481065.0,Angus Crookshank,Scratch
+PHI,C,14,Sean Couturier,8476461.0,Sean Couturier,1st line
+PHI,F,44.0,Nicolas Deslauriers,8475235.0,Nicolas Deslauriers,Scratch
+PHI,F,62.0,Olle Lycksell,8480245.0,Olle Lycksell,Scratch
+PHI,D,,Erik Johnson,8473446.0,Erik Johnson,Scratch
+PHI,F,12.0,Ryan Johansen,8475793.0,Ryan Johansen,IR
+PHI,RD,55,Rasmus Ristolainen,8477499.0,Rasmus Ristolainen,3rd pair
+PHI,LW,71,Tyson Foerster,8482159.0,Tyson Foerster,1st line
+PHI,RW,11,Travis Konecny,8478439.0,Travis Konecny,1st line
+PHI,LW,74,Owen Tippett,8480015.0,Owen Tippett,2nd line
+PHI,G,82,Ivan Fedotov,8478905.0,Ivan Fedotov,Goalie
+PHI,RW,39,Matvei Michkov,,Matvei Michkov,2nd line
+PHI,LW,86,Joel Farabee,8480797.0,Joel Farabee,3rd line
+PHI,C,48,Morgan Frost,8480028.0,Morgan Frost,2nd line
+PHI,RW,10,Bobby Brink,8481553.0,Bobby Brink,3rd line
+PHI,LW,27,Noah Cates,8480220.0,Noah Cates,4th line
+PHI,C,25,Ryan Poehling,8480068.0,Ryan Poehling,4th line
+PHI,RW,19,Garnet Hathaway,8477903.0,Garnet Hathaway,4th line
+PHI,LD,8,Cam York,8481546.0,Cam York,1st pair
+PHI,RD,6,Travis Sanheim,8477948.0,Travis Sanheim,1st pair
+PHI,LD,24,Nick Seeler,8476372.0,Nick Seeler,2nd pair
+PHI,RD,9,Jamie Drysdale,8482142.0,Jamie Drysdale,2nd pair
+PHI,LD,5,Yegor Zamula,8481178.0,Egor Zamula,3rd pair
+PHI,D,94.0,Ryan Ellis,8475176.0,Ryan Ellis,IR
+PHI,C,21,Scott Laughton,8476872.0,Scott Laughton,3rd line
+PHI,G,33,Samuel Ersson,8481035.0,Samuel Ersson,Goalie
+PIT,C,,Blake Lizotte,8481481.0,Blake Lizotte,4th line
+PIT,LW,,Kevin Hayes,8475763.0,Kevin Hayes,4th line
+PIT,RW,48,Valtteri Puustinen,8481703.0,Valtteri Puustinen,3rd line
+PIT,C,20,Lars Eller,8474189.0,Lars Eller,3rd line
+PIT,LD,27,Ryan Graves,8477435.0,Ryan Graves,1st pair
+PIT,C,71,Evgeni Malkin,8471215.0,Evgeni Malkin,2nd line
+PIT,RW,67,Rickard Rakell,8476483.0,Rickard Rakell,2nd line
+PIT,LW,,Anthony Beauvillier,8478463.0,Anthony Beauvillier,3rd line
+PIT,RW,55,Noel Acciari,8478569.0,Noel Acciari,4th line
+PIT,LW,8,Michael Bunting,8478047.0,Michael Bunting,2nd line
+PIT,LW,10,Drew O'Connor,8482055.0,Drew O'Connor,1st line
+PIT,F,18.0,Jesse Puljujarvi,8479344.0,Jesse Puljujarvi,Scratch
+PIT,LD,28,Marcus Pettersson,8477969.0,Marcus Pettersson,2nd pair
+PIT,C,87,Sidney Crosby,8471675.0,Sidney Crosby,1st line
+PIT,RW,17,Bryan Rust,8475810.0,Bryan Rust,1st line
+PIT,RD,58,Kris Letang,8471724.0,Kris Letang,1st pair
+PIT,F,83.0,Matt Nieto,8476442.0,Matt Nieto,IR
+PIT,D,5.0,Ryan Shea,8478854.0,Ryan Shea,Scratch
+PIT,D,7.0,John Ludvig,8481206.0,John Ludvig,IR
+PIT,F,,Emil Bemstrom,8480205.0,Emil Bemstrom,Scratch
+PIT,G,39,Alex Nedeljkovic,8477968.0,Alex Nedeljkovic,Goalie
+PIT,G,35,Tristan Jarry,8477465.0,Tristan Jarry,Goalie
+PIT,LD,,Matt Grzelcyk,8476891.0,Matt Grzelcyk,3rd pair
+PIT,RD,65,Erik Karlsson,8474578.0,Erik Karlsson,2nd pair
+SEA,D,,Josh Mahura,8479372.0,Josh Mahura,Scratch
+SEA,F,,Ben Meyers,8483570.0,Ben Meyers,Scratch
+SEA,F,,Mitchell Stephens,8478477.0,Mitchell Stephens,Scratch
+SEA,G,31,Philipp Grubauer,8475831.0,Philipp Grubauer,Goalie
+SEA,G,35,Joey Daccord,8478916.0,Joey Daccord,Goalie
+SEA,RD,3,William Borgen,8478840.0,Will Borgen,3rd pair
+SEA,LD,39,Ryker Evans,8482858.0,Ryker Evans,3rd pair
+SEA,RD,62,Brandon Montour,8477986.0,Brandon Montour,2nd pair
+SEA,RW,95,Andre Burakovsky,8477444.0,Andre Burakovsky,4th line
+SEA,RD,6,Adam Larsson,8476457.0,Adam Larsson,1st pair
+SEA,LD,29,Vince Dunn,8478407.0,Vince Dunn,1st pair
+SEA,C,51,Shane Wright,8483524.0,Shane Wright,4th line
+SEA,LW,13,Brandon Tanev,8479293.0,Brandon Tanev,4th line
+SEA,RW,22,Oliver Bjorkstrand,8477416.0,Oliver Bjorkstrand,3rd line
+SEA,C,37,Yanni Gourde,8476826.0,Yanni Gourde,3rd line
+SEA,LW,52,Tye Kartye,8481789.0,Tye Kartye,3rd line
+SEA,RW,20,Eeli Tolvanen,8480009.0,Eeli Tolvanen,2nd line
+SEA,C,9,Chandler Stephenson,8476905.0,Chandler Stephenson,2nd line
+SEA,LW,17,Jaden Schwartz,8475768.0,Jaden Schwartz,2nd line
+SEA,RW,7,Jordan Eberle,8474586.0,Jordan Eberle,1st line
+SEA,C,10,Matthew Beniers,8482665.0,Matty Beniers,1st line
+SEA,LW,19,Jared McCann,8477955.0,Jared McCann,1st line
+SEA,LD,24,Jamie Oleksiak,8476467.0,Jamie Oleksiak,2nd pair
+SJS,RD,5,Matthew Benning,8476988.0,Matt Benning,3rd pair
+SJS,F,,Carl Grundstrom,8479336.0,Carl Grundstrom,Scratch
+SJS,G,,Vitek Vanecek,8477970.0,Vitek Vanecek,Goalie
+SJS,D,3.0,Henry Thrun,8481567.0,Henry Thrun,Scratch
+SJS,LW,72,William Eklund,8482667.0,William Eklund,1st line
+SJS,C,39,Logan Couture,8474053.0,Logan Couture,1st line
+SJS,RW,20,Fabian Zetterlund,8480188.0,Fabian Zetterlund,1st line
+SJS,LW,17,Thomas Bordeleau,8482133.0,Thomas Bordeleau,2nd line
+SJS,C,71,Macklin Celebrini,,Macklin Celebrini,2nd line
+SJS,RW,,Tyler Toffoli,8475726.0,Tyler Toffoli,2nd line
+SJS,LW,23,Barclay Goodrow,8476624.0,Barclay Goodrow,3rd line
+SJS,G,29,Mackenzie Blackwood,8478406.0,Mackenzie Blackwood,Goalie
+SJS,RW,64,Mikael Granlund,8475798.0,Mikael Granlund,3rd line
+SJS,LW,10,Klim Kostin,8480011.0,Klim Kostin,4th line
+SJS,C,7,Nico Sturm,8481477.0,Nico Sturm,4th line
+SJS,C,,Alexander Wennberg,8477505.0,Alex Wennberg,3rd line
+SJS,LD,38,Mario Ferraro,8479983.0,Mario Ferraro,1st pair
+SJS,RW,11,Luke Kunin,8479316.0,Luke Kunin,4th line
+SJS,LD,44,Marc-Edouard Vlasic,8471709.0,Marc-Edouard Vlasic,3rd pair
+SJS,F,,Ty Dellandrea,8480848.0,Ty Dellandrea,Scratch
+SJS,LD,96,Jake Walman,8478013.0,Jake Walman,2nd pair
+SJS,RD,6,Ty Emberson,8480834.0,Ty Emberson,1st pair
+SJS,RD,84,Jan Rutta,8480172.0,Jan Rutta,2nd pair
+STL,LD,48,Scott Perunovich,8481059.0,Scott Perunovich,1st pair
+STL,RW,70,Oskar Sundqvist,8476897.0,Oskar Sundqvist,4th line
+STL,C,,Radek Faksa,8476889.0,Radek Faksa,4th line
+STL,LW,,Mathieu Joseph,8478472.0,Mathieu Joseph,4th line
+STL,RW,,Kasperi Kapanen,8477953.0,Kasperi Kapanen,3rd line
+STL,C,,Alexandre Texier,8480074.0,Alexandre Texier,3rd line
+STL,C,18,Robert Thomas,8480023.0,Robert Thomas,1st line
+STL,RW,25,Jordan Kyrou,8479385.0,Jordan Kyrou,1st line
+STL,LW,13,Alexey Toropchenko,8480281.0,Alexey Toropchenko,3rd line
+STL,RW,89,Pavel Buchnevich,8477402.0,Pavel Buchnevich,2nd line
+STL,C,10,Brayden Schenn,8475170.0,Brayden Schenn,2nd line
+STL,LW,20,Brandon Saad,8476438.0,Brandon Saad,2nd line
+STL,RD,55,Colton Parayko,8476892.0,Colton Parayko,1st pair
+STL,LW,63,Jake Neighbours,8482089.0,Jake Neighbours,1st line
+STL,LD,47,Torey Krug,8476792.0,Torey Krug,2nd pair
+STL,G,30,Joel Hofer,8480981.0,Joel Hofer,Goalie
+STL,LD,4,Nick Leddy,8475181.0,Nick Leddy,3rd pair
+STL,RD,51,Matthew Kessel,8482516.0,Matthew Kessel,3rd pair
+STL,G,50,Jordan Binnington,8476412.0,Jordan Binnington,Goalie
+STL,F,26.0,Nathan Walker,8477573.0,Nathan Walker,Scratch
+STL,F,59.0,Nikita Alexandrov,8481543.0,Nikita Alexandrov,Scratch
+STL,D,,Pierre-Olivier Joseph,8480058.0,Pierre-Olivier Joseph,Scratch
+STL,RD,72,Justin Faulk,8475753.0,Justin Faulk,2nd pair
+TBL,C,71,Anthony Cirelli,8478519.0,Anthony Cirelli,2nd line
+TBL,RW,23,Michael Eyssimont,8479591.0,Michael Eyssimont,2nd line
+TBL,LW,73,Conor Sheary,8477839.0,Conor Sheary,3rd line
+TBL,C,20,Nicholas Paul,8477426.0,Nicholas Paul,3rd line
+TBL,RW,13,Cam Atkinson,8474715.0,Cam Atkinson,3rd line
+TBL,LW,,Zemgus Girgensons,8476878.0,Zemgus Girgensons,4th line
+TBL,C,11,Luke Glendening,8476822.0,Luke Glendening,4th line
+TBL,RW,41,Mitchell Chaffee,8482070.0,Mitchell Chaffee,4th line
+TBL,RD,81,Erik Cernak,8478416.0,Erik Cernak,2nd pair
+TBL,RD,48,Nick Perbix,8480246.0,Nick Perbix,1st pair
+TBL,LD,,J.J. Moser,8482655.0,J.J. Moser,2nd pair
+TBL,LW,38,Brandon Hagel,8479542.0,Brandon Hagel,2nd line
+TBL,D,78.0,Emil Lilleberg,,Emil Lilleberg,Scratch
+TBL,F,93.0,Gage Goncalves,8482201.0,Gage Goncalves,Scratch
+TBL,F,,Jesse Ylonen,8481058.0,Jesse Ylönen,Scratch
+TBL,G,31,Jonas Johansson,8477992.0,Jonas Johansson,Goalie
+TBL,G,88,Andrei Vasilevskiy,8476883.0,Andrei Vasilevskiy,Goalie
+TBL,LD,77,Victor Hedman,8475167.0,Victor Hedman,1st pair
+TBL,RW,86,Nikita Kucherov,8476453.0,Nikita Kucherov,1st line
+TBL,RD,43,Darren Raddysh,8478178.0,Darren Raddysh,3rd pair
+TBL,LD,27,Ryan McDonagh,8474151.0,Ryan McDonagh,3rd pair
+TBL,C,21,Brayden Point,8478010.0,Brayden Point,1st line
+TBL,LW,59,Jake Guentzel,8477404.0,Jake Guentzel,1st line
+TOR,G,,Anthony Stolarz,8476932.0,Anthony Stolarz,Goalie
+TOR,RD,37,Timothy Liljegren,8480043.0,Timothy Liljegren,2nd pair
+TOR,LD,22,Jake McCabe,8476931.0,Jake McCabe,2nd pair
+TOR,RD,,Christopher Tanev,8475690.0,Chris Tanev,1st pair
+TOR,RD,,Jani Hakanpaa,8475825.0,Jani Hakanpää,3rd pair
+TOR,G,60,Joseph Woll,8479361.0,Joseph Woll,Goalie
+TOR,F,24.0,Connor Dewar,8480980.0,Connor Dewar,Scratch
+TOR,F,46.0,Alex Steeves,8482634.0,Alex Steeves,Scratch
+TOR,D,2.0,Simon Benoit,8481122.0,Simon Benoit,Scratch
+TOR,LD,44,Morgan Rielly,8476853.0,Morgan Rielly,1st pair
+TOR,RW,75,Ryan Reaves,8471817.0,Ryan Reaves,4th line
+TOR,C,64,David Kampf,8480144.0,David Kampf,4th line
+TOR,LW,29,Pontus Holmberg,8480995.0,Pontus Holmberg,4th line
+TOR,RW,19,Calle Jarnkrok,8475714.0,Calle Jarnkrok,3rd line
+TOR,C,11,Max Domi,8477503.0,Max Domi,3rd line
+TOR,LW,89,Nicholas Robertson,8481582.0,Nicholas Robertson,3rd line
+TOR,RW,88,William Nylander,8477939.0,William Nylander,2nd line
+TOR,C,91,John Tavares,8475166.0,John Tavares,2nd line
+TOR,LW,74,Bobby McMann,8482259.0,Bobby McMann,2nd line
+TOR,RW,16,Mitchell Marner,8478483.0,Mitch Marner,1st line
+TOR,C,34,Auston Matthews,8479318.0,Auston Matthews,1st line
+TOR,LW,23,Matthew Knies,8482720.0,Matthew Knies,1st line
+TOR,LD,,Oliver Ekman-Larsson,8475171.0,Oliver Ekman-Larsson,3rd pair
+UTA,LW,67,Lawson Crouse,8478474.0,Lawson Crouse,2nd line
+UTA,RW,8,Nick Schmaltz,8477951.0,Nick Schmaltz,1st line
+UTA,C,17,Nick Bjugstad,8475760.0,Nick Bjugstad,1st line
+UTA,LW,9,Clayton Keller,8479343.0,Clayton Keller,1st line
+UTA,RD,5,Michael Kesselring,8480891.0,Michael Kesselring,3rd pair
+UTA,G,39,Connor Ingram,8478971.0,Connor Ingram,Goalie
+UTA,RD,,John Marino,8478507.0,John Marino,1st pair
+UTA,C,92,Logan Cooley,8483431.0,Logan Cooley,3rd line
+UTA,RW,91,Josh Doan,8482659.0,Josh Doan,3rd line
+UTA,LW,53,Michael Carcone,8479619.0,Michael Carcone,4th line
+UTA,C,,Kevin Stenlund,8478831.0,Kevin Stenlund,4th line
+UTA,RW,15,Alexander Kerfoot,8477021.0,Alex Kerfoot,4th line
+UTA,LD,,Mikhail Sergachev,8479410.0,Mikhail Sergachev,1st pair
+UTA,C,29,Barrett Hayton,8480849.0,Barrett Hayton,2nd line
+UTA,LD,,Ian Cole,8474013.0,Ian Cole,2nd pair
+UTA,RD,50,Sean Durzi,8480434.0,Sean Durzi,2nd pair
+UTA,LD,4,Juuso Valimaki,8479976.0,Juuso Valimaki,3rd pair
+UTA,D,,Shea Weber,8470642.0,Shea Weber,IR
+UTA,D,,Kevin Connauton,8475246.0,Kevin Connauton,Scratch
+UTA,F,38.0,Liam O'Brien,8477070.0,Liam O'Brien,Scratch
+UTA,F,22.0,Jack McBain,8480855.0,Jack McBain,Scratch
+UTA,G,70,Karel Vejmelka,8478872.0,Karel Vejmelka,Goalie
+UTA,LW,63,Matias Maccelli,8481711.0,Matias Maccelli,3rd line
+UTA,RW,11,Dylan Guenther,8482699.0,Dylan Guenther,2nd line
+VAN,RD,,Vincent Desharnais,8479576.0,Vincent Desharnais,3rd pair
+VAN,D,5.0,Tucker Poolman,8477359.0,Tucker Poolman,IR
+VAN,D,47.0,Noah Juulsen,8478454.0,Noah Juulsen,Scratch
+VAN,F,34.0,Phillip Di Giuseppe,8476858.0,Phillip Di Giuseppe,Scratch
+VAN,LD,,Derek Forbort,8475762.0,Derek Forbort,3rd pair
+VAN,RD,57,Tyler Myers,8474574.0,Tyler Myers,2nd pair
+VAN,LD,7,Carson Soucy,8477369.0,Carson Soucy,2nd pair
+VAN,G,31,Arturs Silovs,8481668.0,Arturs Silovs,Goalie
+VAN,LD,43,Quinn Hughes,8480800.0,Quinn Hughes,1st pair
+VAN,RW,,Kiefer Sherwood,8480748.0,Kiefer Sherwood,4th line
+VAN,C,88,Nils Aman,8482496.0,Nils Aman,4th line
+VAN,LW,,Danton Heinen,8478046.0,Danton Heinen,4th line
+VAN,G,35,Thatcher Demko,8477967.0,Thatcher Demko,Goalie
+VAN,RW,8,Conor Garland,8478856.0,Conor Garland,3rd line
+VAN,LW,81,Dakota Joshua,8478057.0,Dakota Joshua,3rd line
+VAN,RW,21,Nils Hoglander,8481535.0,Nils Hoglander,2nd line
+VAN,C,40,Elias Pettersson,8480012.0,Elias Pettersson,2nd line
+VAN,LW,24,Pius Suter,8480459.0,Pius Suter,2nd line
+VAN,RW,6,Brock Boeser,8478444.0,Brock Boeser,1st line
+VAN,C,9,J.T. Miller,8476468.0,J.T. Miller,1st line
+VAN,LW,,Jake DeBrusk,8478498.0,Jake DeBrusk,1st line
+VAN,F,92.0,Vasily Podkolzin,8481617.0,Vasily Podkolzin,Scratch
+VAN,C,53,Teddy Blueger,8476927.0,Teddy Blueger,3rd line
+VAN,RD,17,Filip Hronek,8479425.0,Filip Hronek,1st pair
+VGK,RD,2,Zach Whitecloud,8480727.0,Zach Whitecloud,3rd pair
+VGK,C,9,Jack Eichel,8478403.0,Jack Eichel,1st line
+VGK,LD,14,Nicolas Hague,8479980.0,Nicolas Hague,3rd pair
+VGK,RW,61,Mark Stone,8475913.0,Mark Stone,1st line
+VGK,LW,16,Pavel Dorofeyev,8481604.0,Pavel Dorofeyev,2nd line
+VGK,C,48,Tomas Hertl,8476881.0,Tomas Hertl,2nd line
+VGK,RW,,Alexander Holtz,8482125.0,Alexander Holtz,2nd line
+VGK,LW,49,Ivan Barbashev,8477964.0,Ivan Barbashev,1st line
+VGK,C,71,William Karlsson,8476448.0,William Karlsson,3rd line
+VGK,RW,19,Brendan Brisson,8482153.0,Brendan Brisson,3rd line
+VGK,LW,21,Brett Howden,8479353.0,Brett Howden,4th line
+VGK,C,10,Nicolas Roy,8478462.0,Nicolas Roy,4th line
+VGK,LW,,Victor Olofsson,8478109.0,Victor Olofsson,3rd line
+VGK,LD,15,Noah Hanifin,8478396.0,Noah Hanifin,1st pair
+VGK,RD,7,Alex Pietrangelo,8474565.0,Alex Pietrangelo,1st pair
+VGK,LD,3,Brayden McNabb,8475188.0,Brayden McNabb,2nd pair
+VGK,RD,27,Shea Theodore,8477447.0,Shea Theodore,2nd pair
+VGK,G,90.0,Robin Lehner,8475215.0,Robin Lehner,IR
+VGK,D,17.0,Ben Hutton,8477018.0,Ben Hutton,Scratch
+VGK,F,11.0,Mason Morelli,8481462.0,Mason Morelli,Scratch
+VGK,F,46.0,Jonas Rondbjerg,8480007.0,Jonas Rondbjerg,Scratch
+VGK,G,,Ilya Samsonov,8478492.0,Ilya Samsonov,Goalie
+VGK,G,33,Adin Hill,8478499.0,Adin Hill,Goalie
+VGK,RW,55,Keegan Kolesar,8478434.0,Keegan Kolesar,4th line
+WPG,C,19,David Gustafsson,8481019.0,David Gustafsson,4th line
+WPG,LW,36,Morgan Barron,8480289.0,Morgan Barron,4th line
+WPG,RW,22,Mason Appleton,8478891.0,Mason Appleton,3rd line
+WPG,C,17,Adam Lowry,8476392.0,Adam Lowry,3rd line
+WPG,RW,13,Gabriel Vilardi,8480014.0,Gabriel Vilardi,1st line
+WPG,RW,27,Nikolaj Ehlers,8477940.0,Nikolaj Ehlers,2nd line
+WPG,C,7,Vladislav Namestnikov,8476480.0,Vladislav Namestnikov,2nd line
+WPG,LW,91,Cole Perfetti,8482149.0,Cole Perfetti,2nd line
+WPG,LW,62,Nino Niederreiter,8475799.0,Nino Niederreiter,3rd line
+WPG,LD,44,Joshua Morrissey,8477504.0,Josh Morrissey,1st pair
+WPG,RW,9,Alex Iafallo,8480113.0,Alex Iafallo,4th line
+WPG,LD,54,Dylan Samberg,8480049.0,Dylan Samberg,2nd pair
+WPG,RD,4,Neal Pionk,8480145.0,Neal Pionk,2nd pair
+WPG,LD,14,Ville Heinola,8481572.0,Ville Heinola,3rd pair
+WPG,RD,6,Colin Miller,8476525.0,Colin Miller,3rd pair
+WPG,G,37,Connor Hellebuyck,8476945.0,Connor Hellebuyck,Goalie
+WPG,G,,Kaapo Kahkonen,8478039.0,Kaapo Kahkonen,Goalie
+WPG,F,15.0,Rasmus Kupari,8480845.0,Rasmus Kupari,Scratch
+WPG,F,,Jaret Anderson-Dolan,8479994.0,Jaret Anderson-Dolan,Scratch
+WPG,D,64.0,Logan Stanley,8479378.0,Logan Stanley,Scratch
+WPG,C,55,Mark Scheifele,8476460.0,Mark Scheifele,1st line
+WPG,RD,2,Dylan DeMelo,8476331.0,Dylan DeMelo,1st pair
+WPG,LW,81,Kyle Connor,8478398.0,Kyle Connor,1st line
+WSH,C,17,Dylan Strome,8478440.0,Dylan Strome,1st line
+WSH,F,19,Nicklas Backstrom,8473563.0,Nicklas Backstrom,IR
+WSH,RW,43,Tom Wilson,8476880.0,Tom Wilson,1st line
+WSH,LW,88,Andrew Mangiapane,8478233.0,Andrew Mangiapane,2nd line
+WSH,C,80,Pierre-Luc Dubois,8479400.0,Pierre-Luc Dubois,2nd line
+WSH,RW,77,T.J. Oshie,8471698.0,T.J. Oshie,2nd line
+WSH,LW,24,Connor McMichael,8481580.0,Connor McMichael,3rd line
+WSH,C,29,Hendrix Lapierre,8482148.0,Hendrix Lapierre,3rd line
+WSH,RW,21,Aliaksei Protas,8481656.0,Aliaksei Protas,3rd line
+WSH,LW,15,Sonny Milano,8477947.0,Sonny Milano,4th line
+WSH,C,26,Nic Dowd,8475343.0,Nic Dowd,4th line
+WSH,LW,8,Alex Ovechkin,8471214.0,Alex Ovechkin,1st line
+WSH,RW,,Brandon Duhaime,8479520.0,Brandon Duhaime,4th line
+WSH,RD,74,John Carlson,8474590.0,John Carlson,1st pair
+WSH,LD,38,Rasmus Sandin,8480873.0,Rasmus Sandin,2nd pair
+WSH,RD,,Matt Roy,8478911.0,Matt Roy,2nd pair
+WSH,LD,42,Martin Fehervary,8480796.0,Martin Fehervary,3rd pair
+WSH,RD,57,Trevor van Riemsdyk,8477845.0,Trevor van Riemsdyk,3rd pair
+WSH,G,79,Charlie Lindgren,8479292.0,Charlie Lindgren,Goalie
+WSH,G,48,Logan Thompson,8480313.0,Logan Thompson,Goalie
+WSH,F,,Taylor Raddysh,8479390.0,Taylor Raddysh,Scratch
+WSH,F,23.0,Michael Sgarbossa,8475958.0,Michael Sgarbossa,Scratch
+WSH,LD,,Jakob Chychrun,8479345.0,Jakob Chychrun,1st pair
+WSH,D,25.0,Ethan Bear,8478451.0,Ethan Bear,Scratch
